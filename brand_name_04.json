@@ -1,0 +1,703 @@
+[
+    
+  {
+    "name": "Advel",
+    "strength": "200 mg",
+    "generic": "Ibuprofen",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/11261/advel-200-mg-tablet"
+  },
+  {
+    "name": "Advixa",
+    "strength": "40 mg/0.8 ml",
+    "generic": "Adalimumab",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17307/advixa-40-mg-injection"
+  },
+  {
+    "name": "Adze",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/248/adze-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Aegis",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "C2C Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/37102/aegis-200-mg-capsule"
+  },
+  {
+    "name": "Aenixit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Albion Laboratories Limited",
+    "source_url": "https://medex.com.bd/brands/33301/aenixit-05-mg-tablet"
+  },
+  {
+    "name": "Aerodyl",
+    "strength": "10 mg",
+    "generic": "Bambuterol Hydrochloride",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/3605/aerodyl-10-mg-tablet"
+  },
+  {
+    "name": "Aerofen",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/3709/aerofen-1-mg-tablet"
+  },
+  {
+    "name": "Aeron",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/3761/aeron-10-mg-tablet"
+  },
+  {
+    "name": "Aeron FT",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/3759/aeron-ft-4-mg-tablet"
+  },
+  {
+    "name": "Aeronid",
+    "strength": "200 mcg/puff",
+    "generic": "Budesonide (Inhaler)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/3875/aeronid-200-mcg-inhaler"
+  },
+  {
+    "name": "Aeropac",
+    "strength": "67 mg/ml",
+    "generic": "Simethicone",
+    "company": "Amico Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/1297/aeropac-67-mg-pediatric-drop"
+  },
+  {
+    "name": "Aerophin",
+    "strength": "11.25 mg/0.5 ml",
+    "generic": "Racepinephrine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30123/aerophin-1125-mg-respirator-solution"
+  },
+  {
+    "name": "Aerovil",
+    "strength": "15 mg/5 ml",
+    "generic": "Pheniramine Maleate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/28863/aerovil-15-mg-syrup"
+  },
+  {
+    "name": "Aexidal",
+    "strength": "50 mg",
+    "generic": "Mebhydrolin Napadisylate",
+    "company": "Albion Laboratories Limited",
+    "source_url": "https://medex.com.bd/brands/33302/aexidal-50-mg-tablet"
+  },
+  {
+    "name": "Afalino",
+    "strength": "12.5 mg",
+    "generic": "Cenobamate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/35449/afalino-125-mg-tablet"
+  },
+  {
+    "name": "Afatin",
+    "strength": "40 mg",
+    "generic": "Afatinib Dimaleate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/31295/afatin-40-mg-tablet"
+  },
+  {
+    "name": "Afexa",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/29422/afexa-120-mg-tablet"
+  },
+  {
+    "name": "Afinitor",
+    "strength": "10 mg",
+    "generic": "Everolimus",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "source_url": "https://medex.com.bd/brands/26672/afinitor-10-mg-tablet"
+  },
+  {
+    "name": "Afix",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/7463/afix-200-mg-capsule"
+  },
+  {
+    "name": "Afix DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/7466/afix-ds-200-mg-suspension"
+  },
+  {
+    "name": "Afixime",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Asiatic Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/7467/afixime-200-mg-capsule"
+  },
+  {
+    "name": "Afluzole",
+    "strength": "50 mg/5 ml",
+    "generic": "Fluconazole",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/28035/afluzole-50-mg-suspension"
+  },
+  {
+    "name": "AFM",
+    "strength": "0.1%",
+    "generic": "Fluorometholone Acetate",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/15872/afm-01-suspension"
+  },
+  {
+    "name": "AFM-Plus",
+    "strength": "0.1%+0.3%",
+    "generic": "Fluorometholone + Gentamicin",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/15886/afm-plus-01-03-eye-ointment"
+  },
+  {
+    "name": "AFM-T",
+    "strength": "0.1%+0.025%",
+    "generic": "Fluorometholone + Tetrahydrozoline",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/15889/afm-t-01-0025-eye-drop"
+  },
+  {
+    "name": "Afrin",
+    "strength": "0.025%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/16266/afrin-0025-nasal-drop"
+  },
+  {
+    "name": "Afun",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/12381/afun-1-cream"
+  },
+  {
+    "name": "Afun VT",
+    "strength": "200 mg",
+    "generic": "Clotrimazole (Vaginal tablet)",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/12408/afun-vt-200-mg-vaginal-tablet"
+  },
+  {
+    "name": "Afuvin",
+    "strength": "500 mg",
+    "generic": "Griseofulvin [Microsize]",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/28011/afuvin-500-mg-tablet"
+  },
+  {
+    "name": "Age M",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/14009/age-m-6-mg-tablet"
+  },
+  {
+    "name": "Age Plus",
+    "strength": null,
+    "generic": "Super antioxidant [vitamins & minerals]",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/14721/age-plus-tablet"
+  },
+  {
+    "name": "Agedefy",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/14008/agedefy-6-mg-tablet"
+  },
+  {
+    "name": "Aggra",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/5998/aggra-50-mg-tablet"
+  },
+  {
+    "name": "Aggreno",
+    "strength": "25 mg+200 mg",
+    "generic": "Aspirin + Dipyridamole",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17938/aggreno-25-mg-capsule"
+  },
+  {
+    "name": "Aglip",
+    "strength": "12.5 mg",
+    "generic": "Alogliptin Benzoate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30988/aglip-125-mg-tablet"
+  },
+  {
+    "name": "Agonil",
+    "strength": "10%",
+    "generic": "Diethylamine Salicylate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36751/agonil-10-cream"
+  },
+  {
+    "name": "Agorest",
+    "strength": "25 mg",
+    "generic": "Agomelatine",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/31997/agorest-25-mg-tablet"
+  },
+  {
+    "name": "Agotin",
+    "strength": "25 mg",
+    "generic": "Agomelatine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/413/agotin-25-mg-tablet"
+  },
+  {
+    "name": "Agoxin",
+    "strength": "0.25 mg",
+    "generic": "Digoxin",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/2453/agoxin-025-mg-tablet"
+  },
+  {
+    "name": "AH",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/25460/ah-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Aid",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/27401/aid-50-mg-tablet"
+  },
+  {
+    "name": "Aid SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/27433/aid-sr-100-mg-tablet"
+  },
+  {
+    "name": "Aid TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/27400/aid-tr-100-mg-capsule"
+  },
+  {
+    "name": "Aircast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "National Drug Co. Ltd.",
+    "source_url": "https://medex.com.bd/brands/37838/aircast-10-mg-tablet"
+  },
+  {
+    "name": "Aire",
+    "strength": "1 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Delta Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/27758/aire-1-mg-tablet"
+  },
+  {
+    "name": "AirFlow",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32793/airflow-10-mg-tablet"
+  },
+  {
+    "name": "Airfors",
+    "strength": "(90 mcg+80 mcg)/puff",
+    "generic": "Salbutamol + Budesonide",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/36431/airfors-90-mcg-inhaler"
+  },
+  {
+    "name": "Airmont",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/33582/airmont-10-mg-tablet"
+  },
+  {
+    "name": "Airnaaf",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Naafco Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/21316/airnaaf-1-mg-syrup"
+  },
+  {
+    "name": "Airpro",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30889/airpro-1-mg-syrup"
+  },
+  {
+    "name": "Airup",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Pharmasia Limited",
+    "source_url": "https://medex.com.bd/brands/3804/airup-10-mg-tablet"
+  },
+  {
+    "name": "Airway",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "One Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/22627/airway-5-mg-tablet"
+  },
+  {
+    "name": "Ajardy",
+    "strength": "10 mg",
+    "generic": "Empagliflozin",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30904/ajardy-10-mg-tablet"
+  },
+  {
+    "name": "Ajardy M",
+    "strength": "5 mg+500 mg",
+    "generic": "Empagliflozin + Metformin Hydrochloride",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30906/ajardy-m-5-mg-tablet"
+  },
+  {
+    "name": "Ajuben",
+    "strength": "6 mg",
+    "generic": "Deutetrabenazine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/33446/ajuben-6-mg-tablet"
+  },
+  {
+    "name": "Ajwa",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/34763/ajwa-10-mg-tablet"
+  },
+  {
+    "name": "Akarvia",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/28327/akarvia-200-mg-tablet"
+  },
+  {
+    "name": "Akicin",
+    "strength": "500 mg/2 ml",
+    "generic": "Amikacin",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/574/akicin-500-mg-injection"
+  },
+  {
+    "name": "Aknill",
+    "strength": "0.05%",
+    "generic": "Isotretinoin (Topical)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/21153/aknill-005-topical-gel"
+  },
+  {
+    "name": "Akno",
+    "strength": "10 mg",
+    "generic": "Isotretinoin (Oral)",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/33867/akno-10-mg-capsule"
+  },
+  {
+    "name": "Aktivex",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "OSL Pharma Limited",
+    "source_url": "https://medex.com.bd/brands/22755/aktivex-500-mg-tablet"
+  },
+  {
+    "name": "AL-D3",
+    "strength": "20000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Albion Laboratories Limited",
+    "source_url": "https://medex.com.bd/brands/33314/al-d3-20000-iu-capsule"
+  },
+  {
+    "name": "AL-DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/250/al-ds-400-mg-chewable-tablet"
+  },
+  {
+    "name": "ALA",
+    "strength": "500 mg",
+    "generic": "Alpha Lipoic Acid",
+    "company": "Total Herbal & Nutraceuticals",
+    "source_url": "https://medex.com.bd/brands/33695/ala-500-mg-capsule"
+  },
+  {
+    "name": "Alaclov",
+    "strength": "500 mg",
+    "generic": "Valacyclovir",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/9715/alaclov-500-mg-tablet"
+  },
+  {
+    "name": "Alacot",
+    "strength": "0.1%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/15972/alacot-01-eye-drop"
+  },
+  {
+    "name": "Alacot DS",
+    "strength": "0.2%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/15973/alacot-ds-02-eye-drop"
+  },
+  {
+    "name": "Alacot Max",
+    "strength": "0.7%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/27495/alacot-max-07-eye-drop"
+  },
+  {
+    "name": "Aladay",
+    "strength": "0.1%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15974/aladay-01-eye-drop"
+  },
+  {
+    "name": "Aladay DS",
+    "strength": "0.2%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15975/aladay-ds-02-eye-drop"
+  },
+  {
+    "name": "Aladay Max",
+    "strength": "0.7%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/29404/aladay-max-07-eye-drop"
+  },
+  {
+    "name": "Aladin",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/34731/aladin-10-mg-tablet"
+  },
+  {
+    "name": "Alafix",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Jenphar Bangladesh Ltd.",
+    "source_url": "https://medex.com.bd/brands/36130/alafix-1-mg-syrup"
+  },
+  {
+    "name": "Alafree",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/12055/alafree-120-mg-tablet"
+  },
+  {
+    "name": "Alagra",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Alco Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/12059/alagra-120-mg-tablet"
+  },
+  {
+    "name": "Alanil",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/12062/alanil-120-mg-tablet"
+  },
+  {
+    "name": "Alaradate",
+    "strength": "10 mg",
+    "generic": "Methylphenidate Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/37864/alaradate-10-mg-tablet"
+  },
+  {
+    "name": "Alargol",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Ethical Drugs Limited",
+    "source_url": "https://medex.com.bd/brands/19143/alargol-5-mg-syrup"
+  },
+  {
+    "name": "Alarid",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/3711/alarid-1-mg-tablet"
+  },
+  {
+    "name": "Alaron",
+    "strength": "10 mg",
+    "generic": "Loratadine",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/12185/alaron-10-mg-tablet"
+  },
+  {
+    "name": "Alartn",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Alkad Laboratories",
+    "source_url": "https://medex.com.bd/brands/19129/alartn-5-mg-syrup"
+  },
+  {
+    "name": "Alarup",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/12905/alarup-10-mg-tablet"
+  },
+  {
+    "name": "Alarzil",
+    "strength": "22.7 mg",
+    "generic": "Pheniramine Maleate",
+    "company": "Pharmik Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/37635/alarzil-227-mg-tablet"
+  },
+  {
+    "name": "Alat",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/12008/alat-10-mg-tablet"
+  },
+  {
+    "name": "Alater",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Bengal drugs Ltd.",
+    "source_url": "https://medex.com.bd/brands/12014/alater-10-mg-tablet"
+  },
+  {
+    "name": "Alatin",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/11913/alatin-10-mg-tablet"
+  },
+  {
+    "name": "Alatrol",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/11914/alatrol-10-mg-tablet"
+  },
+  {
+    "name": "Alaxen",
+    "strength": "0.25 mg",
+    "generic": "Alprazolam",
+    "company": "United Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17498/alaxen-025-mg-tablet"
+  },
+  {
+    "name": "Alba",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/252/alba-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Albafen",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Allied Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/18066/albafen-10-mg-tablet"
+  },
+  {
+    "name": "Albamax DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/253/albamax-ds-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Albaplex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/13873/albaplex-5-mg-syrup"
+  },
+  {
+    "name": "Albasine",
+    "strength": "30 mg+10 mg",
+    "generic": "Almitrine Bismesylate + Raubasine",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/442/albasine-30-mg-tablet"
+  },
+  {
+    "name": "Albatab",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/13874/albatab-5-mg-tablet"
+  },
+  {
+    "name": "Albazol DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Central Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/254/albazol-ds-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Alben",
+    "strength": "200 mg/5 ml",
+    "generic": "Albendazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/255/alben-200-mg-suspension"
+  },
+  {
+    "name": "Alben-DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/256/alben-ds-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Albenda DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/257/albenda-ds-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Albendol",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/260/albendol-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Albendox",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Indo Bangla Pharmaceutical",
+    "source_url": "https://medex.com.bd/brands/262/albendox-400-mg-chewable-tablet"
+  }
+]

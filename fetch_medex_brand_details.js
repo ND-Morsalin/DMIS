@@ -79,117 +79,189 @@ function textOrNull($el) {
 }
 
 /** Given brand page HTML, parse fields according to your provided structure */
-// replace your parseBrandDetail(...) with this function
+// REPLACE your parseBrandDetail(...) with this function
+
+// Replace your parseBrandDetail(...) with this function
+
 function parseBrandDetail(html, pageUrl) {
   const $ = cheerio.load(html);
 
-  // Helpers (reuse existing textOrNull if present)
-  function textOrNullLocal($el) {
+  function normText($el) {
     if (!$el || $el.length === 0) return null;
-    // normalize NBSP and trim
-    const t = $el.text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
-    return t === "" ? null : t;
+    return $el.text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim() || null;
   }
 
-  // Name & dosage form
-  let name = textOrNullLocal($("h1.page-heading-1-l.brand").first());
+  // Header: name / dosage_form
+  let name = normText($("h1.page-heading-1-l.brand").first());
   if (name) {
-    const subtitle = textOrNullLocal($("h1.page-heading-1-l.brand small.h1-subtitle"));
+    const subtitle = normText($("h1.page-heading-1-l.brand small.h1-subtitle"));
     if (subtitle) name = name.replace(subtitle, "").trim();
   } else {
-    name = textOrNullLocal($(".brand").first()) || null;
+    name = normText($(".brand").first());
   }
-  const dosage_form = textOrNullLocal($("h1.page-heading-1-l.brand small.h1-subtitle").first());
+  const dosage_form = normText($("h1.page-heading-1-l.brand small.h1-subtitle").first());
 
-  // Generic, Strength, Company (same as before)
-  const generic = textOrNullLocal($("div[title='Generic Name'] a").first()) || textOrNullLocal($("div[title='Generic Name']").first());
-  const strength = textOrNullLocal($("div[title='Strength']").first()) || null;
+  // Generic / strength / company
+  const generic = normText($("div[title='Generic Name'] a").first()) || normText($("div[title='Generic Name']").first());
+  const strength = normText($("div[title='Strength']").first()) || null;
 
-  let company = textOrNullLocal($("div[title='Manufactured by'] a").first());
+  let company = normText($("div[title='Manufactured by'] a").first());
   if (!company) {
     const manuDiv = $("div[title='Manufactured by']").first();
     if (manuDiv && manuDiv.length) {
       const anchor = manuDiv.find("a").first();
-      if (anchor && anchor.length) company = textOrNullLocal(anchor);
-      else {
-        const directText = manuDiv.clone().children().remove().end().text().replace(/\u00A0/g, " ").trim();
-        company = directText || null;
-      }
+      company = anchor && anchor.length ? normText(anchor) : manuDiv.clone().children().remove().end().text().replace(/\u00A0/g, " ").trim() || null;
     }
   }
 
-  // Pack image
+  // pack image (if present)
   let pack_image = null;
-  const mpImg = $(".mp-trigger img").first();
+  const mpImg = $(".mp-trigger img, .img-defer").first();
   if (mpImg && mpImg.length) {
     pack_image = mpImg.attr("src") || mpImg.attr("data-src") || null;
-    if (pack_image && !pack_image.startsWith("http")) pack_image = ORIGIN + pack_image;
-  } else {
-    const imgDefer = $(".img-defer").first();
-    if (imgDefer && imgDefer.length) pack_image = imgDefer.attr("src") || imgDefer.attr("data-src") || null;
+    if (pack_image && !pack_image.startsWith("http")) pack_image = (pack_image.startsWith("/") ? "" : "") + pack_image;
   }
 
-  // Pricing (same approach as before)
-  let unit_price = null, strip_price = null, pack_size_info = null;
-  $(".packages-wrapper .package-container").each((i, el) => {
-    const $pc = $(el);
-    const txt = $pc.text().replace(/\s+/g, " ").trim();
-    const upMatch = txt.match(/Unit Price:\s*([৳\d\.,]+)/i);
-    if (upMatch && upMatch[1]) unit_price = upMatch[1].trim();
-    const spMatch = txt.match(/Strip Price:\s*([৳\d\.,]+)/i);
-    if (spMatch && spMatch[1]) strip_price = spMatch[1].trim();
-    const psi = $pc.find(".pack-size-info").first();
-    if (psi && psi.length) pack_size_info = psi.text().trim();
-    if (!pack_size_info) {
-      const psiMatch = txt.match(/\(([^)]+x[^)]+)\)/i);
-      if (psiMatch && psiMatch[1]) pack_size_info = psiMatch[0];
+  // pricing
+  // ---------- Pricing parsing (replace existing pricing logic) ----------
+function cleanText($el) {
+  if (!$el || $el.length === 0) return null;
+  return $el.text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim() || null;
+}
+
+const packageEntries = [];
+$(".packages-wrapper .package-container").each((i, el) => {
+  const $pc = $(el);
+
+  // pack-size-info if present within this package-container
+  const psiEl = $pc.find(".pack-size-info").first();
+  const psiText = cleanText(psiEl);
+
+  // Direct child spans (exclude pack-size-info span)
+  const directSpans = $pc.children("span").not(".pack-size-info").toArray();
+  if (directSpans.length >= 2) {
+    // typical case: <span>Label:</span><span>৳ 2.25</span>
+    const label = cleanText($(directSpans[0]))?.replace(/:$/, "") || null;
+    const price = cleanText($(directSpans[1])) || null;
+    packageEntries.push({ label, price, pack_size_info: psiText });
+  } else if (directSpans.length === 1) {
+    // sometimes only a label span is direct; price may be in a nested div
+    const label = cleanText($(directSpans[0]))?.replace(/:$/, "") || null;
+    // look for nested div span value (e.g., strip price inside <div><span>Strip Price:</span><span>৳ 22.50</span></div>)
+    const nestedValueSpan = $pc.find("div span").last();
+    const price = cleanText(nestedValueSpan) || null;
+    packageEntries.push({ label, price, pack_size_info: psiText });
+  }
+
+  // Also capture any nested div blocks that contain their own label & value spans
+  $pc.children("div").each((j, d) => {
+    const $d = $(d);
+    const spans = $d.find("span").toArray();
+    if (spans.length >= 2) {
+      const label = cleanText($(spans[0]))?.replace(/:$/, "") || null;
+      const price = cleanText($(spans[1])) || null;
+      // pack-size-info rarely lives inside nested divs; keep null here to avoid duplication
+      packageEntries.push({ label, price, pack_size_info: null });
     }
   });
+});
 
-  // Also available & alternate brands link (unchanged)
+// Normalize/dedupe packageEntries (keep order)
+const seenPK = new Set();
+const packages = [];
+for (const p of packageEntries) {
+  const key = (p.label || "") + "||" + (p.price || "");
+  if (!seenPK.has(key)) {
+    seenPK.add(key);
+    packages.push(p);
+  }
+}
+
+// Derive unit_price, strip_price and pack_size_info with fallbacks
+let unit_price = null, strip_price = null, pack_size_info = null;
+for (const p of packages) {
+  const lab = (p.label || "").toLowerCase();
+  if (!unit_price && /unit price/i.test(p.label)) unit_price = p.price;
+  if (!strip_price && /strip price/i.test(p.label)) strip_price = p.price;
+  if (!pack_size_info && p.pack_size_info) pack_size_info = p.pack_size_info;
+}
+// fallback: if no explicit Unit Price found, prefer the first package price
+if (!unit_price && packages.length > 0) unit_price = packages[0].price || null;
+// fallback pack_size_info from first package entry if still missing
+if (!pack_size_info && packages.length > 0) pack_size_info = packages[0].pack_size_info || null;
+
+// Final pricing object
+const pricing = {
+  unit_price: unit_price || null,
+  strip_price: strip_price || null,
+  pack_size_info: pack_size_info || null,
+  packages // array of all packages found for this brand page
+};
+// ----------------------------------------------------------------------
+
+
+  // flags (.sp-flag)
+  const flags = [];
+  $(".sp-flag").each((i, el) => {
+    const $el = $(el);
+    const label = normText($el.find("> div").first());
+    // note is often in second div
+    const note = normText($el.find("> div").eq(1));
+    flags.push({ label, note });
+  });
+
+  // also_available and alternate brands
   const also_available = [];
   $(".btn-sibling-brands").each((i, a) => {
-    const $a = $(a);
     also_available.push({
-      text: textOrNullLocal($a),
-      href: $a.attr("href") ? ($a.attr("href").startsWith("http") ? $a.attr("href") : ORIGIN + $a.attr("href")) : null
+      text: normText($(a)),
+      href: $(a).attr("href") ? ( $(a).attr("href").startsWith("http") ? $(a).attr("href") : ORIGIN + $(a).attr("href") ) : null
     });
   });
   const alternate_brands_link = $("a.btn-teal.prsinf-btn[href*='/brand-names']").attr("href");
   const alternate_brands_url = alternate_brands_link ? (alternate_brands_link.startsWith("http") ? alternate_brands_link : ORIGIN + alternate_brands_link) : null;
 
-  // Extract ordinary sections text (indications, interaction, etc.)
-  const sectionIds = [
-    "indications","mode_of_action","dosage","interaction","contraindications",
-    "side_effects","pregnancy_cat","precautions","pediatric_uses",
-    "overdose_effects","drug_classes","storage_conditions","compound_summary","commonly_asked_questions"
-  ];
+  // sections (general textual extraction)
+  const sectionIds = ["indications","mode_of_action","dosage","interaction","contraindications",
+    "side_effects","pregnancy_cat","precautions","pediatric_uses","overdose_effects",
+    "drug_classes","storage_conditions","compound_summary","description","administration"];
   const sections = {};
   for (const id of sectionIds) {
     const $marker = $(`#${id}`);
-    let text = null;
     if ($marker && $marker.length) {
-      let $body = $marker.nextAll(".ac-body").first();
-      if (!$body || $body.length === 0) $body = $marker.parent().find(".ac-body").first();
-      text = textOrNullLocal($body);
+      // prefer full-str block in 'indications' if present
+      if (id === "indications" && $marker.parent().find(".full-str").length) {
+        sections[id] = normText($marker.parent().find(".full-str").first());
+      } else {
+        let $body = $marker.nextAll(".ac-body").first();
+        if (!$body || $body.length === 0) $body = $marker.parent().find(".ac-body").first();
+        const t = normText($body);
+        if (t) sections[id] = t;
+      }
     }
-    if (text) sections[id] = text;
   }
 
-  // Common questions as before
+  // commonly asked questions -> array of {question, answer}
   const common_questions = [];
   $("#commonly_asked_questions .caq").each((i, el) => {
-    const $el = $(el);
-    const q = textOrNullLocal($el.find(".caq-q"));
-    const a = textOrNullLocal($el.find(".caq-a"));
-    if (q || a) common_questions.push({ q, a });
+    const q = normText($(el).find(".caq-q"));
+    const a = normText($(el).find(".caq-a"));
+    if (q || a) common_questions.push({ question: q, answer: a });
   });
+  // fallback if different structure
+  if (common_questions.length === 0) {
+    $("#commonly_asked_questions .ac-body .caq").each((i, el) => {
+      const q = normText($(el).find(".caq-q"));
+      const a = normText($(el).find(".caq-a"));
+      if (q || a) common_questions.push({ question: q, answer: a });
+    });
+  }
 
-  // Compound summary parsing (same as before)
+  // compound summary parse (table or plain)
   const compound = {};
-  const $compoundTable = $("#compound_summary .ac-body table").first();
-  if ($compoundTable && $compoundTable.length) {
-    $compoundTable.find("tr").each((i, tr) => {
+  const $compTable = $("#compound_summary .ac-body table").first();
+  if ($compTable && $compTable.length) {
+    $compTable.find("tr").each((i, tr) => {
       const $tds = $(tr).find("td");
       if ($tds.length >= 2) {
         const key = $tds.eq(0).text().replace(/[:\s]+$/,"").trim();
@@ -200,98 +272,135 @@ function parseBrandDetail(html, pageUrl) {
           const img = valEl.find("img").first();
           if (img && img.length) compound.chemical_structure = img.attr("src") ? (img.attr("src").startsWith("http") ? img.attr("src") : ORIGIN + img.attr("src")) : null;
           else compound.chemical_structure = valText || null;
-        } else {
-          compound[key] = valText || null;
-        }
+        } else compound[key] = valText || null;
       }
     });
   } else {
-    const compTxt = textOrNullLocal($("#compound_summary .ac-body").first());
+    const compTxt = normText($("#compound_summary .ac-body").first());
     if (compTxt) compound.summary = compTxt;
   }
 
-  // therapeutic class
-  const therapeutic_class = textOrNullLocal($("#drug_classes .ac-body").first()) || null;
+  const therapeutic_class = normText($("#drug_classes .ac-body").first()) || null;
 
-  // ---------- NEW: structured DOSAGE extraction ----------
+  // ---------- Robust DOSAGE parsing ----------
   const dosageArray = [];
   const $dosageBody = $("#dosage").nextAll(".ac-body").first();
   if ($dosageBody && $dosageBody.length) {
-    // find all <strong> headings inside the dosage body
-    const $strongs = $dosageBody.find("strong");
-    if ($strongs && $strongs.length) {
-      $strongs.each((i, s) => {
-        const $s = $(s);
-        const medType = textOrNullLocal($s) || null;
+    // We'll iterate children in order to preserve paragraphs, ULs and strongs
+    const children = $dosageBody.contents().toArray();
 
-        // collect nodes between this <strong> and next <strong>
-        const nodes = $s.nextUntil("strong").toArray();
-        const instructions = [];
+    // Helper to push a new group
+    function pushGroup(groups, medType, infos, instr) {
+      // normalize arrays and dedupe whitespace
+      const informations = infos.length ? infos.join(" ").replace(/\s+/g, " ").trim() : null;
+      const instructions = instr.map(s => s.replace(/\s+/g, " ").trim()).filter(Boolean);
+      groups.push({ medication_type: medType || null, informations: informations, instructions });
+    }
 
-        // gather text nodes (non-empty) and all <ul>->li texts within the range
-        for (const node of nodes) {
-          if (!node) continue;
-          if (node.type === "text") {
-            const t = $(node).text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
-            if (t) instructions.push(t);
-          } else if (node.tagName && node.tagName.toLowerCase() === "ul") {
-            // collect li items
-            $(node).find("li").each((j, li) => {
-              const liText = textOrNullLocal($(li));
-              if (liText) instructions.push(liText);
+    let currMed = null;
+    let currInfos = [];
+    let currInstr = [];
+
+    // We'll treat <ul> specially: if its <li> items have <strong> as their first child,
+    // each <li> becomes its own dosage object; otherwise, <li>s append to current group's instructions.
+    for (let idx = 0; idx < children.length; idx++) {
+      const node = children[idx];
+      if (!node) continue;
+
+      if (node.type === "text") {
+        const t = $(node).text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
+        if (t) currInfos.push(t);
+      } else if (node.type === "tag") {
+        const tag = node.tagName.toLowerCase();
+
+        if (tag === "strong") {
+          // start a new group: flush previous
+          if (currMed !== null || currInfos.length || currInstr.length) {
+            pushGroup(dosageArray, currMed, currInfos, currInstr);
+            currMed = null; currInfos = []; currInstr = [];
+          }
+          currMed = normText($(node));
+          // continue - following nodes will become info/instructions of this med
+        } else if (tag === "ul") {
+          // inspect li structure
+          const $ul = $(node);
+          let liHasStrong = false;
+          $ul.children("li").each((i, li) => {
+            const $li = $(li);
+            const $firstStrong = $li.find("> strong").first();
+            if ($firstStrong && $firstStrong.length) liHasStrong = true;
+          });
+
+          if (liHasStrong) {
+            // flush current group first
+            if (currMed !== null || currInfos.length || currInstr.length) {
+              pushGroup(dosageArray, currMed, currInfos, currInstr);
+              currMed = null; currInfos = []; currInstr = [];
+            }
+            // each li with strong becomes its own object
+            $ul.children("li").each((i, li) => {
+              const $li = $(li);
+              const $s = $li.find("> strong").first();
+              if ($s && $s.length) {
+                const medType = normText($s);
+                // remove the strong from clone to get the rest text
+                const rest = $li.clone().children("strong").remove().end().text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
+                const childInstr = [];
+                // also collect nested ul li if any
+                $li.find("ul").first().find("li").each((j, subli) => {
+                  const t = $(subli).text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
+                  if (t) childInstr.push(t);
+                });
+                // if nested lis found, use them; else if rest non-empty, push rest as single instruction
+                if (childInstr.length) pushGroup(dosageArray, medType, rest ? [rest] : [], childInstr);
+                else pushGroup(dosageArray, medType, rest ? [rest] : [], []);
+              } else {
+                // li without strong -> treat as generic instruction grouped under null
+                const t = $li.text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
+                if (t) {
+                  // push as its own entry
+                  pushGroup(dosageArray, null, null, [t]);
+                }
+              }
             });
           } else {
-            // there may be nested ULs under tags (e.g., <div><ul>...</ul></div>)
-            const $node = $(node);
-            $node.find("ul").each((j, ul) => {
-              $(ul).find("li").each((k, li) => {
-                const liText = textOrNullLocal($(li));
-                if (liText) instructions.push(liText);
-              });
+            // li do NOT have strong -> append all li text to current group's instructions
+            $ul.find("li").each((i, li) => {
+              const t = $(li).text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
+              if (t) currInstr.push(t);
             });
-            // also capture direct text inside tags (e.g., a sentence before the ul)
-            const directText = $node.clone().children("ul").remove().end().text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
-            if (directText) {
-              // avoid duplicating medType itself
-              if (directText !== medType) instructions.unshift(directText);
-            }
           }
-        }
-
-        // If we found any instructions, push the object
-        if (instructions.length > 0) {
-          dosageArray.push({
-            medication_type: medType,
-            instructions
-          });
         } else {
-          // Sometimes a <strong> may be followed by only text or no ul; include an empty instructions array to preserve type
-          dosageArray.push({
-            medication_type: medType,
-            instructions: []
+          // other tag (div, p, br container etc.) - treat its text as info (but handle nested ULs)
+          const $node = $(node);
+          // collect nested ULs first (they append to currInstr)
+          $node.find("ul").each((i, ul) => {
+            $(ul).find("li").each((j, li) => {
+              const t = $(li).text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
+              if (t) currInstr.push(t);
+            });
           });
+          // collect direct text excluding nested UL content
+          const direct = $node.clone().children("ul").remove().end().text().replace(/\u00A0/g, " ").replace(/\s+/g, " ").trim();
+          if (direct) currInfos.push(direct);
         }
-      });
-    } else {
-      // Fallback: no strongs — take any top-level ULs as one group
-      const fallbackInstructions = [];
-      $dosageBody.find("ul").each((i, ul) => {
-        $(ul).find("li").each((j, li) => {
-          const liText = textOrNullLocal($(li));
-          if (liText) fallbackInstructions.push(liText);
-        });
-      });
-      if (fallbackInstructions.length) {
-        dosageArray.push({
-          medication_type: null,
-          instructions: fallbackInstructions
-        });
-      }
-    }
-  }
-  // ---------- END dosage extraction ----------
+      } // end tag handling
+    } // end children loop
 
-  // build final object (include dosage structured array)
+    // flush last group
+    if (currMed !== null || currInfos.length || currInstr.length) {
+      pushGroup(dosageArray, currMed, currInfos, currInstr);
+      currMed = null; currInfos = []; currInstr = [];
+    }
+
+    // if no groups created but there is plain textual dosage, add fallback
+    if (dosageArray.length === 0) {
+      const plain = normText($dosageBody);
+      if (plain) dosageArray.push({ medication_type: null, informations: plain, instructions: [] });
+    }
+  } // end dosageBody present
+
+  // Build final parsed object
   const parsed = {
     source_url: pageUrl,
     name: name || null,
@@ -300,16 +409,11 @@ function parseBrandDetail(html, pageUrl) {
     strength: strength || null,
     company: company || null,
     pack_image: pack_image || null,
-    pricing: {
-      unit_price: unit_price,
-      strip_price: strip_price,
-      pack_size_info: pack_size_info
-    },
+    pricing: { unit_price, strip_price, pack_size_info },
+    flags: flags,
     also_available: also_available,
     alternate_brands_url: alternate_brands_url,
-    // keep raw section texts
     sections: sections,
-    // structured dosage (array of { medication_type, instructions })
     dosage: dosageArray,
     common_questions: common_questions,
     compound_summary: compound,

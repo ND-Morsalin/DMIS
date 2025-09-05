@@ -1,0 +1,702 @@
+[
+    {
+    "name": "Algisum",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "generic": "Sodium Alginate + Potassium Bicarbonate",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/1398/algisum-500-mg-suspension"
+  },
+  {
+    "name": "Algisum DX",
+    "strength": "(500 mg+213 mg+325 mg)/10 ml",
+    "generic": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/35715/algisum-dx-500-mg-suspension"
+  },
+  {
+    "name": "Algisum Max",
+    "strength": "(500 mg+267 mg+160 mg)/10 ml",
+    "generic": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/31531/algisum-max-500-mg-suspension"
+  },
+  {
+    "name": "Algita D",
+    "strength": "500 mg+200 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Labaid Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/28633/algita-d-500-mg-tablet"
+  },
+  {
+    "name": "Algita DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Labaid Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/30004/algita-dx-600-mg-tablet"
+  },
+  {
+    "name": "Algrofin",
+    "strength": "250 mg",
+    "generic": "Crizotinib",
+    "company": "Genvio Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/29317/algrofin-250-mg-capsule"
+  },
+  {
+    "name": "Alia",
+    "strength": "5 mg",
+    "generic": "Allylestrenol",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/29306/alia-5-mg-tablet"
+  },
+  {
+    "name": "Alice",
+    "strength": "0.5%",
+    "generic": "Ivermectin (Topical)",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/26161/alice-05-lotion"
+  },
+  {
+    "name": "Alimag",
+    "strength": "250 mg+400 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Asiatic Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/38031/alimag-250-mg-chewable-tablet"
+  },
+  {
+    "name": "Alimta",
+    "strength": "500 mg/20 ml",
+    "generic": "Pemetrexed",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15073/alimta-500-mg-injection"
+  },
+  {
+    "name": "Alinix",
+    "strength": "500 mg",
+    "generic": "Nitazoxanide",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/2288/alinix-500-mg-tablet"
+  },
+  {
+    "name": "Alistin DT",
+    "strength": "600 mg",
+    "generic": "Acetylcysteine",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/29462/alistin-dt-600-mg-tablet"
+  },
+  {
+    "name": "Alistin EF",
+    "strength": "600 mg",
+    "generic": "Acetylcysteine",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/34390/alistin-ef-600-mg-tablet"
+  },
+  {
+    "name": "Alivio",
+    "strength": "15%+10%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32293/alivio-15-10-cream"
+  },
+  {
+    "name": "Alivio Extra",
+    "strength": "30%+10%+4%",
+    "generic": "Methyl Salicylate + Menthol + Camphor",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32294/alivio-extra-30-10-cream"
+  },
+  {
+    "name": "ALK",
+    "strength": "90 mg",
+    "generic": "Brigatinib",
+    "company": "Jenphar Bangladesh Ltd.",
+    "source_url": "https://medex.com.bd/brands/33515/alk-90-mg-tablet"
+  },
+  {
+    "name": "Alkalina",
+    "strength": "600 mg",
+    "generic": "Sodium Bicarbonate",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/34532/alkalina-600-mg-tablet"
+  },
+  {
+    "name": "Alkamax",
+    "strength": "(1500 mg+250 mg)/5 ml",
+    "generic": "Potassium Citrate + Citric Acid",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/23722/alkamax-1500-mg-oral-solution"
+  },
+  {
+    "name": "Alkamin",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Alkad Laboratories",
+    "source_url": "https://medex.com.bd/brands/19236/alkamin-2-mg-syrup"
+  },
+  {
+    "name": "Alkanon",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/32354/alkanon-500-mg-tablet"
+  },
+  {
+    "name": "Alkanon DT",
+    "strength": "1000 mg",
+    "generic": "Nabumetone",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/33256/alkanon-dt-1000-mg-tablet"
+  },
+  {
+    "name": "Alkaparol",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Alkad Laboratories",
+    "source_url": "https://medex.com.bd/brands/23386/alkaparol-120-mg-suspension"
+  },
+  {
+    "name": "Alkatrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Alkad Laboratories",
+    "source_url": "https://medex.com.bd/brands/16922/alkatrim-200-mg-suspension"
+  },
+  {
+    "name": "Alkazol",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Alkad Laboratories",
+    "source_url": "https://medex.com.bd/brands/22335/alkazol-200-mg-suspension"
+  },
+  {
+    "name": "Alken",
+    "strength": "(1500 mg+250 mg)/5 ml",
+    "generic": "Potassium Citrate + Citric Acid",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/29233/alken-1500-mg-oral-solution"
+  },
+  {
+    "name": "Alkenib",
+    "strength": "250 mg",
+    "generic": "Lapatinib",
+    "company": "Jenphar Bangladesh Ltd.",
+    "source_url": "https://medex.com.bd/brands/32817/alkenib-250-mg-tablet"
+  },
+  {
+    "name": "Alkixen",
+    "strength": "250 mg",
+    "generic": "Crizotinib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/38109/alkixen-250-mg-capsule"
+  },
+  {
+    "name": "Alkriz",
+    "strength": "250 mg",
+    "generic": "Crizotinib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/25992/alkriz-250-mg-capsule"
+  },
+  {
+    "name": "Alkurin",
+    "strength": "(1500 mg+250 mg)/5 ml",
+    "generic": "Potassium Citrate + Citric Acid",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/23724/alkurin-1500-mg-oral-solution"
+  },
+  {
+    "name": "Allbeevit",
+    "strength": "(50 mg+5.48 mg+100 mg+5 mg+10 mg)/2 ml",
+    "generic": "Vitamin B complex",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/13741/allbeevit-50-mg-injection"
+  },
+  {
+    "name": "Allbeevit-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/14187/allbeevit-m-tablet"
+  },
+  {
+    "name": "Alleloc",
+    "strength": "0.1%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15978/alleloc-01-eye-drop"
+  },
+  {
+    "name": "Alleloc DS",
+    "strength": "0.2%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15999/alleloc-ds-02-eye-drop"
+  },
+  {
+    "name": "Allercet",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Marksman Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/12018/allercet-5-mg-syrup"
+  },
+  {
+    "name": "Allergan",
+    "strength": "5 mg/5 ml",
+    "generic": "Promethazine Hydrochloride",
+    "company": "Cipla Limited",
+    "source_url": "https://medex.com.bd/brands/29924/allergan-5-mg-oral-solution"
+  },
+  {
+    "name": "Allerkit",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Monicopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/3713/allerkit-1-mg-syrup"
+  },
+  {
+    "name": "Allerkit-E",
+    "strength": "0.025%",
+    "generic": "Ketotifen Fumarate (Ophthalmic)",
+    "company": "Monicopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/15946/allerkit-e-0025-eye-drop"
+  },
+  {
+    "name": "Allernil",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/11917/allernil-10-mg-tablet"
+  },
+  {
+    "name": "Allertin",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/31418/allertin-125-mg-oral-solution"
+  },
+  {
+    "name": "Allertin ODT",
+    "strength": "10 mg",
+    "generic": "Bilastine",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/33724/allertin-odt-10-mg-tablet"
+  },
+  {
+    "name": "Allet",
+    "strength": "0.1%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15995/allet-01-eye-drop"
+  },
+  {
+    "name": "Allet DS",
+    "strength": "0.2%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/16000/allet-ds-02-eye-drop"
+  },
+  {
+    "name": "Allet Max",
+    "strength": "0.7%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/34618/allet-max-07-eye-drop"
+  },
+  {
+    "name": "Allion Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/14085/allion-gold-tablet"
+  },
+  {
+    "name": "Allion Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/35503/allion-silver-tablet"
+  },
+  {
+    "name": "Allphen",
+    "strength": "5 mg/5 ml",
+    "generic": "Promethazine Hydrochloride",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/4652/allphen-5-mg-oral-solution"
+  },
+  {
+    "name": "AllStar",
+    "strength": null,
+    "generic": "Insulin device & needle",
+    "company": "Synovia Pharma PLC.",
+    "source_url": "https://medex.com.bd/brands/34668/allstar-insulin-device"
+  },
+  {
+    "name": "Allygest",
+    "strength": "5 mg",
+    "generic": "Allylestrenol",
+    "company": "Nuvista Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/437/allygest-5-mg-tablet"
+  },
+  {
+    "name": "Allynol",
+    "strength": "5 mg",
+    "generic": "Allylestrenol",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/438/allynol-5-mg-tablet"
+  },
+  {
+    "name": "Almasil MS",
+    "strength": "400 mg+400 mg+30 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "United Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17550/almasil-ms-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Almex",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/282/almex-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Almigut",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32330/almigut-10-mg-tablet"
+  },
+  {
+    "name": "Almin",
+    "strength": "200 mg/5 ml",
+    "generic": "Albendazole",
+    "company": "Kumudini Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/283/almin-200-mg-suspension"
+  },
+  {
+    "name": "Almitan",
+    "strength": "6.25 mg",
+    "generic": "Almotriptan",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/445/almitan-625-mg-tablet"
+  },
+  {
+    "name": "Almovate",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Albion Laboratories Limited",
+    "source_url": "https://medex.com.bd/brands/33317/almovate-005-ointment"
+  },
+  {
+    "name": "Almoxil",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/28134/almoxil-250-mg-capsule"
+  },
+  {
+    "name": "Alneed",
+    "strength": null,
+    "generic": "Iron + Folic acid + Vitamin B complex + Vitamin C",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/13225/alneed-capsule"
+  },
+  {
+    "name": "Alneed Gold",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Folic Acid + Zinc + Vitamin B-Complex",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/13393/alneed-gold-capsule"
+  },
+  {
+    "name": "Alneed Plus",
+    "strength": null,
+    "generic": "Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/13258/alneed-plus-capsule"
+  },
+  {
+    "name": "Alodia",
+    "strength": "12.5 mg",
+    "generic": "Alogliptin Benzoate",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/33972/alodia-125-mg-tablet"
+  },
+  {
+    "name": "Alofen",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Avarox Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17367/alofen-100-mg-tablet"
+  },
+  {
+    "name": "Aloglip",
+    "strength": "12.5 mg",
+    "generic": "Alogliptin Benzoate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30991/aloglip-125-mg-tablet"
+  },
+  {
+    "name": "Alona",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/28/alona-100-mg-tablet"
+  },
+  {
+    "name": "Alopin",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Silco Pharmaceutical Ltd.",
+    "source_url": "https://medex.com.bd/brands/31446/alopin-5-mg-tablet"
+  },
+  {
+    "name": "Aloran",
+    "strength": "5 mg",
+    "generic": "Desloratadine",
+    "company": "Alco Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/27839/aloran-5-mg-tablet"
+  },
+  {
+    "name": "Aloten",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/784/aloten-5-mg-tablet"
+  },
+  {
+    "name": "Aloten Forte",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/785/aloten-forte-5-mg-tablet"
+  },
+  {
+    "name": "Alovit BZ",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32337/alovit-bz-tablet"
+  },
+  {
+    "name": "Alovit Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32346/alovit-gold-tablet"
+  },
+  {
+    "name": "Alpam",
+    "strength": "0.5 mg",
+    "generic": "Alprazolam",
+    "company": "Asiatic Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/196/alpam-05-mg-tablet"
+  },
+  {
+    "name": "Alpatin",
+    "strength": "0.05%",
+    "generic": "Epinastine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15941/alpatin-005-eye-drop"
+  },
+  {
+    "name": "Alpesib",
+    "strength": "150 mg",
+    "generic": "Alpelisib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/38123/alpesib-150-mg-tablet"
+  },
+  {
+    "name": "Alphagan P",
+    "strength": "0.15%",
+    "generic": "Brimonidine Tartrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/26818/alphagan-p-015-eye-drop"
+  },
+  {
+    "name": "Alphalok",
+    "strength": "2 mg",
+    "generic": "Prazosin Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/31401/alphalok-2-mg-tablet"
+  },
+  {
+    "name": "Alphalok XR",
+    "strength": "5 mg",
+    "generic": "Prazosin Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/31618/alphalok-xr-5-mg-tablet"
+  },
+  {
+    "name": "Alphanate",
+    "strength": "250 IU/vial",
+    "generic": "Antihemophilic Factor [Factor VIII]",
+    "company": "Grifols Biologicals LLC",
+    "source_url": "https://medex.com.bd/brands/982/alphanate-250-iu-injection"
+  },
+  {
+    "name": "Alphapress",
+    "strength": "1 mg",
+    "generic": "Prazosin Hydrochloride",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/2586/alphapress-1-mg-tablet"
+  },
+  {
+    "name": "Alphapress XR",
+    "strength": "5 mg",
+    "generic": "Prazosin Hydrochloride",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/29288/alphapress-xr-5-mg-tablet"
+  },
+  {
+    "name": "Alphedin",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "source_url": "https://medex.com.bd/brands/6220/alphedin-120-mg-tablet"
+  },
+  {
+    "name": "Alphin DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/286/alphin-ds-400-mg-chewable-tablet"
+  },
+  {
+    "name": "ALPK2 (Original)",
+    "strength": "Manual blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "Tanaka Sangyo Co. Ltd.",
+    "source_url": "https://medex.com.bd/brands/37770/alpk2-original-manual-blood-bp-monitor-device"
+  },
+  {
+    "name": "ALPK2 (V500)",
+    "strength": "Manual blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "Tanaka Sangyo Co. Ltd.",
+    "source_url": "https://medex.com.bd/brands/37748/alpk2-v500-manual-blood-bp-monitor-device"
+  },
+  {
+    "name": "Alprax",
+    "strength": "0.25 mg",
+    "generic": "Alprazolam",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/197/alprax-025-mg-tablet"
+  },
+  {
+    "name": "Alprax XR",
+    "strength": "1 mg",
+    "generic": "Alprazolam",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/200/alprax-xr-1-mg-tablet"
+  },
+  {
+    "name": "Alprazol",
+    "strength": "0.25 mg",
+    "generic": "Alprazolam",
+    "company": "Albion Laboratories Limited",
+    "source_url": "https://medex.com.bd/brands/36372/alprazol-025-mg-tablet"
+  },
+  {
+    "name": "Alpro",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/288/alpro-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Altadin",
+    "strength": "0.25%",
+    "generic": "Alcaftadine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/28396/altadin-025-eye-drop"
+  },
+  {
+    "name": "Alterin",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Euro Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/10938/alterin-50-mg-tablet"
+  },
+  {
+    "name": "Alterin TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Euro Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/10939/alterin-tr-100-mg-capsule"
+  },
+  {
+    "name": "Altina",
+    "strength": "250 mg",
+    "generic": "Lapatinib",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/35849/altina-250-mg-tablet"
+  },
+  {
+    "name": "Alton",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "General Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/1981/alton-20-mg-tablet"
+  },
+  {
+    "name": "Altorec",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Allied Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15416/altorec-10-mg-tablet"
+  },
+  {
+    "name": "Altovas",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Albion Laboratories Limited",
+    "source_url": "https://medex.com.bd/brands/25541/altovas-20-mg-tablet"
+  },
+  {
+    "name": "Altrax",
+    "strength": "40 mg/5 ml",
+    "generic": "Levamisole Hydrochloride",
+    "company": "Alkad Laboratories",
+    "source_url": "https://medex.com.bd/brands/21448/altrax-40-mg-syrup"
+  },
+  {
+    "name": "Altrip",
+    "strength": "6.25 mg",
+    "generic": "Almotriptan",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/446/altrip-625-mg-tablet"
+  },
+  {
+    "name": "Altrum Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/14746/altrum-gold-tablet"
+  },
+  {
+    "name": "Altrum Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/26719/altrum-silver-tablet"
+  },
+  {
+    "name": "Alucil-S",
+    "strength": "400 mg+400 mg+30 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/492/alucil-s-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Aluctin",
+    "strength": "30 mg",
+    "generic": "Flurazepam",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/4165/aluctin-30-mg-capsule"
+  },
+  {
+    "name": "Aluric",
+    "strength": "100 mg",
+    "generic": "Allopurinol",
+    "company": "Sonear Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/182/aluric-100-mg-tablet"
+  }
+]

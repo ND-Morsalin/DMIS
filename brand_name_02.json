@@ -1,0 +1,702 @@
+[ 
+      {
+    "name": "Aceclofenac SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Pharmik Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/37628/aceclofenac-sr-200-mg-tablet"
+  },
+  {
+    "name": "Aceclora",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Marksman Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/13/aceclora-100-mg-tablet"
+  },
+  {
+    "name": "Aceclosic",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Physic pharmaceuticals ltd.",
+    "source_url": "https://medex.com.bd/brands/37789/aceclosic-100-mg-tablet"
+  },
+  {
+    "name": "Acecol",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/14/acecol-100-mg-tablet"
+  },
+  {
+    "name": "Acedol",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15/acedol-100-mg-tablet"
+  },
+  {
+    "name": "Acedol SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17364/acedol-sr-200-mg-tablet"
+  },
+  {
+    "name": "Acedone-Z",
+    "strength": "250 mg+400 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17552/acedone-z-250-mg-chewable-tablet"
+  },
+  {
+    "name": "Acedone-Z Plus",
+    "strength": "(400 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17562/acedone-z-plus-400-mg-suspension"
+  },
+  {
+    "name": "Acefenac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "General Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/16/acefenac-100-mg-tablet"
+  },
+  {
+    "name": "Aceflex",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Maks Drug Limited",
+    "source_url": "https://medex.com.bd/brands/34889/aceflex-100-mg-tablet"
+  },
+  {
+    "name": "Acefra",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "source_url": "https://medex.com.bd/brands/6779/acefra-500-mg-capsule"
+  },
+  {
+    "name": "Acegic",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Belsen Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17/acegic-100-mg-tablet"
+  },
+  {
+    "name": "Acelex",
+    "strength": "250 mg",
+    "generic": "Cephalexin",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/28235/acelex-250-mg-capsule"
+  },
+  {
+    "name": "Acelock",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/18/acelock-100-mg-tablet"
+  },
+  {
+    "name": "Acelon",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Central Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/19/acelon-100-mg-tablet"
+  },
+  {
+    "name": "Acemox",
+    "strength": "250 mg",
+    "generic": "Acetazolamide",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/226/acemox-250-mg-tablet"
+  },
+  {
+    "name": "Acenac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/20/acenac-100-mg-tablet"
+  },
+  {
+    "name": "Acenopan",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "RN Pharmaceuticals",
+    "source_url": "https://medex.com.bd/brands/17365/acenopan-100-mg-tablet"
+  },
+  {
+    "name": "Acep",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/10386/acep-500-mg-tablet"
+  },
+  {
+    "name": "Acep Extra",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/10558/acep-extra-500-mg-tablet"
+  },
+  {
+    "name": "Acepril",
+    "strength": "5 mg",
+    "generic": "Lisinopril",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/2607/acepril-5-mg-tablet"
+  },
+  {
+    "name": "Acepro",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/21/acepro-100-mg-tablet"
+  },
+  {
+    "name": "Aceril",
+    "strength": "2.5 mg",
+    "generic": "Ramipril",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/24072/aceril-25-mg-tablet"
+  },
+  {
+    "name": "Acerux",
+    "strength": "250 mg/vial",
+    "generic": "Acyclovir (Injection)",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/127/acerux-250-mg-injection"
+  },
+  {
+    "name": "Acerux-H",
+    "strength": "5%+1%",
+    "generic": "Acyclovir + Hydrocortisone",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/31268/acerux-h-5-1-cream"
+  },
+  {
+    "name": "Aces Plus",
+    "strength": null,
+    "generic": "Super antioxidant [vitamins & minerals]",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/31935/aces-plus-tablet"
+  },
+  {
+    "name": "Aceta",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Biopharma Limited",
+    "source_url": "https://medex.com.bd/brands/10389/aceta-500-mg-tablet"
+  },
+  {
+    "name": "Aceta Extend",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "Biopharma Limited",
+    "source_url": "https://medex.com.bd/brands/23437/aceta-extend-665-mg-tablet"
+  },
+  {
+    "name": "Aceta One",
+    "strength": "1000 mg",
+    "generic": "Paracetamol",
+    "company": "Biopharma Limited",
+    "source_url": "https://medex.com.bd/brands/31963/aceta-one-1000-mg-tablet"
+  },
+  {
+    "name": "Aceta-PD",
+    "strength": "80 mg/ml",
+    "generic": "Paracetamol",
+    "company": "Biopharma Limited",
+    "source_url": "https://medex.com.bd/brands/10391/aceta-pd-80-mg-pediatric-drop"
+  },
+  {
+    "name": "Aceta-T",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Biopharma Limited",
+    "source_url": "https://medex.com.bd/brands/10782/aceta-t-325-mg-tablet"
+  },
+  {
+    "name": "Aceta-X",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Biopharma Limited",
+    "source_url": "https://medex.com.bd/brands/10559/aceta-x-500-mg-tablet"
+  },
+  {
+    "name": "Aceten",
+    "strength": "600 mg",
+    "generic": "Acetylcysteine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32856/aceten-600-mg-tablet"
+  },
+  {
+    "name": "Aceto",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/10392/aceto-500-mg-tablet"
+  },
+  {
+    "name": "Acetor",
+    "strength": "25 mg",
+    "generic": "Captopril",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/2594/acetor-25-mg-tablet"
+  },
+  {
+    "name": "ACF",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Decent Pharma Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/5/acf-100-mg-tablet"
+  },
+  {
+    "name": "Acflam",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "source_url": "https://medex.com.bd/brands/22/acflam-100-mg-tablet"
+  },
+  {
+    "name": "Achnil",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/34762/achnil-200-mg-tablet"
+  },
+  {
+    "name": "ACI Fruit Sal Tasty Saline",
+    "strength": null,
+    "generic": "Oral rehydration salt [tasty]",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/37692/aci-fruit-sal-tasty-saline-powder"
+  },
+  {
+    "name": "ACI ORS",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/23195/aci-ors-1025-gm-powder"
+  },
+  {
+    "name": "ACI ORS Fruity",
+    "strength": "10 gm/sachet",
+    "generic": "Oral rehydration salt [flavore & glucose based]",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/23204/aci-ors-fruity-10-gm-powder"
+  },
+  {
+    "name": "Acicaft",
+    "strength": "0.25%",
+    "generic": "Alcaftadine",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/27533/acicaft-025-eye-drop"
+  },
+  {
+    "name": "Acical",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/14265/acical-500-mg-tablet"
+  },
+  {
+    "name": "Acical Jr.",
+    "strength": "250 mg",
+    "generic": "Calcium Carbonate",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/14343/acical-jr-250-mg-chewable-tablet"
+  },
+  {
+    "name": "Acical-C",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/14388/acical-c-1000-mg-tablet"
+  },
+  {
+    "name": "Acical-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/14400/acical-d-500-mg-tablet"
+  },
+  {
+    "name": "Acical-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/26322/acical-dx-600-mg-tablet"
+  },
+  {
+    "name": "Acical-M",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/32195/acical-m-tablet"
+  },
+  {
+    "name": "Acical-MX",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/26323/acical-mx-tablet"
+  },
+  {
+    "name": "Aciclon",
+    "strength": "3%",
+    "generic": "Acyclovir (Ophthalmic)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/232/aciclon-3-eye-ointment"
+  },
+  {
+    "name": "Acicot",
+    "strength": "0.1%",
+    "generic": "Dexamethasone (Ophthalmic)",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/15754/acicot-01-eye-drop"
+  },
+  {
+    "name": "Acidron",
+    "strength": "4 mg/5 ml",
+    "generic": "Zoledronic Acid [For hypercalcemia]",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/31532/acidron-4-mg-injection"
+  },
+  {
+    "name": "Acidrox M",
+    "strength": "400 mg",
+    "generic": "Magaldrate",
+    "company": "Syntho Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/16576/acidrox-m-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Acifix",
+    "strength": "20 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/2256/acifix-20-mg-capsule"
+  },
+  {
+    "name": "Aciflox",
+    "strength": "200 mg",
+    "generic": "Sparfloxacin",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/9659/aciflox-200-mg-tablet"
+  },
+  {
+    "name": "Acilog",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Aspart [Protamine Crystallised]",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/16776/acilog-100-iu-injection"
+  },
+  {
+    "name": "Acilog Mix",
+    "strength": "30%+70%",
+    "generic": "Biphasic Insulin Aspart",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/27536/acilog-mix-30-70-injection"
+  },
+  {
+    "name": "Acipam",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/4482/acipam-5-mg-tablet"
+  },
+  {
+    "name": "Aciphin",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/7910/aciphin-250-mg-injection"
+  },
+  {
+    "name": "Acipra",
+    "strength": "20 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Alco Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/33761/acipra-20-mg-capsule"
+  },
+  {
+    "name": "Acitrin",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/11908/acitrin-10-mg-tablet"
+  },
+  {
+    "name": "Acitrin-L",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/12153/acitrin-l-5-mg-tablet"
+  },
+  {
+    "name": "Aclasta",
+    "strength": "5 mg/100 ml",
+    "generic": "Zoledronic Acid [For osteoporosis]",
+    "company": "SANDOZ (A Novartis Division)",
+    "source_url": "https://medex.com.bd/brands/14946/aclasta-5-mg-injection"
+  },
+  {
+    "name": "Aclene",
+    "strength": "0.1%",
+    "generic": "Adapalene",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/168/aclene-01-cream"
+  },
+  {
+    "name": "Aclene Plus",
+    "strength": "0.1%+2.5%",
+    "generic": "Adapalene + Benzoyl peroxide",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/17440/aclene-plus-01-25-gel"
+  },
+  {
+    "name": "Aclitol",
+    "strength": "400 mcg+12 mcg",
+    "generic": "Aclidinium Bromide + Formoterol Fumarate",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/32969/aclitol-400-mcg-inhalation-capsule"
+  },
+  {
+    "name": "Acliz",
+    "strength": "50 mg",
+    "generic": "Meclizine Hydrochloride",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/4606/acliz-50-mg-chewable-tablet"
+  },
+  {
+    "name": "Acliz Plus",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/4624/acliz-plus-25-mg-tablet"
+  },
+  {
+    "name": "Aclo",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Alco Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/23/aclo-100-mg-tablet"
+  },
+  {
+    "name": "Aclobet",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/12558/aclobet-005-ointment"
+  },
+  {
+    "name": "Aclobet-N",
+    "strength": "(0.5 mg+5 mg+1 Lac IU)/gm",
+    "generic": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/12612/aclobet-n-05-mg-cream"
+  },
+  {
+    "name": "Aclonac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Pharmasia Limited",
+    "source_url": "https://medex.com.bd/brands/24/aclonac-100-mg-tablet"
+  },
+  {
+    "name": "Aclopain",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Jenphar Bangladesh Ltd.",
+    "source_url": "https://medex.com.bd/brands/25/aclopain-100-mg-tablet"
+  },
+  {
+    "name": "Aclovix",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/26/aclovix-100-mg-tablet"
+  },
+  {
+    "name": "Acme's Dextrose",
+    "strength": "5%",
+    "generic": "Dextrose",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/14861/acmes-dextrose-5-injection"
+  },
+  {
+    "name": "Acme's Dextrose DS",
+    "strength": "10%",
+    "generic": "Dextrose",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/14856/acmes-dextrose-ds-10-injection"
+  },
+  {
+    "name": "Acme's DNS",
+    "strength": "0.9%+5%",
+    "generic": "Sodium Chloride + Dextrose",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/24580/acmes-dns-09-5-injection"
+  },
+  {
+    "name": "Acme's Mannitol",
+    "strength": "20%",
+    "generic": "Mannitol",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/21972/acmes-mannitol-20-injection"
+  },
+  {
+    "name": "Acme's ORS",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/23196/acmes-ors-1025-gm-powder"
+  },
+  {
+    "name": "Acmecilin",
+    "strength": "125 mg/5 ml",
+    "generic": "Ampicillin Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/939/acmecilin-125-mg-suspension"
+  },
+  {
+    "name": "Acmegra",
+    "strength": "25 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/6042/acmegra-25-mg-tablet"
+  },
+  {
+    "name": "ACN",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/6/acn-100-mg-tablet"
+  },
+  {
+    "name": "Acnegel",
+    "strength": "0.1%+2.5%",
+    "generic": "Adapalene + Benzoyl peroxide",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/176/acnegel-01-25-gel"
+  },
+  {
+    "name": "Acnesone",
+    "strength": "7.5%",
+    "generic": "Dapsone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30844/acnesone-75-gel"
+  },
+  {
+    "name": "Acnestop Face Cream",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "source_url": "https://medex.com.bd/brands/38315/acnestop-face-cream-cream"
+  },
+  {
+    "name": "Acnev",
+    "strength": "1% w/w",
+    "generic": "Clascoterone",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/37616/acnev-1-w-cream"
+  },
+  {
+    "name": "Acora",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/16718/acora-90-mg-tablet"
+  },
+  {
+    "name": "Acorex",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/532/acorex-15-mg-syrup"
+  },
+  {
+    "name": "Acos",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/8540/acos-500-mg-tablet"
+  },
+  {
+    "name": "Acryth",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Monicopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/8424/acryth-125-mg-suspension"
+  },
+  {
+    "name": "Act",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/10393/act-500-mg-tablet"
+  },
+  {
+    "name": "Act Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/10394/act-plus-500-mg-tablet"
+  },
+  {
+    "name": "Actemra",
+    "strength": "80 mg/4 ml",
+    "generic": "Tocilizumab",
+    "company": "Roche Bangladesh Ltd.",
+    "source_url": "https://medex.com.bd/brands/11673/actemra-80-mg-injection"
+  },
+  {
+    "name": "Acteria",
+    "strength": "4 billion",
+    "generic": "Probiotic Combination [4 Billion]",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/27602/acteria-4-billion-capsule"
+  },
+  {
+    "name": "Acteria (For kids)",
+    "strength": "4 billion/sachet",
+    "generic": "Probiotic Combination [4 Billion]",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30871/acteria-for-kids-4-billion-powder"
+  },
+  {
+    "name": "Actical",
+    "strength": "1200 mg+0.25 mcg",
+    "generic": "Calcium Citrate + Calcitriol",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/37863/actical-1200-mg-tablet"
+  },
+  {
+    "name": "Actidex",
+    "strength": "25 mg",
+    "generic": "Dexketoprofen",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/31092/actidex-25-mg-tablet"
+  },
+  {
+    "name": "Actifast",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "SMC Enterprise Ltd",
+    "source_url": "https://medex.com.bd/brands/21287/actifast-10-mg-tablet"
+  },
+  {
+    "name": "Actifol",
+    "strength": "5 mg",
+    "generic": "Folinic Acid",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/35832/actifol-5-mg-tablet"
+  },
+  {
+    "name": "Actilac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/2374/actilac-335-gm-oral-solution"
+  }
+]

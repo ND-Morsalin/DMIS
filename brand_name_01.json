@@ -1,0 +1,700 @@
+[{
+    "name": "3 Bion",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Jenphar Bangladesh Ltd.",
+    "source_url": "https://medex.com.bd/brands/13717/3-bion-100-mg-tablet"
+  },
+  {
+    "name": "3-C",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Edruc Limited",
+    "source_url": "https://medex.com.bd/brands/7695/3-c-200-mg-capsule"
+  },
+  {
+    "name": "3-F",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Edruc Limited",
+    "source_url": "https://medex.com.bd/brands/9538/3-f-500-mg-tablet"
+  },
+  {
+    "name": "3-Geocef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/7697/3-geocef-200-mg-capsule"
+  },
+  {
+    "name": "3D",
+    "strength": "20000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Jenphar Bangladesh Ltd.",
+    "source_url": "https://medex.com.bd/brands/31993/3d-20000-iu-capsule"
+  },
+  {
+    "name": "3RD Cef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/7699/3rd-cef-200-mg-tablet"
+  },
+  {
+    "name": "5 FU PhaRes",
+    "strength": "25 mg/ml",
+    "generic": "Fluorouracil",
+    "company": "ZAS Corporation",
+    "source_url": "https://medex.com.bd/brands/17301/5-fu-phares-25-mg-injection"
+  },
+  {
+    "name": "5-Fluril",
+    "strength": "25 mg/ml",
+    "generic": "Fluorouracil",
+    "company": "Techno Drugs Ltd.",
+    "source_url": "https://medex.com.bd/brands/105/5-fluril-25-mg-injection"
+  },
+  {
+    "name": "5-IN-1 Cleanser Cream",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "source_url": "https://medex.com.bd/brands/38307/5-in-1-cleanser-cream-cream"
+  },
+  {
+    "name": "5X",
+    "strength": "30 mg",
+    "generic": "Ulipristal Acetate [For emergency contraception]",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/25154/5x-30-mg-tablet"
+  },
+  {
+    "name": "A to Z Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Pharmik Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/37637/a-to-z-silver-tablet"
+  },
+  {
+    "name": "A-B1",
+    "strength": "100 mg",
+    "generic": "Thiamine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/13582/a-b1-100-mg-tablet"
+  },
+  {
+    "name": "A-Cal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/14264/a-cal-500-mg-tablet"
+  },
+  {
+    "name": "A-Cal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/14399/a-cal-d-500-mg-tablet"
+  },
+  {
+    "name": "A-Cal DX",
+    "strength": "500 mg+400 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/14480/a-cal-dx-500-mg-tablet"
+  },
+  {
+    "name": "A-Calm",
+    "strength": "50 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/15483/a-calm-50-mg-tablet"
+  },
+  {
+    "name": "A-Card",
+    "strength": "20 mg",
+    "generic": "Isosorbide Mononitrate",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/3039/a-card-20-mg-tablet"
+  },
+  {
+    "name": "A-Care",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Asiatic Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/14006/a-care-6-mg-tablet"
+  },
+  {
+    "name": "A-Clox",
+    "strength": "500 mg",
+    "generic": "Cloxacillin Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/6171/a-clox-500-mg-capsule"
+  },
+  {
+    "name": "A-Cof",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "generic": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/4006/a-cof-10-mg-syrup"
+  },
+  {
+    "name": "A-Cold",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/4077/a-cold-4-mg-syrup"
+  },
+  {
+    "name": "A-Fenac",
+    "strength": "25 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/10929/a-fenac-25-mg-tablet"
+  },
+  {
+    "name": "A-Fenac K",
+    "strength": "50 mg",
+    "generic": "Diclofenac Potassium",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/11134/a-fenac-k-50-mg-tablet"
+  },
+  {
+    "name": "A-Fenac Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "generic": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/10933/a-fenac-plus-75-mg-injection"
+  },
+  {
+    "name": "A-Fenac SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/10931/a-fenac-sr-100-mg-tablet"
+  },
+  {
+    "name": "A-Flox",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/6210/a-flox-250-mg-capsule"
+  },
+  {
+    "name": "A-Forte",
+    "strength": "50000 IU",
+    "generic": "Vitamin A",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/13491/a-forte-50000-iu-capsule"
+  },
+  {
+    "name": "A-Kit",
+    "strength": "200 mg+200 mcg",
+    "generic": "Mifepristone + Misoprostol",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/28227/a-kit-200-mg-tablet"
+  },
+  {
+    "name": "A-Meb",
+    "strength": "135 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/16609/a-meb-135-mg-tablet"
+  },
+  {
+    "name": "A-Mectin",
+    "strength": "6 mg",
+    "generic": "Ivermectin (Tablet)",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/28704/a-mectin-6-mg-tablet"
+  },
+  {
+    "name": "A-Migel",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/10007/a-migel-2-w-oral-gel"
+  },
+  {
+    "name": "A-Mycin",
+    "strength": "3% W/V",
+    "generic": "Erythromycin (Lotion)",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/529/a-mycin-3-w-lotion"
+  },
+  {
+    "name": "A-One",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/27175/a-one-120-mg-suspension"
+  },
+  {
+    "name": "A-One Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/27176/a-one-plus-500-mg-tablet"
+  },
+  {
+    "name": "A-One XR",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/23388/a-one-xr-665-mg-tablet"
+  },
+  {
+    "name": "A-Pak",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/38193/a-pak-100-mg-tablet"
+  },
+  {
+    "name": "A-Pak SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/35356/a-pak-sr-200-mg-tablet"
+  },
+  {
+    "name": "A-Phenicol",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/8883/a-phenicol-05-eye-drop"
+  },
+  {
+    "name": "A-Phenicol D",
+    "strength": "0.1%+0.5%",
+    "generic": "Dexamethasone + Chloramphenicol",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/15795/a-phenicol-d-01-05-eye-drop"
+  },
+  {
+    "name": "A-Rox",
+    "strength": "150 mg",
+    "generic": "Roxithromycin",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/8787/a-rox-150-mg-tablet"
+  },
+  {
+    "name": "A-Spasm",
+    "strength": "5 mg",
+    "generic": "Oxyphenonium Bromide",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/23257/a-spasm-5-mg-tablet"
+  },
+  {
+    "name": "A-Statin",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32492/a-statin-10-mg-tablet"
+  },
+  {
+    "name": "A-Tetra",
+    "strength": "500 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/8275/a-tetra-500-mg-capsule"
+  },
+  {
+    "name": "A-Zyme",
+    "strength": "325 mg",
+    "generic": "Pancreatin",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/2432/a-zyme-325-mg-tablet"
+  },
+  {
+    "name": "AB Kit",
+    "strength": "200 mg+200 mcg",
+    "generic": "Mifepristone + Misoprostol",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/26635/ab-kit-200-mg-tablet"
+  },
+  {
+    "name": "AB-DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Prime Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/25481/ab-ds-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Abac",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Chemist Laboratories  Ltd.",
+    "source_url": "https://medex.com.bd/brands/6776/abac-500-mg-capsule"
+  },
+  {
+    "name": "Abaclor",
+    "strength": "500 mg",
+    "generic": "Cefaclor Monohydrate",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/7097/abaclor-500-mg-capsule"
+  },
+  {
+    "name": "Abacten",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Arges Life Science Limited",
+    "source_url": "https://medex.com.bd/brands/32905/abacten-500-mg-tablet"
+  },
+  {
+    "name": "Abasaglar",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Glargine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/26940/abasaglar-100-iu-injection"
+  },
+  {
+    "name": "ABC",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Union Pharmaceuticals Ltd",
+    "source_url": "https://medex.com.bd/brands/34958/abc-6-mg-tablet"
+  },
+  {
+    "name": "Abc Derm Baby Squam",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36222/abc-derm-baby-squam-lotion"
+  },
+  {
+    "name": "Abc Derm Change Intensif",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36216/abc-derm-change-intensif-lotion"
+  },
+  {
+    "name": "Abc Derm Cold Cream Corps",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36217/abc-derm-cold-cream-corps-cream"
+  },
+  {
+    "name": "Abc Derm Cold Cream Visage  & Corps",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36218/abc-derm-cold-cream-visage-corps-lotion"
+  },
+  {
+    "name": "Abc Derm Hydratant",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36219/abc-derm-hydratant-lotion"
+  },
+  {
+    "name": "Abc Derm Moussant",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36220/abc-derm-moussant-lotion"
+  },
+  {
+    "name": "Abc Derm Peri Oral",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36223/abc-derm-peri-oral-lotion"
+  },
+  {
+    "name": "Abc Derm Shampoing",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36221/abc-derm-shampoing-lotion"
+  },
+  {
+    "name": "Abdolax",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/31999/abdolax-10-mg-tablet"
+  },
+  {
+    "name": "Abdolax Max",
+    "strength": "7.5 mg/ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/37626/abdolax-max-75-mg-oral-solution"
+  },
+  {
+    "name": "Abdorin",
+    "strength": "10 mg",
+    "generic": "Dicycloverine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/1315/abdorin-10-mg-tablet"
+  },
+  {
+    "name": "Abecab",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/3075/abecab-5-mg-tablet"
+  },
+  {
+    "name": "Abeclib",
+    "strength": "200 mg",
+    "generic": "Abemaciclib",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32452/abeclib-200-mg-tablet"
+  },
+  {
+    "name": "Aben-DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Team Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/25489/aben-ds-400-mg-chewable-tablet"
+  },
+  {
+    "name": "Abetis",
+    "strength": "10 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/2776/abetis-10-mg-tablet"
+  },
+  {
+    "name": "Abetis Plus",
+    "strength": "20 mg+12.5 mg",
+    "generic": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/2981/abetis-plus-20-mg-tablet"
+  },
+  {
+    "name": "Abex",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/4132/abex-30-mg-syrup"
+  },
+  {
+    "name": "Abex Plus",
+    "strength": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "generic": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/35306/abex-plus-100-mg-syrup"
+  },
+  {
+    "name": "Abexol",
+    "strength": "(200 mg+15 mg+15 mg)/5 ml",
+    "generic": "Guaifenesin + Dextromethorphan + Menthol",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/35307/abexol-200-mg-syrup"
+  },
+  {
+    "name": "Abezino",
+    "strength": "150 mg",
+    "generic": "Abemaciclib",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/37280/abezino-150-mg-tablet"
+  },
+  {
+    "name": "Abicon",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "generic": "Sodium Alginate + Potassium Bicarbonate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32587/abicon-500-mg-suspension"
+  },
+  {
+    "name": "Abicon Max",
+    "strength": "(500 mg+213 mg+325 mg)/10 ml",
+    "generic": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36608/abicon-max-500-mg-suspension"
+  },
+  {
+    "name": "Abicon Plus",
+    "strength": "(500 mg+267 mg+160 mg)/10 ml",
+    "generic": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/35489/abicon-plus-500-mg-suspension"
+  },
+  {
+    "name": "Abiraxen",
+    "strength": "250 mg",
+    "generic": "Abiraterone Acetate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/38107/abiraxen-250-mg-tablet"
+  },
+  {
+    "name": "Abiret",
+    "strength": "250 mg",
+    "generic": "Abiraterone Acetate",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/30393/abiret-250-mg-tablet"
+  },
+  {
+    "name": "Abiron",
+    "strength": "250 mg",
+    "generic": "Abiraterone Acetate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/35187/abiron-250-mg-tablet"
+  },
+  {
+    "name": "Abixa",
+    "strength": "10 mg",
+    "generic": "Memantine Hydrochloride",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/32192/abixa-10-mg-tablet"
+  },
+  {
+    "name": "ABO Kit",
+    "strength": "200 mg+200 mcg",
+    "generic": "Mifepristone + Misoprostol",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/28147/abo-kit-200-mg-tablet"
+  },
+  {
+    "name": "Aboprost",
+    "strength": "200 mcg",
+    "generic": "Misoprostol",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/35355/aboprost-200-mcg-tablet"
+  },
+  {
+    "name": "ABpres",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/18307/abpres-02-05-eye-drop"
+  },
+  {
+    "name": "ABZ",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/34002/abz-400-mg-chewable-tablet"
+  },
+  {
+    "name": "AC PR",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/8/ac-pr-100-mg-tablet"
+  },
+  {
+    "name": "AC PR SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/35308/ac-pr-sr-200-mg-tablet"
+  },
+  {
+    "name": "Acaluxen",
+    "strength": "100 mg",
+    "generic": "Acalabrutinib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/38108/acaluxen-100-mg-capsule"
+  },
+  {
+    "name": "Acaril",
+    "strength": "50 mg",
+    "generic": "Acarbose",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/222/acaril-50-mg-tablet"
+  },
+  {
+    "name": "ACCU-CHEK Active",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "Radiant Export Import Enterprise",
+    "source_url": "https://medex.com.bd/brands/34974/accu-chek-active-test-strip"
+  },
+  {
+    "name": "ACCU-CHEK Instant",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "Radiant Export Import Enterprise",
+    "source_url": "https://medex.com.bd/brands/36117/accu-chek-instant-glucometer"
+  },
+  {
+    "name": "ACCU-CHEK Instant S",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "Radiant Export Import Enterprise",
+    "source_url": "https://medex.com.bd/brands/34973/accu-chek-instant-s-glucometer"
+  },
+  {
+    "name": "Accuzith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/32289/accuzith-500-mg-tablet"
+  },
+  {
+    "name": "Ace",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/10377/ace-500-mg-tablet"
+  },
+  {
+    "name": "Ace Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/10557/ace-plus-500-mg-tablet"
+  },
+  {
+    "name": "Ace Power",
+    "strength": "1000 mg",
+    "generic": "Paracetamol",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/28573/ace-power-1000-mg-tablet"
+  },
+  {
+    "name": "Ace XR",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/10378/ace-xr-665-mg-tablet"
+  },
+  {
+    "name": "Acebid",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/9/acebid-100-mg-tablet"
+  },
+  {
+    "name": "Acecard",
+    "strength": "1.25 mg",
+    "generic": "Ramipril",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/2627/acecard-125-mg-tablet"
+  },
+  {
+    "name": "Aceclof",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17361/aceclof-100-mg-tablet"
+  },
+  {
+    "name": "Aceclofen",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/11/aceclofen-100-mg-tablet"
+  },
+  {
+    "name": "Aceclofenac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "source_url": "https://medex.com.bd/brands/35665/aceclofenac-100-mg-tablet"
+  },
+  {
+    "name": "Aceclofenac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Pharmik Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/37627/aceclofenac-100-mg-tablet"
+  }]

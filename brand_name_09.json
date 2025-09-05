@@ -1,0 +1,702 @@
+[
+    {
+    "name": "Anabolin",
+    "strength": "25 mg/ml",
+    "generic": "Nandrolone Phenylpropionate",
+    "company": "Techno Drugs Ltd.",
+    "source_url": "https://medex.com.bd/brands/22721/anabolin-25-mg-injection"
+  },
+  {
+    "name": "Anacaine HC",
+    "strength": "0.5% + 3%",
+    "generic": "Hydrocortisone + Lidocaine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/20850/anacaine-hc-05-cream"
+  },
+  {
+    "name": "Anacare",
+    "strength": "1 mg",
+    "generic": "Anastrozole",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/28354/anacare-1-mg-tablet"
+  },
+  {
+    "name": "Anacort",
+    "strength": "100 mg/2 ml",
+    "generic": "Hydrocortisone",
+    "company": "Techno Drugs Ltd.",
+    "source_url": "https://medex.com.bd/brands/5779/anacort-100-mg-injection"
+  },
+  {
+    "name": "Anadol",
+    "strength": "50 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/10684/anadol-50-mg-capsule"
+  },
+  {
+    "name": "Anadol Plus",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/10764/anadol-plus-325-mg-tablet"
+  },
+  {
+    "name": "Anadol SR",
+    "strength": "100 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/10685/anadol-sr-100-mg-capsule"
+  },
+  {
+    "name": "Anaflam",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Asiatic Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/38032/anaflam-400-mg-tablet"
+  },
+  {
+    "name": "Anaflex",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/11409/anaflex-250-mg-tablet"
+  },
+  {
+    "name": "Anaflex Max",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/11537/anaflex-max-500-mg-tablet"
+  },
+  {
+    "name": "Anaflex SR",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/11411/anaflex-sr-500-mg-tablet"
+  },
+  {
+    "name": "Anafranil",
+    "strength": "25 mg",
+    "generic": "Clomipramine Hydrochloride",
+    "company": "Naafco Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/4446/anafranil-25-mg-tablet"
+  },
+  {
+    "name": "Analac",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15301/analac-10-mg-tablet"
+  },
+  {
+    "name": "Analgen",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Cosmo Pharma Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/29/analgen-100-mg-tablet"
+  },
+  {
+    "name": "Analor",
+    "strength": "10 mg",
+    "generic": "Loratadine",
+    "company": "Techno Drugs Ltd.",
+    "source_url": "https://medex.com.bd/brands/12190/analor-10-mg-tablet"
+  },
+  {
+    "name": "Analpain",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/10399/analpain-500-mg-tablet"
+  },
+  {
+    "name": "Anamet",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/10070/anamet-200-mg-suspension"
+  },
+  {
+    "name": "Anapril",
+    "strength": "10 mg",
+    "generic": "Enalapril Maleate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/2601/anapril-10-mg-tablet"
+  },
+  {
+    "name": "Anaprox",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/29240/anaprox-500-mg-tablet"
+  },
+  {
+    "name": "Anaroxyl",
+    "strength": "5 mg/ml",
+    "generic": "Monosemicarbazone Adrenochrome",
+    "company": "Nuvista Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/410/anaroxyl-5-mg-injection"
+  },
+  {
+    "name": "Anasec",
+    "strength": "40 mg/vial",
+    "generic": "Omeprazole",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/1801/anasec-40-mg-injection"
+  },
+  {
+    "name": "Anastrol",
+    "strength": "1 mg",
+    "generic": "Anastrozole",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/17244/anastrol-1-mg-tablet"
+  },
+  {
+    "name": "Anaxyl",
+    "strength": "500 mg/5 ml",
+    "generic": "Tranexamic Acid",
+    "company": "ACI Limited",
+    "source_url": "https://medex.com.bd/brands/3307/anaxyl-500-mg-injection"
+  },
+  {
+    "name": "Anaya",
+    "strength": "1 mg",
+    "generic": "Anastrozole",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/35021/anaya-1-mg-tablet"
+  },
+  {
+    "name": "Ancef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/6786/ancef-125-mg-suspension"
+  },
+  {
+    "name": "Ancef Forte",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/6787/ancef-forte-250-mg-suspension"
+  },
+  {
+    "name": "Ancipro",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/9138/ancipro-750-mg-tablet"
+  },
+  {
+    "name": "Ancliz",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "Monicopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/4625/ancliz-25-mg-tablet"
+  },
+  {
+    "name": "Anclog",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/3217/anclog-75-mg-tablet"
+  },
+  {
+    "name": "Anclog Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/3268/anclog-plus-75-mg-tablet"
+  },
+  {
+    "name": "Ancoc",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Marker Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/6216/ancoc-500-mg-capsule"
+  },
+  {
+    "name": "Ancopan",
+    "strength": "20 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/1341/ancopan-20-mg-tablet"
+  },
+  {
+    "name": "Ancor",
+    "strength": "10 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/2474/ancor-10-mg-tablet"
+  },
+  {
+    "name": "Ancor Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/2907/ancor-plus-25-mg-tablet"
+  },
+  {
+    "name": "Ancor-A",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/27561/ancor-a-25-mg-tablet"
+  },
+  {
+    "name": "Ancotil",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/4240/ancotil-3-mg-tablet"
+  },
+  {
+    "name": "Andep",
+    "strength": "100 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/24433/andep-100-mg-tablet"
+  },
+  {
+    "name": "Andepram",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30872/andepram-5-mg-tablet"
+  },
+  {
+    "name": "Andriol TestoCaps",
+    "strength": "40 mg",
+    "generic": "Testosterone Undecanoate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/28954/andriol-testocaps-40-mg-capsule"
+  },
+  {
+    "name": "Androcap",
+    "strength": "40 mg",
+    "generic": "Testosterone Undecanoate",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/5942/androcap-40-mg-capsule"
+  },
+  {
+    "name": "AndroGel",
+    "strength": "16.2 mg/gm",
+    "generic": "Testosterone",
+    "company": "ZAS Corporation",
+    "source_url": "https://medex.com.bd/brands/34115/androgel-162-mg-topical-gel"
+  },
+  {
+    "name": "Androjet",
+    "strength": "250 mg/ml",
+    "generic": "Testosterone Decanoate",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/36610/androjet-250-mg-injection"
+  },
+  {
+    "name": "Anefer",
+    "strength": "100 mg/5 ml",
+    "generic": "Iron Sucrose",
+    "company": "Opsonin Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/13133/anefer-100-mg-injection"
+  },
+  {
+    "name": "Anema",
+    "strength": "(19 gm+7 gm)/118 ml",
+    "generic": "Monobasic Sodium Phosphate + Dibasic Sodium Phosphate",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/17107/anema-19-gm-rectal-saline"
+  },
+  {
+    "name": "Anespine",
+    "strength": "0.5%+8%",
+    "generic": "Bupivacaine Hydrochloride + Dextrose",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/15525/anespine-05-8-injection"
+  },
+  {
+    "name": "Anestho",
+    "strength": "500 mg/vial",
+    "generic": "Thiopental Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30500/anestho-500-mg-injection"
+  },
+  {
+    "name": "Anet",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/1506/anet-5-mg-suspension"
+  },
+  {
+    "name": "Anfasil",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/9819/anfasil-50-mg-tablet"
+  },
+  {
+    "name": "Anfenac",
+    "strength": "0.1%",
+    "generic": "Diclofenac Sodium (Ophthalmic)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/11118/anfenac-01-eye-drop"
+  },
+  {
+    "name": "Anflu",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Fluphenazine + Nortriptyline",
+    "company": "Alco Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/33762/anflu-05-mg-tablet"
+  },
+  {
+    "name": "Anfree",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Aristopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/4323/anfree-05-mg-tablet"
+  },
+  {
+    "name": "Angela",
+    "strength": "1 mg+0.5 mg",
+    "generic": "Drospirenone + Estradiol",
+    "company": "Renata PLC",
+    "source_url": "https://medex.com.bd/brands/29289/angela-1-mg-tablet"
+  },
+  {
+    "name": "Angenta",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/4324/angenta-05-mg-tablet"
+  },
+  {
+    "name": "Angesic",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/15303/angesic-10-mg-tablet"
+  },
+  {
+    "name": "Angical",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/806/angical-5-mg-tablet"
+  },
+  {
+    "name": "Angicard",
+    "strength": "0.5 mg",
+    "generic": "Nitroglycerin",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/3010/angicard-05-mg-tablet"
+  },
+  {
+    "name": "Angifix",
+    "strength": "20 mg",
+    "generic": "Isosorbide Mononitrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/30125/angifix-20-mg-tablet"
+  },
+  {
+    "name": "Angilock",
+    "strength": "25 mg",
+    "generic": "Losartan Potassium",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/2697/angilock-25-mg-tablet"
+  },
+  {
+    "name": "Angilock Plus",
+    "strength": "100 mg+25 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/2936/angilock-plus-100-mg-tablet"
+  },
+  {
+    "name": "Angimet",
+    "strength": "20 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/3129/angimet-20-mg-tablet"
+  },
+  {
+    "name": "Angimet MR",
+    "strength": "35 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/3130/angimet-mr-35-mg-tablet"
+  },
+  {
+    "name": "Angimil",
+    "strength": "40 mg",
+    "generic": "Verapamil Hydrochloride",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/3114/angimil-40-mg-tablet"
+  },
+  {
+    "name": "Angimil SR",
+    "strength": "240 mg",
+    "generic": "Verapamil Hydrochloride",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/3116/angimil-sr-240-mg-tablet"
+  },
+  {
+    "name": "Angin",
+    "strength": "75 mg",
+    "generic": "Aspirin",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/3355/angin-75-mg-tablet"
+  },
+  {
+    "name": "Anginox MR",
+    "strength": "35 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/25133/anginox-mr-35-mg-tablet"
+  },
+  {
+    "name": "Angipro",
+    "strength": "50 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/29165/angipro-50-mg-tablet"
+  },
+  {
+    "name": "Angirid MR",
+    "strength": "35 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/3132/angirid-mr-35-mg-tablet"
+  },
+  {
+    "name": "Angist SR",
+    "strength": "2.6 mg",
+    "generic": "Nitroglycerin",
+    "company": "ACME Laboratories Ltd.",
+    "source_url": "https://medex.com.bd/brands/3011/angist-sr-26-mg-tablet"
+  },
+  {
+    "name": "Angitan",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Chemist Laboratories  Ltd.",
+    "source_url": "https://medex.com.bd/brands/21829/angitan-50-mg-tablet"
+  },
+  {
+    "name": "Angitan Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Chemist Laboratories  Ltd.",
+    "source_url": "https://medex.com.bd/brands/21878/angitan-plus-50-mg-tablet"
+  },
+  {
+    "name": "Angiten",
+    "strength": "25 mg",
+    "generic": "Captopril",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/2595/angiten-25-mg-tablet"
+  },
+  {
+    "name": "Angitrim MR",
+    "strength": "35 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/25135/angitrim-mr-35-mg-tablet"
+  },
+  {
+    "name": "Angivas MR",
+    "strength": "35 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/25138/angivas-mr-35-mg-tablet"
+  },
+  {
+    "name": "Angivent MR",
+    "strength": "35 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/3133/angivent-mr-35-mg-tablet"
+  },
+  {
+    "name": "Anib",
+    "strength": "40 mg",
+    "generic": "Afatinib Dimaleate",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/30465/anib-40-mg-tablet"
+  },
+  {
+    "name": "Aniducon",
+    "strength": "100 mg/vial",
+    "generic": "Anidulafungin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/36978/aniducon-100-mg-injection"
+  },
+  {
+    "name": "Anidula",
+    "strength": "100 mg/vial",
+    "generic": "Anidulafungin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/36563/anidula-100-mg-injection"
+  },
+  {
+    "name": "Anilic",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Drug International Ltd.",
+    "source_url": "https://medex.com.bd/brands/25013/anilic-200-mg-tablet"
+  },
+  {
+    "name": "Anin",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Delta Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/2700/anin-50-mg-tablet"
+  },
+  {
+    "name": "Anin Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Delta Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/2937/anin-plus-50-mg-tablet"
+  },
+  {
+    "name": "Anleptic",
+    "strength": "100 mg/5 ml",
+    "generic": "Carbamazepine",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/4798/anleptic-100-mg-suspension"
+  },
+  {
+    "name": "Anleptic CR",
+    "strength": "200 mg",
+    "generic": "Carbamazepine",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/4797/anleptic-cr-200-mg-tablet"
+  },
+  {
+    "name": "Anlet",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/3218/anlet-75-mg-tablet"
+  },
+  {
+    "name": "Anlet Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/19521/anlet-plus-75-mg-tablet"
+  },
+  {
+    "name": "Annova",
+    "strength": "10% w/w",
+    "generic": "Naproxen Sodium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/38715/annova-10-w-gel"
+  },
+  {
+    "name": "Annova Plus",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/36254/annova-plus-375-mg-tablet"
+  },
+  {
+    "name": "Anobac",
+    "strength": "300 mg",
+    "generic": "Clindamycin",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/8857/anobac-300-mg-capsule"
+  },
+  {
+    "name": "Anodyne",
+    "strength": "0.1%",
+    "generic": "Diclofenac Sodium (Ophthalmic)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/11119/anodyne-01-eye-drop"
+  },
+  {
+    "name": "Anodyne Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "generic": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/10943/anodyne-plus-75-mg-injection"
+  },
+  {
+    "name": "Anodyne SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/10941/anodyne-sr-100-mg-capsule"
+  },
+  {
+    "name": "Anofer",
+    "strength": "100 mg/5 ml",
+    "generic": "Iron Sucrose",
+    "company": "Monicopharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/13134/anofer-100-mg-injection"
+  },
+  {
+    "name": "Anol",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/2469/anol-50-mg-tablet"
+  },
+  {
+    "name": "Anol",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/17973/anol-50-mg-tablet"
+  },
+  {
+    "name": "Anolol",
+    "strength": "100 mg",
+    "generic": "Atenolol",
+    "company": "Euro Pharma Ltd.",
+    "source_url": "https://medex.com.bd/brands/30610/anolol-100-mg-tablet"
+  },
+  {
+    "name": "Anorel",
+    "strength": "(5 mg+5 mg+10 mg+10 mg)/gm",
+    "generic": "Cinchocaine + Hydrocortisone + Neomycin + Esculin",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/2425/anorel-5-mg-ointment"
+  },
+  {
+    "name": "Anosea Plus",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/4626/anosea-plus-25-mg-tablet"
+  },
+  {
+    "name": "Anosil",
+    "strength": null,
+    "generic": "Hydrocortisone Acetate + Benzyl Benzoate + Bismuth Subgallate + Bismuth Oxide + Balsam Peru + Zinc Oxide",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "source_url": "https://medex.com.bd/brands/29813/anosil-ointment"
+  },
+  {
+    "name": "Anotic",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "source_url": "https://medex.com.bd/brands/4325/anotic-05-mg-tablet"
+  },
+  {
+    "name": "Anoxa",
+    "strength": "10 mg",
+    "generic": "Oxazepam",
+    "company": "Square Pharmaceuticals PLC",
+    "source_url": "https://medex.com.bd/brands/30488/anoxa-10-mg-tablet"
+  },
+  {
+    "name": "Anpar",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "source_url": "https://medex.com.bd/brands/10044/anpar-1-cream"
+  }
+]
