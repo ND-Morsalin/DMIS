@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Amlevo",
+    "strength": "2.5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30296/amlevo-25-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlex",
+    "strength": "5%",
+    "generic": "Amlexanox",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Paste",
+    "source_url": "https://medex.com.bd/brands/630/amlex-5-oral-paste",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlip",
+    "strength": "5 mg+10 mg",
+    "generic": "Amlodipine Besilate + Atorvastatin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29913/amlip-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlo",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/640/amlo-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlobet",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/790/amlobet-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlocard",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/642/amlocard-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlocard",
+    "strength": "10 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/643/amlocard-10-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlocard Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/792/amlocard-plus-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlocard Plus",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/791/amlocard-plus-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlohil",
+    "strength": "10 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30555/amlohil-10-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlohil",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30556/amlohil-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlonaaf",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36479/amlonaaf-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlopin",
+    "strength": "10 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/646/amlopin-10-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlopin",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/647/amlopin-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlosartan",
+    "strength": "10 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3085/amlosartan-10-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlosartan",
+    "strength": "5 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3084/amlosartan-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlosartan",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3083/amlosartan-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlosin",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/648/amlosin-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlosin Plus",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/794/amlosin-plus-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlosun",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/649/amlosun-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlotab",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/650/amlotab-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlotab",
+    "strength": "10 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17652/amlotab-10-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amloten",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/796/amloten-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amloten",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/795/amloten-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlotol Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35867/amlotol-plus-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlovas",
+    "strength": "10 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30557/amlovas-10-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlovas",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/651/amlovas-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlovas AT",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/797/amlovas-at-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlovas VS",
+    "strength": "5 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3087/amlovas-vs-5-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlovas VS",
+    "strength": "10 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3088/amlovas-vs-10-mg-tablet",
+    "_source_page": 36
+  },
+  {
+    "name": "Amlovas VS",
+    "strength": "10 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3088/amlovas-vs-10-mg-tablet",
+    "_source_page": 37
+  },
+  {
+    "name": "Amlozep",
+    "strength": "5 mg+10 mg",
+    "generic": "Amlodipine Besilate + Benazepril Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/3066/amlozep-5-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amobet",
+    "strength": "0.05%",
+    "generic": "Clobetasone Butyrate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12604/amobet-005-cream",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocal",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/657/amocal-5-mg-tablet",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocal",
+    "strength": "10 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/656/amocal-10-mg-tablet",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocal-AT",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/800/amocal-at-5-mg-tablet",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocal-BZ",
+    "strength": "5 mg+10 mg",
+    "generic": "Amlodipine Besilate + Benazepril Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/17711/amocal-bz-5-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocap",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6424/amocap-250-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocap",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6425/amocap-500-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocil",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "MST Pharma",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6426/amocil-500-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocil",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "MST Pharma",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6427/amocil-125-mg-suspension",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocil",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "MST Pharma",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28206/amocil-250-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocin",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6428/amocin-250-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocin",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6429/amocin-500-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amocin",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6430/amocin-125-mg-suspension",
+    "_source_page": 37
+  },
+  {
+    "name": "Amoclav",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/888/amoclav-500-mg-tablet",
+    "_source_page": 37
+  },
+  {
+    "name": "Amoclav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/885/amoclav-125-mg-suspension",
+    "_source_page": 37
+  },
+  {
+    "name": "Amoclav",
+    "strength": "(1 gm+200 mg)/20 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/880/amoclav-1-gm-injection",
+    "_source_page": 37
+  },
+  {
+    "name": "Amoclav",
+    "strength": "875 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/879/amoclav-875-mg-tablet",
+    "_source_page": 37
+  },
+  {
+    "name": "Amoclav Forte",
+    "strength": "(400 mg+57.50 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/889/amoclav-forte-400-mg-suspension",
+    "_source_page": 37
+  },
+  {
+    "name": "Amodis",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10064/amodis-200-mg-suspension",
+    "_source_page": 37
+  },
+  {
+    "name": "Amodis",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10062/amodis-400-mg-tablet",
+    "_source_page": 37
+  },
+  {
+    "name": "Amofun",
+    "strength": "0.25%",
+    "generic": "Amorolfine Hydrochloride (cream)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37899/amofun-025-cream",
+    "_source_page": 37
+  },
+  {
+    "name": "Amogit",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Marksman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10197/amogit-400-mg-tablet",
+    "_source_page": 37
+  },
+  {
+    "name": "Amore Black",
+    "strength": null,
+    "generic": "Latex condom [Amore]",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Condom",
+    "source_url": "https://medex.com.bd/brands/37487/amore-black-condom",
+    "_source_page": 37
+  },
+  {
+    "name": "Amore Gold",
+    "strength": null,
+    "generic": "Latex condom [Amore]",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Condom",
+    "source_url": "https://medex.com.bd/brands/37486/amore-gold-condom",
+    "_source_page": 37
+  },
+  {
+    "name": "Amorox",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/25536/amorox-15-mg-syrup",
+    "_source_page": 37
+  },
+  {
+    "name": "Amotid",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6435/amotid-125-mg-pediatric-drop",
+    "_source_page": 37
+  },
+  {
+    "name": "Amotid",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6431/amotid-250-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amotid",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6432/amotid-500-mg-capsule",
+    "_source_page": 37
+  },
+  {
+    "name": "Amotid",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6433/amotid-125-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amotid CL",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31965/amotid-cl-500-mg-tablet",
+    "_source_page": 38
+  },
+  {
+    "name": "Amotid CL",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/31964/amotid-cl-125-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amotid-F",
+    "strength": "250 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6434/amotid-f-250-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amotrex",
+    "strength": "200 mg",
+    "generic": "Metronidazole",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10066/amotrex-200-mg-tablet",
+    "_source_page": 38
+  },
+  {
+    "name": "Amotrex",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10067/amotrex-400-mg-tablet",
+    "_source_page": 38
+  },
+  {
+    "name": "Amotrex",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10068/amotrex-200-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amotrex",
+    "strength": "500 mg/100 ml",
+    "generic": "Metronidazole",
+    "company": "ACI Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/22333/amotrex-500-mg-injection",
+    "_source_page": 38
+  },
+  {
+    "name": "Amotrex DS",
+    "strength": "800 mg",
+    "generic": "Metronidazole",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32198/amotrex-ds-800-mg-tablet",
+    "_source_page": 38
+  },
+  {
+    "name": "Amovast",
+    "strength": "5 mg+10 mg",
+    "generic": "Amlodipine Besilate + Atorvastatin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/718/amovast-5-mg-tablet",
+    "_source_page": 38
+  },
+  {
+    "name": "Amovix",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/37370/amovix-125-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amovix",
+    "strength": "(1 gm+200 mg)/20 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/37371/amovix-1-gm-injection",
+    "_source_page": 38
+  },
+  {
+    "name": "Amovix",
+    "strength": "250 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37369/amovix-250-mg-tablet",
+    "_source_page": 38
+  },
+  {
+    "name": "Amovix",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37368/amovix-500-mg-tablet",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxic",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Cosmo Pharma Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6443/amoxic-125-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxic",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Cosmo Pharma Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6442/amoxic-500-mg-capsule",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxicon",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6448/amoxicon-125-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxicon",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6447/amoxicon-500-mg-capsule",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxikil",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29569/amoxikil-500-mg-capsule",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxima",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6450/amoxima-500-mg-capsule",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxima",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6451/amoxima-125-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxizen",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6456/amoxizen-125-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxizen",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6454/amoxizen-250-mg-capsule",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxizen DS",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6455/amoxizen-ds-500-mg-capsule",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxon",
+    "strength": "500 mg/vial",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6462/amoxon-500-mg-injection",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxon",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6459/amoxon-125-mg-suspension",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxon",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6458/amoxon-500-mg-capsule",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxon",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6457/amoxon-250-mg-capsule",
+    "_source_page": 38
+  },
+  {
+    "name": "Amoxycillin",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37362/amoxycillin-500-mg-capsule",
+    "_source_page": 38
+  },
+  {
+    "name": "AmoxyClavulanic",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37638/amoxyclavulanic-500-mg-tablet",
+    "_source_page": 38
+  },
+  {
+    "name": "Ampexin",
+    "strength": "250 mg/vial",
+    "generic": "Ampicillin Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/948/ampexin-250-mg-injection",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampexin",
+    "strength": "500 mg/vial",
+    "generic": "Ampicillin Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/949/ampexin-500-mg-injection",
+    "_source_page": 39
+  },
+  {
+    "name": "Amphoject",
+    "strength": "50 mg/vial",
+    "generic": "Amphotericin B",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38199/amphoject-50-mg-injection",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampil",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/660/ampil-5-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampil Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/803/ampil-plus-5-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampimet",
+    "strength": "250 mg",
+    "generic": "Ampicillin Sodium",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/956/ampimet-250-mg-capsule",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampimet",
+    "strength": "500 mg",
+    "generic": "Ampicillin Sodium",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/957/ampimet-500-mg-capsule",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampimet DS",
+    "strength": "125 mg/5 ml",
+    "generic": "Ampicillin Sodium",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/958/ampimet-ds-125-mg-suspension",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampirex",
+    "strength": "500 mg/vial",
+    "generic": "Ampicillin Sodium",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/961/ampirex-500-mg-injection",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampol",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34004/ampol-500-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampol Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32324/ampol-plus-500-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampol XR",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32794/ampol-xr-665-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampre",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/661/ampre-5-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampre Plus",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/804/ampre-plus-5-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampress",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17642/ampress-5-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Ampress Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17688/ampress-plus-5-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Amsiv",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4031/amsiv-15-mg-syrup",
+    "_source_page": 39
+  },
+  {
+    "name": "Amtinol",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/663/amtinol-5-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Amtinol Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/805/amtinol-plus-5-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Amtylin",
+    "strength": "10 mg",
+    "generic": "Amitriptyline Hydrochloride",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/623/amtylin-10-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Amtylin",
+    "strength": "25 mg",
+    "generic": "Amitriptyline Hydrochloride",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30553/amtylin-25-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Amucef",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7472/amucef-100-mg-suspension",
+    "_source_page": 39
+  },
+  {
+    "name": "Amucef",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7471/amucef-400-mg-capsule",
+    "_source_page": 39
+  },
+  {
+    "name": "Amucef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7470/amucef-200-mg-capsule",
+    "_source_page": 39
+  },
+  {
+    "name": "Amupime",
+    "strength": "500 mg/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/18679/amupime-500-mg-injection",
+    "_source_page": 39
+  },
+  {
+    "name": "AMX",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6464/amx-500-mg-capsule",
+    "_source_page": 39
+  },
+  {
+    "name": "AMX",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6465/amx-125-mg-suspension",
+    "_source_page": 39
+  },
+  {
+    "name": "AMX",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6463/amx-250-mg-capsule",
+    "_source_page": 39
+  },
+  {
+    "name": "Amynil",
+    "strength": "2 mg",
+    "generic": "Glimepiride",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5338/amynil-2-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Amynil",
+    "strength": "1 mg",
+    "generic": "Glimepiride",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5337/amynil-1-mg-tablet",
+    "_source_page": 39
+  },
+  {
+    "name": "Amzith",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8546/amzith-250-mg-capsule",
+    "_source_page": 40
+  },
+  {
+    "name": "Amzith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8547/amzith-500-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Amzith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8548/amzith-200-mg-suspension",
+    "_source_page": 40
+  },
+  {
+    "name": "Anabolin",
+    "strength": "25 mg/ml",
+    "generic": "Nandrolone Phenylpropionate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/22721/anabolin-25-mg-injection",
+    "_source_page": 40
+  },
+  {
+    "name": "Anacaine HC",
+    "strength": "0.5% + 3%",
+    "generic": "Hydrocortisone + Lidocaine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/20850/anacaine-hc-05-cream",
+    "_source_page": 40
+  },
+  {
+    "name": "Anacare",
+    "strength": "1 mg",
+    "generic": "Anastrozole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28354/anacare-1-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Anacort",
+    "strength": "100 mg/2 ml",
+    "generic": "Hydrocortisone",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/5779/anacort-100-mg-injection",
+    "_source_page": 40
+  },
+  {
+    "name": "Anadol",
+    "strength": "50 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/10684/anadol-50-mg-capsule",
+    "_source_page": 40
+  },
+  {
+    "name": "Anadol",
+    "strength": "100 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10687/anadol-100-mg-suppository",
+    "_source_page": 40
+  },
+  {
+    "name": "Anadol",
+    "strength": "100 mg/2 ml",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/10686/anadol-100-mg-injection",
+    "_source_page": 40
+  },
+  {
+    "name": "Anadol Plus",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10764/anadol-plus-325-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Anadol SR",
+    "strength": "100 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/10685/anadol-sr-100-mg-capsule",
+    "_source_page": 40
+  },
+  {
+    "name": "Anaflam",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38032/anaflam-400-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Anaflex",
+    "strength": "10% w/w",
+    "generic": "Naproxen Sodium",
+    "company": "ACI Limited",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/11412/anaflex-10-w-gel",
+    "_source_page": 40
+  },
+  {
+    "name": "Anaflex",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11409/anaflex-250-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Anaflex",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11410/anaflex-500-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Anaflex Max",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11537/anaflex-max-500-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Anaflex Max",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11536/anaflex-max-375-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Anaflex SR",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11411/anaflex-sr-500-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Anafranil",
+    "strength": "25 mg",
+    "generic": "Clomipramine Hydrochloride",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4446/anafranil-25-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Analac",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26720/analac-60-mg-injection",
+    "_source_page": 40
+  },
+  {
+    "name": "Analac",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15301/analac-10-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Analac",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15302/analac-30-mg-injection",
+    "_source_page": 40
+  },
+  {
+    "name": "Analgen",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Cosmo Pharma Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29/analgen-100-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Analor",
+    "strength": "10 mg",
+    "generic": "Loratadine",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12190/analor-10-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Analpain",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10400/analpain-120-mg-suspension",
+    "_source_page": 40
+  },
+  {
+    "name": "Analpain",
+    "strength": "80 mg/ml",
+    "generic": "Paracetamol",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/10401/analpain-80-mg-pediatric-drop",
+    "_source_page": 40
+  },
+  {
+    "name": "Analpain",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10399/analpain-500-mg-tablet",
+    "_source_page": 40
+  },
+  {
+    "name": "Anamet",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10070/anamet-200-mg-suspension",
+    "_source_page": 40
+  },
+  {
+    "name": "Anamet",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10069/anamet-400-mg-tablet",
+    "_source_page": 40
+  }
+]

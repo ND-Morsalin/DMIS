@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Farmorubicin",
+    "strength": "2 mg/ml",
+    "generic": "Epirubicin Hydrochloride",
+    "company": "Janata Traders",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17250/farmorubicin-2-mg-injection",
+    "_source_page": 281
+  },
+  {
+    "name": "Farobac",
+    "strength": "200 mg",
+    "generic": "Faropenem",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36667/farobac-200-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Farobac",
+    "strength": "150 mg",
+    "generic": "Faropenem",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36666/farobac-150-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Farobest",
+    "strength": "200 mg",
+    "generic": "Faropenem",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37305/farobest-200-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Farobest",
+    "strength": "150 mg",
+    "generic": "Faropenem",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37304/farobest-150-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Faropen",
+    "strength": "150 mg",
+    "generic": "Faropenem",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37378/faropen-150-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Farpem",
+    "strength": "150 mg",
+    "generic": "Faropenem",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37107/farpem-150-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Farpem",
+    "strength": "200 mg",
+    "generic": "Faropenem",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37108/farpem-200-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Faslodex",
+    "strength": "250 mg/5 ml",
+    "generic": "Fulvestrant",
+    "company": "MGH Healthcare Limited",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/35194/faslodex-250-mg-injection",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast",
+    "strength": "125 mg",
+    "generic": "Paracetamol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10430/fast-125-mg-suppository",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10426/fast-500-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10428/fast-120-mg-suspension",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast",
+    "strength": "80 mg/ml",
+    "generic": "Paracetamol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/10429/fast-80-mg-pediatric-drop",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10432/fast-500-mg-suppository",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast",
+    "strength": "250 mg",
+    "generic": "Paracetamol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10431/fast-250-mg-suppository",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast One",
+    "strength": "1000 mg",
+    "generic": "Paracetamol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36127/fast-one-1000-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast oralsaline-N",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/37688/fast-oralsaline-n-1025-gm-powder",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10584/fast-plus-500-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast Tasty Oral Saline",
+    "strength": null,
+    "generic": "Oral rehydration salt [tasty]",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/37689/fast-tasty-oral-saline-powder",
+    "_source_page": 281
+  },
+  {
+    "name": "Fast XR",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/10427/fast-xr-665-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Fastact",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12925/fastact-120-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Fastact",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/12926/fastact-30-mg-suspension",
+    "_source_page": 281
+  },
+  {
+    "name": "Fastcut",
+    "strength": "30%+8%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10856/fastcut-30-8-cream",
+    "_source_page": 281
+  },
+  {
+    "name": "Fastdol",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10767/fastdol-325-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Fastel",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20383/fastel-180-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Fastel",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20382/fastel-120-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Fastfit",
+    "strength": "1% w/w",
+    "generic": "Diclofenac Sodium",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/34512/fastfit-1-w-gel",
+    "_source_page": 281
+  },
+  {
+    "name": "Fatisol",
+    "strength": "10%",
+    "generic": "Intravenous fat emulsion",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14796/fatisol-10-injection",
+    "_source_page": 281
+  },
+  {
+    "name": "Favigan",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29045/favigan-200-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Favilar",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28860/favilar-200-mg-tablet",
+    "_source_page": 281
+  },
+  {
+    "name": "Favinil",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28621/favinil-200-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Favipir",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28462/favipir-200-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Favipira",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28003/favipira-200-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Favira",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28861/favira-200-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Favirab",
+    "strength": "1000 IU/5 ml",
+    "generic": "Rabies Immunoglobulin",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/15247/favirab-1000-iu-injection",
+    "_source_page": 282
+  },
+  {
+    "name": "Faviravir",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29044/faviravir-200-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Favirest",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30891/favirest-200-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Favitab",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28684/favitab-200-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Favivir",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29489/favivir-200-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Favozyth",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/38577/favozyth-200-mg-suspension",
+    "_source_page": 282
+  },
+  {
+    "name": "Favozyth",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38576/favozyth-500-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Faxan",
+    "strength": "200 mg",
+    "generic": "Rifaximin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8958/faxan-200-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Faxan",
+    "strength": "550 mg",
+    "generic": "Rifaximin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8959/faxan-550-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Faxilin",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6244/faxilin-250-mg-capsule",
+    "_source_page": 282
+  },
+  {
+    "name": "Faxilin",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6245/faxilin-500-mg-capsule",
+    "_source_page": 282
+  },
+  {
+    "name": "Faxilin",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6246/faxilin-125-mg-suspension",
+    "_source_page": 282
+  },
+  {
+    "name": "FBC",
+    "strength": null,
+    "generic": "Iron + Folic acid + Vitamin B complex + Vitamin C",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13230/fbc-capsule",
+    "_source_page": 282
+  },
+  {
+    "name": "FD-120",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32933/fd-120-120-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Fe-Z",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13300/fe-z-150-mg-capsule",
+    "_source_page": 282
+  },
+  {
+    "name": "Febout",
+    "strength": "80 mg",
+    "generic": "Febuxostat",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35525/febout-80-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Febout",
+    "strength": "40 mg",
+    "generic": "Febuxostat",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36862/febout-40-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Febox",
+    "strength": "40 mg",
+    "generic": "Febuxostat",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33112/febox-40-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Febulas",
+    "strength": "40 mg",
+    "generic": "Febuxostat",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11696/febulas-40-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Feburen",
+    "strength": "40 mg",
+    "generic": "Febuxostat",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11698/feburen-40-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Feburen",
+    "strength": "80 mg",
+    "generic": "Febuxostat",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11699/feburen-80-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Febus",
+    "strength": "40 mg",
+    "generic": "Febuxostat",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11682/febus-40-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Febus",
+    "strength": "80 mg",
+    "generic": "Febuxostat",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11683/febus-80-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Febustat",
+    "strength": "80 mg",
+    "generic": "Febuxostat",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11685/febustat-80-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Febustat",
+    "strength": "40 mg",
+    "generic": "Febuxostat",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11684/febustat-40-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Febux",
+    "strength": "40 mg",
+    "generic": "Febuxostat",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11686/febux-40-mg-tablet",
+    "_source_page": 282
+  },
+  {
+    "name": "Febuxit",
+    "strength": "80 mg",
+    "generic": "Febuxostat",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36956/febuxit-80-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Febuxit",
+    "strength": "40 mg",
+    "generic": "Febuxostat",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36955/febuxit-40-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Fecel TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/38052/fecel-tr-150-mg-capsule",
+    "_source_page": 283
+  },
+  {
+    "name": "Fecon BC",
+    "strength": null,
+    "generic": "Iron + Folic acid + Vitamin B complex + Vitamin C",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13231/fecon-bc-capsule",
+    "_source_page": 283
+  },
+  {
+    "name": "Fecon TR",
+    "strength": "150 mg+0.5 mg",
+    "generic": "Ferrous Sulfate + Folic Acid",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13193/fecon-tr-150-mg-capsule",
+    "_source_page": 283
+  },
+  {
+    "name": "Fecon-Z",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13284/fecon-z-150-mg-capsule",
+    "_source_page": 283
+  },
+  {
+    "name": "Fedrin",
+    "strength": "25 mg/5 ml",
+    "generic": "Ephedrine Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/3627/fedrin-25-mg-injection",
+    "_source_page": 283
+  },
+  {
+    "name": "Feel",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35371/feel-10-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Feel",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35372/feel-20-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Feel",
+    "strength": "5 mg",
+    "generic": "Tadalafil",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35370/feel-5-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Feelbe TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13285/feelbe-tr-150-mg-capsule",
+    "_source_page": 283
+  },
+  {
+    "name": "Feelex",
+    "strength": "100 mg",
+    "generic": "Flibanserin",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37167/feelex-100-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Feelfree",
+    "strength": "1.8%+1%+0.4%",
+    "generic": "Lactic acid + Citric acid + Potassium bitartrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Vaginal Gel",
+    "source_url": "https://medex.com.bd/brands/30340/feelfree-18-1-vaginal-gel",
+    "_source_page": 283
+  },
+  {
+    "name": "Feeliz",
+    "strength": "12.5 mg+5 mg",
+    "generic": "Amitriptyline Hydrochloride + Chlordiazepoxide",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34277/feeliz-125-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Feelnor MR",
+    "strength": "35 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/3136/feelnor-mr-35-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Fefa TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13286/fefa-tr-150-mg-capsule",
+    "_source_page": 283
+  },
+  {
+    "name": "Fefun",
+    "strength": "100000 unit/ml",
+    "generic": "Nystatin",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9802/fefun-100000-unit-suspension",
+    "_source_page": 283
+  },
+  {
+    "name": "Feglo-FZ",
+    "strength": "48 mg+0.5 mg+22.5 mg",
+    "generic": "Ferrous Ascorbate + Folic Acid + Zinc Sulfate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31396/feglo-fz-48-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Feglobin",
+    "strength": "200 mg/5 ml",
+    "generic": "Ferrous Sulfate",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/34948/feglobin-200-mg-syrup",
+    "_source_page": 283
+  },
+  {
+    "name": "Fegra",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12928/fegra-120-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Felbo",
+    "strength": "3%",
+    "generic": "Felbinac",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/38617/felbo-3-topical-gel",
+    "_source_page": 283
+  },
+  {
+    "name": "Felo",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11777/felo-10-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Felo",
+    "strength": "5 mg",
+    "generic": "Baclofen",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11776/felo-5-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Feluric",
+    "strength": "40 mg",
+    "generic": "Febuxostat",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11688/feluric-40-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Feluric",
+    "strength": "80 mg",
+    "generic": "Febuxostat",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11689/feluric-80-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Femanol",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4339/femanol-05-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Femara",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15174/femara-25-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Femastin",
+    "strength": "0.1%",
+    "generic": "Estriol (Vaginal)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Vaginal Cream",
+    "source_url": "https://medex.com.bd/brands/5880/femastin-01-vaginal-cream",
+    "_source_page": 283
+  },
+  {
+    "name": "Femastin",
+    "strength": "1 mg",
+    "generic": "Estriol (Oral)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32845/femastin-1-mg-tablet",
+    "_source_page": 283
+  },
+  {
+    "name": "Fematos",
+    "strength": "500 mg/10 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/26551/fematos-500-mg-injection",
+    "_source_page": 283
+  },
+  {
+    "name": "Fematos",
+    "strength": "100 mg/2 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/26550/fematos-100-mg-injection",
+    "_source_page": 284
+  },
+  {
+    "name": "Fematos",
+    "strength": "1 gm/20 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/29127/fematos-1-gm-injection",
+    "_source_page": 284
+  },
+  {
+    "name": "Femavit Forte",
+    "strength": null,
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate + Vitamin B Complex + Vitamin C",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13412/femavit-forte-capsule",
+    "_source_page": 284
+  },
+  {
+    "name": "Femex",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4046/femex-15-mg-syrup",
+    "_source_page": 284
+  },
+  {
+    "name": "Femicap",
+    "strength": "200 mg+200 mcg",
+    "generic": "Ferrous Fumarate + Folic acid",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13164/femicap-200-mg-capsule",
+    "_source_page": 284
+  },
+  {
+    "name": "Femicon",
+    "strength": "0.3 mg+0.03 mg+75 mg",
+    "generic": "Norgestrel + Ethinyl Estradiol + Ferrous Fumarate",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16493/femicon-03-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Femikit",
+    "strength": "200 mg+200 mcg",
+    "generic": "Mifepristone + Misoprostol",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31296/femikit-200-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Feminine",
+    "strength": "1.2% w/v",
+    "generic": "Lactic Acid",
+    "company": "Beauty Formulas",
+    "medicine_type": "Topical Solution",
+    "source_url": "https://medex.com.bd/brands/34896/feminine-12-w-topical-solution",
+    "_source_page": 284
+  },
+  {
+    "name": "Feminor",
+    "strength": "5 mg",
+    "generic": "Norethisterone Acetate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28997/feminor-5-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Femipil",
+    "strength": "0.03 mg+0.15 mg+75 mg",
+    "generic": "Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16494/femipil-003-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Femitab",
+    "strength": "200 mg+200 mcg",
+    "generic": "Ferrous Fumarate + Folic acid",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13165/femitab-200-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Femixit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4340/femixit-05-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Femoston",
+    "strength": "1 mg+5 mg",
+    "generic": "Estradiol + Dydrogesterone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36208/femoston-1-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Femoston",
+    "strength": "2 mg+10 mg",
+    "generic": "Estradiol + Dydrogesterone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36203/femoston-2-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Femoston",
+    "strength": "1 mg+10 mg",
+    "generic": "Estradiol + Dydrogesterone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36202/femoston-1-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Femotol",
+    "strength": "30 mg",
+    "generic": "Ferric Maltol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37081/femotol-30-mg-capsule",
+    "_source_page": 284
+  },
+  {
+    "name": "Femroz",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37071/femroz-25-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Femzole",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15181/femzole-25-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenaaf",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36488/fenaaf-100-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenacin",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17373/fenacin-100-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenadin",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/12085/fenadin-30-mg-suspension",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenadin",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12083/fenadin-120-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenadin",
+    "strength": "60 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12082/fenadin-60-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenadin",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12084/fenadin-180-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenadin ODT",
+    "strength": "30 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/38441/fenadin-odt-30-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenafex",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34880/fenafex-120-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenafex",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/34881/fenafex-30-mg-suspension",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenamic",
+    "strength": "50 mg/5 ml",
+    "generic": "Mefenamic acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/11389/fenamic-50-mg-suspension",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenargic",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27805/fenargic-120-mg-tablet",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenasol",
+    "strength": "0.09%",
+    "generic": "Bromfenac Sodium",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28950/fenasol-009-eye-drop",
+    "_source_page": 284
+  },
+  {
+    "name": "Fenat",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3719/fenat-1-mg-syrup",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenat",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3718/fenat-1-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenat",
+    "strength": "0.025%",
+    "generic": "Ketotifen Fumarate (Ophthalmic)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15947/fenat-0025-eye-drop",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenaton",
+    "strength": "500 mg",
+    "generic": "Mefenamic acid",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11390/fenaton-500-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenatrol",
+    "strength": "145 mg",
+    "generic": "Fenofibrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3337/fenatrol-145-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenaxo",
+    "strength": "60 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12929/fenaxo-60-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenaxo",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20354/fenaxo-120-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenaxo",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20355/fenaxo-180-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenaxo",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/20356/fenaxo-30-mg-suspension",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenazine",
+    "strength": "25 mg/ml",
+    "generic": "Fluphenazine Decanoate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/SC Injection",
+    "source_url": "https://medex.com.bd/brands/4300/fenazine-25-mg-injection",
+    "_source_page": 285
+  },
+  {
+    "name": "Fendex",
+    "strength": "300 mg",
+    "generic": "Dexibuprofen",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38053/fendex-300-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fendex",
+    "strength": "400 mg",
+    "generic": "Dexibuprofen",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38054/fendex-400-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenexi",
+    "strength": "400 mg",
+    "generic": "Dexibuprofen",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34963/fenexi-400-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fengel",
+    "strength": "1% w/w",
+    "generic": "Diclofenac Sodium",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/11010/fengel-1-w-gel",
+    "_source_page": 285
+  },
+  {
+    "name": "Fengel",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11011/fengel-50-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fengel SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11012/fengel-sr-100-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenidone",
+    "strength": "801 mg",
+    "generic": "Pirfenidone",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33463/fenidone-801-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenidone",
+    "strength": "267 mg",
+    "generic": "Pirfenidone",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33462/fenidone-267-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenimex",
+    "strength": "45.5 mg/2 ml",
+    "generic": "Pheniramine Maleate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30425/fenimex-455-mg-injection",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenimex",
+    "strength": "45.5 mg/2 ml",
+    "generic": "Pheniramine Maleate",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/38055/fenimex-455-mg-injection",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenitab",
+    "strength": "200 mg",
+    "generic": "Sorafenib Tosylate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29799/fenitab-200-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenobac",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11725/fenobac-10-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenobac",
+    "strength": "5 mg/5 ml",
+    "generic": "Baclofen",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/11779/fenobac-5-mg-oral-solution",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenobac",
+    "strength": "5 mg",
+    "generic": "Baclofen",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11724/fenobac-5-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenobate",
+    "strength": "200 mg",
+    "generic": "Fenofibrate",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/20172/fenobate-200-mg-capsule",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenocap",
+    "strength": "200 mg",
+    "generic": "Fenofibrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/3339/fenocap-200-mg-capsule",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenocol",
+    "strength": "200 mg",
+    "generic": "Fenofibrate",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/3340/fenocol-200-mg-capsule",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenofex",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12090/fenofex-180-mg-tablet",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenofex",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/12091/fenofex-30-mg-suspension",
+    "_source_page": 285
+  },
+  {
+    "name": "Fenofex",
+    "strength": "60 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12088/fenofex-60-mg-tablet",
+    "_source_page": 285
+  }
+]

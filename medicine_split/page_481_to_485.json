@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Mypril",
+    "strength": "5 mg",
+    "generic": "Ramipril",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24068/mypril-5-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "Myrica",
+    "strength": "50 mg",
+    "generic": "Pregabalin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4987/myrica-50-mg-capsule",
+    "_source_page": 481
+  },
+  {
+    "name": "Myrica",
+    "strength": "75 mg",
+    "generic": "Pregabalin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4988/myrica-75-mg-capsule",
+    "_source_page": 481
+  },
+  {
+    "name": "Myrica",
+    "strength": "100 mg",
+    "generic": "Pregabalin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4989/myrica-100-mg-capsule",
+    "_source_page": 481
+  },
+  {
+    "name": "Myrica",
+    "strength": "25 mg",
+    "generic": "Pregabalin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30097/myrica-25-mg-capsule",
+    "_source_page": 481
+  },
+  {
+    "name": "Myrica ER",
+    "strength": "82.5 mg",
+    "generic": "Pregabalin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/38599/myrica-er-825-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "Myrica ER",
+    "strength": "330 mg",
+    "generic": "Pregabalin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/38600/myrica-er-330-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "Myrox",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4061/myrox-15-mg-syrup",
+    "_source_page": 481
+  },
+  {
+    "name": "Myrox",
+    "strength": "6 mg/ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/4062/myrox-6-mg-pediatric-drop",
+    "_source_page": 481
+  },
+  {
+    "name": "Myrox SR",
+    "strength": "75 mg",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/32311/myrox-sr-75-mg-capsule",
+    "_source_page": 481
+  },
+  {
+    "name": "Mystacin",
+    "strength": "10 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11839/mystacin-10-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "Mystacin",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30818/mystacin-2-mg-syrup",
+    "_source_page": 481
+  },
+  {
+    "name": "Mystatin",
+    "strength": "500000 unit",
+    "generic": "Nystatin",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9814/mystatin-500000-unit-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "Mystatin",
+    "strength": "100000 unit/ml",
+    "generic": "Nystatin",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9815/mystatin-100000-unit-suspension",
+    "_source_page": 481
+  },
+  {
+    "name": "Mystocal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14316/mystocal-500-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "Mystrum",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14105/mystrum-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "Mysulin",
+    "strength": "30%+70% in 100 IU/ml",
+    "generic": "Regular Insulin Human + Isophane Insulin Human",
+    "company": "Drug International Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/24683/mysulin-30-70-injection",
+    "_source_page": 481
+  },
+  {
+    "name": "Mysulin",
+    "strength": "50%+50% in 100 IU/ml",
+    "generic": "Regular Insulin Human + Isophane Insulin Human",
+    "company": "Drug International Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/28379/mysulin-50-50-injection",
+    "_source_page": 481
+  },
+  {
+    "name": "Mysulin R",
+    "strength": "40 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Drug International Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/33510/mysulin-r-40-iu-injection",
+    "_source_page": 481
+  },
+  {
+    "name": "Mysulin R",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Drug International Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/33511/mysulin-r-100-iu-injection",
+    "_source_page": 481
+  },
+  {
+    "name": "Mythrocin",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/33611/mythrocin-125-mg-suspension",
+    "_source_page": 481
+  },
+  {
+    "name": "Mytil",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/36389/mytil-4-mg-syrup",
+    "_source_page": 481
+  },
+  {
+    "name": "Mytus",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Glargine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/34802/mytus-100-iu-injection",
+    "_source_page": 481
+  },
+  {
+    "name": "Myzid",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8660/myzid-250-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "Myzid",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8661/myzid-500-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "N Hexin",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30679/n-hexin-4-mg-syrup",
+    "_source_page": 481
+  },
+  {
+    "name": "N Zith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8662/n-zith-500-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "N-ASPA",
+    "strength": "40 mg",
+    "generic": "Drotaverine Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35634/n-aspa-40-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "N-bion",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13654/n-bion-100-mg-tablet",
+    "_source_page": 481
+  },
+  {
+    "name": "N-bion",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/28491/n-bion-100-mg-injection",
+    "_source_page": 481
+  },
+  {
+    "name": "N-Fenac TS",
+    "strength": "0.3%",
+    "generic": "Nepafenac",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/29365/n-fenac-ts-03-suspension",
+    "_source_page": 482
+  },
+  {
+    "name": "N-Mycin",
+    "strength": "5%",
+    "generic": "Natamycin",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15717/n-mycin-5-suspension",
+    "_source_page": 482
+  },
+  {
+    "name": "N-Proton",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/32548/n-proton-500-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "N-Sol",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/14873/n-sol-09-nasal-drop",
+    "_source_page": 482
+  },
+  {
+    "name": "N-Sol 5",
+    "strength": "5%",
+    "generic": "Sodium Chloride (Ophthalmic)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28463/n-sol-5-5-eye-drop",
+    "_source_page": 482
+  },
+  {
+    "name": "N-Vit",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "MST Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13685/n-vit-100-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Naafboost",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28802/naafboost-syrup",
+    "_source_page": 482
+  },
+  {
+    "name": "Naafcal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25752/naafcal-d-500-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Naafcal-DS",
+    "strength": "600 mg+400 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18449/naafcal-ds-600-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Naafco Orsaline",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/23200/naafco-orsaline-1025-gm-powder",
+    "_source_page": 482
+  },
+  {
+    "name": "Naafvit AZ",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28063/naafvit-az-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Naafvit BZ",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/25293/naafvit-bz-syrup",
+    "_source_page": 482
+  },
+  {
+    "name": "Naafzinc-DS",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28789/naafzinc-ds-20-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Naafzinc-DS",
+    "strength": "20 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28790/naafzinc-ds-20-mg-syrup",
+    "_source_page": 482
+  },
+  {
+    "name": "Nab-Xelpac",
+    "strength": "100 mg/vial",
+    "generic": "Nab-Paclitaxel [Nanoparticle Albumin-Bound Paclitaxel]",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17260/nab-xelpac-100-mg-injection",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabu",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31430/nabu-500-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabu",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31431/nabu-750-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabufast",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37059/nabufast-500-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabufen",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36316/nabufen-500-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabufen",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36317/nabufen-750-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabuflex",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35485/nabuflex-750-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabuflex",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35486/nabuflex-500-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabulex",
+    "strength": "20 mg/2 ml",
+    "generic": "Nalbuphine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/10680/nabulex-20-mg-injection",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabumax",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32804/nabumax-500-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabumax",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32805/nabumax-750-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabumet",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28412/nabumet-500-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabumet",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28413/nabumet-750-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabumet",
+    "strength": "1000 mg",
+    "generic": "Nabumetone",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34133/nabumet-1000-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabuton",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31432/nabuton-750-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nabuton",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31433/nabuton-500-mg-tablet",
+    "_source_page": 482
+  },
+  {
+    "name": "Nacid",
+    "strength": "20 mg",
+    "generic": "Famotidine",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1669/nacid-20-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Naclitab",
+    "strength": "300 mg",
+    "generic": "Sodium Chloride (Tablet)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35500/naclitab-300-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Naclitab",
+    "strength": "600 mg",
+    "generic": "Sodium Chloride (Tablet)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35501/naclitab-600-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Nacrom",
+    "strength": "2%",
+    "generic": "Sodium Cromoglicate [2%]",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/3695/nacrom-2-eye-drop",
+    "_source_page": 483
+  },
+  {
+    "name": "Nacsol",
+    "strength": "600 mg",
+    "generic": "Acetylcysteine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/115/nacsol-600-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Nadox",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "National Drug Co. Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36992/nadox-100-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Naf",
+    "strength": "100000 unit/ml",
+    "generic": "Nystatin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9806/naf-100000-unit-suspension",
+    "_source_page": 483
+  },
+  {
+    "name": "Nafex",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20344/nafex-180-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Nafex",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20345/nafex-120-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Nafgal",
+    "strength": "2%",
+    "generic": "Naftifine Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/26058/nafgal-2-cream",
+    "_source_page": 483
+  },
+  {
+    "name": "Nafinex",
+    "strength": "2%",
+    "generic": "Naftifine Hydrochloride",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34663/nafinex-2-cream",
+    "_source_page": 483
+  },
+  {
+    "name": "Nafodil",
+    "strength": "100 mg",
+    "generic": "Naftidrofuryl Oxalate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32268/nafodil-100-mg-capsule",
+    "_source_page": 483
+  },
+  {
+    "name": "Naftifun",
+    "strength": "2%",
+    "generic": "Naftifine Hydrochloride",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31249/naftifun-2-cream",
+    "_source_page": 483
+  },
+  {
+    "name": "Naftin",
+    "strength": "2%",
+    "generic": "Naftifine Hydrochloride",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/9085/naftin-2-cream",
+    "_source_page": 483
+  },
+  {
+    "name": "Naftol",
+    "strength": "75 mg",
+    "generic": "Naftopidil",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38223/naftol-75-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Naftol",
+    "strength": "50 mg",
+    "generic": "Naftopidil",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38224/naftol-50-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Naftol",
+    "strength": "25 mg",
+    "generic": "Naftopidil",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38225/naftol-25-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Naid",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11426/naid-250-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Naid",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11427/naid-500-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalbun",
+    "strength": "10 mg/ml",
+    "generic": "Nalbuphine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/10675/nalbun-10-mg-injection",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalbun",
+    "strength": "20 mg/2 ml",
+    "generic": "Nalbuphine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28275/nalbun-20-mg-injection",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalbun DS",
+    "strength": "20 mg/ml",
+    "generic": "Nalbuphine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/22701/nalbun-ds-20-mg-injection",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalbutin",
+    "strength": "10 mg/ml",
+    "generic": "Nalbuphine",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/10676/nalbutin-10-mg-injection",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalbutin",
+    "strength": "20 mg/2 ml",
+    "generic": "Nalbuphine",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/32312/nalbutin-20-mg-injection",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalepsin",
+    "strength": "4 gm/100 ml",
+    "generic": "Magnesium Sulfate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14546/nalepsin-4-gm-injection",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalid",
+    "strength": "300 mg/5 ml",
+    "generic": "Nalidixic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/15543/nalid-300-mg-suspension",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalidex",
+    "strength": "500 mg",
+    "generic": "Nalidixic Acid",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15538/nalidex-500-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalidex",
+    "strength": "250 mg/5 ml",
+    "generic": "Nalidixic Acid",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/15539/nalidex-250-mg-suspension",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalidixin",
+    "strength": "500 mg",
+    "generic": "Nalidixic Acid",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15540/nalidixin-500-mg-tablet",
+    "_source_page": 483
+  },
+  {
+    "name": "Nalidixin",
+    "strength": "300 mg/5 ml",
+    "generic": "Nalidixic Acid",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/15541/nalidixin-300-mg-suspension",
+    "_source_page": 483
+  },
+  {
+    "name": "Naligram",
+    "strength": "500 mg",
+    "generic": "Nalidixic Acid",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15544/naligram-500-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Naligram",
+    "strength": "300 mg/5 ml",
+    "generic": "Nalidixic Acid",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/15545/naligram-300-mg-suspension",
+    "_source_page": 484
+  },
+  {
+    "name": "Nalipsy",
+    "strength": "200 mg",
+    "generic": "Sodium Valproate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24619/nalipsy-200-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Nalitrum",
+    "strength": "300 mg/5 ml",
+    "generic": "Nalidixic Acid",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/15548/nalitrum-300-mg-suspension",
+    "_source_page": 484
+  },
+  {
+    "name": "Nalphin",
+    "strength": "10 mg/ml",
+    "generic": "Nalbuphine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/10677/nalphin-10-mg-injection",
+    "_source_page": 484
+  },
+  {
+    "name": "Nalphin",
+    "strength": "20 mg/2 ml",
+    "generic": "Nalbuphine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26524/nalphin-20-mg-injection",
+    "_source_page": 484
+  },
+  {
+    "name": "Nalphin",
+    "strength": "20 mg/ml",
+    "generic": "Nalbuphine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28276/nalphin-20-mg-injection",
+    "_source_page": 484
+  },
+  {
+    "name": "Nalzin",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29549/nalzin-5-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Nalzin",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29550/nalzin-10-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Nameton",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34863/nameton-500-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Nameton",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34864/nameton-750-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Namicin",
+    "strength": "0.3%",
+    "generic": "Lomefloxacin",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9601/namicin-03-eye-drop",
+    "_source_page": 484
+  },
+  {
+    "name": "Namitol",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11637/namitol-200-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "NAN",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11428/nan-500-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Nandron",
+    "strength": "50 mg/ml",
+    "generic": "Nandrolone Decanoate",
+    "company": "Renata PLC",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/5949/nandron-50-mg-injection",
+    "_source_page": 484
+  },
+  {
+    "name": "Nandron",
+    "strength": "25 mg/ml",
+    "generic": "Nandrolone Phenylpropionate",
+    "company": "Renata PLC",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/22724/nandron-25-mg-injection",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10452/napa-500-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa",
+    "strength": "80 mg/ml",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/10457/napa-80-mg-pediatric-drop",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa",
+    "strength": "125 mg",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10459/napa-125-mg-suppository",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa",
+    "strength": "250 mg",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10460/napa-250-mg-suppository",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa",
+    "strength": "10 mg/ml",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/10461/napa-10-mg-injection",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/23402/napa-500-mg-suppository",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28439/napa-120-mg-syrup",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa Extend",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/10454/napa-extend-665-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa Extra",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10592/napa-extra-500-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa One",
+    "strength": "1000 mg",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28639/napa-one-1000-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Napa Rapid (Actizorb)",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23405/napa-rapid-actizorb-500-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "NapaDol",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10768/napadol-325-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Napasin",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11535/napasin-250-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Napaxin Plus",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/37665/napaxin-plus-375-mg-tablet",
+    "_source_page": 484
+  },
+  {
+    "name": "Napcon",
+    "strength": "0.025%+0.3%",
+    "generic": "Naphazoline Hydrochloride + Pheniramine Maleate",
+    "company": "ACI Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/17080/napcon-0025-03-eye-drop",
+    "_source_page": 485
+  },
+  {
+    "name": "Napdas",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/37065/napdas-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "NapExa",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11593/napexa-375-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "NapExa",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11594/napexa-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napgin",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28928/napgin-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napgin Plus",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/31136/napgin-plus-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napgin Plus",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/37908/napgin-plus-375-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napguard",
+    "strength": "40%",
+    "generic": "Zinc Oxide [For diaper rash]",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12751/napguard-40-ointment",
+    "_source_page": 485
+  },
+  {
+    "name": "Naphalon",
+    "strength": "0.005%+0.02%",
+    "generic": "Naphazoline + Zinc Sulfate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16008/naphalon-0005-002-eye-drop",
+    "_source_page": 485
+  },
+  {
+    "name": "Napier",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11429/napier-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napier Plus",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/37425/napier-plus-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napilax",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37364/napilax-10-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napilax",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37365/napilax-5-mg-oral-solution",
+    "_source_page": 485
+  },
+  {
+    "name": "Napix",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11432/napix-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napolin",
+    "strength": "0.025%+0.3%",
+    "generic": "Naphazoline Hydrochloride + Pheniramine Maleate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/33720/napolin-0025-03-eye-drop",
+    "_source_page": 485
+  },
+  {
+    "name": "Napoxen",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11433/napoxen-250-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napoxen",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11434/napoxen-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napoxol",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Centeon Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22738/napoxol-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napren",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27870/napren-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napren ES",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/27869/napren-es-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napreso",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/29079/napreso-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napro",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11435/napro-250-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napro",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11436/napro-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napro-A",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11437/napro-a-250-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napro-A",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11438/napro-a-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napro-A Plus",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11549/napro-a-plus-375-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Napro-A Plus",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11550/napro-a-plus-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Naproben",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11523/naproben-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Naproben Plus",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/22779/naproben-plus-500-mg-tablet",
+    "_source_page": 485
+  },
+  {
+    "name": "Naprocid",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11440/naprocid-500-mg-tablet",
+    "_source_page": 485
+  }
+]

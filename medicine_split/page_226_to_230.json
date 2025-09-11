@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Doxizen",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8351/doxizen-100-mg-capsule",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxobid",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16454/doxobid-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxobid",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27766/doxobid-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxobron",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27332/doxobron-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxobron",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27331/doxobron-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxobron",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/34608/doxobron-100-mg-syrup",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxocontin",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/27025/doxocontin-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxofast",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33337/doxofast-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxofast",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33338/doxofast-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxofyl",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26465/doxofyl-100-mg-syrup",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxofyl",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26464/doxofyl-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxofyl",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26463/doxofyl-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxofyl SR",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/29021/doxofyl-sr-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxofylline",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35578/doxofylline-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxofylline",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35579/doxofylline-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxolar",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28988/doxolar-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxolar",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28987/doxolar-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxolator",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26723/doxolator-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxolator",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26722/doxolator-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxolator",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26724/doxolator-100-mg-syrup",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxoma",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16455/doxoma-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxoma",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26614/doxoma-100-mg-syrup",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxoma",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26613/doxoma-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxomate",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31352/doxomate-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxomate",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31351/doxomate-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxonil",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/32011/doxonil-100-mg-syrup",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxonil",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32010/doxonil-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxonorm",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34010/doxonorm-200-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxorif",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27960/doxorif-400-mg-tablet",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxorif",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27961/doxorif-100-mg-syrup",
+    "_source_page": 226
+  },
+  {
+    "name": "Doxorif",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27959/doxorif-200-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxorin",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/29350/doxorin-100-mg-syrup",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxorin",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27044/doxorin-400-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxorin",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27043/doxorin-200-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxorin SR",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/29517/doxorin-sr-400-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxorub",
+    "strength": "2 mg/ml",
+    "generic": "Doxorubicin Hydrochloride",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15028/doxorub-2-mg-injection",
+    "_source_page": 227
+  },
+  {
+    "name": "DOXOrubicin Hydrochloride Liposome",
+    "strength": "20 mg/10 ml",
+    "generic": "Doxorubicin Hydrochloride Liposome",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35327/doxorubicin-hydrochloride-liposome-20-mg-injection",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxorubicin PhaRes",
+    "strength": "2 mg/ml",
+    "generic": "Doxorubicin Hydrochloride",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/33956/doxorubicin-phares-2-mg-injection",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxorubicin SDZ",
+    "strength": "2 mg/ml",
+    "generic": "Doxorubicin Hydrochloride",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15030/doxorubicin-sdz-2-mg-injection",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxostar",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38446/doxostar-400-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxostar",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38445/doxostar-200-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxotor",
+    "strength": "2 mg/ml",
+    "generic": "Doxorubicin Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29798/doxotor-2-mg-injection",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxoven",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16456/doxoven-400-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxoven",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26390/doxoven-100-mg-syrup",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxoven",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26389/doxoven-200-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxoven SR",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/34835/doxoven-sr-400-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxovia",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38601/doxovia-400-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxovia",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/38602/doxovia-100-mg-syrup",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxovia",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38597/doxovia-200-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxpro",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27402/doxpro-100-mg-capsule",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxrid",
+    "strength": "10 mg+10 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/38184/doxrid-10-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxrid DS",
+    "strength": "20 mg+20 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/38185/doxrid-ds-20-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxseem",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8352/doxseem-100-mg-capsule",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxy-A",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8353/doxy-a-100-mg-capsule",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxycin",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8373/doxycin-100-mg-capsule",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxylin",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8379/doxylin-100-mg-capsule",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxysina",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8355/doxysina-100-mg-capsule",
+    "_source_page": 227
+  },
+  {
+    "name": "Doxyson",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8356/doxyson-100-mg-capsule",
+    "_source_page": 227
+  },
+  {
+    "name": "DP-Done",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1568/dp-done-5-mg-suspension",
+    "_source_page": 227
+  },
+  {
+    "name": "DP-Done",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1567/dp-done-10-mg-tablet",
+    "_source_page": 227
+  },
+  {
+    "name": "Dricare",
+    "strength": "20%",
+    "generic": "Aluminium Chloride Hexahydrate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Solution",
+    "source_url": "https://medex.com.bd/brands/447/dricare-20-topical-solution",
+    "_source_page": 228
+  },
+  {
+    "name": "Drikof",
+    "strength": "10 mg/5 ml",
+    "generic": "Dextromethorphan Hydrobromide",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/19764/drikof-10-mg-syrup",
+    "_source_page": 228
+  },
+  {
+    "name": "Dro-SPA",
+    "strength": "40 mg",
+    "generic": "Drotaverine Hydrochloride",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37651/dro-spa-40-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Drometa",
+    "strength": "4 mg/5 ml",
+    "generic": "Zoledronic Acid [For hypercalcemia]",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14947/drometa-4-mg-injection",
+    "_source_page": 228
+  },
+  {
+    "name": "Droniva",
+    "strength": "150 mg",
+    "generic": "Ibandronic Acid",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29018/droniva-150-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Droscon",
+    "strength": "3 mg+0.03 mg",
+    "generic": "Drospirenone + Ethinyl Estradiol (0.03 mg)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29385/droscon-3-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Droslyn",
+    "strength": "4 mg",
+    "generic": "Drospirenone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32397/droslyn-4-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Drospi",
+    "strength": "4 mg",
+    "generic": "Drospirenone",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29500/drospi-4-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Drota",
+    "strength": "40 mg",
+    "generic": "Drotaverine Hydrochloride",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1386/drota-40-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Drotapan",
+    "strength": "40 mg",
+    "generic": "Drotaverine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30160/drotapan-40-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Droxigel Plus",
+    "strength": "(200 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/28128/droxigel-plus-200-mg-suspension",
+    "_source_page": 228
+  },
+  {
+    "name": "Droxigel Plus",
+    "strength": "200 mg+200 mg+30 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/498/droxigel-plus-200-mg-chewable-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Droxil",
+    "strength": "500 mg",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6749/droxil-500-mg-capsule",
+    "_source_page": 228
+  },
+  {
+    "name": "Droxil",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/27801/droxil-125-mg-pediatric-drop",
+    "_source_page": 228
+  },
+  {
+    "name": "Droxil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27800/droxil-125-mg-suspension",
+    "_source_page": 228
+  },
+  {
+    "name": "DRT",
+    "strength": "60 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/38699/drt-60-mg-capsule",
+    "_source_page": 228
+  },
+  {
+    "name": "DRT",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/38698/drt-30-mg-capsule",
+    "_source_page": 228
+  },
+  {
+    "name": "Drucil",
+    "strength": "25 mg/ml",
+    "generic": "Fluorouracil",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/17350/drucil-25-mg-injection",
+    "_source_page": 228
+  },
+  {
+    "name": "Drycofix",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/31612/drycofix-75-mg-syrup",
+    "_source_page": 228
+  },
+  {
+    "name": "Drycofix SR",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/37179/drycofix-sr-50-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Drylief",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16154/drylief-1-eye-drop",
+    "_source_page": 228
+  },
+  {
+    "name": "Drylief SUD",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36349/drylief-sud-1-eye-drop",
+    "_source_page": 228
+  },
+  {
+    "name": "Dsec",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/26615/dsec-30-mg-capsule",
+    "_source_page": 228
+  },
+  {
+    "name": "Dsec",
+    "strength": "60 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/26616/dsec-60-mg-capsule",
+    "_source_page": 228
+  },
+  {
+    "name": "Dsec MUPS",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "MUPS Tablet",
+    "source_url": "https://medex.com.bd/brands/38528/dsec-mups-30-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Dual",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10580/dual-500-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Dualin",
+    "strength": "5 mg",
+    "generic": "Linagliptin",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38286/dualin-5-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Dualvir",
+    "strength": "90 mg+400 mg",
+    "generic": "Ledipasvir + Sofosbuvir",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21424/dualvir-90-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Dudon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1569/dudon-10-mg-tablet",
+    "_source_page": 228
+  },
+  {
+    "name": "Dudon",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1570/dudon-5-mg-suspension",
+    "_source_page": 228
+  },
+  {
+    "name": "Duet",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10581/duet-500-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Dulac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/21355/dulac-335-gm-oral-solution",
+    "_source_page": 229
+  },
+  {
+    "name": "Dulamet",
+    "strength": "(200 mcg+5 mcg)/puff",
+    "generic": "Mometasone Furoate + Formoterol Fumarate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/29995/dulamet-200-mcg-inhaler",
+    "_source_page": 229
+  },
+  {
+    "name": "Dulamet",
+    "strength": "(100 mcg+5 mcg)/puff",
+    "generic": "Mometasone Furoate + Formoterol Fumarate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/29994/dulamet-100-mcg-inhaler",
+    "_source_page": 229
+  },
+  {
+    "name": "Dulong",
+    "strength": "30 mg",
+    "generic": "Dapoxetine Hydrochloride",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19677/dulong-30-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Dulox",
+    "strength": "30 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/4498/dulox-30-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Dulox",
+    "strength": "20 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/4497/dulox-20-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duloxen",
+    "strength": "60 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/32352/duloxen-60-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duloxen",
+    "strength": "30 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/4500/duloxen-30-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duloxen",
+    "strength": "20 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/4499/duloxen-20-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Dumaflox",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9257/dumaflox-250-mg-suspension",
+    "_source_page": 229
+  },
+  {
+    "name": "Dumaflox",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9256/dumaflox-750-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Dumaflox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9255/dumaflox-500-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Dumaflox",
+    "strength": "250 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9254/dumaflox-250-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Dumax",
+    "strength": "60 mg",
+    "generic": "Dapoxetine Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16396/dumax-60-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Dumax",
+    "strength": "30 mg",
+    "generic": "Dapoxetine Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16395/dumax-30-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Dumeg",
+    "strength": "500 mg",
+    "generic": "Imeglimin Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36625/dumeg-500-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duo-5",
+    "strength": "200 mg+125 mg",
+    "generic": "Cefpodoxime Proxetil + Clavulanic Acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16362/duo-5-200-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duo-5 LS",
+    "strength": "100 mg+62.5 mg",
+    "generic": "Cefpodoxime Proxetil + Clavulanic Acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16361/duo-5-ls-100-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duoblock",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17757/duoblock-5-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duoblock",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17758/duoblock-5-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duocard",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25982/duocard-10-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duocard",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25981/duocard-5-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duocid",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/33882/duocid-480-mg-suspension",
+    "_source_page": 229
+  },
+  {
+    "name": "Duodart",
+    "strength": "0.4 mg+0.5 mg",
+    "generic": "Tamsulosin Hydrochloride + Dutasteride",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32890/duodart-04-mg-capsule",
+    "_source_page": 229
+  },
+  {
+    "name": "Duofast",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34142/duofast-5-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duofast",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34143/duofast-5-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duofilm",
+    "strength": "16.7%+16.7%",
+    "generic": "Salicylic Acid + Lactic Acid",
+    "company": "Stiefel Laboratories Ltd.",
+    "medicine_type": "Topical Solution",
+    "source_url": "https://medex.com.bd/brands/13071/duofilm-167-167-topical-solution",
+    "_source_page": 229
+  },
+  {
+    "name": "Duofix",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11582/duofix-375-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duofix",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11583/duofix-500-mg-tablet",
+    "_source_page": 229
+  },
+  {
+    "name": "Duolax",
+    "strength": "(300 mg+1.25 ml)/5 ml",
+    "generic": "Magnesium Hydroxide + Liquid Paraffin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Emulsion",
+    "source_url": "https://medex.com.bd/brands/21967/duolax-300-mg-emulsion",
+    "_source_page": 230
+  },
+  {
+    "name": "Duoliv",
+    "strength": "5 mg",
+    "generic": "Obeticholic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35156/duoliv-5-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Duoliv",
+    "strength": "10 mg",
+    "generic": "Obeticholic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35157/duoliv-10-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Duomeal",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/17506/duomeal-175-mg-suspension",
+    "_source_page": 230
+  },
+  {
+    "name": "Duomeal Plus",
+    "strength": "(200 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/36134/duomeal-plus-200-mg-suspension",
+    "_source_page": 230
+  },
+  {
+    "name": "Duopres",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17765/duopres-5-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Duopres",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17766/duopres-5-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Duotide",
+    "strength": "25 mcg+62.5 mcg",
+    "generic": "Vilanterol Trifenatate + Umeclidinium Bromide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/34458/duotide-25-mcg-inhalation-capsule",
+    "_source_page": 230
+  },
+  {
+    "name": "Duovas",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30507/duovas-5-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Duovas",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17772/duovas-5-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Dupalaki",
+    "strength": "100 mg",
+    "generic": "Ciprofibrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34927/dupalaki-100-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Duphalac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Abbott Laboratories",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37936/duphalac-335-gm-oral-solution",
+    "_source_page": 230
+  },
+  {
+    "name": "Duphaston",
+    "strength": "10 mg",
+    "generic": "Dydrogesterone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5897/duphaston-10-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Durabolin",
+    "strength": "25 mg/ml",
+    "generic": "Nandrolone Phenylpropionate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/22723/durabolin-25-mg-injection",
+    "_source_page": 230
+  },
+  {
+    "name": "Duracain",
+    "strength": "0.5%+8%",
+    "generic": "Bupivacaine Hydrochloride + Dextrose",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Intraspinal Injection",
+    "source_url": "https://medex.com.bd/brands/15528/duracain-05-8-injection",
+    "_source_page": 230
+  },
+  {
+    "name": "Duracef",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7548/duracef-400-mg-capsule",
+    "_source_page": 230
+  },
+  {
+    "name": "Duracef",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7549/duracef-100-mg-suspension",
+    "_source_page": 230
+  },
+  {
+    "name": "Duracef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7547/duracef-200-mg-capsule",
+    "_source_page": 230
+  },
+  {
+    "name": "Duracef",
+    "strength": "25 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/18774/duracef-25-mg-pediatric-drop",
+    "_source_page": 230
+  },
+  {
+    "name": "Duracef DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18773/duracef-ds-200-mg-suspension",
+    "_source_page": 230
+  },
+  {
+    "name": "Duracef Max",
+    "strength": "500 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/29785/duracef-max-500-mg-suspension",
+    "_source_page": 230
+  },
+  {
+    "name": "Duralax",
+    "strength": "5 mg",
+    "generic": "Bisacodyl",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2367/duralax-5-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Duratocin",
+    "strength": "100 mcg/ml",
+    "generic": "Carbetocin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/16541/duratocin-100-mcg-injection",
+    "_source_page": 230
+  },
+  {
+    "name": "Durazol",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/308/durazol-400-mg-chewable-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Durazol",
+    "strength": "200 mg/5 ml",
+    "generic": "Albendazole",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/307/durazol-200-mg-suspension",
+    "_source_page": 230
+  },
+  {
+    "name": "Durevolis",
+    "strength": "5 mg",
+    "generic": "Tadalafil",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34265/durevolis-5-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Durevolis",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34263/durevolis-10-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Durevolis",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34266/durevolis-20-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Duric",
+    "strength": "100 mg",
+    "generic": "Allopurinol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/184/duric-100-mg-tablet",
+    "_source_page": 230
+  },
+  {
+    "name": "Durogesic",
+    "strength": "25 mcg/hour",
+    "generic": "Fentanyl Citrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Transdermal Patch",
+    "source_url": "https://medex.com.bd/brands/15464/durogesic-25-mcg-patch",
+    "_source_page": 230
+  }
+]

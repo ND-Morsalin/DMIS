@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Hemorif DS",
+    "strength": "900 mg+100 mg",
+    "generic": "Diosmin + Hesperidin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26260/hemorif-ds-900-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemorise",
+    "strength": "1 gm/20 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/29388/hemorise-1-gm-injection",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemorise",
+    "strength": "500 mg/10 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/29387/hemorise-500-mg-injection",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemorise",
+    "strength": "100 mg/2 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/29386/hemorise-100-mg-injection",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemosin",
+    "strength": "1 gm/5 ml",
+    "generic": "Aminocaproic acid",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/3369/hemosin-1-gm-injection",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemosol-A",
+    "strength": null,
+    "generic": "Acidic component [HCO3 Hemodialysis Solution]",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dialysis Solution",
+    "source_url": "https://medex.com.bd/brands/27512/hemosol-a-dialysis-solution",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemosol-B",
+    "strength": null,
+    "generic": "Bicarbonate Component [HCO3 Hemodialysis Solution]",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dialysis Solution",
+    "source_url": "https://medex.com.bd/brands/27513/hemosol-b-dialysis-solution",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemostat",
+    "strength": "500 mg",
+    "generic": "Tranexamic Acid",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/3317/hemostat-500-mg-capsule",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemostop",
+    "strength": "500 mg",
+    "generic": "Tranexamic Acid",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/3319/hemostop-500-mg-capsule",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemotin Plus",
+    "strength": "47 mg+0.5 mg+22.5 mg",
+    "generic": "Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35700/hemotin-plus-47-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemotrax",
+    "strength": "500 mg",
+    "generic": "Tranexamic Acid",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26539/hemotrax-500-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemotrax",
+    "strength": "500 mg/5 ml",
+    "generic": "Tranexamic Acid",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/35741/hemotrax-500-mg-injection",
+    "_source_page": 351
+  },
+  {
+    "name": "Hemroid",
+    "strength": "500 mg",
+    "generic": "Calcium Dobesilate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34688/hemroid-500-mg-capsule",
+    "_source_page": 351
+  },
+  {
+    "name": "Henlix",
+    "strength": "550 mg",
+    "generic": "Rifaximin",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8961/henlix-550-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Henlix",
+    "strength": "200 mg",
+    "generic": "Rifaximin",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8960/henlix-200-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Henxit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4346/henxit-05-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepa",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10447/hepa-500-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepa",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10448/hepa-120-mg-suspension",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepa-B",
+    "strength": "20 mcg/ml",
+    "generic": "Hepatitis B Vaccine [rDNA]",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/15230/hepa-b-20-mcg-injection",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepa-B",
+    "strength": "10 mcg/0.5 ml",
+    "generic": "Hepatitis B Vaccine [rDNA]",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/15229/hepa-b-10-mcg-injection",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepa-Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10590/hepa-plus-500-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepaclin",
+    "strength": "150 mg",
+    "generic": "L-Ornithine L-Aspartate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38336/hepaclin-150-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepaclin",
+    "strength": "5 gm/10 ml",
+    "generic": "L-Ornithine L-Aspartate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/26213/hepaclin-5-gm-injection",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepaclin",
+    "strength": "3 gm/sachet",
+    "generic": "L-Ornithine L-Aspartate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/26214/hepaclin-3-gm-powder",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepagurd",
+    "strength": "3 gm/sachet",
+    "generic": "L-Ornithine L-Aspartate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/29115/hepagurd-3-gm-powder",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepalola",
+    "strength": "550 mg",
+    "generic": "L-Ornithine L-Aspartate",
+    "company": "Total Herbal & Nutraceuticals",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33690/hepalola-550-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "HepaMerz",
+    "strength": "150 mg+100 mg",
+    "generic": "L-Ornithine L-Aspartate + Pancreatin",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23302/hepamerz-150-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "HepaMerz",
+    "strength": "5 gm/sachet",
+    "generic": "L-Ornithine L-Aspartate",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/34012/hepamerz-5-gm-powder",
+    "_source_page": 351
+  },
+  {
+    "name": "Hepanib",
+    "strength": "200 mg",
+    "generic": "Sorafenib Tosylate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28841/hepanib-200-mg-tablet",
+    "_source_page": 351
+  },
+  {
+    "name": "Heparest",
+    "strength": "3 gm/sachet",
+    "generic": "L-Ornithine L-Aspartate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/34873/heparest-3-gm-powder",
+    "_source_page": 351
+  },
+  {
+    "name": "Heparin Panpharma",
+    "strength": "25000 IU/5 ml",
+    "generic": "Heparin Sodium",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/3185/heparin-panpharma-25000-iu-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Heparon",
+    "strength": "25000 IU/5 ml",
+    "generic": "Heparin Sodium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/20842/heparon-25000-iu-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Hepatab",
+    "strength": "550 mg",
+    "generic": "Rifaximin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8963/hepatab-550-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Hepatab",
+    "strength": "200 mg",
+    "generic": "Rifaximin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8962/hepatab-200-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Hepavax-B",
+    "strength": "20 mcg/ml",
+    "generic": "Hepatitis B Vaccine [rDNA]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/15231/hepavax-b-20-mcg-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Hepavax-B",
+    "strength": "10 mcg/0.5 ml",
+    "generic": "Hepatitis B Vaccine [rDNA]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/38642/hepavax-b-10-mcg-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Hepavir",
+    "strength": "100 mg",
+    "generic": "Lamivudine [For Chronic Hepatitis B]",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9730/hepavir-100-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Hepaximin",
+    "strength": "200 mg",
+    "generic": "Rifaximin",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8944/hepaximin-200-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Hepaximin",
+    "strength": "550 mg",
+    "generic": "Rifaximin",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8945/hepaximin-550-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Hepcee",
+    "strength": "400 mg",
+    "generic": "Sofosbuvir",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16696/hepcee-400-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Heplol",
+    "strength": "150 mg",
+    "generic": "L-Ornithine L-Aspartate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26261/heplol-150-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Hepta Seas",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "ACI Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13547/hepta-seas-syrup",
+    "_source_page": 352
+  },
+  {
+    "name": "HER-2N",
+    "strength": "200 mg",
+    "generic": "Ribociclib",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34060/her-2n-200-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Hercent",
+    "strength": "40 mg",
+    "generic": "Neratinib Maleate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36720/hercent-40-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Herceptin",
+    "strength": "440 mg/20 ml",
+    "generic": "Trastuzumab",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15148/herceptin-440-mg-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Herceptin",
+    "strength": "600 mg/5 ml",
+    "generic": "Trastuzumab",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/27106/herceptin-600-mg-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Herculix",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27161/herculix-2-gm-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Herculix",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27160/herculix-1-gm-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Herculix",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27157/herculix-500-mg-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Herculix",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27159/herculix-1-gm-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Herculix",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27158/herculix-500-mg-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Herlyn",
+    "strength": "40 mg",
+    "generic": "Neratinib Maleate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38523/herlyn-40-mg-tablet",
+    "_source_page": 352
+  },
+  {
+    "name": "Hero Condom",
+    "strength": null,
+    "generic": "Latex condom [Hero]",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Condom",
+    "source_url": "https://medex.com.bd/brands/37483/hero-condom-condom",
+    "_source_page": 352
+  },
+  {
+    "name": "Herpigel",
+    "strength": "0.15%",
+    "generic": "Ganciclovir (Ophthalmic)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Gel",
+    "source_url": "https://medex.com.bd/brands/20601/herpigel-015-eye-gel",
+    "_source_page": 352
+  },
+  {
+    "name": "Hertin",
+    "strength": "440 mg/20 ml",
+    "generic": "Trastuzumab",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17323/hertin-440-mg-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Herzuma",
+    "strength": "420 mg/20 ml",
+    "generic": "Trastuzumab",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38265/herzuma-420-mg-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Herzuma",
+    "strength": "150 mg/7.4 ml",
+    "generic": "Trastuzumab",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38266/herzuma-150-mg-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Hexaplex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13788/hexaplex-5-mg-syrup",
+    "_source_page": 352
+  },
+  {
+    "name": "Hexasia",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/12824/hexasia-05-70-hand-rub",
+    "_source_page": 352
+  },
+  {
+    "name": "Hexaxim",
+    "strength": "0.5 ml/prefilled syringe",
+    "generic": "Diphtheria + Tetanus + Pertussis + Hepatitis B + Polio + HIB",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/31518/hexaxim-05-ml-injection",
+    "_source_page": 352
+  },
+  {
+    "name": "Hexicon",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/29180/hexicon-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexicord",
+    "strength": "7.1%",
+    "generic": "Chlorhexidine Gluconate [7.1%]",
+    "company": "ACI Limited",
+    "medicine_type": "Topical Solution",
+    "source_url": "https://medex.com.bd/brands/27523/hexicord-71-topical-solution",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexidine",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28976/hexidine-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexigard",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28981/hexigard-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexigen",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28973/hexigen-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexihygin",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28975/hexihygin-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexil",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/29274/hexil-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexilab",
+    "strength": "75%+0.125%+1.45%",
+    "generic": "Isopropyl Alcohol + Hydrogen Peroxide + Glycerol",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/30421/hexilab-75-0125-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Heximax",
+    "strength": "2 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32852/heximax-2-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Heximax",
+    "strength": "5 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32853/heximax-5-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexinaaf",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/29360/hexinaaf-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexinor",
+    "strength": "5 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5141/hexinor-5-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexinor",
+    "strength": "2 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5140/hexinor-2-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexinor",
+    "strength": "2 mg/5 ml",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/25119/hexinor-2-mg-syrup",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexinor",
+    "strength": "1 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27277/hexinor-1-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexion",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28679/hexion-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexiphen",
+    "strength": "2 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26564/hexiphen-2-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexiphen",
+    "strength": "5 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29129/hexiphen-5-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexirest",
+    "strength": "2 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32848/hexirest-2-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexirest",
+    "strength": "5 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32849/hexirest-5-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexirub",
+    "strength": "75%+0.125%+1.45%",
+    "generic": "Isopropyl Alcohol + Hydrogen Peroxide + Glycerol",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/29181/hexirub-75-0125-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexiscrub",
+    "strength": "4%",
+    "generic": "Chlorhexidine Gluconate [4%]",
+    "company": "ACI Limited",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/19206/hexiscrub-4-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexisol",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "ACI Limited",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/12826/hexisol-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexitane",
+    "strength": "1% w/w",
+    "generic": "Chlorhexidine Gluconate [1%]",
+    "company": "ACI Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/15687/hexitane-1-w-cream",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexizen",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28759/hexizen-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hexonil",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/34563/hexonil-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "HexPark",
+    "strength": "5 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37273/hexpark-5-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "HexPark",
+    "strength": "2 mg",
+    "generic": "Trihexyphenidyl Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37272/hexpark-2-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "HexyClore",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/30251/hexyclore-05-70-hand-rub",
+    "_source_page": 353
+  },
+  {
+    "name": "Hi Floxin",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16989/hi-floxin-400-mg-tablet",
+    "_source_page": 353
+  },
+  {
+    "name": "Hi Floxin",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16989/hi-floxin-400-mg-tablet",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi Gel",
+    "strength": "250 mg+400 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/474/hi-gel-250-mg-chewable-tablet",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-C",
+    "strength": "100 mg/5 ml",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13926/hi-c-100-mg-syrup",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-cef",
+    "strength": "500 mg",
+    "generic": "Cephalexin",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6728/hi-cef-500-mg-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-cef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephalexin",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6729/hi-cef-125-mg-suspension",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-clox",
+    "strength": "125 mg/5 ml",
+    "generic": "Cloxacillin Sodium",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6194/hi-clox-125-mg-suspension",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-clox",
+    "strength": "500 mg",
+    "generic": "Cloxacillin Sodium",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6193/hi-clox-500-mg-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-D",
+    "strength": "2000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28672/hi-d-2000-iu-tablet",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-D",
+    "strength": "40000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28671/hi-d-40000-iu-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-D",
+    "strength": "20000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28670/hi-d-20000-iu-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-D",
+    "strength": "200000 IU/ml",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Injectable Solution (Oral & IM)",
+    "source_url": "https://medex.com.bd/brands/29379/hi-d-200000-iu-injectable-solution-oral-im",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-Fenac",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11020/hi-fenac-50-mg-tablet",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-Fenac TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11021/hi-fenac-tr-100-mg-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-Flow",
+    "strength": "0.4 mg",
+    "generic": "Tamsulosin Hydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/32888/hi-flow-04-mg-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-Flow D",
+    "strength": "0.4 mg+0.5 mg",
+    "generic": "Tamsulosin Hydrochloride + Dutasteride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32889/hi-flow-d-04-mg-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-Floxin",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9293/hi-floxin-500-mg-tablet",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-Lac",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21257/hi-lac-10-mg-tablet",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-met",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5401/hi-met-850-mg-tablet",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-mox",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6543/hi-mox-250-mg-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-mox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6545/hi-mox-125-mg-suspension",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-mox DS",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6544/hi-mox-ds-500-mg-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-Trol",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11966/hi-trol-10-mg-tablet",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-Trol",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11967/hi-trol-5-mg-syrup",
+    "_source_page": 354
+  },
+  {
+    "name": "Hi-Vol",
+    "strength": "6%+0.9%",
+    "generic": "Hydroxyethyl Starch + Sodium Chloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29411/hi-vol-6-09-injection",
+    "_source_page": 354
+  },
+  {
+    "name": "Hiconcil",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6541/hiconcil-500-mg-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hiconcil",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6542/hiconcil-125-mg-suspension",
+    "_source_page": 354
+  },
+  {
+    "name": "Hiconcil",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6540/hiconcil-250-mg-capsule",
+    "_source_page": 354
+  },
+  {
+    "name": "Hidin",
+    "strength": "1% w/v",
+    "generic": "Povidone Iodine",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Mouthwash",
+    "source_url": "https://medex.com.bd/brands/12868/hidin-1-w-mouthwash",
+    "_source_page": 354
+  },
+  {
+    "name": "Hidin",
+    "strength": "5% w/w",
+    "generic": "Povidone Iodine",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/23760/hidin-5-w-ointment",
+    "_source_page": 354
+  },
+  {
+    "name": "Hifenac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32519/hifenac-100-mg-tablet",
+    "_source_page": 354
+  },
+  {
+    "name": "Hiflox",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9290/hiflox-750-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Hiflox",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28037/hiflox-250-mg-suspension",
+    "_source_page": 355
+  },
+  {
+    "name": "Hiflox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9289/hiflox-500-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Hiflox-XR",
+    "strength": "1000 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/28036/hiflox-xr-1000-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Hipain TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/37677/hipain-tr-100-mg-capsule",
+    "_source_page": 355
+  },
+  {
+    "name": "Hipomax",
+    "strength": "1 gm",
+    "generic": "Methenamine Hippurate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30462/hipomax-1-gm-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Hiposul",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13791/hiposul-5-mg-syrup",
+    "_source_page": 355
+  },
+  {
+    "name": "Hiprazole",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23328/hiprazole-20-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Hipre",
+    "strength": "10 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28540/hipre-10-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Hipre",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/692/hipre-5-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Hipre Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/835/hipre-plus-5-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Hiprex",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14028/hiprex-6-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Hisnul",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27786/hisnul-2-mg-syrup",
+    "_source_page": 355
+  },
+  {
+    "name": "Hison",
+    "strength": "100 mg/2 ml",
+    "generic": "Hydrocortisone",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/5785/hison-100-mg-injection",
+    "_source_page": 355
+  },
+  {
+    "name": "Hispasin",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35660/hispasin-4-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Histacet",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11965/histacet-5-mg-syrup",
+    "_source_page": 355
+  },
+  {
+    "name": "Histacet",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11964/histacet-10-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Histacin",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11819/histacin-4-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Histacin",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11820/histacin-2-mg-syrup",
+    "_source_page": 355
+  },
+  {
+    "name": "Histaco",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11823/histaco-2-mg-syrup",
+    "_source_page": 355
+  },
+  {
+    "name": "Histadyl",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11824/histadyl-4-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Histadyl",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11825/histadyl-2-mg-syrup",
+    "_source_page": 355
+  },
+  {
+    "name": "Histafen",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27417/histafen-120-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Histal",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19272/histal-4-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Histal",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11826/histal-2-mg-syrup",
+    "_source_page": 355
+  },
+  {
+    "name": "Histalex",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11828/histalex-2-mg-syrup",
+    "_source_page": 355
+  },
+  {
+    "name": "Histalex",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11827/histalex-4-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Histamin",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11857/histamin-4-mg-tablet",
+    "_source_page": 355
+  },
+  {
+    "name": "Histamin",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11856/histamin-2-mg-syrup",
+    "_source_page": 355
+  },
+  {
+    "name": "Histaphen",
+    "strength": "5 mg/5 ml",
+    "generic": "Promethazine Hydrochloride",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/4655/histaphen-5-mg-oral-solution",
+    "_source_page": 355
+  }
+]

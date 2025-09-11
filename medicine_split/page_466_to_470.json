@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Mom",
+    "strength": "400 mg/5 ml",
+    "generic": "Magnesium Hydroxide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21953/mom-400-mg-suspension",
+    "_source_page": 466
+  },
+  {
+    "name": "MomCare",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36933/momcare-tablet",
+    "_source_page": 466
+  },
+  {
+    "name": "Momelo",
+    "strength": "(25 mcg+600 mcg)/Spray",
+    "generic": "Mometasone Furoate + Olopatadine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/37019/momelo-25-mcg-nasal-spray",
+    "_source_page": 466
+  },
+  {
+    "name": "Momenex",
+    "strength": "50 mcg/spray",
+    "generic": "Mometasone Furoate (Nasal Spray)",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/31213/momenex-50-mcg-nasal-spray",
+    "_source_page": 466
+  },
+  {
+    "name": "Momento",
+    "strength": "5 mg",
+    "generic": "Desloratadine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12264/momento-5-mg-tablet",
+    "_source_page": 466
+  },
+  {
+    "name": "Momento",
+    "strength": "2.5 mg/5 ml",
+    "generic": "Desloratadine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/12265/momento-25-mg-syrup",
+    "_source_page": 466
+  },
+  {
+    "name": "Momeson",
+    "strength": "220 mcg",
+    "generic": "Mometasone Furoate (Inhalation Capsule)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3882/momeson-220-mcg-inhalation-capsule",
+    "_source_page": 466
+  },
+  {
+    "name": "Momeson",
+    "strength": "50 mcg/spray",
+    "generic": "Mometasone Furoate (Nasal Spray)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/3883/momeson-50-mcg-nasal-spray",
+    "_source_page": 466
+  },
+  {
+    "name": "Momeson",
+    "strength": "0.1%",
+    "generic": "Mometasone Furoate (Topical)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12693/momeson-01-cream",
+    "_source_page": 466
+  },
+  {
+    "name": "Momespray",
+    "strength": "50 mcg/spray",
+    "generic": "Mometasone Furoate (Nasal Spray)",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/26922/momespray-50-mcg-nasal-spray",
+    "_source_page": 466
+  },
+  {
+    "name": "Momet-F",
+    "strength": "(100 mcg+5 mcg)/puff",
+    "generic": "Mometasone Furoate + Formoterol Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/33557/momet-f-100-mcg-inhaler",
+    "_source_page": 466
+  },
+  {
+    "name": "Momet-F",
+    "strength": "(200 mcg+5 mcg)/puff",
+    "generic": "Mometasone Furoate + Formoterol Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/33649/momet-f-200-mcg-inhaler",
+    "_source_page": 466
+  },
+  {
+    "name": "Momet-F",
+    "strength": "(50 mcg+5 mcg)/puff",
+    "generic": "Mometasone Furoate + Formoterol Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/33650/momet-f-50-mcg-inhaler",
+    "_source_page": 466
+  },
+  {
+    "name": "Mometa",
+    "strength": "0.1%",
+    "generic": "Mometasone Furoate (Topical)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12694/mometa-01-cream",
+    "_source_page": 466
+  },
+  {
+    "name": "Momneed",
+    "strength": null,
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate + Vitamin B Complex + Vitamin C",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13417/momneed-capsule",
+    "_source_page": 466
+  },
+  {
+    "name": "Momodol",
+    "strength": "125 mg",
+    "generic": "Paracetamol",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/35266/momodol-125-mg-suppository",
+    "_source_page": 466
+  },
+  {
+    "name": "Momodol",
+    "strength": "250 mg",
+    "generic": "Paracetamol",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/35267/momodol-250-mg-suppository",
+    "_source_page": 466
+  },
+  {
+    "name": "Momodol",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/36711/momodol-500-mg-suppository",
+    "_source_page": 466
+  },
+  {
+    "name": "Momodol Extra",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33115/momodol-extra-500-mg-tablet",
+    "_source_page": 466
+  },
+  {
+    "name": "Momodol XR",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/38625/momodol-xr-665-mg-tablet",
+    "_source_page": 466
+  },
+  {
+    "name": "Momtas",
+    "strength": "0.1%",
+    "generic": "Mometasone Furoate (Topical)",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/22580/momtas-01-cream",
+    "_source_page": 466
+  },
+  {
+    "name": "Momvit",
+    "strength": null,
+    "generic": "10 Vitamin & 6 Mineral [Pregnancy and Breast Feeding Formula]",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14165/momvit-tablet",
+    "_source_page": 466
+  },
+  {
+    "name": "Mon",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22592/mon-5-mg-chewable-tablet",
+    "_source_page": 466
+  },
+  {
+    "name": "Mon",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22593/mon-10-mg-tablet",
+    "_source_page": 466
+  },
+  {
+    "name": "Mon-X",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22599/mon-x-10-mg-tablet",
+    "_source_page": 466
+  },
+  {
+    "name": "Monaclox-F",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6363/monaclox-f-250-mg-capsule",
+    "_source_page": 466
+  },
+  {
+    "name": "Monaclox-F",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6364/monaclox-f-500-mg-capsule",
+    "_source_page": 466
+  },
+  {
+    "name": "Monaclox-F",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6365/monaclox-f-125-mg-suspension",
+    "_source_page": 466
+  },
+  {
+    "name": "Monacom",
+    "strength": null,
+    "generic": "Triamcinolone + Neomycin + Nystatin + Gramicidin",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12728/monacom-cream",
+    "_source_page": 466
+  },
+  {
+    "name": "Monalast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22652/monalast-10-mg-tablet",
+    "_source_page": 466
+  },
+  {
+    "name": "Monalast",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22653/monalast-5-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monalast ODT",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/31083/monalast-odt-4-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monamox",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6560/monamox-250-mg-capsule",
+    "_source_page": 467
+  },
+  {
+    "name": "Monamox",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6561/monamox-500-mg-capsule",
+    "_source_page": 467
+  },
+  {
+    "name": "Monamox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6562/monamox-125-mg-suspension",
+    "_source_page": 467
+  },
+  {
+    "name": "Monamox",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6564/monamox-125-mg-pediatric-drop",
+    "_source_page": 467
+  },
+  {
+    "name": "Monamycin",
+    "strength": "0.3%",
+    "generic": "Gentamicin Sulfate (Topical)",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/8418/monamycin-03-cream",
+    "_source_page": 467
+  },
+  {
+    "name": "Monark",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3799/monark-10-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monas",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3800/monas-4-mg-chewable-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monas",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3801/monas-5-mg-chewable-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monas",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3802/monas-10-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monas OFT",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Flash Tablet",
+    "source_url": "https://medex.com.bd/brands/26522/monas-oft-4-mg-flash-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monas OFT",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Flash Tablet",
+    "source_url": "https://medex.com.bd/brands/26523/monas-oft-5-mg-flash-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monasic",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Physic pharmaceuticals ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37805/monasic-10-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monasic",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Physic pharmaceuticals ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/37806/monasic-4-mg-chewable-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monasic",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Physic pharmaceuticals ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/37807/monasic-5-mg-chewable-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Moneka",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31483/moneka-5-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Moneka",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31484/moneka-10-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monfast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36406/monfast-10-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monfast ODT",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/36407/monfast-odt-4-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monfast ODT",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/36408/monfast-odt-5-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "MoniMix",
+    "strength": "1 gm/sachet",
+    "generic": "Iron + Folic Acid + Vitamin A + Vitamin C + Zinc",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/27099/monimix-1-gm-powder",
+    "_source_page": 467
+  },
+  {
+    "name": "MoniMix Plus",
+    "strength": "1 gm/sachet",
+    "generic": "15 vitamins and minerals",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/34114/monimix-plus-1-gm-powder",
+    "_source_page": 467
+  },
+  {
+    "name": "Monipro",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9305/monipro-500-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monipro",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9306/monipro-250-mg-suspension",
+    "_source_page": 467
+  },
+  {
+    "name": "Monipro-E",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15705/monipro-e-03-eye-drop",
+    "_source_page": 467
+  },
+  {
+    "name": "Monitol",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Fluphenazine + Nortriptyline",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4594/monitol-05-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monivis",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24969/monivis-50-mg-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monkon",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22581/monkon-4-mg-chewable-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monkon",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22582/monkon-5-mg-chewable-tablet",
+    "_source_page": 467
+  },
+  {
+    "name": "Monkon",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22583/monkon-10-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monlumax",
+    "strength": "200 mg",
+    "generic": "Molnupiravir",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31408/monlumax-200-mg-capsule",
+    "_source_page": 468
+  },
+  {
+    "name": "Monocal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14361/monocal-500-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monocal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14449/monocal-d-500-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monocal Gold",
+    "strength": "400 mg",
+    "generic": "Calcium Orotate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14382/monocal-gold-400-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monocard",
+    "strength": "20 mg",
+    "generic": "Isosorbide Mononitrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3046/monocard-20-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monocard-SR",
+    "strength": "50 mg",
+    "generic": "Isosorbide Mononitrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3047/monocard-sr-50-mg-capsule",
+    "_source_page": 468
+  },
+  {
+    "name": "Monocast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3807/monocast-10-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monocast",
+    "strength": "4 mg/3.5 gm",
+    "generic": "Montelukast Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Granules",
+    "source_url": "https://medex.com.bd/brands/3808/monocast-4-mg-oral-granules",
+    "_source_page": 468
+  },
+  {
+    "name": "Monocast",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/26307/monocast-4-mg-chewable-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monocast",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/26308/monocast-5-mg-chewable-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monofast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27568/monofast-10-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monofast",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27569/monofast-5-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monofocin",
+    "strength": "3 gm/sachet",
+    "generic": "Fosfomycin Trometamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/31076/monofocin-3-gm-powder",
+    "_source_page": 468
+  },
+  {
+    "name": "Monoplex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13801/monoplex-5-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monotate",
+    "strength": "20 mg",
+    "generic": "Isosorbide Mononitrate",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30936/monotate-20-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monotate",
+    "strength": "50 mg",
+    "generic": "Isosorbide Mononitrate",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30937/monotate-50-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monovas",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3809/monovas-10-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monovit",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14690/monovit-syrup",
+    "_source_page": 468
+  },
+  {
+    "name": "Monprox",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3810/monprox-10-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monprox OFT",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Flash Tablet",
+    "source_url": "https://medex.com.bd/brands/37360/monprox-oft-10-mg-flash-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Monprox OFT",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Flash Tablet",
+    "source_url": "https://medex.com.bd/brands/37361/monprox-oft-5-mg-flash-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Mont-R",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3837/mont-r-4-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Mont-R",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3839/mont-r-10-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Montair",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3813/montair-10-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Montair ODT",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/26231/montair-odt-4-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Montair ODT",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/26232/montair-odt-5-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Montaro",
+    "strength": "2.5 mg/0.5 ml",
+    "generic": "Tirzepatide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/38526/montaro-25-mg-injection",
+    "_source_page": 468
+  },
+  {
+    "name": "Montaro",
+    "strength": "5 mg/0.5 ml",
+    "generic": "Tirzepatide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/38527/montaro-5-mg-injection",
+    "_source_page": 468
+  },
+  {
+    "name": "Montek",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3817/montek-10-mg-tablet",
+    "_source_page": 468
+  },
+  {
+    "name": "Montek",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/31094/montek-4-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montek",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/31946/montek-5-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montekast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3815/montekast-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montekast",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/28563/montekast-4-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montela",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3818/montela-5-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montela",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3819/montela-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montela",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/27776/montela-4-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montelon",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3820/montelon-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montelon",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34048/montelon-5-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montelon Kidz",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22587/montelon-kidz-4-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Monteluk",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3821/monteluk-5-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Monteluk",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3822/monteluk-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montemax",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32540/montemax-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montemax",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/32541/montemax-5-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montenaaf",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22622/montenaaf-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montenaaf ODT",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/36805/montenaaf-odt-5-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montene",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/3823/montene-4-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montene",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/3824/montene-5-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montene",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3825/montene-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montex",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3826/montex-5-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montex",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3827/montex-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montex",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22608/montex-4-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montezen",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28762/montezen-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montezen",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/28763/montezen-5-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montica",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22604/montica-4-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montica",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22605/montica-5-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montica",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22606/montica-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "MontiFast",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3828/montifast-4-mg-chewable-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "MontiFast",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3829/montifast-5-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "MontiFast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3830/montifast-10-mg-tablet",
+    "_source_page": 469
+  },
+  {
+    "name": "Montilab",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3831/montilab-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montilab",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22611/montilab-5-mg-chewable-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montilab",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22612/montilab-4-mg-chewable-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montilet",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3832/montilet-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montinex",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3762/montinex-4-mg-chewable-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montinex",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3763/montinex-5-mg-chewable-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montinex",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3764/montinex-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montinex Fast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/37244/montinex-fast-10-mg-chewable-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montinex R",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38497/montinex-r-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montison",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35377/montison-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montium",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34888/montium-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montiva",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3833/montiva-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montiva",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Flash Tablet",
+    "source_url": "https://medex.com.bd/brands/17183/montiva-4-mg-flash-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montiva",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Flash Tablet",
+    "source_url": "https://medex.com.bd/brands/17184/montiva-5-mg-flash-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montoz",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38276/montoz-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montril",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Flash Tablet",
+    "source_url": "https://medex.com.bd/brands/3834/montril-4-mg-flash-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montril",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3835/montril-5-mg-chewable-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Montril",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3836/montril-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Monuril",
+    "strength": "3 gm/sachet",
+    "generic": "Fosfomycin Trometamol",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/37260/monuril-3-gm-powder",
+    "_source_page": 470
+  },
+  {
+    "name": "Monuvir",
+    "strength": "200 mg",
+    "generic": "Molnupiravir",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31402/monuvir-200-mg-capsule",
+    "_source_page": 470
+  },
+  {
+    "name": "Moodnor",
+    "strength": "10 mg",
+    "generic": "Nortriptyline",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30252/moodnor-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Moov",
+    "strength": "1% w/w",
+    "generic": "Diclofenac Sodium",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/11112/moov-1-w-gel",
+    "_source_page": 470
+  },
+  {
+    "name": "Moov SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11042/moov-sr-100-mg-capsule",
+    "_source_page": 470
+  },
+  {
+    "name": "Moovepain",
+    "strength": "30%+10%+4%",
+    "generic": "Methyl Salicylate + Menthol + Camphor",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37732/moovepain-30-10-cream",
+    "_source_page": 470
+  },
+  {
+    "name": "Mooverix",
+    "strength": "30%+10%+4%",
+    "generic": "Methyl Salicylate + Menthol + Camphor",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10871/mooverix-30-10-cream",
+    "_source_page": 470
+  },
+  {
+    "name": "Mopride",
+    "strength": "1 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33383/mopride-1-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Mopride",
+    "strength": "2 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33384/mopride-2-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Moriamin-M",
+    "strength": null,
+    "generic": "Iron + Folic acid + Vitamin B complex + Vitamin C",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13239/moriamin-m-capsule",
+    "_source_page": 470
+  },
+  {
+    "name": "Moset",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11968/moset-10-mg-tablet",
+    "_source_page": 470
+  },
+  {
+    "name": "Moset",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11969/moset-5-mg-syrup",
+    "_source_page": 470
+  }
+]

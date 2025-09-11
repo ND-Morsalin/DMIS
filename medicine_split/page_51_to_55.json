@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Apsol",
+    "strength": "5%",
+    "generic": "Amlexanox",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Oral Paste",
+    "source_url": "https://medex.com.bd/brands/631/apsol-5-oral-paste",
+    "_source_page": 51
+  },
+  {
+    "name": "APT",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3221/apt-75-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Aptin",
+    "strength": "50 mg",
+    "generic": "Vildagliptin",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25237/aptin-50-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Aptin M",
+    "strength": "50 mg+500 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25245/aptin-m-50-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Aptin M",
+    "strength": "50 mg+850 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25246/aptin-m-50-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Aptofen",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/21301/aptofen-1-mg-syrup",
+    "_source_page": 51
+  },
+  {
+    "name": "Aptrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/8989/aptrim-200-mg-suspension",
+    "_source_page": 51
+  },
+  {
+    "name": "Aptrim",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16928/aptrim-800-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Apuldon",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1511/apuldon-5-mg-pediatric-drop",
+    "_source_page": 51
+  },
+  {
+    "name": "Apuldon",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1510/apuldon-5-mg-suspension",
+    "_source_page": 51
+  },
+  {
+    "name": "Apuldon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1509/apuldon-10-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Apulset",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17335/apulset-8-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Apulset",
+    "strength": "4 mg/5 ml",
+    "generic": "Ondansetron",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/17336/apulset-4-mg-oral-solution",
+    "_source_page": 51
+  },
+  {
+    "name": "Apulset",
+    "strength": "8 mg/4 ml",
+    "generic": "Ondansetron",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/17333/apulset-8-mg-injection",
+    "_source_page": 51
+  },
+  {
+    "name": "Aqua",
+    "strength": "0.25%+0.3%",
+    "generic": "Carboxymethylcellulose Sodium + Hypromellose",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Gel",
+    "source_url": "https://medex.com.bd/brands/16356/aqua-025-03-eye-gel",
+    "_source_page": 51
+  },
+  {
+    "name": "Aqua Care",
+    "strength": "10% w/w",
+    "generic": "Urea (10%)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/13094/aqua-care-10-w-cream",
+    "_source_page": 51
+  },
+  {
+    "name": "Aqua Care",
+    "strength": "25% w/w",
+    "generic": "Urea (25%)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36702/aqua-care-25-w-cream",
+    "_source_page": 51
+  },
+  {
+    "name": "Aqua Detox 24H Face cream",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38302/aqua-detox-24h-face-cream-cream",
+    "_source_page": 51
+  },
+  {
+    "name": "Aqua Detox Serum",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Serum",
+    "source_url": "https://medex.com.bd/brands/38303/aqua-detox-serum-serum",
+    "_source_page": 51
+  },
+  {
+    "name": "Aquacal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34268/aquacal-d-500-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Aquacal-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34269/aquacal-dx-600-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Aquafresh Liquigel",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18584/aquafresh-liquigel-1-eye-drop",
+    "_source_page": 51
+  },
+  {
+    "name": "Aquafresh PF Liquigel",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36750/aquafresh-pf-liquigel-1-eye-drop",
+    "_source_page": 51
+  },
+  {
+    "name": "Aquagest",
+    "strength": "25 mg/1.119 ml",
+    "generic": "Progesterone Micronised (SC injection)",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/36775/aquagest-25-mg-injection",
+    "_source_page": 51
+  },
+  {
+    "name": "Aqualax",
+    "strength": "100% w/w",
+    "generic": "Polyethylene Glycol 3350",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Solution",
+    "source_url": "https://medex.com.bd/brands/2412/aqualax-100-w-powder-for-solution",
+    "_source_page": 51
+  },
+  {
+    "name": "Aquaphen",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4134/aquaphen-30-mg-syrup",
+    "_source_page": 51
+  },
+  {
+    "name": "Aquatear",
+    "strength": "5% v/v",
+    "generic": "Povidone Iodine",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/23732/aquatear-5-v-eye-drop",
+    "_source_page": 51
+  },
+  {
+    "name": "Aquavit",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13535/aquavit-syrup",
+    "_source_page": 51
+  },
+  {
+    "name": "Aquisol",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Arges Life Science Limited",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28971/aquisol-05-70-hand-rub",
+    "_source_page": 51
+  },
+  {
+    "name": "Arafa",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11265/arafa-400-mg-tablet",
+    "_source_page": 51
+  },
+  {
+    "name": "Arain",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11636/arain-200-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Araten",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2703/araten-50-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Araten Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2940/araten-plus-50-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbecin",
+    "strength": "100 mcg/ml",
+    "generic": "Carbetocin",
+    "company": "Renata PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/16354/arbecin-100-mcg-injection",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbilon",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33260/arbilon-50-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbilon Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33261/arbilon-plus-50-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitan",
+    "strength": "75 mg",
+    "generic": "Irbesartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2689/arbitan-75-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitan",
+    "strength": "150 mg",
+    "generic": "Irbesartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2690/arbitan-150-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitan Plus",
+    "strength": "75 mg+12.5 mg",
+    "generic": "Irbesartan + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2928/arbitan-plus-75-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitan Plus",
+    "strength": "150 mg+12.5 mg",
+    "generic": "Irbesartan + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2929/arbitan-plus-150-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitel",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24814/arbitel-20-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitel",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24815/arbitel-40-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitel",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24816/arbitel-80-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitel AM",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17752/arbitel-am-5-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitel AM",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17751/arbitel-am-5-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitel Plus",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24826/arbitel-plus-80-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbitel Plus",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24825/arbitel-plus-40-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbium",
+    "strength": "25 mg",
+    "generic": "Losartan Potassium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38033/arbium-25-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbium",
+    "strength": "100 mg",
+    "generic": "Losartan Potassium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2706/arbium-100-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbium",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2705/arbium-50-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbium Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2941/arbium-plus-50-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbium Plus",
+    "strength": "100 mg+25 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2943/arbium-plus-100-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arbium Plus",
+    "strength": "100 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2942/arbium-plus-100-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Arcet",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11921/arcet-5-mg-syrup",
+    "_source_page": 52
+  },
+  {
+    "name": "Arcet",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11920/arcet-10-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Archi Extra",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10561/archi-extra-500-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Ardance",
+    "strength": "25 mg",
+    "generic": "Empagliflozin",
+    "company": "Pharmacil Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34207/ardance-25-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Ardance",
+    "strength": "10 mg",
+    "generic": "Empagliflozin",
+    "company": "Pharmacil Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34206/ardance-10-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Ardance-L",
+    "strength": "25 mg+5 mg",
+    "generic": "Empagliflozin + Linagliptin",
+    "company": "Pharmacil Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33946/ardance-l-25-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Ardance-L",
+    "strength": "10 mg+5 mg",
+    "generic": "Empagliflozin + Linagliptin",
+    "company": "Pharmacil Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33947/ardance-l-10-mg-tablet",
+    "_source_page": 52
+  },
+  {
+    "name": "Ardance-M",
+    "strength": "5 mg+500 mg",
+    "generic": "Empagliflozin + Metformin Hydrochloride",
+    "company": "Pharmacil Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33410/ardance-m-5-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Ardium",
+    "strength": "450 mg+50 mg",
+    "generic": "Diosmin + Hesperidin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22482/ardium-450-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Arduan",
+    "strength": "4 mg/2 ml",
+    "generic": "Pipecuronium Bromide",
+    "company": "Gedeon Richter, Hungary",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/15468/arduan-4-mg-injection",
+    "_source_page": 53
+  },
+  {
+    "name": "AREDS",
+    "strength": null,
+    "generic": "6 essential Nutrients with Omega-3",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/36808/areds-capsule",
+    "_source_page": 53
+  },
+  {
+    "name": "Arena",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37121/arena-20-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Arena",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37263/arena-10-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Arexel",
+    "strength": "20 mg+120 mg",
+    "generic": "Artemether + Lumefantrine",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1003/arexel-20-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Argolin",
+    "strength": "0.5 mg",
+    "generic": "Cabergoline",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5979/argolin-05-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Aribex",
+    "strength": "1 mg",
+    "generic": "Anastrozole",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37937/aribex-1-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Aric",
+    "strength": "20 mg",
+    "generic": "Istradefylline",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33449/aric-20-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Aricarb",
+    "strength": "10 mg/ml",
+    "generic": "Carboplatin",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34005/aricarb-10-mg-injection",
+    "_source_page": 53
+  },
+  {
+    "name": "Aride",
+    "strength": "200 mg",
+    "generic": "Amisulpride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33440/aride-200-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Aride",
+    "strength": "100 mg",
+    "generic": "Amisulpride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33441/aride-100-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Aride",
+    "strength": "50 mg",
+    "generic": "Amisulpride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33442/aride-50-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Ariflu",
+    "strength": "(137 mcg+50 mcg)/spray",
+    "generic": "Azelastine Hydrochloride + Fluticasone Propionate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/37299/ariflu-137-mcg-nasal-spray",
+    "_source_page": 53
+  },
+  {
+    "name": "Arigram",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8430/arigram-125-mg-suspension",
+    "_source_page": 53
+  },
+  {
+    "name": "Arilol",
+    "strength": "12.5 mg",
+    "generic": "Carvedilol",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30720/arilol-125-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Arilol",
+    "strength": "25 mg",
+    "generic": "Carvedilol",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30721/arilol-25-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Arilol",
+    "strength": "6.25 mg",
+    "generic": "Carvedilol",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30722/arilol-625-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Arimidex",
+    "strength": "1 mg",
+    "generic": "Anastrozole",
+    "company": "MGH Healthcare Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35193/arimidex-1-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Arinet",
+    "strength": "50 mg",
+    "generic": "Artesunate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30604/arinet-50-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Aripen",
+    "strength": "15 mg",
+    "generic": "Aripiprazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/987/aripen-15-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Aripen",
+    "strength": "10 mg",
+    "generic": "Aripiprazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/986/aripen-10-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Ariplat",
+    "strength": "1 mg/ml",
+    "generic": "Cisplatin",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34006/ariplat-1-mg-injection",
+    "_source_page": 53
+  },
+  {
+    "name": "Aripra",
+    "strength": "5 mg/5 ml",
+    "generic": "Aripiprazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/33361/aripra-5-mg-oral-solution",
+    "_source_page": 53
+  },
+  {
+    "name": "Aripra",
+    "strength": "15 mg",
+    "generic": "Aripiprazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/989/aripra-15-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Aripra",
+    "strength": "10 mg",
+    "generic": "Aripiprazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/988/aripra-10-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Ariprazole",
+    "strength": "5 mg",
+    "generic": "Aripiprazole",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/991/ariprazole-5-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Ariprazole",
+    "strength": "10 mg",
+    "generic": "Aripiprazole",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/990/ariprazole-10-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Ariprex",
+    "strength": "2 mg",
+    "generic": "Aripiprazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17888/ariprex-2-mg-tablet",
+    "_source_page": 53
+  },
+  {
+    "name": "Ariprex",
+    "strength": "2 mg",
+    "generic": "Aripiprazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17888/ariprex-2-mg-tablet",
+    "_source_page": 54
+  },
+  {
+    "name": "Ariprex",
+    "strength": "5 mg/5 ml",
+    "generic": "Aripiprazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/17889/ariprex-5-mg-oral-solution",
+    "_source_page": 54
+  },
+  {
+    "name": "Ariscon",
+    "strength": "(500 mg+267 mg+160 mg)/10 ml",
+    "generic": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/32092/ariscon-500-mg-suspension",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristen",
+    "strength": "1%",
+    "generic": "Clotrimazole (Eye ointment)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/12980/aristen-1-eye-ointment",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristo D3",
+    "strength": "2000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26407/aristo-d3-2000-iu-tablet",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristo D3",
+    "strength": "40000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26406/aristo-d3-40000-iu-capsule",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristo D3",
+    "strength": "20000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26405/aristo-d3-20000-iu-capsule",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristo D3",
+    "strength": "200000 IU/ml",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Injectable Solution (Oral & IM)",
+    "source_url": "https://medex.com.bd/brands/19311/aristo-d3-200000-iu-injectable-solution-oral-im",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristo Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14086/aristo-gold-tablet",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristo Kid",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z juniors syrup preparation]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14168/aristo-kid-syrup",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristo Mom",
+    "strength": null,
+    "generic": "10 Vitamin & 6 Mineral [Pregnancy and Breast Feeding Formula]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14163/aristo-mom-tablet",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristo Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14188/aristo-silver-tablet",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristobet",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/31292/aristobet-01-ointment",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristobet",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31293/aristobet-01-cream",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristobet-CL",
+    "strength": "0.1%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/31291/aristobet-cl-01-1-ointment",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristobet-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34008/aristobet-n-01-05-cream",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristocal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14267/aristocal-500-mg-tablet",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristocal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14404/aristocal-d-500-mg-tablet",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristocal M",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14511/aristocal-m-tablet",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristocort",
+    "strength": "0.1%",
+    "generic": "Triamcinolone Acetonide (Topical)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12698/aristocort-01-cream",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristocort",
+    "strength": "0.1%",
+    "generic": "Triamcinolone Acetonide (Topical)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/3895/aristocort-01-ointment",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristocort Plus",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12699/aristocort-plus-1-01-cream",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristocrom",
+    "strength": "2%",
+    "generic": "Sodium Cromoglicate [2%]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/3690/aristocrom-2-eye-drop",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristoderm",
+    "strength": "0.05%+1%+0.1%",
+    "generic": "Betamethasone + Clotrimazole + Gentamicin",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/16328/aristoderm-005-1-cream",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristodox",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29398/aristodox-100-mg-capsule",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristoferon",
+    "strength": "200 mg/5 ml",
+    "generic": "Ferrous Sulfate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/12895/aristoferon-200-mg-syrup",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristofol Fe",
+    "strength": "308 mg+350 mcg",
+    "generic": "Ferrous Fumarate + Folic acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13162/aristofol-fe-308-mg-tablet",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristomol GFS",
+    "strength": "0.5%",
+    "generic": "Timolol Maleate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36549/aristomol-gfs-05-eye-drop",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristomox",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6477/aristomox-250-mg-capsule",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristomox",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6478/aristomox-500-mg-capsule",
+    "_source_page": 54
+  },
+  {
+    "name": "Aristomox",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6477/aristomox-250-mg-capsule",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristomox CV",
+    "strength": "875 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38645/aristomox-cv-875-mg-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristomox CV",
+    "strength": "250 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38644/aristomox-cv-250-mg-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristomox CV",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38643/aristomox-cv-500-mg-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristophen",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/30807/aristophen-05-eye-drop",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristophen",
+    "strength": "1%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/30808/aristophen-1-eye-ointment",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristopin",
+    "strength": "0.01%",
+    "generic": "Atropine Sulfate (Ophthalmic)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36548/aristopin-001-eye-drop",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristoplex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13746/aristoplex-5-mg-syrup",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristovit B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13745/aristovit-b-5-mg-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristovit M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14189/aristovit-m-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Aristovit X",
+    "strength": null,
+    "generic": "Super antioxidant [vitamins & minerals]",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31934/aristovit-x-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Aritax",
+    "strength": "6 mg/ml",
+    "generic": "Paclitaxel",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36621/aritax-6-mg-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Aritone",
+    "strength": "10 ml/vial",
+    "generic": "Multivitamin [Vitamin B complex + Vitamin C]",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/13997/aritone-10-ml-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Aritone DX",
+    "strength": null,
+    "generic": "Multivitamin [water soluble] + 5% Dextrose",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37176/aritone-dx-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Aritone N",
+    "strength": null,
+    "generic": "Multivitamin  [water soluble] + Normal Saline",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35447/aritone-n-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Aritone Z",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30126/aritone-z-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Aritone Z",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14677/aritone-z-syrup",
+    "_source_page": 55
+  },
+  {
+    "name": "Aritone ZI",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13361/aritone-zi-syrup",
+    "_source_page": 55
+  },
+  {
+    "name": "Arixon",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/7917/arixon-250-mg-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Arixon",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7922/arixon-1-gm-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Arixon",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/7918/arixon-500-mg-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Arixon",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7921/arixon-500-mg-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Arixon",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/7919/arixon-1-gm-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Arixon",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7920/arixon-250-mg-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Arixon",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/26293/arixon-2-gm-injection",
+    "_source_page": 55
+  },
+  {
+    "name": "Arizith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Centeon Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25599/arizith-500-mg-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Arlin",
+    "strength": "100 mg/5 ml",
+    "generic": "Linezolid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8929/arlin-100-mg-suspension",
+    "_source_page": 55
+  },
+  {
+    "name": "Arlin",
+    "strength": "600 mg",
+    "generic": "Linezolid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8928/arlin-600-mg-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Arlin",
+    "strength": "400 mg",
+    "generic": "Linezolid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8938/arlin-400-mg-tablet",
+    "_source_page": 55
+  },
+  {
+    "name": "Arlin",
+    "strength": "2 mg/ml",
+    "generic": "Linezolid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/21741/arlin-2-mg-injection",
+    "_source_page": 55
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Buzz",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25295/buzz-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Bygerd",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34814/bygerd-10-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Bygerd",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34815/bygerd-20-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Byloza",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31831/byloza-20-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "C-2",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25777/c-2-125-mg-suspension",
+    "_source_page": 111
+  },
+  {
+    "name": "C-2",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25776/c-2-500-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "C-2",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25775/c-2-250-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "C-3",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35464/c-3-200-mg-capsule",
+    "_source_page": 111
+  },
+  {
+    "name": "C-3",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7487/c-3-400-mg-capsule",
+    "_source_page": 111
+  },
+  {
+    "name": "C-3",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7488/c-3-100-mg-suspension",
+    "_source_page": 111
+  },
+  {
+    "name": "C-4",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/14389/c-4-1000-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "C-Bon",
+    "strength": "250 mg",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/28023/c-bon-250-mg-chewable-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "C-BZ",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14685/c-bz-syrup",
+    "_source_page": 111
+  },
+  {
+    "name": "C-Fenac",
+    "strength": "75 mg/3 ml",
+    "generic": "Diclofenac Sodium",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/10949/c-fenac-75-mg-injection",
+    "_source_page": 111
+  },
+  {
+    "name": "C-Fenac Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "generic": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/34545/c-fenac-plus-75-mg-injection",
+    "_source_page": 111
+  },
+  {
+    "name": "C-Fenac TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/10948/c-fenac-tr-100-mg-capsule",
+    "_source_page": 111
+  },
+  {
+    "name": "C-Lemon",
+    "strength": "250 mg",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/28749/c-lemon-250-mg-chewable-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "C-Rich",
+    "strength": "250 mg",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/32642/c-rich-250-mg-chewable-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "C-Vitera",
+    "strength": "250 mg",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/13922/c-vitera-250-mg-chewable-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "C-Zinc",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14553/c-zinc-10-mg-syrup",
+    "_source_page": 111
+  },
+  {
+    "name": "Cab",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/667/cab-5-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Cabanib",
+    "strength": "60 mg",
+    "generic": "Cabozantinib",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34128/cabanib-60-mg-capsule",
+    "_source_page": 111
+  },
+  {
+    "name": "Cabanib",
+    "strength": "20 mg",
+    "generic": "Cabozantinib",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32811/cabanib-20-mg-capsule",
+    "_source_page": 111
+  },
+  {
+    "name": "Cabazol",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33108/cabazol-1-cream",
+    "_source_page": 111
+  },
+  {
+    "name": "Caber",
+    "strength": "0.5 mg",
+    "generic": "Cabergoline",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27541/caber-05-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Cabergol",
+    "strength": "0.5 mg",
+    "generic": "Cabergoline",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5977/cabergol-05-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Caberol",
+    "strength": "0.5 mg",
+    "generic": "Cabergoline",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26171/caberol-05-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Cabita",
+    "strength": "500 mg",
+    "generic": "Capecitabine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18530/cabita-500-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Cabolac",
+    "strength": "0.5 mg",
+    "generic": "Cabergoline",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18430/cabolac-05-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Cabolin",
+    "strength": "0.5 mg",
+    "generic": "Cabergoline",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5978/cabolin-05-mg-tablet",
+    "_source_page": 111
+  },
+  {
+    "name": "Cabolin",
+    "strength": "1 mg",
+    "generic": "Cabergoline",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33755/cabolin-1-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cabonate",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14348/cabonate-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Caboxen",
+    "strength": "20 mg",
+    "generic": "Cabozantinib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32813/caboxen-20-mg-capsule",
+    "_source_page": 112
+  },
+  {
+    "name": "Caboxen",
+    "strength": "80 mg",
+    "generic": "Cabozantinib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32814/caboxen-80-mg-capsule",
+    "_source_page": 112
+  },
+  {
+    "name": "Caboz",
+    "strength": "20 mg",
+    "generic": "Cabozantinib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27307/caboz-20-mg-capsule",
+    "_source_page": 112
+  },
+  {
+    "name": "Cabretol",
+    "strength": "100 mg/5 ml",
+    "generic": "Carbamazepine",
+    "company": "Renata PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/30702/cabretol-100-mg-suspension",
+    "_source_page": 112
+  },
+  {
+    "name": "Cabretol",
+    "strength": "200 mg",
+    "generic": "Carbamazepine",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30703/cabretol-200-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cadiar D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38488/cadiar-d-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cadiar DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38489/cadiar-dx-600-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cadmin Plus",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14515/cadmin-plus-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cadmin-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34592/cadmin-d-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cadolin",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14410/cadolin-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cadosil",
+    "strength": "500 mg",
+    "generic": "Calcium Dobesilate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26535/cadosil-500-mg-capsule",
+    "_source_page": 112
+  },
+  {
+    "name": "Cadosil LD",
+    "strength": "4%+2%+0.025%",
+    "generic": "Calcium Dobesilate + Lidocaine + Dexamethasone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Rectal Ointment",
+    "source_url": "https://medex.com.bd/brands/26553/cadosil-ld-4-2-rectal-ointment",
+    "_source_page": 112
+  },
+  {
+    "name": "Cadrol",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36515/cadrol-5-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cadrol",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36514/cadrol-25-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Caf-N",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10638/caf-n-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Caface",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10639/caface-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cafceta",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10566/cafceta-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cafecool Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32495/cafecool-plus-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cafedon",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10567/cafedon-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cafeta",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23562/cafeta-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Caffo",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10569/caffo-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Caftadin",
+    "strength": "0.25%",
+    "generic": "Alcaftadine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/349/caftadin-025-eye-drop",
+    "_source_page": 112
+  },
+  {
+    "name": "Caftalast",
+    "strength": "0.25%",
+    "generic": "Alcaftadine",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/33879/caftalast-025-eye-drop",
+    "_source_page": 112
+  },
+  {
+    "name": "Caftyl",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23563/caftyl-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Caid",
+    "strength": "75 mg",
+    "generic": "Aspirin",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/3357/caid-75-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14273/cal-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cal",
+    "strength": "250 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/14272/cal-250-mg-chewable-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14420/cal-d-500-mg-tablet",
+    "_source_page": 112
+  },
+  {
+    "name": "Cal D Plus",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29874/cal-d-plus-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Cal Lactate",
+    "strength": "300 mg",
+    "generic": "Calcium Lactate",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34956/cal-lactate-300-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Cal X",
+    "strength": "12 mg/sachet",
+    "generic": "Sucralose",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/14763/cal-x-12-mg-powder",
+    "_source_page": 113
+  },
+  {
+    "name": "Cal X",
+    "strength": "8 mg",
+    "generic": "Sucralose",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14762/cal-x-8-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Cal-aid",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25749/cal-aid-500-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Cal-D Zen",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14424/cal-d-zen-500-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Cal. Gluconate",
+    "strength": "500 mg/5 ml",
+    "generic": "Calcium Gluconate",
+    "company": "Edruc Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/14254/cal-gluconate-500-mg-injection",
+    "_source_page": 113
+  },
+  {
+    "name": "Calac",
+    "strength": "300 mg",
+    "generic": "Calcium Lactate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14248/calac-300-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calamilon",
+    "strength": "15%+5%+5%",
+    "generic": "Calamine + Zinc Oxide + Glycerine",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/12952/calamilon-15-5-lotion",
+    "_source_page": 113
+  },
+  {
+    "name": "Calamin M",
+    "strength": "15%+5%+5%",
+    "generic": "Calamine + Zinc Oxide + Glycerine",
+    "company": "Momotaz Pharmaceuticals Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/30690/calamin-m-15-5-lotion",
+    "_source_page": 113
+  },
+  {
+    "name": "Calamine",
+    "strength": "15%+5%+5%",
+    "generic": "Calamine + Zinc Oxide + Glycerine",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/12308/calamine-15-5-lotion",
+    "_source_page": 113
+  },
+  {
+    "name": "Calamine",
+    "strength": "15%+5%+5%",
+    "generic": "Calamine + Zinc Oxide + Glycerine",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/37728/calamine-15-5-lotion",
+    "_source_page": 113
+  },
+  {
+    "name": "Calate",
+    "strength": "300 mg",
+    "generic": "Calcium Lactate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14249/calate-300-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbeta",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/815/calbeta-5-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbo",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14350/calbo-500-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbo Forte",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg+400 IU",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C + Vitamin D3",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/14501/calbo-forte-1000-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbo Jr",
+    "strength": "250 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/14275/calbo-jr-250-mg-chewable-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbo-C",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/14391/calbo-c-1000-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbo-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14411/calbo-d-500-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbo-D Vita",
+    "strength": "1358.196 mg+600 mg (Elemental calcium)+400 IU",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin D3",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/16345/calbo-d-vita-1358196-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbon D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14412/calbon-d-500-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calboplex",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14517/calboplex-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calboral-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14351/calboral-d-500-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calboral-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26172/calboral-dx-600-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbostar",
+    "strength": "740 mg",
+    "generic": "Calcium Orotate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14371/calbostar-740-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbostar",
+    "strength": "400 mg",
+    "generic": "Calcium Orotate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14370/calbostar-400-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calbotol",
+    "strength": "1200 mg+0.25 mcg",
+    "generic": "Calcium Citrate + Calcitriol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30694/calbotol-1200-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calcefer",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C",
+    "company": "Renata PLC",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/29293/calcefer-1000-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calcent",
+    "strength": "100 mg",
+    "generic": "Acalabrutinib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32401/calcent-100-mg-capsule",
+    "_source_page": 113
+  },
+  {
+    "name": "Calchek",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/668/calchek-5-mg-tablet",
+    "_source_page": 113
+  },
+  {
+    "name": "Calchek Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/816/calchek-plus-5-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calci",
+    "strength": "100 mg/2 ml",
+    "generic": "Calcium Pantothenate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/14250/calci-100-mg-injection",
+    "_source_page": 114
+  },
+  {
+    "name": "Calci-D",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14280/calci-d-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calci-D Plus",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14416/calci-d-plus-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcibo D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14413/calcibo-d-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcibost-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14414/calcibost-d-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcical-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14415/calcical-d-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcicar",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14279/calcicar-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcid",
+    "strength": "1000 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/27036/calcid-1000-mg-chewable-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calciferol",
+    "strength": "200000 IU/ml",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Renata PLC",
+    "medicine_type": "Injectable Solution (Oral & IM)",
+    "source_url": "https://medex.com.bd/brands/13500/calciferol-200000-iu-injectable-solution-oral-im",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcifil D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14417/calcifil-d-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcigro D Plus",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35872/calcigro-d-plus-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcin",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14282/calcin-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcin-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14418/calcin-d-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcin-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29294/calcin-dx-600-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcin-M",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14518/calcin-m-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcin-O",
+    "strength": "400 mg",
+    "generic": "Calcium Orotate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14372/calcin-o-400-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcin-O DS",
+    "strength": "740 mg",
+    "generic": "Calcium Orotate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18501/calcin-o-ds-740-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcin-O Kit",
+    "strength": "150 mg & 400 mg",
+    "generic": "Ibandronic Acid & Calcium Orotate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30354/calcin-o-kit-150-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcirol",
+    "strength": "200000 IU/ml",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Injectable Solution (Oral & IM)",
+    "source_url": "https://medex.com.bd/brands/13501/calcirol-200000-iu-injectable-solution-oral-im",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcitate",
+    "strength": "300 mg",
+    "generic": "Calcium Lactate",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28022/calcitate-300-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calciton",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14283/calciton-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcitonin",
+    "strength": "100 IU/ml",
+    "generic": "Salmon Calcitonin",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/14918/calcitonin-100-iu-injection",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcitrol",
+    "strength": "0.25 mcg",
+    "generic": "Calcitriol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13511/calcitrol-025-mcg-capsule",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcium A & D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14419/calcium-a-d-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcium Ambee",
+    "strength": "500 mg/5 ml",
+    "generic": "Calcium Gluconate",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28025/calcium-ambee-500-mg-injection",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcium D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37648/calcium-d-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcium DS",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37641/calcium-ds-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcium Vitamin C & D",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg+400 IU",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C + Vitamin D3",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/38477/calcium-vitamin-c-d-1000-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcium-A",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14284/calcium-a-500-mg-tablet",
+    "_source_page": 114
+  },
+  {
+    "name": "Calcium-Jayson",
+    "strength": "500 mg/5 ml",
+    "generic": "Calcium Gluconate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/14255/calcium-jayson-500-mg-injection",
+    "_source_page": 115
+  },
+  {
+    "name": "Calcixen",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30890/calcixen-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calcixen Max",
+    "strength": "600 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33579/calcixen-max-600-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calcizen",
+    "strength": "300 mg",
+    "generic": "Calcium Lactate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14256/calcizen-300-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calcizen DS",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14286/calcizen-ds-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calcor-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29903/calcor-d-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calcor-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29904/calcor-dx-600-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Caldical",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31058/caldical-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Caldical-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14421/caldical-d-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Caldil",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14288/caldil-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Caldil-OT",
+    "strength": "400 mg",
+    "generic": "Calcium Orotate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14373/caldil-ot-400-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Caldil-Plus",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14422/caldil-plus-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Caldolin",
+    "strength": "500 mg+400 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27563/caldolin-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Caletal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25762/caletal-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Caletal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27381/caletal-d-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calex-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Guardian Healthcare Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32025/calex-d-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calfast DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33326/calfast-dx-600-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calfeed",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14289/calfeed-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calfeed-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28127/calfeed-d-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calfix C",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/34325/calfix-c-1000-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calfix C Plus",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg+400 IU",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C + Vitamin D3",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/34326/calfix-c-plus-1000-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calfix-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36323/calfix-d-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calfix-Dx",
+    "strength": "600 mg+400 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36324/calfix-dx-600-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calfor",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14290/calfor-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calfor-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14426/calfor-d-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calgi-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35655/calgi-d-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calgi-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36921/calgi-dx-600-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calgum JR",
+    "strength": "250 mg+250 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Chewing Gum Tablet",
+    "source_url": "https://medex.com.bd/brands/28685/calgum-jr-250-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calium",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14291/calium-500-mg-tablet",
+    "_source_page": 115
+  },
+  {
+    "name": "Calium Plus",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14427/calium-plus-500-mg-tablet",
+    "_source_page": 115
+  }
+]

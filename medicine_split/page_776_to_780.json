@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Verigan",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28167/verigan-200-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verigat",
+    "strength": "2.5 mg",
+    "generic": "Vericiguat",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32523/verigat-25-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verigat",
+    "strength": "5 mg",
+    "generic": "Vericiguat",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32524/verigat-5-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verigat",
+    "strength": "10 mg",
+    "generic": "Vericiguat",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32525/verigat-10-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verigold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29589/verigold-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verigra",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37039/verigra-100-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verimet",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22166/verimet-500-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verimet",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22167/verimet-850-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verimox",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37040/verimox-400-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Veripel SR",
+    "strength": "200 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/1421/veripel-sr-200-mg-capsule",
+    "_source_page": 776
+  },
+  {
+    "name": "Verisol",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/29590/verisol-05-70-hand-rub",
+    "_source_page": 776
+  },
+  {
+    "name": "Verita-B",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25341/verita-b-100-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Veritrizin",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29591/veritrizin-10-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verivas",
+    "strength": "2.5 mg",
+    "generic": "Vericiguat",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38603/verivas-25-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verivas",
+    "strength": "5 mg",
+    "generic": "Vericiguat",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38604/verivas-5-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verivas",
+    "strength": "10 mg",
+    "generic": "Vericiguat",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38605/verivas-10-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verixim",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18812/verixim-200-mg-capsule",
+    "_source_page": 776
+  },
+  {
+    "name": "Verixim",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18813/verixim-400-mg-capsule",
+    "_source_page": 776
+  },
+  {
+    "name": "Verixim",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18814/verixim-100-mg-suspension",
+    "_source_page": 776
+  },
+  {
+    "name": "Verizin",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12181/verizin-5-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verizith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25677/verizith-500-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Verizith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25678/verizith-200-mg-suspension",
+    "_source_page": 776
+  },
+  {
+    "name": "Verizith",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37813/verizith-250-mg-capsule",
+    "_source_page": 776
+  },
+  {
+    "name": "Vermectin",
+    "strength": "6 mg",
+    "generic": "Ivermectin (Tablet)",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29817/vermectin-6-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Vermectin",
+    "strength": "12 mg",
+    "generic": "Ivermectin (Tablet)",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29818/vermectin-12-mg-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Vermicom",
+    "strength": "40 mg/5 ml",
+    "generic": "Levamisole Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/10308/vermicom-40-mg-syrup",
+    "_source_page": 776
+  },
+  {
+    "name": "Vermid",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/339/vermid-400-mg-chewable-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Vermikil",
+    "strength": "200 mg/5 ml",
+    "generic": "Albendazole",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/340/vermikil-200-mg-suspension",
+    "_source_page": 776
+  },
+  {
+    "name": "Vermikil",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/341/vermikil-400-mg-chewable-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Vermin-DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/25477/vermin-ds-400-mg-chewable-tablet",
+    "_source_page": 776
+  },
+  {
+    "name": "Vermizol",
+    "strength": "100 mg",
+    "generic": "Mebendazole",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/10344/vermizol-100-mg-chewable-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Veron",
+    "strength": "135 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30042/veron-135-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Veronem",
+    "strength": "500 mg/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/8265/veronem-500-mg-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Veronem",
+    "strength": "1 gm/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/8266/veronem-1-gm-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Verorab",
+    "strength": "2.5 IU/ml",
+    "generic": "Rabies Vaccine",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "IM/SC Injection",
+    "source_url": "https://medex.com.bd/brands/15244/verorab-25-iu-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Verospiron",
+    "strength": "25 mg",
+    "generic": "Spironolactone",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28062/verospiron-25-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Verospiron Plus",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2898/verospiron-plus-20-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Verquv",
+    "strength": "2.5 mg",
+    "generic": "Vericiguat",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37172/verquv-25-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Verquv",
+    "strength": "5 mg",
+    "generic": "Vericiguat",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37173/verquv-5-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Verquv",
+    "strength": "10 mg",
+    "generic": "Vericiguat",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37174/verquv-10-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Versil",
+    "strength": "4 mg",
+    "generic": "Perindopril Arginine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2626/versil-4-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertex",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8135/vertex-250-mg-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertex",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8136/vertex-500-mg-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertex",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8137/vertex-1-gm-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertex",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8138/vertex-2-gm-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertex",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/26892/vertex-1-gm-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertex",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/26893/vertex-250-mg-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertex",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/26894/vertex-500-mg-injection",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertig",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27894/vertig-5-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertig",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27895/vertig-10-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertigan",
+    "strength": "5 mg",
+    "generic": "Prochlorperazine Maleate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4687/vertigan-5-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertina Plus",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4641/vertina-plus-25-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertina-D",
+    "strength": "10 mg+10 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/26288/vertina-d-10-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertina-DX",
+    "strength": "20 mg+20 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/30059/vertina-dx-20-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertinor",
+    "strength": "8 mg",
+    "generic": "Betahistine Dihydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30657/vertinor-8-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vertinor",
+    "strength": "16 mg",
+    "generic": "Betahistine Dihydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30658/vertinor-16-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vesanoid",
+    "strength": "10 mg",
+    "generic": "Tretinoin (Oral)",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13089/vesanoid-10-mg-capsule",
+    "_source_page": 777
+  },
+  {
+    "name": "Vescap",
+    "strength": "1 gm",
+    "generic": "Icosapent Ethyl",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35109/vescap-1-gm-capsule",
+    "_source_page": 777
+  },
+  {
+    "name": "Veserc",
+    "strength": "8 mg",
+    "generic": "Betahistine Dihydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4691/veserc-8-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Veserc",
+    "strength": "16 mg",
+    "generic": "Betahistine Dihydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4692/veserc-16-mg-tablet",
+    "_source_page": 777
+  },
+  {
+    "name": "Vesidon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35113/vesidon-10-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesifen",
+    "strength": "5 mg",
+    "generic": "Solifenacin Succinate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36266/vesifen-5-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesifen",
+    "strength": "10 mg",
+    "generic": "Solifenacin Succinate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36478/vesifen-10-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesinac",
+    "strength": "5 mg",
+    "generic": "Solifenacin Succinate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32304/vesinac-5-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesinac",
+    "strength": "10 mg",
+    "generic": "Solifenacin Succinate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32305/vesinac-10-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesium",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36618/vesium-50-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Veslac",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15404/veslac-10-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesocal",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/710/vesocal-5-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesocal",
+    "strength": "10 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/711/vesocal-10-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesocal Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/851/vesocal-plus-5-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesodil",
+    "strength": "6.25 mg",
+    "generic": "Carvedilol",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27832/vesodil-625-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesodil",
+    "strength": "12.5 mg",
+    "generic": "Carvedilol",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27833/vesodil-125-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesodil",
+    "strength": "25 mg",
+    "generic": "Carvedilol",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27834/vesodil-25-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesol-N",
+    "strength": "(0.5 mg+5 mg+1 Lac IU)/gm",
+    "generic": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12620/vesol-n-05-mg-cream",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesotan",
+    "strength": "8 mg",
+    "generic": "Candesartan Cilexetil",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27835/vesotan-8-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vesotan",
+    "strength": "16 mg",
+    "generic": "Candesartan Cilexetil",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27836/vesotan-16-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vestar MR",
+    "strength": "35 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/3144/vestar-mr-35-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vexotil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7358/vexotil-250-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vexotil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7359/vexotil-125-mg-suspension",
+    "_source_page": 778
+  },
+  {
+    "name": "Vexotil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25829/vexotil-500-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vgofil",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37007/vgofil-10-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Viagrazen",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28767/viagrazen-100-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Viagrazen",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28768/viagrazen-50-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Viagrex",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27414/viagrex-50-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Viamax",
+    "strength": "25 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6030/viamax-25-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Viamax",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6031/viamax-50-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Viamax",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6032/viamax-100-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Viax",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6058/viax-50-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Viax",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6059/viax-100-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vibose",
+    "strength": "0.2 mg",
+    "generic": "Voglibose",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17114/vibose-02-mg-tablet",
+    "_source_page": 778
+  },
+  {
+    "name": "Vibose",
+    "strength": "0.3 mg",
+    "generic": "Voglibose",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17115/vibose-03-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Vibrenta",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Glargine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/27645/vibrenta-100-iu-injection",
+    "_source_page": 779
+  },
+  {
+    "name": "VIC",
+    "strength": null,
+    "generic": "Iron + Folic acid + Vitamin B complex + Vitamin C",
+    "company": "Decent Pharma Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13248/vic-capsule",
+    "_source_page": 779
+  },
+  {
+    "name": "Vicard",
+    "strength": "25 mg+2.5 mg+1 mg",
+    "generic": "Vitamin B6, B9 & B12",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13731/vicard-25-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Vicon-B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13845/vicon-b-5-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Vicon-B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13846/vicon-b-5-mg-syrup",
+    "_source_page": 779
+  },
+  {
+    "name": "Vicon-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14232/vicon-m-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Vicon-Z",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14696/vicon-z-syrup",
+    "_source_page": 779
+  },
+  {
+    "name": "Vicozol",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34570/vicozol-200-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Victorin",
+    "strength": "200 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7829/victorin-200-mg-capsule",
+    "_source_page": 779
+  },
+  {
+    "name": "Victorin",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7830/victorin-40-mg-suspension",
+    "_source_page": 779
+  },
+  {
+    "name": "Victorin",
+    "strength": "20 mg/ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/7831/victorin-20-mg-pediatric-drop",
+    "_source_page": 779
+  },
+  {
+    "name": "Victoza",
+    "strength": "6 mg/ml",
+    "generic": "Liraglutide",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/5724/victoza-6-mg-injection",
+    "_source_page": 779
+  },
+  {
+    "name": "Vida",
+    "strength": "50 mg",
+    "generic": "Vildagliptin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5532/vida-50-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Vida Plus",
+    "strength": "50 mg+500 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28614/vida-plus-50-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Vida Plus",
+    "strength": "50 mg+850 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28615/vida-plus-50-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Vidalin",
+    "strength": "10 ml/vial",
+    "generic": "Multivitamin [Vitamin B complex + Vitamin C]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/14797/vidalin-10-ml-injection",
+    "_source_page": 779
+  },
+  {
+    "name": "Vidalin A",
+    "strength": null,
+    "generic": "Multivitamin + 5% Amino acid",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34238/vidalin-a-injection",
+    "_source_page": 779
+  },
+  {
+    "name": "Vidalin D",
+    "strength": null,
+    "generic": "Multivitamin [water soluble] + 5% Dextrose",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29474/vidalin-d-injection",
+    "_source_page": 779
+  },
+  {
+    "name": "Vidalin F",
+    "strength": null,
+    "generic": "Vitamin B Complex & C + 20% Fat Emulsion",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36746/vidalin-f-injection",
+    "_source_page": 779
+  },
+  {
+    "name": "Vidalin Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14123/vidalin-gold-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Vidalin N",
+    "strength": null,
+    "generic": "Multivitamin  [water soluble] + Normal Saline",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29473/vidalin-n-injection",
+    "_source_page": 779
+  },
+  {
+    "name": "Vidalin Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14158/vidalin-silver-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Vidox",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8367/vidox-100-mg-capsule",
+    "_source_page": 779
+  },
+  {
+    "name": "Viera",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32782/viera-200-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Viera",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32783/viera-50-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Viera",
+    "strength": "200 mg/5 ml",
+    "generic": "Voriconazole",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/32784/viera-200-mg-suspension",
+    "_source_page": 779
+  },
+  {
+    "name": "Viev",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6095/viev-10-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Viev",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24743/viev-20-mg-tablet",
+    "_source_page": 779
+  },
+  {
+    "name": "Viewgut",
+    "strength": "150 gm",
+    "generic": "Barium Sulfate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/16325/viewgut-150-gm-suspension",
+    "_source_page": 779
+  },
+  {
+    "name": "Vifas",
+    "strength": "60 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12146/vifas-60-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vifas",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12147/vifas-120-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vifas",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12148/vifas-180-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vifas",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/20351/vifas-30-mg-suspension",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigalon",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "UNIDO Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36603/vigalon-05-eye-drop",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigamet",
+    "strength": "50 mg+850 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5717/vigamet-50-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigamet",
+    "strength": "50 mg+500 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26806/vigamet-50-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigatin",
+    "strength": "50 mg",
+    "generic": "Vildagliptin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5540/vigatin-50-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigil",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10229/vigil-400-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigil",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10230/vigil-200-mg-suspension",
+    "_source_page": 780
+  },
+  {
+    "name": "Viglimet",
+    "strength": "50 mg+500 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5713/viglimet-50-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Viglimet",
+    "strength": "50 mg+850 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5714/viglimet-50-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Viglita",
+    "strength": "50 mg",
+    "generic": "Vildagliptin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5533/viglita-50-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigor",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13708/vigor-100-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigor Ace",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14048/vigor-ace-6-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigor-B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13847/vigor-b-5-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigor-B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13848/vigor-b-5-mg-syrup",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigor-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14233/vigor-m-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigorex",
+    "strength": "25 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6035/vigorex-25-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigorex",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6036/vigorex-50-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigorex",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6037/vigorex-100-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigosol",
+    "strength": "5%",
+    "generic": "Amino Acid, D-Sorbitol & Electrolytes",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17603/vigosol-5-injection",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigotrum Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13978/vigotrum-gold-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vigotrum Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34134/vigotrum-silver-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vilagli",
+    "strength": "50 mg",
+    "generic": "Vildagliptin",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35732/vilagli-50-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vilanti",
+    "strength": "25 mcg+100 mcg",
+    "generic": "Vilanterol Trifenatate + Fluticasone Furoate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/31602/vilanti-25-mcg-inhalation-capsule",
+    "_source_page": 780
+  },
+  {
+    "name": "Vilanti",
+    "strength": "25 mcg+200 mcg",
+    "generic": "Vilanterol Trifenatate + Fluticasone Furoate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/31603/vilanti-25-mcg-inhalation-capsule",
+    "_source_page": 780
+  },
+  {
+    "name": "Vilaptin",
+    "strength": "50 mg",
+    "generic": "Vildagliptin",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25244/vilaptin-50-mg-tablet",
+    "_source_page": 780
+  },
+  {
+    "name": "Vilaro",
+    "strength": "25 mcg+62.5 mcg",
+    "generic": "Vilanterol Trifenatate + Umeclidinium Bromide",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/37310/vilaro-25-mcg-inhalation-capsule",
+    "_source_page": 780
+  },
+  {
+    "name": "Vilatide",
+    "strength": "25 mcg+100 mcg",
+    "generic": "Vilanterol Trifenatate + Fluticasone Furoate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/36973/vilatide-25-mcg-inhalation-capsule",
+    "_source_page": 780
+  }
+]

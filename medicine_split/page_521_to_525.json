@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Octacod",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/34883/octacod-syrup",
+    "_source_page": 521
+  },
+  {
+    "name": "Octanate",
+    "strength": "500 IU/10 ml",
+    "generic": "Human Coagulation Factor VIII",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34406/octanate-500-iu-injection",
+    "_source_page": 521
+  },
+  {
+    "name": "Octanate",
+    "strength": "1000 IU/10 ml",
+    "generic": "Human Coagulation Factor VIII",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34407/octanate-1000-iu-injection",
+    "_source_page": 521
+  },
+  {
+    "name": "Octanine F",
+    "strength": "500 IU/vial",
+    "generic": "Coagulation Factor IX",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34408/octanine-f-500-iu-injection",
+    "_source_page": 521
+  },
+  {
+    "name": "Octreotide",
+    "strength": "100 mcg/ml",
+    "generic": "Octreotide Acetate",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/31947/octreotide-100-mcg-injection",
+    "_source_page": 521
+  },
+  {
+    "name": "Octreotide",
+    "strength": "50 mcg/ml",
+    "generic": "Octreotide Acetate",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/31948/octreotide-50-mcg-injection",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocubac",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/8915/ocubac-05-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocubac-D",
+    "strength": "0.1%+0.5%",
+    "generic": "Dexamethasone + Chloramphenicol",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15808/ocubac-d-01-05-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocubrin",
+    "strength": "1%",
+    "generic": "Brinzolamide",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/17158/ocubrin-1-suspension",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocubrom",
+    "strength": "0.07%",
+    "generic": "Bromfenac Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18357/ocubrom-007-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocuclor",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/8916/ocuclor-05-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocudex",
+    "strength": "0.1%",
+    "generic": "Dexamethasone (Ophthalmic)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15772/ocudex-01-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocufenac",
+    "strength": "0.1%",
+    "generic": "Nepafenac",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/35745/ocufenac-01-suspension",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocuflox",
+    "strength": "0.3%",
+    "generic": "Lomefloxacin",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/21782/ocuflox-03-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocugel",
+    "strength": "2%",
+    "generic": "Hydroxypropyl Methylcellulose",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Viscoelastic Solution",
+    "source_url": "https://medex.com.bd/brands/16158/ocugel-2-viscoelastic-solution",
+    "_source_page": 521
+  },
+  {
+    "name": "Oculant",
+    "strength": "0.4%+0.3%",
+    "generic": "Polyethylene Glycol + Propylene Glycol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16166/oculant-04-03-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Oculax",
+    "strength": "0.2%+0.36%+1%",
+    "generic": "Glycerol + Hypromellose + Polyethylene Glycol 400",
+    "company": "ACI Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/20944/oculax-02-036-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocumox",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9645/ocumox-05-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocupin",
+    "strength": "1%",
+    "generic": "Atropine Sulfate (Ophthalmic)",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/30623/ocupin-1-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocupin",
+    "strength": "1%",
+    "generic": "Atropine Sulfate (Ophthalmic)",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/30624/ocupin-1-eye-ointment",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocupres",
+    "strength": "0.5%",
+    "generic": "Timolol Maleate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/24990/ocupres-05-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocuram",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/8917/ocuram-05-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocusol",
+    "strength": "1%",
+    "generic": "Prednisolone Acetate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15915/ocusol-1-suspension",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocusooth",
+    "strength": "0.4%+0.3%",
+    "generic": "Polyethylene Glycol + Propylene Glycol",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/34599/ocusooth-04-03-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocustin",
+    "strength": "1.5%",
+    "generic": "Bepotastine Besilate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15927/ocustin-15-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocutear",
+    "strength": "0.3%",
+    "generic": "Hypromellose",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16135/ocutear-03-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocutif",
+    "strength": "0.025%",
+    "generic": "Ketotifen Fumarate (Ophthalmic)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15951/ocutif-0025-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocutifen",
+    "strength": "0.025%",
+    "generic": "Ketotifen Fumarate (Ophthalmic)",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15952/ocutifen-0025-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocutob",
+    "strength": "0.3%",
+    "generic": "Tobramycin (Ophthalmic)",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15740/ocutob-03-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocutrex",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/8918/ocutrex-05-eye-drop",
+    "_source_page": 521
+  },
+  {
+    "name": "Ocutrop",
+    "strength": "0.5%",
+    "generic": "Tropicamide",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16036/ocutrop-05-eye-drop",
+    "_source_page": 522
+  },
+  {
+    "name": "Ocutrop",
+    "strength": "1%",
+    "generic": "Tropicamide",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16037/ocutrop-1-eye-drop",
+    "_source_page": 522
+  },
+  {
+    "name": "Ocutrop Plus",
+    "strength": "0.8%+5%",
+    "generic": "Tropicamide + Phenylephrine Hydrochloride",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/33897/ocutrop-plus-08-5-eye-drop",
+    "_source_page": 522
+  },
+  {
+    "name": "Ocuvit",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "generic": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16199/ocuvit-60-mg-capsule",
+    "_source_page": 522
+  },
+  {
+    "name": "Odacef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7607/odacef-200-mg-capsule",
+    "_source_page": 522
+  },
+  {
+    "name": "Odacef",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7608/odacef-400-mg-capsule",
+    "_source_page": 522
+  },
+  {
+    "name": "Odacef",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7609/odacef-100-mg-suspension",
+    "_source_page": 522
+  },
+  {
+    "name": "Odacef DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/36204/odacef-ds-200-mg-suspension",
+    "_source_page": 522
+  },
+  {
+    "name": "Odafen",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12132/odafen-120-mg-tablet",
+    "_source_page": 522
+  },
+  {
+    "name": "Odafen",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12133/odafen-180-mg-tablet",
+    "_source_page": 522
+  },
+  {
+    "name": "Odafen",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/12134/odafen-30-mg-suspension",
+    "_source_page": 522
+  },
+  {
+    "name": "Odatrix",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8021/odatrix-500-mg-injection",
+    "_source_page": 522
+  },
+  {
+    "name": "Odatrix",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8025/odatrix-1-gm-injection",
+    "_source_page": 522
+  },
+  {
+    "name": "Odatrix",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8026/odatrix-2-gm-injection",
+    "_source_page": 522
+  },
+  {
+    "name": "Odatron",
+    "strength": "4 mg",
+    "generic": "Ondansetron",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28569/odatron-4-mg-tablet",
+    "_source_page": 522
+  },
+  {
+    "name": "Odatron",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28570/odatron-8-mg-tablet",
+    "_source_page": 522
+  },
+  {
+    "name": "Odatron",
+    "strength": "2 mg/ml",
+    "generic": "Ondansetron",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28571/odatron-2-mg-injection",
+    "_source_page": 522
+  },
+  {
+    "name": "Odatron",
+    "strength": "8 mg/4 ml",
+    "generic": "Ondansetron",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28572/odatron-8-mg-injection",
+    "_source_page": 522
+  },
+  {
+    "name": "Odatron",
+    "strength": "4 mg/5 ml",
+    "generic": "Ondansetron",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/29877/odatron-4-mg-oral-solution",
+    "_source_page": 522
+  },
+  {
+    "name": "Odaz",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8663/odaz-500-mg-tablet",
+    "_source_page": 522
+  },
+  {
+    "name": "Odaz",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8664/odaz-200-mg-suspension",
+    "_source_page": 522
+  },
+  {
+    "name": "Odazin",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8665/odazin-500-mg-tablet",
+    "_source_page": 522
+  },
+  {
+    "name": "Odazyth",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8666/odazyth-500-mg-tablet",
+    "_source_page": 522
+  },
+  {
+    "name": "Odazyth",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8667/odazyth-200-mg-suspension",
+    "_source_page": 522
+  },
+  {
+    "name": "Odazyth",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/25577/odazyth-250-mg-capsule",
+    "_source_page": 522
+  },
+  {
+    "name": "Odeson",
+    "strength": "4 mg/ml",
+    "generic": "Dexamethasone",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/5771/odeson-4-mg-injection",
+    "_source_page": 522
+  },
+  {
+    "name": "Odeson",
+    "strength": "0.5 mg",
+    "generic": "Dexamethasone",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15794/odeson-05-mg-tablet",
+    "_source_page": 522
+  },
+  {
+    "name": "Odessy",
+    "strength": "2%",
+    "generic": "Ketoconazole",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/28105/odessy-2-shampoo",
+    "_source_page": 522
+  },
+  {
+    "name": "Oditen",
+    "strength": "90 mg/5 ml",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/16370/oditen-90-mg-suspension",
+    "_source_page": 522
+  },
+  {
+    "name": "Oditen",
+    "strength": "400 mg",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16371/oditen-400-mg-capsule",
+    "_source_page": 522
+  },
+  {
+    "name": "Oditen",
+    "strength": "200 mg",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31723/oditen-200-mg-capsule",
+    "_source_page": 523
+  },
+  {
+    "name": "Odmon",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3840/odmon-5-mg-chewable-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Odmon",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3841/odmon-4-mg-chewable-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Odmon",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3842/odmon-10-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Odofex",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20339/odofex-120-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Odrel",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3241/odrel-75-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Odrel Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3288/odrel-plus-75-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Odycin",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9646/odycin-05-eye-drop",
+    "_source_page": 523
+  },
+  {
+    "name": "Odycin",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29097/odycin-400-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Odycin D",
+    "strength": "0.5%+0.1%",
+    "generic": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/31903/odycin-d-05-01-eye-drop",
+    "_source_page": 523
+  },
+  {
+    "name": "Oestrogel",
+    "strength": "0.06%",
+    "generic": "17 β Estradiol",
+    "company": "ZAS Corporation",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/33993/oestrogel-006-topical-gel",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofex",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7610/ofex-200-mg-capsule",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofex",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7611/ofex-400-mg-capsule",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofex",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7612/ofex-100-mg-suspension",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofex DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/34416/ofex-ds-200-mg-suspension",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofkof",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "generic": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4021/ofkof-10-mg-syrup",
+    "_source_page": 523
+  },
+  {
+    "name": "Oflacin",
+    "strength": "200 mg",
+    "generic": "Ofloxacin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9652/oflacin-200-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Oflacin",
+    "strength": "400 mg",
+    "generic": "Ofloxacin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9653/oflacin-400-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Oflo Plus",
+    "strength": "0.3%+1%+0.025%+2%",
+    "generic": "Ofloxacin + Clotrimazole + Beclomethasone + Lidocaine",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/37303/oflo-plus-03-1-ear-drop",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofloxacin-POS",
+    "strength": "0.3%",
+    "generic": "Ofloxacin",
+    "company": "ZAS Corporation",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/38472/ofloxacin-pos-03-eye-drop",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofmit",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23169/ofmit-8-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofmit",
+    "strength": "8 mg/4 ml",
+    "generic": "Ondansetron",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/29069/ofmit-8-mg-injection",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofpain",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15360/ofpain-10-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofpain",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15361/ofpain-30-mg-injection",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofpain",
+    "strength": "0.5%",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15449/ofpain-05-eye-drop",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofpain",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/21261/ofpain-60-mg-injection",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofran",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4733/ofran-8-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofran",
+    "strength": "4 mg/5 ml",
+    "generic": "Ondansetron",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/4734/ofran-4-mg-oral-solution",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofran",
+    "strength": "8 mg/4 ml",
+    "generic": "Ondansetron",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/4735/ofran-8-mg-injection",
+    "_source_page": 523
+  },
+  {
+    "name": "Ofuran SR",
+    "strength": "100 mg",
+    "generic": "Nitrofurantoin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/15555/ofuran-sr-100-mg-tablet",
+    "_source_page": 523
+  },
+  {
+    "name": "Ogivri",
+    "strength": "440 mg/20 ml",
+    "generic": "Trastuzumab",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/28804/ogivri-440-mg-injection",
+    "_source_page": 524
+  },
+  {
+    "name": "Ogli",
+    "strength": "15 mg",
+    "generic": "Pioglitazone",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5581/ogli-15-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Okical-D",
+    "strength": "500 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26540/okical-d-500-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Okical-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26541/okical-dx-600-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Okmeter Match",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "OK Biotech Co., Limited",
+    "medicine_type": "Test strip",
+    "source_url": "https://medex.com.bd/brands/36026/okmeter-match-test-strip",
+    "_source_page": 524
+  },
+  {
+    "name": "OKmeter Meter",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "OK Biotech Co., Limited",
+    "medicine_type": "Glucometer",
+    "source_url": "https://medex.com.bd/brands/36047/okmeter-meter-glucometer",
+    "_source_page": 524
+  },
+  {
+    "name": "Olacent",
+    "strength": "100 mg",
+    "generic": "Olaparib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33163/olacent-100-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olacent",
+    "strength": "150 mg",
+    "generic": "Olaparib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33164/olacent-150-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olacing DS",
+    "strength": "0.2%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28574/olacing-ds-02-eye-drop",
+    "_source_page": 524
+  },
+  {
+    "name": "Olacing Max",
+    "strength": "0.7%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/35313/olacing-max-07-eye-drop",
+    "_source_page": 524
+  },
+  {
+    "name": "Olakin",
+    "strength": "150 mg",
+    "generic": "Olaparib",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35188/olakin-150-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanap",
+    "strength": "5 mg",
+    "generic": "Olanzapine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4393/olanap-5-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanap",
+    "strength": "10 mg",
+    "generic": "Olanzapine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4394/olanap-10-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanap ODT",
+    "strength": "10 mg",
+    "generic": "Olanzapine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/32394/olanap-odt-10-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanap ODT",
+    "strength": "5 mg",
+    "generic": "Olanzapine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/32395/olanap-odt-5-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanib",
+    "strength": "150 mg",
+    "generic": "Olaparib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28832/olanib-150-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanib",
+    "strength": "50 mg",
+    "generic": "Olaparib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34680/olanib-50-mg-capsule",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanor",
+    "strength": "5 mg",
+    "generic": "Olanzapine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22942/olanor-5-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanor",
+    "strength": "10 mg",
+    "generic": "Olanzapine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22943/olanor-10-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanza",
+    "strength": "10 mg",
+    "generic": "Olanzapine",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22940/olanza-10-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olanza",
+    "strength": "5 mg",
+    "generic": "Olanzapine",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22941/olanza-5-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olapag",
+    "strength": "25 mg",
+    "generic": "Eltrombopag Olamine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35262/olapag-25-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olapag",
+    "strength": "50 mg",
+    "generic": "Eltrombopag Olamine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35263/olapag-50-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olapar",
+    "strength": "100 mg",
+    "generic": "Olaparib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27298/olapar-100-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olapar",
+    "strength": "150 mg",
+    "generic": "Olaparib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27299/olapar-150-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olarif",
+    "strength": "0.1%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15997/olarif-01-eye-drop",
+    "_source_page": 524
+  },
+  {
+    "name": "Olarif DS",
+    "strength": "0.2%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28907/olarif-ds-02-eye-drop",
+    "_source_page": 524
+  },
+  {
+    "name": "Olarigen",
+    "strength": "150 mg",
+    "generic": "Olaparib",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32761/olarigen-150-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olarigen",
+    "strength": "50 mg",
+    "generic": "Olaparib",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32762/olarigen-50-mg-capsule",
+    "_source_page": 524
+  },
+  {
+    "name": "Olatab",
+    "strength": "100 mg",
+    "generic": "Olaparib",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36640/olatab-100-mg-tablet",
+    "_source_page": 524
+  },
+  {
+    "name": "Olay",
+    "strength": "10 mg",
+    "generic": "Olanzapine",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33095/olay-10-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olay",
+    "strength": "5 mg",
+    "generic": "Olanzapine",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33096/olay-5-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olcin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9513/olcin-500-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Oleanz",
+    "strength": "5 mg",
+    "generic": "Olanzapine",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4395/oleanz-5-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Oleanz",
+    "strength": "10 mg",
+    "generic": "Olanzapine",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4396/oleanz-10-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olesta Plus",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35148/olesta-plus-5-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olestar",
+    "strength": "4 gm/sachet",
+    "generic": "Cholestyramine Resin",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/34160/olestar-4-gm-suspension",
+    "_source_page": 525
+  },
+  {
+    "name": "Olic",
+    "strength": "5 mg",
+    "generic": "Obeticholic Acid",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36544/olic-5-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olic",
+    "strength": "10 mg",
+    "generic": "Obeticholic Acid",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36545/olic-10-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olida",
+    "strength": "200 mg",
+    "generic": "Sulindac",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34701/olida-200-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olida",
+    "strength": "100 mg",
+    "generic": "Sulindac",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34702/olida-100-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olif",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9948/olif-50-mg-capsule",
+    "_source_page": 525
+  },
+  {
+    "name": "Olif",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9949/olif-150-mg-capsule",
+    "_source_page": 525
+  },
+  {
+    "name": "Olistat",
+    "strength": "120 mg",
+    "generic": "Orlistat",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5168/olistat-120-mg-capsule",
+    "_source_page": 525
+  },
+  {
+    "name": "Olistat",
+    "strength": "60 mg",
+    "generic": "Orlistat",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5169/olistat-60-mg-capsule",
+    "_source_page": 525
+  },
+  {
+    "name": "Olivan TS",
+    "strength": "0.3%",
+    "generic": "Nepafenac",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/32674/olivan-ts-03-suspension",
+    "_source_page": 525
+  },
+  {
+    "name": "Oliver",
+    "strength": "150 mg",
+    "generic": "L-Ornithine L-Aspartate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27297/oliver-150-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olixar",
+    "strength": "5 mg",
+    "generic": "Olanzapine",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30412/olixar-5-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olixar",
+    "strength": "10 mg",
+    "generic": "Olanzapine",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30413/olixar-10-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olixar",
+    "strength": "20 mg",
+    "generic": "Olanzapine",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33092/olixar-20-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olme",
+    "strength": "20 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22950/olme-20-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olme",
+    "strength": "40 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22951/olme-40-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olme",
+    "strength": "10 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22952/olme-10-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olme H",
+    "strength": "20 mg+12.5 mg",
+    "generic": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35213/olme-h-20-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olme-AM",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17756/olme-am-5-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olmeben",
+    "strength": "20 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32706/olmeben-20-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olmeben",
+    "strength": "40 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32707/olmeben-40-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olmeben Plus",
+    "strength": "20 mg+12.5 mg",
+    "generic": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30927/olmeben-plus-20-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olmecar",
+    "strength": "20 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2779/olmecar-20-mg-tablet",
+    "_source_page": 525
+  },
+  {
+    "name": "Olmecar",
+    "strength": "40 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2780/olmecar-40-mg-tablet",
+    "_source_page": 525
+  }
+]

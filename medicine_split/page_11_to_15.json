@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Activa",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28502/activa-100-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Active Plus",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27902/active-plus-6-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Activit Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14084/activit-gold-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Activit Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14137/activit-silver-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Activit Z",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14675/activit-z-syrup",
+    "_source_page": 11
+  },
+  {
+    "name": "Activit ZI",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13360/activit-zi-syrup",
+    "_source_page": 11
+  },
+  {
+    "name": "Activon",
+    "strength": "10%",
+    "generic": "Diethylamine Salicylate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37300/activon-10-cream",
+    "_source_page": 11
+  },
+  {
+    "name": "Actizen",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11911/actizen-10-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Actizen",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11912/actizen-5-mg-syrup",
+    "_source_page": 11
+  },
+  {
+    "name": "Actol",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10398/actol-120-mg-suspension",
+    "_source_page": 11
+  },
+  {
+    "name": "Actolin",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3425/actolin-2-mg-syrup",
+    "_source_page": 11
+  },
+  {
+    "name": "Actolin",
+    "strength": "4 mg",
+    "generic": "Salbutamol",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29168/actolin-4-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "ActoMeg",
+    "strength": "15 mg+500 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5635/actomeg-15-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "ActoMeg",
+    "strength": "15 mg+850 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5636/actomeg-15-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Actose",
+    "strength": "15 mg",
+    "generic": "Pioglitazone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5566/actose-15-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Actose",
+    "strength": "30 mg",
+    "generic": "Pioglitazone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5567/actose-30-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Actrapid",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16771/actrapid-100-iu-injection",
+    "_source_page": 11
+  },
+  {
+    "name": "Actrapid",
+    "strength": "40 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/26700/actrapid-40-iu-injection",
+    "_source_page": 11
+  },
+  {
+    "name": "Actrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/8984/actrim-200-mg-suspension",
+    "_source_page": 11
+  },
+  {
+    "name": "Actrim DS",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8983/actrim-ds-800-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Actulose",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2375/actulose-335-gm-oral-solution",
+    "_source_page": 11
+  },
+  {
+    "name": "Acubis",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25702/acubis-5-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Acubis",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25703/acubis-25-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Acudipin",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17644/acudipin-5-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Acudipin Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16533/acudipin-plus-5-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Acufer",
+    "strength": "30 mg",
+    "generic": "Ferric Maltol",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38229/acufer-30-mg-capsule",
+    "_source_page": 11
+  },
+  {
+    "name": "Aculizer",
+    "strength": null,
+    "generic": "Inhaler device",
+    "company": "ACI Limited",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/33910/aculizer-inhaler",
+    "_source_page": 11
+  },
+  {
+    "name": "Acunac",
+    "strength": "0.09%",
+    "generic": "Bromfenac Sodium",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15928/acunac-009-eye-drop",
+    "_source_page": 11
+  },
+  {
+    "name": "Acupain",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15299/acupain-10-mg-tablet",
+    "_source_page": 11
+  },
+  {
+    "name": "Acupain",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15300/acupain-30-mg-injection",
+    "_source_page": 11
+  },
+  {
+    "name": "Acuren",
+    "strength": "25 mg",
+    "generic": "Hydrochlorothiazide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2812/acuren-25-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Acuren",
+    "strength": "50 mg",
+    "generic": "Hydrochlorothiazide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2813/acuren-50-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Acusan",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2696/acusan-50-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Acusan Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2933/acusan-plus-50-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Acyvir",
+    "strength": "500 mg/vial",
+    "generic": "Acyclovir (Injection)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/130/acyvir-500-mg-injection",
+    "_source_page": 12
+  },
+  {
+    "name": "Acyvir",
+    "strength": "3%",
+    "generic": "Acyclovir (Ophthalmic)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/233/acyvir-3-eye-ointment",
+    "_source_page": 12
+  },
+  {
+    "name": "Ad-All",
+    "strength": null,
+    "generic": "Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13257/ad-all-capsule",
+    "_source_page": 12
+  },
+  {
+    "name": "Adaben Duo",
+    "strength": "0.1%+2.5%",
+    "generic": "Adapalene + Benzoyl peroxide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/12792/adaben-duo-01-25-gel",
+    "_source_page": 12
+  },
+  {
+    "name": "Adafil",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6060/adafil-10-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adafil",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6061/adafil-20-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adagel Plus",
+    "strength": "0.1%+2.5%",
+    "generic": "Adapalene + Benzoyl peroxide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/30074/adagel-plus-01-25-gel",
+    "_source_page": 12
+  },
+  {
+    "name": "Adair",
+    "strength": "500 mcg",
+    "generic": "Roflumilast (Tablet)",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24308/adair-500-mcg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adali",
+    "strength": "40 mg/0.8 ml",
+    "generic": "Adalimumab",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/37048/adali-40-mg-injection",
+    "_source_page": 12
+  },
+  {
+    "name": "Adalimab",
+    "strength": "40 mg/0.8 ml",
+    "generic": "Adalimumab",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/29134/adalimab-40-mg-injection",
+    "_source_page": 12
+  },
+  {
+    "name": "Adam 33",
+    "strength": "5 mg",
+    "generic": "Prednisolone",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5792/adam-33-5-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adam 33",
+    "strength": "20 mg",
+    "generic": "Prednisolone",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5793/adam-33-20-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adapel",
+    "strength": "0.1%",
+    "generic": "Adapalene",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/169/adapel-01-cream",
+    "_source_page": 12
+  },
+  {
+    "name": "Adarbi",
+    "strength": "40 mg",
+    "generic": "Azilsartan Medoxomil",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16321/adarbi-40-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adarbi",
+    "strength": "80 mg",
+    "generic": "Azilsartan Medoxomil",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16324/adarbi-80-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adcal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14401/adcal-d-500-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adcovit",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27317/adcovit-5-mg-syrup",
+    "_source_page": 12
+  },
+  {
+    "name": "Adebrox",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30540/adebrox-15-mg-syrup",
+    "_source_page": 12
+  },
+  {
+    "name": "Adecard",
+    "strength": "6 mg/2 ml",
+    "generic": "Adenosine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/240/adecard-6-mg-injection",
+    "_source_page": 12
+  },
+  {
+    "name": "Adecef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6781/adecef-500-mg-capsule",
+    "_source_page": 12
+  },
+  {
+    "name": "Adecef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6782/adecef-125-mg-suspension",
+    "_source_page": 12
+  },
+  {
+    "name": "Adecef DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6783/adecef-ds-250-mg-suspension",
+    "_source_page": 12
+  },
+  {
+    "name": "Adecin",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9102/adecin-500-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adegra",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5996/adegra-50-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adegra",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5997/adegra-100-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adegra",
+    "strength": "25 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32196/adegra-25-mg-tablet",
+    "_source_page": 12
+  },
+  {
+    "name": "Adegut",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1500/adegut-10-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adegut",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1501/adegut-5-mg-suspension",
+    "_source_page": 13
+  },
+  {
+    "name": "Adelax",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4320/adelax-05-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adempa",
+    "strength": "10 mg",
+    "generic": "Empagliflozin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30075/adempa-10-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adempa",
+    "strength": "25 mg",
+    "generic": "Empagliflozin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30076/adempa-25-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adempa-M",
+    "strength": "5 mg+500 mg",
+    "generic": "Empagliflozin + Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35825/adempa-m-5-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adetil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7158/adetil-250-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adetil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7159/adetil-500-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adexim",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7461/adexim-200-mg-capsule",
+    "_source_page": 13
+  },
+  {
+    "name": "Adexim",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7462/adexim-100-mg-suspension",
+    "_source_page": 13
+  },
+  {
+    "name": "Adflox",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/19611/adflox-500-mg-capsule",
+    "_source_page": 13
+  },
+  {
+    "name": "Adgar",
+    "strength": "0.1%",
+    "generic": "Adapalene",
+    "company": "ACI Limited",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/170/adgar-01-gel",
+    "_source_page": 13
+  },
+  {
+    "name": "Adgar",
+    "strength": "0.3%",
+    "generic": "Adapalene",
+    "company": "ACI Limited",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/30525/adgar-03-gel",
+    "_source_page": 13
+  },
+  {
+    "name": "Adglim",
+    "strength": "1 mg",
+    "generic": "Glimepiride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5275/adglim-1-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adglim",
+    "strength": "2 mg",
+    "generic": "Glimepiride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5276/adglim-2-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adifex",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20395/adifex-120-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adimod",
+    "strength": "400 mg",
+    "generic": "Pidotimod",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35651/adimod-400-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adinir",
+    "strength": "300 mg",
+    "generic": "Cefdinir",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28233/adinir-300-mg-capsule",
+    "_source_page": 13
+  },
+  {
+    "name": "Adinir",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefdinir",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28234/adinir-125-mg-suspension",
+    "_source_page": 13
+  },
+  {
+    "name": "Adipal Plus",
+    "strength": "0.1%+2.5%",
+    "generic": "Adapalene + Benzoyl peroxide",
+    "company": "Guardian Healthcare Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/30526/adipal-plus-01-25-gel",
+    "_source_page": 13
+  },
+  {
+    "name": "Adiponil",
+    "strength": "120 mg",
+    "generic": "Orlistat",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5162/adiponil-120-mg-capsule",
+    "_source_page": 13
+  },
+  {
+    "name": "Adiron",
+    "strength": "30 mg",
+    "generic": "Ferric Maltol",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35411/adiron-30-mg-capsule",
+    "_source_page": 13
+  },
+  {
+    "name": "Adiva",
+    "strength": "600 mg",
+    "generic": "Efavirenz",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9724/adiva-600-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adiz",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8542/adiz-500-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adiz",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8543/adiz-200-mg-suspension",
+    "_source_page": 13
+  },
+  {
+    "name": "Adiz",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/25615/adiz-250-mg-capsule",
+    "_source_page": 13
+  },
+  {
+    "name": "Adlina",
+    "strength": "5 mg",
+    "generic": "Linagliptin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5481/adlina-5-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adlina-EM",
+    "strength": "10 mg+5 mg",
+    "generic": "Empagliflozin + Linagliptin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33948/adlina-em-10-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adlina-EM",
+    "strength": "25 mg+5 mg",
+    "generic": "Empagliflozin + Linagliptin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33949/adlina-em-25-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adlinameg",
+    "strength": "2.5 mg+500 mg",
+    "generic": "Linagliptin + Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17213/adlinameg-25-mg-tablet",
+    "_source_page": 13
+  },
+  {
+    "name": "Adlinameg",
+    "strength": "2.5 mg+850 mg",
+    "generic": "Linagliptin + Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17214/adlinameg-25-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adlock",
+    "strength": "10 mg",
+    "generic": "Propranolol Hydrochloride",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2462/adlock-10-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adlock",
+    "strength": "40 mg",
+    "generic": "Propranolol Hydrochloride",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2463/adlock-40-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Admero",
+    "strength": "500 mg/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/36779/admero-500-mg-injection",
+    "_source_page": 14
+  },
+  {
+    "name": "Admero",
+    "strength": "1 gm/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/36780/admero-1-gm-injection",
+    "_source_page": 14
+  },
+  {
+    "name": "Admira",
+    "strength": "80 mg",
+    "generic": "Gliclazide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5214/admira-80-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Admira MR",
+    "strength": "30 mg",
+    "generic": "Gliclazide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/5215/admira-mr-30-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Admox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/19612/admox-125-mg-suspension",
+    "_source_page": 14
+  },
+  {
+    "name": "Admox DS",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27318/admox-ds-500-mg-capsule",
+    "_source_page": 14
+  },
+  {
+    "name": "Adnix",
+    "strength": "500 mg",
+    "generic": "Nitazoxanide",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2286/adnix-500-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adnix",
+    "strength": "100 mg/5 ml",
+    "generic": "Nitazoxanide",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/2287/adnix-100-mg-suspension",
+    "_source_page": 14
+  },
+  {
+    "name": "Adnor",
+    "strength": "3 mg",
+    "generic": "Doxepin (Oral)",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27174/adnor-3-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adocil",
+    "strength": "500 mg",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6739/adocil-500-mg-capsule",
+    "_source_page": 14
+  },
+  {
+    "name": "Adocil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6740/adocil-125-mg-suspension",
+    "_source_page": 14
+  },
+  {
+    "name": "Adol",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34955/adol-500-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adol",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/34959/adol-120-mg-suspension",
+    "_source_page": 14
+  },
+  {
+    "name": "Adol Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34960/adol-plus-500-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adonid",
+    "strength": "500 mg",
+    "generic": "Nitazoxanide",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2325/adonid-500-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adonid DS",
+    "strength": "100 mg/5 ml",
+    "generic": "Nitazoxanide",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/22883/adonid-ds-100-mg-suspension",
+    "_source_page": 14
+  },
+  {
+    "name": "Adora",
+    "strength": "500 mg",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6741/adora-500-mg-capsule",
+    "_source_page": 14
+  },
+  {
+    "name": "Adora",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6742/adora-125-mg-suspension",
+    "_source_page": 14
+  },
+  {
+    "name": "Adora",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6743/adora-125-mg-pediatric-drop",
+    "_source_page": 14
+  },
+  {
+    "name": "Adora",
+    "strength": "1000 mg",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26188/adora-1000-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adorbis",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35320/adorbis-25-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adorbis",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35321/adorbis-5-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adorbis",
+    "strength": "10 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35322/adorbis-10-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adorex",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1502/adorex-5-mg-suspension",
+    "_source_page": 14
+  },
+  {
+    "name": "Adorex",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1503/adorex-10-mg-tablet",
+    "_source_page": 14
+  },
+  {
+    "name": "Adorex",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/28019/adorex-5-mg-pediatric-drop",
+    "_source_page": 14
+  },
+  {
+    "name": "Adosun Bar",
+    "strength": "2%",
+    "generic": "Ketoconazole",
+    "company": "Bain Trade International",
+    "medicine_type": "Medicated Bar",
+    "source_url": "https://medex.com.bd/brands/37707/adosun-bar-2-medicated-bar",
+    "_source_page": 14
+  },
+  {
+    "name": "Adrebloc",
+    "strength": "100 mg/10 ml",
+    "generic": "Esmolol Hydrochloride",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/29597/adrebloc-100-mg-injection",
+    "_source_page": 15
+  },
+  {
+    "name": "Adrenaline",
+    "strength": "1 mg/ml",
+    "generic": "Adrenaline",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/17449/adrenaline-1-mg-injection",
+    "_source_page": 15
+  },
+  {
+    "name": "Adribin",
+    "strength": "2 mg/ml",
+    "generic": "Doxorubicin Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/28654/adribin-2-mg-injection",
+    "_source_page": 15
+  },
+  {
+    "name": "Adrin",
+    "strength": "1 mg/ml",
+    "generic": "Adrenaline",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/243/adrin-1-mg-injection",
+    "_source_page": 15
+  },
+  {
+    "name": "Adrinor",
+    "strength": "1 mg/ml",
+    "generic": "Adrenaline",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/244/adrinor-1-mg-injection",
+    "_source_page": 15
+  },
+  {
+    "name": "Adronic",
+    "strength": "4 mg/5 ml",
+    "generic": "Zoledronic Acid [For hypercalcemia]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36114/adronic-4-mg-injection",
+    "_source_page": 15
+  },
+  {
+    "name": "Adrox CV",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38461/adrox-cv-250-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Adrox CV",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38462/adrox-cv-500-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Adrox CV",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/38463/adrox-cv-125-mg-suspension",
+    "_source_page": 15
+  },
+  {
+    "name": "Adryl",
+    "strength": "10 mg/5 ml",
+    "generic": "Diphenhydramine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11870/adryl-10-mg-syrup",
+    "_source_page": 15
+  },
+  {
+    "name": "ADS-10",
+    "strength": "0.225%+10%",
+    "generic": "Sodium Chloride + Dextrose",
+    "company": "Libra Infusions Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/376/ads-10-0225-10-injection",
+    "_source_page": 15
+  },
+  {
+    "name": "Adsalt",
+    "strength": "300 mg",
+    "generic": "Sodium Chloride (Tablet)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35906/adsalt-300-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Adtrizin",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19175/adtrizin-10-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Aduvit",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13735/aduvit-5-mg-capsule",
+    "_source_page": 15
+  },
+  {
+    "name": "Aduvit",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13736/aduvit-5-mg-syrup",
+    "_source_page": 15
+  },
+  {
+    "name": "Advance A to Z Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37636/advance-a-to-z-gold-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Advast",
+    "strength": "5 mg+10 mg",
+    "generic": "Amlodipine Besilate + Atorvastatin",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30595/advast-5-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Advel",
+    "strength": "200 mg",
+    "generic": "Ibuprofen",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11261/advel-200-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Advel",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11262/advel-400-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Advel",
+    "strength": "100 mg/5 ml",
+    "generic": "Ibuprofen",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/11263/advel-100-mg-suspension",
+    "_source_page": 15
+  },
+  {
+    "name": "Advixa",
+    "strength": "40 mg/0.8 ml",
+    "generic": "Adalimumab",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/17307/advixa-40-mg-injection",
+    "_source_page": 15
+  },
+  {
+    "name": "Adze",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/248/adze-400-mg-chewable-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Aegis",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37102/aegis-200-mg-capsule",
+    "_source_page": 15
+  },
+  {
+    "name": "Aegis",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37103/aegis-400-mg-capsule",
+    "_source_page": 15
+  },
+  {
+    "name": "Aenixit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33301/aenixit-05-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Aerodyl",
+    "strength": "10 mg",
+    "generic": "Bambuterol Hydrochloride",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3605/aerodyl-10-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Aerodyl",
+    "strength": "20 mg",
+    "generic": "Bambuterol Hydrochloride",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3606/aerodyl-20-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Aerodyl",
+    "strength": "5 mg/5 ml",
+    "generic": "Bambuterol Hydrochloride",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/3607/aerodyl-5-mg-oral-solution",
+    "_source_page": 15
+  },
+  {
+    "name": "Aerofen",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3709/aerofen-1-mg-tablet",
+    "_source_page": 15
+  },
+  {
+    "name": "Aerofen",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3710/aerofen-1-mg-syrup",
+    "_source_page": 15
+  }
+]

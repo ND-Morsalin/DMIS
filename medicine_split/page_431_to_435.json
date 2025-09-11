@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Luzoca",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36710/luzoca-1-cream",
+    "_source_page": 431
+  },
+  {
+    "name": "Luzol",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34257/luzol-1-cream",
+    "_source_page": 431
+  },
+  {
+    "name": "LVC",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12173/lvc-5-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lybon-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Radius Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33213/lybon-d-500-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyby",
+    "strength": "7.4 mg/gm",
+    "generic": "Abametapir",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Scalp Lotion",
+    "source_url": "https://medex.com.bd/brands/35081/lyby-74-mg-scalp-lotion",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyca",
+    "strength": "50 mg",
+    "generic": "Pregabalin",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37255/lyca-50-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyca",
+    "strength": "75 mg",
+    "generic": "Pregabalin",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37256/lyca-75-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyca CR",
+    "strength": "82.5 mg",
+    "generic": "Pregabalin",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/36469/lyca-cr-825-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyca CR",
+    "strength": "165 mg",
+    "generic": "Pregabalin",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/36470/lyca-cr-165-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyco",
+    "strength": "(1500 mg+250 mg)/5 ml",
+    "generic": "Potassium Citrate + Citric Acid",
+    "company": "Alkad Laboratories",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/33252/lyco-1500-mg-oral-solution",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyflox",
+    "strength": "0.3%",
+    "generic": "Lomefloxacin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9598/lyflox-03-eye-drop",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyfovit",
+    "strength": null,
+    "generic": "Multivitamin + L-Lysine",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28442/lyfovit-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lygen-V",
+    "strength": null,
+    "generic": "Multivitamin + L-Lysine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38697/lygen-v-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lymeclin",
+    "strength": "408 mg",
+    "generic": "Lymecycline",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16575/lymeclin-408-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lynes",
+    "strength": "0.05 mg+2.5 mg",
+    "generic": "Ethinyl Estradiol + Lynestrenol (0.05 mg)",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6112/lynes-005-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lynotril",
+    "strength": "5 mg",
+    "generic": "Lynestrenol",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21923/lynotril-5-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyovit",
+    "strength": null,
+    "generic": "Multivitamin + L-Lysine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26600/lyovit-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyric",
+    "strength": "25 mg",
+    "generic": "Pregabalin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4983/lyric-25-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyric",
+    "strength": "50 mg",
+    "generic": "Pregabalin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4984/lyric-50-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyric",
+    "strength": "75 mg",
+    "generic": "Pregabalin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4985/lyric-75-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyric",
+    "strength": "150 mg",
+    "generic": "Pregabalin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29217/lyric-150-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyric CR",
+    "strength": "82.5 mg",
+    "generic": "Pregabalin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/37602/lyric-cr-825-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyric CR",
+    "strength": "165 mg",
+    "generic": "Pregabalin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/37603/lyric-cr-165-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyric CR",
+    "strength": "330 mg",
+    "generic": "Pregabalin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/37604/lyric-cr-330-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyrinex",
+    "strength": "50 mg",
+    "generic": "Pregabalin",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/17232/lyrinex-50-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyrinex",
+    "strength": "75 mg",
+    "generic": "Pregabalin",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/17233/lyrinex-75-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyrinex CR",
+    "strength": "82.5 mg",
+    "generic": "Pregabalin",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32704/lyrinex-cr-825-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyrinex CR",
+    "strength": "165 mg",
+    "generic": "Pregabalin",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32705/lyrinex-cr-165-mg-tablet",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyroxen",
+    "strength": "25 mg",
+    "generic": "Pregabalin",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30893/lyroxen-25-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyroxen",
+    "strength": "50 mg",
+    "generic": "Pregabalin",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30894/lyroxen-50-mg-capsule",
+    "_source_page": 431
+  },
+  {
+    "name": "Lyroxen CR",
+    "strength": "82.5 mg",
+    "generic": "Pregabalin",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/34393/lyroxen-cr-825-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "Lyroxen CR",
+    "strength": "165 mg",
+    "generic": "Pregabalin",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/34394/lyroxen-cr-165-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "Lysivin",
+    "strength": null,
+    "generic": "Multivitamin + L-Lysine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27519/lysivin-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "Lysovita",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13797/lysovita-5-mg-syrup",
+    "_source_page": 432
+  },
+  {
+    "name": "Lysovita B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13795/lysovita-b-5-mg-capsule",
+    "_source_page": 432
+  },
+  {
+    "name": "Lysovita B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13796/lysovita-b-5-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "Lysozinc",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14689/lysozinc-syrup",
+    "_source_page": 432
+  },
+  {
+    "name": "Lyta 28",
+    "strength": "0.03 mg+0.15 mg+75 mg",
+    "generic": "Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30170/lyta-28-003-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "Lytex",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4051/lytex-15-mg-syrup",
+    "_source_page": 432
+  },
+  {
+    "name": "Lytex",
+    "strength": "6 mg/ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/4052/lytex-6-mg-pediatric-drop",
+    "_source_page": 432
+  },
+  {
+    "name": "Lytex SR",
+    "strength": "75 mg",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/4050/lytex-sr-75-mg-capsule",
+    "_source_page": 432
+  },
+  {
+    "name": "Lyvelsa",
+    "strength": "10 mg",
+    "generic": "Finerenone",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38167/lyvelsa-10-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M Boss",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4053/m-boss-15-mg-syrup",
+    "_source_page": 432
+  },
+  {
+    "name": "M Plus Kit",
+    "strength": "200 mg+200 mcg",
+    "generic": "Mifepristone + Misoprostol",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38546/m-plus-kit-200-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-beg",
+    "strength": "25 mg",
+    "generic": "Mirabegron",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/28456/m-beg-25-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-beg",
+    "strength": "50 mg",
+    "generic": "Mirabegron",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/28457/m-beg-50-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Card",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/699/m-card-5-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Dazole",
+    "strength": "200 mg",
+    "generic": "Metronidazole",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10124/m-dazole-200-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Dazole",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10125/m-dazole-400-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Dazole",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/28618/m-dazole-200-mg-suspension",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Form",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5451/m-form-850-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Fort",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22080/m-fort-500-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Fort",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22081/m-fort-850-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-K",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Cosmo Pharma Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35567/m-k-10-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Kast",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/3788/m-kast-4-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Kast",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/3789/m-kast-5-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-Kast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3790/m-kast-10-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-lucas",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3791/m-lucas-4-mg-chewable-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-lucas",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3792/m-lucas-5-mg-chewable-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-lucas",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3793/m-lucas-10-mg-tablet",
+    "_source_page": 432
+  },
+  {
+    "name": "M-min",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5452/m-min-500-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "M-min",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5453/m-min-850-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "M-Plex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13802/m-plex-5-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "M-Plex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13803/m-plex-5-mg-syrup",
+    "_source_page": 433
+  },
+  {
+    "name": "M-Pol",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10450/m-pol-500-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "M-Pol",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10451/m-pol-120-mg-suspension",
+    "_source_page": 433
+  },
+  {
+    "name": "M-Son",
+    "strength": "50 mcg/spray",
+    "generic": "Mometasone Furoate (Nasal Spray)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/22577/m-son-50-mcg-nasal-spray",
+    "_source_page": 433
+  },
+  {
+    "name": "M-Trim",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9032/m-trim-400-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "M-Trim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9034/m-trim-200-mg-suspension",
+    "_source_page": 433
+  },
+  {
+    "name": "M-Trim DS",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9033/m-trim-ds-800-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "M.M Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14749/mm-gold-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Maacal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Eggshell Calcium + Vitamin D3",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36093/maacal-d-500-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Maacal-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Eggshell Calcium + Vitamin D3",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36094/maacal-dx-600-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Mabic",
+    "strength": "20 mg",
+    "generic": "Dasatinib",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28183/mabic-20-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Mabic",
+    "strength": "100 mg",
+    "generic": "Dasatinib",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28184/mabic-100-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Mabrix",
+    "strength": "10 mg/ml",
+    "generic": "Rituximab",
+    "company": "ACI Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34587/mabrix-10-mg-injection",
+    "_source_page": 433
+  },
+  {
+    "name": "Mabthera",
+    "strength": "10 mg/ml",
+    "generic": "Rituximab",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15167/mabthera-10-mg-injection",
+    "_source_page": 433
+  },
+  {
+    "name": "Macas",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8497/macas-125-mg-suspension",
+    "_source_page": 433
+  },
+  {
+    "name": "Macazi",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8646/macazi-500-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Macazi",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8647/macazi-200-mg-suspension",
+    "_source_page": 433
+  },
+  {
+    "name": "Macery",
+    "strength": "250 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28559/macery-250-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Macery",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28560/macery-500-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Macery",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28561/macery-125-mg-suspension",
+    "_source_page": 433
+  },
+  {
+    "name": "Macflox",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36446/macflox-400-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Macin",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8533/macin-125-mg-suspension",
+    "_source_page": 433
+  },
+  {
+    "name": "Macipah",
+    "strength": "10 mg",
+    "generic": "Macitentan",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32600/macipah-10-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Maclar",
+    "strength": "250 mg",
+    "generic": "Clarithromycin",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8769/maclar-250-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Maclar",
+    "strength": "500 mg",
+    "generic": "Clarithromycin",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8770/maclar-500-mg-tablet",
+    "_source_page": 433
+  },
+  {
+    "name": "Maclar",
+    "strength": "125 mg/5 ml",
+    "generic": "Clarithromycin",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8771/maclar-125-mg-suspension",
+    "_source_page": 433
+  },
+  {
+    "name": "Maclar",
+    "strength": "500 mg/vial",
+    "generic": "Clarithromycin",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8772/maclar-500-mg-injection",
+    "_source_page": 433
+  },
+  {
+    "name": "Maclid",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/25614/maclid-250-mg-capsule",
+    "_source_page": 434
+  },
+  {
+    "name": "Maclid",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28096/maclid-500-mg-capsule",
+    "_source_page": 434
+  },
+  {
+    "name": "Maclid",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28097/maclid-200-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Maclixine",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29131/maclixine-25-mg-tablet",
+    "_source_page": 434
+  },
+  {
+    "name": "Maclo",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38006/maclo-100-mg-tablet",
+    "_source_page": 434
+  },
+  {
+    "name": "Maclon",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13432/maclon-500-mcg-tablet",
+    "_source_page": 434
+  },
+  {
+    "name": "Macolax",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/25 ml",
+    "generic": "Polyethylene Glycol 3350 + Electrolytes",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/28320/macolax-13125-gm-oral-solution",
+    "_source_page": 434
+  },
+  {
+    "name": "Macrobac",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8648/macrobac-500-mg-tablet",
+    "_source_page": 434
+  },
+  {
+    "name": "Macrobac",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8649/macrobac-200-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Macrocin-T",
+    "strength": "2% W/V",
+    "generic": "Erythromycin (Lotion)",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/28341/macrocin-t-2-w-lotion",
+    "_source_page": 434
+  },
+  {
+    "name": "Macrosol",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/25 ml",
+    "generic": "Polyethylene Glycol 3350 + Electrolytes",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/28458/macrosol-13125-gm-oral-solution",
+    "_source_page": 434
+  },
+  {
+    "name": "Macrozith",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8650/macrozith-250-mg-capsule",
+    "_source_page": 434
+  },
+  {
+    "name": "Macrozith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8652/macrozith-500-mg-tablet",
+    "_source_page": 434
+  },
+  {
+    "name": "Macrozith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8653/macrozith-200-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Maczith",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8655/maczith-250-mg-capsule",
+    "_source_page": 434
+  },
+  {
+    "name": "Maczith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8656/maczith-500-mg-tablet",
+    "_source_page": 434
+  },
+  {
+    "name": "Maczith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8657/maczith-200-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Madhuvas",
+    "strength": "(5 gm+20 gm)/100 ml",
+    "generic": "Adhatoda vasica + Centella asiatica",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/31170/madhuvas-5-gm-syrup",
+    "_source_page": 434
+  },
+  {
+    "name": "Magacil",
+    "strength": "400 mg/5 ml",
+    "generic": "Magaldrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16577/magacil-400-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Magacil Plus",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16594/magacil-plus-480-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Magacil Plus",
+    "strength": "480 mg+20 mg",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/21935/magacil-plus-480-mg-chewable-tablet",
+    "_source_page": 434
+  },
+  {
+    "name": "Magadrate Plus",
+    "strength": "400 mg/5 ml",
+    "generic": "Magaldrate",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16578/magadrate-plus-400-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Magalcon Plus",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16595/magalcon-plus-480-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Magalrat Plus",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16596/magalrat-plus-480-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Magalrat Plus",
+    "strength": "480 mg+20 mg",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/16597/magalrat-plus-480-mg-chewable-tablet",
+    "_source_page": 434
+  },
+  {
+    "name": "Maganta Plus",
+    "strength": "480 mg+20 mg",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/16588/maganta-plus-480-mg-chewable-tablet",
+    "_source_page": 434
+  },
+  {
+    "name": "Maganta Plus",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16589/maganta-plus-480-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Magaplus",
+    "strength": "400 mg/5 ml",
+    "generic": "Magaldrate",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/28876/magaplus-400-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Magaplus-X",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16598/magaplus-x-480-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Magasol",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/26657/magasol-480-mg-suspension",
+    "_source_page": 434
+  },
+  {
+    "name": "Magfin",
+    "strength": "(300 mg+1.25 ml)/5 ml",
+    "generic": "Magnesium Hydroxide + Liquid Paraffin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Emulsion",
+    "source_url": "https://medex.com.bd/brands/26221/magfin-300-mg-emulsion",
+    "_source_page": 435
+  },
+  {
+    "name": "Magmax",
+    "strength": "365 mg",
+    "generic": "Magnesium Oxide",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38691/magmax-365-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Magmil",
+    "strength": "400 mg/5 ml",
+    "generic": "Magnesium Hydroxide",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21955/magmil-400-mg-suspension",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnamilk",
+    "strength": "400 mg/5 ml",
+    "generic": "Magnesium Hydroxide",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21961/magnamilk-400-mg-suspension",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnason",
+    "strength": "400 mg/5 ml",
+    "generic": "Magnesium Hydroxide",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/27145/magnason-400-mg-suspension",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnide",
+    "strength": "365 mg",
+    "generic": "Magnesium Oxide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32271/magnide-365-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "MagniLife DB",
+    "strength": null,
+    "generic": "Apis mellifica + Gelsemium sempervirens + Gnaphalium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31190/magnilife-db-cream",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnito",
+    "strength": "365 mg",
+    "generic": "Magnesium Oxide",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30950/magnito-365-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnogel",
+    "strength": "250 mg+400 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/477/magnogel-250-mg-chewable-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnogel",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/28120/magnogel-175-mg-suspension",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnolax",
+    "strength": "(300 mg+1.25 ml)/5 ml",
+    "generic": "Magnesium Hydroxide + Liquid Paraffin",
+    "company": "Biopharma Limited",
+    "medicine_type": "Emulsion",
+    "source_url": "https://medex.com.bd/brands/34756/magnolax-300-mg-emulsion",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnova",
+    "strength": "500 mg/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8194/magnova-500-mg-injection",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnova",
+    "strength": "1 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8195/magnova-1-gm-injection",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnox",
+    "strength": "365 mg",
+    "generic": "Magnesium Oxide",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30860/magnox-365-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Magnum",
+    "strength": "365 mg",
+    "generic": "Magnesium Oxide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30477/magnum-365-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Magolin",
+    "strength": "15 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37553/magolin-15-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Magolin",
+    "strength": "10 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37554/magolin-10-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Magolin",
+    "strength": "5 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37555/magolin-5-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Magolin",
+    "strength": "2.5 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38473/magolin-25-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Magsum",
+    "strength": "2.5 gm/5 ml",
+    "generic": "Magnesium Sulfate",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/14545/magsum-25-gm-injection",
+    "_source_page": 435
+  },
+  {
+    "name": "MagVital",
+    "strength": "365 mg",
+    "generic": "Magnesium Oxide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33426/magvital-365-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Makario",
+    "strength": "12.5 mg",
+    "generic": "Omarigliptin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38339/makario-125-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Makario",
+    "strength": "25 mg",
+    "generic": "Omarigliptin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38340/makario-25-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Makcin",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8504/makcin-125-mg-suspension",
+    "_source_page": 435
+  },
+  {
+    "name": "Makdom",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36338/makdom-10-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Makmaul Sanagra",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35934/makmaul-sanagra-100-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Makzit",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36339/makzit-500-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Makzit",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/36340/makzit-200-mg-suspension",
+    "_source_page": 435
+  },
+  {
+    "name": "Malason",
+    "strength": "500 mg+25 mg",
+    "generic": "Sulphadoxine + Pyrimethamine",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10293/malason-500-mg-tablet",
+    "_source_page": 435
+  },
+  {
+    "name": "Maldrox",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/32162/maldrox-480-mg-suspension",
+    "_source_page": 435
+  }
+]

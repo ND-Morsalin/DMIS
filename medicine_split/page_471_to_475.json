@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Motelity",
+    "strength": "1 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30291/motelity-1-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motelity",
+    "strength": "2 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30344/motelity-2-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Moticare",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37415/moticare-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motifen",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/58/motifen-100-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motigen",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1604/motigen-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motigen",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1605/motigen-5-mg-suspension",
+    "_source_page": 471
+  },
+  {
+    "name": "Motigut",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1606/motigut-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motigut",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1607/motigut-5-mg-suspension",
+    "_source_page": 471
+  },
+  {
+    "name": "Motigut",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1608/motigut-5-mg-pediatric-drop",
+    "_source_page": 471
+  },
+  {
+    "name": "Motil",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1609/motil-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motil",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1610/motil-5-mg-suspension",
+    "_source_page": 471
+  },
+  {
+    "name": "Motilex",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1611/motilex-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motilex",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1612/motilex-5-mg-suspension",
+    "_source_page": 471
+  },
+  {
+    "name": "Motilium",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28098/motilium-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motilium",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/28099/motilium-5-mg-suspension",
+    "_source_page": 471
+  },
+  {
+    "name": "Motilon",
+    "strength": "10 mg",
+    "generic": "Metoclopramide Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4702/motilon-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motilon",
+    "strength": "5 mg/5 ml",
+    "generic": "Metoclopramide Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4703/motilon-5-mg-syrup",
+    "_source_page": 471
+  },
+  {
+    "name": "Motilon",
+    "strength": "1 mg/ml",
+    "generic": "Metoclopramide Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/4704/motilon-1-mg-pediatric-drop",
+    "_source_page": 471
+  },
+  {
+    "name": "Motilon",
+    "strength": "10 mg/2 ml",
+    "generic": "Metoclopramide Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/28342/motilon-10-mg-injection",
+    "_source_page": 471
+  },
+  {
+    "name": "Motinorm",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1613/motinorm-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motiper",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1614/motiper-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motiper",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1615/motiper-5-mg-suspension",
+    "_source_page": 471
+  },
+  {
+    "name": "Motiwin",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33608/motiwin-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motiwin",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/33609/motiwin-5-mg-suspension",
+    "_source_page": 471
+  },
+  {
+    "name": "Motodon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1601/motodon-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Motodon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1602/motodon-10-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Mouthcare",
+    "strength": "3 gm/100 ml",
+    "generic": "Clove oil",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Mouthwash",
+    "source_url": "https://medex.com.bd/brands/29066/mouthcare-3-gm-mouthwash",
+    "_source_page": 471
+  },
+  {
+    "name": "Moventa",
+    "strength": "0.2%+2%",
+    "generic": "Mucopolysaccharide Polysulphate + Salicylic Acid",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/32766/moventa-02-2-topical-gel",
+    "_source_page": 471
+  },
+  {
+    "name": "Movex",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/59/movex-100-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Movex SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/17380/movex-sr-200-mg-tablet",
+    "_source_page": 471
+  },
+  {
+    "name": "Movibac",
+    "strength": "5 mg",
+    "generic": "Baclofen",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38587/movibac-5-mg-tablet",
+    "_source_page": 472
+  },
+  {
+    "name": "Movibac",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38588/movibac-10-mg-tablet",
+    "_source_page": 472
+  },
+  {
+    "name": "Movicol",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/sachet",
+    "generic": "Polyethylene Glycol 3350 + Electrolytes",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/27027/movicol-13125-gm-powder",
+    "_source_page": 472
+  },
+  {
+    "name": "Movicol",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/25 ml",
+    "generic": "Polyethylene Glycol 3350 + Electrolytes",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/31120/movicol-13125-gm-oral-solution",
+    "_source_page": 472
+  },
+  {
+    "name": "Movifast",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/sachet",
+    "generic": "Polyethylene Glycol 3350 + Electrolytes",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/21930/movifast-13125-gm-powder",
+    "_source_page": 472
+  },
+  {
+    "name": "Movifast",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/25 ml",
+    "generic": "Polyethylene Glycol 3350 + Electrolytes",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/27268/movifast-13125-gm-oral-solution",
+    "_source_page": 472
+  },
+  {
+    "name": "Movigel",
+    "strength": "0.2%+2%",
+    "generic": "Mucopolysaccharide Polysulphate + Salicylic Acid",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/35208/movigel-02-2-topical-gel",
+    "_source_page": 472
+  },
+  {
+    "name": "Movilax",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/sachet",
+    "generic": "Polyethylene Glycol 3350 + Electrolytes",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/16646/movilax-13125-gm-powder",
+    "_source_page": 472
+  },
+  {
+    "name": "Movilax",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/25 ml",
+    "generic": "Polyethylene Glycol 3350 + Electrolytes",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/16648/movilax-13125-gm-oral-solution",
+    "_source_page": 472
+  },
+  {
+    "name": "Movon",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/60/movon-100-mg-tablet",
+    "_source_page": 472
+  },
+  {
+    "name": "Movonac TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/27970/movonac-tr-100-mg-capsule",
+    "_source_page": 472
+  },
+  {
+    "name": "Mox",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6565/mox-500-mg-capsule",
+    "_source_page": 472
+  },
+  {
+    "name": "Mox",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28163/mox-250-mg-capsule",
+    "_source_page": 472
+  },
+  {
+    "name": "Mox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28164/mox-125-mg-suspension",
+    "_source_page": 472
+  },
+  {
+    "name": "Mox-plus",
+    "strength": "250 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6600/mox-plus-250-mg-suspension",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxacil",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6569/moxacil-250-mg-capsule",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxacil",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6570/moxacil-500-mg-capsule",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxacil",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6573/moxacil-125-mg-suspension",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxacil",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6575/moxacil-125-mg-pediatric-drop",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxaclav",
+    "strength": "875 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/916/moxaclav-875-mg-tablet",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxaclav",
+    "strength": "(1 gm+200 mg)/20 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/918/moxaclav-1-gm-injection",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxaclav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/921/moxaclav-125-mg-suspension",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxaclav",
+    "strength": "250 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/924/moxaclav-250-mg-tablet",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxaclav",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/925/moxaclav-500-mg-tablet",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxaclav Forte",
+    "strength": "(400 mg+57.50 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/926/moxaclav-forte-400-mg-suspension",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxapen",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6577/moxapen-250-mg-capsule",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxapen",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6578/moxapen-500-mg-capsule",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxarif",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27971/moxarif-500-mg-capsule",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxflo",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/37977/moxflo-05-eye-drop",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxibac",
+    "strength": "400 mg/250 ml",
+    "generic": "Moxifloxacin Hydrochloride (Injection)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9608/moxibac-400-mg-injection",
+    "_source_page": 472
+  },
+  {
+    "name": "Moxibac",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9609/moxibac-400-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxibac",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9636/moxibac-05-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxibac XG",
+    "strength": "0.5%+0.4%",
+    "generic": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28460/moxibac-xg-05-04-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxibest",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33240/moxibest-400-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxichem",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/22682/moxichem-05-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxico",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6581/moxico-250-mg-capsule",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxico",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6582/moxico-500-mg-capsule",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxico",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6583/moxico-125-mg-suspension",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxico DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6584/moxico-ds-250-mg-suspension",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxidal",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35883/moxidal-400-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxidex",
+    "strength": "0.5%+0.1%",
+    "generic": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/26475/moxidex-05-01-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxier",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29078/moxier-400-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxif",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9637/moxif-05-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxif",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31979/moxif-400-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxifix",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9612/moxifix-400-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxifix",
+    "strength": "400 mg/250 ml",
+    "generic": "Moxifloxacin Hydrochloride (Injection)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37292/moxifix-400-mg-injection",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxiflox",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9610/moxiflox-400-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxigen",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9638/moxigen-05-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxigen",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22675/moxigen-400-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxigen",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/27695/moxigen-05-eye-ointment",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxigen D",
+    "strength": "0.5%+0.1%",
+    "generic": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/26573/moxigen-d-05-01-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxigen XG",
+    "strength": "0.5%+0.4%",
+    "generic": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/22683/moxigen-xg-05-04-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxigram",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9639/moxigram-05-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxihil",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33610/moxihil-400-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxikem",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9640/moxikem-05-eye-drop",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxilin",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6585/moxilin-250-mg-capsule",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxilin",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6586/moxilin-500-mg-capsule",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxilin",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6587/moxilin-125-mg-suspension",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxilin-CV",
+    "strength": "250 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37578/moxilin-cv-250-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxilin-CV",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37579/moxilin-cv-500-mg-tablet",
+    "_source_page": 473
+  },
+  {
+    "name": "Moxilin-CV",
+    "strength": "875 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37580/moxilin-cv-875-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxilocin",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9641/moxilocin-05-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxilocin",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22678/moxilocin-400-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxilocin",
+    "strength": "400 mg/250 ml",
+    "generic": "Moxifloxacin Hydrochloride (Injection)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/31353/moxilocin-400-mg-injection",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxilocin",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/34631/moxilocin-05-eye-ointment",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxilocin D",
+    "strength": "0.5%+0.1%",
+    "generic": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/29505/moxilocin-d-05-01-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxilocin XG",
+    "strength": "0.5%+0.4%",
+    "generic": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/30884/moxilocin-xg-05-04-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxin",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6592/moxin-500-mg-capsule",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxin",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6593/moxin-250-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxin",
+    "strength": "875 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6594/moxin-875-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxin",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6595/moxin-125-mg-suspension",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxin",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6597/moxin-125-mg-pediatric-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxin",
+    "strength": "500 mg/vial",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6599/moxin-500-mg-injection",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxin",
+    "strength": "250 mg/vial",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/34718/moxin-250-mg-injection",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxin DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6596/moxin-ds-250-mg-suspension",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxivin",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9642/moxivin-05-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxivin DX",
+    "strength": "0.5%+0.1%",
+    "generic": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/30067/moxivin-dx-05-01-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxiwell",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "National Drug Co. Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37836/moxiwell-400-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxkil",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36806/moxkil-400-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxlocin D",
+    "strength": "0.5%+0.1%",
+    "generic": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28564/moxlocin-d-05-01-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxlocin XG",
+    "strength": "0.5%+0.4%",
+    "generic": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28565/moxlocin-xg-05-04-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxquin",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9611/moxquin-400-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxquin",
+    "strength": "400 mg/250 ml",
+    "generic": "Moxifloxacin Hydrochloride (Injection)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9623/moxquin-400-mg-injection",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxquin",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9643/moxquin-05-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxquin",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Intraocular Injection",
+    "source_url": "https://medex.com.bd/brands/36115/moxquin-05-intraocular-injection",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxquin D",
+    "strength": "0.5%+0.1%",
+    "generic": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27627/moxquin-d-05-01-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "Moxquin XG",
+    "strength": "0.5%+0.4%",
+    "generic": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9644/moxquin-xg-05-04-eye-drop",
+    "_source_page": 474
+  },
+  {
+    "name": "MQ-4",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31485/mq-4-400-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "MR Kit",
+    "strength": "200 mg+200 mcg",
+    "generic": "Mifepristone + Misoprostol",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27242/mr-kit-200-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "MSL",
+    "strength": "10 mg",
+    "generic": "Morphine Sulfate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10673/msl-10-mg-tablet",
+    "_source_page": 474
+  },
+  {
+    "name": "MSL",
+    "strength": "5 mg/5 ml",
+    "generic": "Morphine Sulfate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/22671/msl-5-mg-oral-solution",
+    "_source_page": 475
+  },
+  {
+    "name": "MSL Retard",
+    "strength": "15 mg",
+    "generic": "Morphine Sulfate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Retard Tablet",
+    "source_url": "https://medex.com.bd/brands/22669/msl-retard-15-mg-tablet",
+    "_source_page": 475
+  },
+  {
+    "name": "MTP Kit",
+    "strength": "200 mg+200 mcg",
+    "generic": "Mifepristone + Misoprostol",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15689/mtp-kit-200-mg-tablet",
+    "_source_page": 475
+  },
+  {
+    "name": "Mtrex",
+    "strength": "50 mg/2 ml",
+    "generic": "Methotrexate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/15059/mtrex-50-mg-injection",
+    "_source_page": 475
+  },
+  {
+    "name": "Mtrex",
+    "strength": "2.5 mg",
+    "generic": "Methotrexate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27352/mtrex-25-mg-tablet",
+    "_source_page": 475
+  },
+  {
+    "name": "Mtrex",
+    "strength": "10 mg",
+    "generic": "Methotrexate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27353/mtrex-10-mg-tablet",
+    "_source_page": 475
+  },
+  {
+    "name": "MTS",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22616/mts-10-mg-tablet",
+    "_source_page": 475
+  },
+  {
+    "name": "MTX",
+    "strength": "2.5 mg",
+    "generic": "Methotrexate",
+    "company": "Choongwae Pharma Corporation",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15065/mtx-25-mg-tablet",
+    "_source_page": 475
+  },
+  {
+    "name": "MTX",
+    "strength": "50 mg/2 ml",
+    "generic": "Methotrexate",
+    "company": "Choongwae Pharma Corporation",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/15066/mtx-50-mg-injection",
+    "_source_page": 475
+  },
+  {
+    "name": "Mubrox",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4054/mubrox-15-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mubrox",
+    "strength": "6 mg/ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/4055/mubrox-6-mg-pediatric-drop",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucobrox",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4056/mucobrox-15-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucobrox",
+    "strength": "6 mg/ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/4057/mucobrox-6-mg-pediatric-drop",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucoclean",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/32542/mucoclean-15-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucodil",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4097/mucodil-4-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucof",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/18387/mucof-4-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucogel",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/17532/mucogel-175-mg-suspension",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucola",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4098/mucola-4-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucolex",
+    "strength": "125 mg/5 ml",
+    "generic": "Carbocisteine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4124/mucolex-125-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucolex DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Carbocisteine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4125/mucolex-ds-250-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucolyt",
+    "strength": "8 mg",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4099/mucolyt-8-mg-tablet",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucolyt",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4100/mucolyt-4-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucomist",
+    "strength": "600 mg/3 ml",
+    "generic": "Acetylcysteine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Nebuliser Solution",
+    "source_url": "https://medex.com.bd/brands/112/mucomist-600-mg-respirator-solution",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucomist DT",
+    "strength": "600 mg",
+    "generic": "Acetylcysteine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/114/mucomist-dt-600-mg-tablet",
+    "_source_page": 475
+  },
+  {
+    "name": "Muconil",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4101/muconil-4-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucopront",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4102/mucopront-4-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucosol",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4058/mucosol-15-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucosol",
+    "strength": "6 mg/ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/4059/mucosol-6-mg-pediatric-drop",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucospel",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4104/mucospel-4-mg-syrup",
+    "_source_page": 475
+  },
+  {
+    "name": "Mucotec",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/18375/mucotec-4-mg-syrup",
+    "_source_page": 475
+  }
+]

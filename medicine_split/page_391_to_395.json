@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Kmi",
+    "strength": "320 mg",
+    "generic": "Gemifloxacin",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20625/kmi-320-mg-tablet",
+    "_source_page": 391
+  },
+  {
+    "name": "Knil",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15348/knil-10-mg-tablet",
+    "_source_page": 391
+  },
+  {
+    "name": "Knil",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15349/knil-30-mg-injection",
+    "_source_page": 391
+  },
+  {
+    "name": "Knil",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/27577/knil-60-mg-injection",
+    "_source_page": 391
+  },
+  {
+    "name": "Kof-free",
+    "strength": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "generic": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/32981/kof-free-100-mg-syrup",
+    "_source_page": 391
+  },
+  {
+    "name": "Kofed",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4148/kofed-30-mg-syrup",
+    "_source_page": 391
+  },
+  {
+    "name": "Kofen",
+    "strength": "0.025%",
+    "generic": "Ketotifen Fumarate (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/21296/kofen-0025-eye-drop",
+    "_source_page": 391
+  },
+  {
+    "name": "Kofen",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3734/kofen-1-mg-syrup",
+    "_source_page": 391
+  },
+  {
+    "name": "Kofen",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3733/kofen-1-mg-tablet",
+    "_source_page": 391
+  },
+  {
+    "name": "Kofmelt",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/37416/kofmelt-15-mg-syrup",
+    "_source_page": 391
+  },
+  {
+    "name": "Kofnix",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "ACI Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/18415/kofnix-75-mg-syrup",
+    "_source_page": 391
+  },
+  {
+    "name": "Kofnix",
+    "strength": "5 mg/ml",
+    "generic": "Butamirate Citrate",
+    "company": "ACI Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/26360/kofnix-5-mg-pediatric-drop",
+    "_source_page": 391
+  },
+  {
+    "name": "Kofnix SR",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3972/kofnix-sr-50-mg-tablet",
+    "_source_page": 391
+  },
+  {
+    "name": "Kofstar",
+    "strength": "(20 mg+10 mg+2.5 mg)/5 ml",
+    "generic": "Dextromethorphan + Phenylephrine + Triprolidine",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/33194/kofstar-20-mg-syrup",
+    "_source_page": 391
+  },
+  {
+    "name": "Koftex",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4149/koftex-30-mg-syrup",
+    "_source_page": 391
+  },
+  {
+    "name": "Koftex-D",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "generic": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4019/koftex-d-10-mg-syrup",
+    "_source_page": 391
+  },
+  {
+    "name": "Kolchin",
+    "strength": "0.5 mg",
+    "generic": "Colchicine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11676/kolchin-05-mg-tablet",
+    "_source_page": 391
+  },
+  {
+    "name": "Kolchin",
+    "strength": "0.6 mg",
+    "generic": "Colchicine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11677/kolchin-06-mg-tablet",
+    "_source_page": 391
+  },
+  {
+    "name": "Koloride",
+    "strength": null,
+    "generic": "Cholera Saline",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14888/koloride-injection",
+    "_source_page": 391
+  },
+  {
+    "name": "Kolosal",
+    "strength": null,
+    "generic": "Cholera Saline",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14889/kolosal-injection",
+    "_source_page": 391
+  },
+  {
+    "name": "Kona",
+    "strength": "2%",
+    "generic": "Ketoconazole",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/37062/kona-2-shampoo",
+    "_source_page": 391
+  },
+  {
+    "name": "Konabiz",
+    "strength": "2%",
+    "generic": "Ketoconazole",
+    "company": "Health Pro International",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/37711/konabiz-2-shampoo",
+    "_source_page": 391
+  },
+  {
+    "name": "Konakion",
+    "strength": "2 mg/0.2 ml",
+    "generic": "Phytomenadione (Injection)",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/3303/konakion-2-mg-injection",
+    "_source_page": 391
+  },
+  {
+    "name": "Konakion",
+    "strength": "10 mg/ml",
+    "generic": "Phytomenadione (Injection)",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/3304/konakion-10-mg-injection",
+    "_source_page": 391
+  },
+  {
+    "name": "Konaz Shampoo",
+    "strength": "2%",
+    "generic": "Ketoconazole",
+    "company": "Wellcare Nutriscience Ltd.",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/37703/konaz-shampoo-2-shampoo",
+    "_source_page": 391
+  },
+  {
+    "name": "Kontab",
+    "strength": "50 mg+1 mg",
+    "generic": "Bromelain + Trypsin",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16334/kontab-50-mg-tablet",
+    "_source_page": 391
+  },
+  {
+    "name": "Koolmint",
+    "strength": "30%+8%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/27050/koolmint-30-8-cream",
+    "_source_page": 391
+  },
+  {
+    "name": "Koolmint",
+    "strength": "15%+10%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/29494/koolmint-15-10-cream",
+    "_source_page": 391
+  },
+  {
+    "name": "Kop SR",
+    "strength": "100 mg",
+    "generic": "Ketoprofen",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11354/kop-sr-100-mg-capsule",
+    "_source_page": 391
+  },
+  {
+    "name": "Korac",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/36385/korac-30-mg-injection",
+    "_source_page": 391
+  },
+  {
+    "name": "Koreg",
+    "strength": "12.5 mg",
+    "generic": "Carvedilol",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2544/koreg-125-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Koreg",
+    "strength": "6.25 mg",
+    "generic": "Carvedilol",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2543/koreg-625-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Koreg",
+    "strength": "25 mg",
+    "generic": "Carvedilol",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30727/koreg-25-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Kovicin",
+    "strength": "200 mg",
+    "generic": "Hydroxychloroquine Sulphate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29401/kovicin-200-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Kovlon",
+    "strength": "1%",
+    "generic": "Benzalkonium chloride",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28955/kovlon-1-hand-rub",
+    "_source_page": 392
+  },
+  {
+    "name": "Kpam",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4252/kpam-3-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "KPR",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15350/kpr-10-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Krimizole",
+    "strength": "200 mg/5 ml",
+    "generic": "Albendazole",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/322/krimizole-200-mg-suspension",
+    "_source_page": 392
+  },
+  {
+    "name": "Krimizole DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/323/krimizole-ds-400-mg-chewable-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "KT",
+    "strength": "500 mg/5 ml",
+    "generic": "Potassium Chloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14839/kt-500-mg-syrup",
+    "_source_page": 392
+  },
+  {
+    "name": "KT",
+    "strength": "150 mg/ml",
+    "generic": "Potassium Chloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/14840/kt-150-mg-injection",
+    "_source_page": 392
+  },
+  {
+    "name": "Ktin",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/15965/ktin-1-mg-syrup",
+    "_source_page": 392
+  },
+  {
+    "name": "Ktin",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15966/ktin-1-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "KTL",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Aztec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21233/ktl-10-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "KTM",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31477/ktm-10-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "kTx",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6079/ktx-20-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "kTx",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6078/ktx-10-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "kTx",
+    "strength": "5 mg",
+    "generic": "Tadalafil",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6077/ktx-5-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Kufflin",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4049/kufflin-15-mg-syrup",
+    "_source_page": 392
+  },
+  {
+    "name": "Kuit",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19486/kuit-05-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Kuit",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19487/kuit-1-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "kuit",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36362/kuit-2-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Kumucin",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8494/kumucin-125-mg-suspension",
+    "_source_page": 392
+  },
+  {
+    "name": "Kumumox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6556/kumumox-125-mg-suspension",
+    "_source_page": 392
+  },
+  {
+    "name": "Kumumox",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6555/kumumox-500-mg-capsule",
+    "_source_page": 392
+  },
+  {
+    "name": "Kumumox",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6554/kumumox-250-mg-capsule",
+    "_source_page": 392
+  },
+  {
+    "name": "Kuracef",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7591/kuracef-400-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Kuracef",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7592/kuracef-100-mg-suspension",
+    "_source_page": 392
+  },
+  {
+    "name": "Kuracef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7590/kuracef-200-mg-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Kvit Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14099/kvit-gold-tablet",
+    "_source_page": 392
+  },
+  {
+    "name": "Kvit Seas",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13557/kvit-seas-syrup",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13793/kvit-b-5-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13794/kvit-b-5-mg-syrup",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-B",
+    "strength": "(50 mg+5.48 mg+100 mg+5 mg+10 mg)/2 ml",
+    "generic": "Vitamin B complex",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/27181/kvit-b-50-mg-injection",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-C",
+    "strength": "250 mg",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/13927/kvit-c-250-mg-chewable-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-D",
+    "strength": "200000 IU/ml",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Injectable Solution (Oral & IM)",
+    "source_url": "https://medex.com.bd/brands/13505/kvit-d-200000-iu-injectable-solution-oral-im",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-I",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "generic": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16196/kvit-i-60-mg-capsule",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14206/kvit-m-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-N",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13649/kvit-n-100-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-N",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/25323/kvit-n-100-mg-injection",
+    "_source_page": 393
+  },
+  {
+    "name": "Kvit-TH",
+    "strength": "100 mg",
+    "generic": "Thiamine Hydrochloride",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13588/kvit-th-100-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "kX-100",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6014/kx-100-100-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "kX-50",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6013/kx-50-50-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "Kynol TR",
+    "strength": "200 mg",
+    "generic": "Ketoprofen",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11359/kynol-tr-200-mg-capsule",
+    "_source_page": 393
+  },
+  {
+    "name": "Kytido",
+    "strength": "50 mg",
+    "generic": "Itopride Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37558/kytido-50-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "L-Amlo",
+    "strength": "5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30331/l-amlo-5-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "L-Amlo",
+    "strength": "2.5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30330/l-amlo-25-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "L-Amlo",
+    "strength": "1.25 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30329/l-amlo-125-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "L-con",
+    "strength": "0.3%",
+    "generic": "Lomefloxacin",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/21785/l-con-03-eye-drop",
+    "_source_page": 393
+  },
+  {
+    "name": "L-DOX",
+    "strength": "20 mg/10 ml",
+    "generic": "Doxorubicin Hydrochloride Liposome",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35328/l-dox-20-mg-injection",
+    "_source_page": 393
+  },
+  {
+    "name": "L-DOX",
+    "strength": "50 mg/25 ml",
+    "generic": "Doxorubicin Hydrochloride Liposome",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35329/l-dox-50-mg-injection",
+    "_source_page": 393
+  },
+  {
+    "name": "L-Sol",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/21566/l-sol-1-mg-syrup",
+    "_source_page": 393
+  },
+  {
+    "name": "L-Sol",
+    "strength": "2 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21567/l-sol-2-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "L-spar",
+    "strength": "5000 IU/vial",
+    "generic": "L-Asparginase",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/34044/l-spar-5000-iu-injection",
+    "_source_page": 393
+  },
+  {
+    "name": "L-spar",
+    "strength": "10000 IU/vial",
+    "generic": "L-Asparginase",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/34045/l-spar-10000-iu-injection",
+    "_source_page": 393
+  },
+  {
+    "name": "Labcal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14445/labcal-d-500-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "Labecard",
+    "strength": "50 mg/10 ml",
+    "generic": "Labetalol Hydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/2556/labecard-50-mg-injection",
+    "_source_page": 393
+  },
+  {
+    "name": "Labegest",
+    "strength": "100 mg",
+    "generic": "Labetalol Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21336/labegest-100-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "Labegest",
+    "strength": "50 mg/10 ml",
+    "generic": "Labetalol Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/30213/labegest-50-mg-injection",
+    "_source_page": 393
+  },
+  {
+    "name": "Labegest",
+    "strength": "200 mg",
+    "generic": "Labetalol Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21337/labegest-200-mg-tablet",
+    "_source_page": 393
+  },
+  {
+    "name": "Laben DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/25480/laben-ds-400-mg-chewable-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Labenac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17378/labenac-100-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Labenac SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/26963/labenac-sr-200-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Labeta",
+    "strength": "200 mg",
+    "generic": "Labetalol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2558/labeta-200-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Labeta",
+    "strength": "100 mg",
+    "generic": "Labetalol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2557/labeta-100-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Labpan",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/28689/labpan-40-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Labpan",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23332/labpan-20-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacicard",
+    "strength": "4 mg",
+    "generic": "Lacidipine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3102/lacicard-4-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacicard",
+    "strength": "2 mg",
+    "generic": "Lacidipine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3101/lacicard-2-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacitab",
+    "strength": "2 mg",
+    "generic": "Lacidipine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3103/lacitab-2-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacitab",
+    "strength": "4 mg",
+    "generic": "Lacidipine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28269/lacitab-4-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacitone",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2885/lacitone-20-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Laclose",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2386/laclose-335-gm-oral-solution",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacomax",
+    "strength": "100 mg",
+    "generic": "Lacosamide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37385/lacomax-100-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacomax",
+    "strength": "50 mg",
+    "generic": "Lacosamide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37386/lacomax-50-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacomax",
+    "strength": "50 mg/5 ml",
+    "generic": "Lacosamide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37891/lacomax-50-mg-oral-solution",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacor",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15351/lacor-10-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacor",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/36645/lacor-30-mg-injection",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacosam",
+    "strength": "50 mg",
+    "generic": "Lacosamide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37892/lacosam-50-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacosam",
+    "strength": "100 mg",
+    "generic": "Lacosamide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37893/lacosam-100-mg-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacrigel",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/29626/lacrigel-1-eye-drop",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacrigel G",
+    "strength": "0.5%+0.9%",
+    "generic": "Carboxymethylcellulose Sodium + Glycerin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/29887/lacrigel-g-05-09-eye-drop",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacrigel OSD",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36612/lacrigel-osd-1-eye-drop",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacrima",
+    "strength": "0.1%+0.3%",
+    "generic": "Dextran + Hypromellose",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16140/lacrima-01-03-eye-drop",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacrin",
+    "strength": "0.5%+0.9%",
+    "generic": "Carboxymethylcellulose Sodium + Glycerin",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27731/lacrin-05-09-eye-drop",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacrison",
+    "strength": "0.5%",
+    "generic": "Loteprednol Etabonate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15902/lacrison-05-suspension",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacrison T",
+    "strength": "0.5%+0.3%",
+    "generic": "Loteprednol Etabonate + Tobramycin",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15909/lacrison-t-05-03-suspension",
+    "_source_page": 394
+  },
+  {
+    "name": "Lactameal",
+    "strength": "250 mg+400 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/476/lactameal-250-mg-chewable-tablet",
+    "_source_page": 394
+  },
+  {
+    "name": "Lactameal",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/26306/lactameal-175-mg-suspension",
+    "_source_page": 394
+  },
+  {
+    "name": "Lacticon",
+    "strength": "10 gm/sachet",
+    "generic": "Lactitol Monohydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/21347/lacticon-10-gm-powder",
+    "_source_page": 394
+  },
+  {
+    "name": "Lactobac",
+    "strength": "10 billion",
+    "generic": "Probiotic Combination HN019 [10 Billion]",
+    "company": "Total Herbal & Nutraceuticals",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33680/lactobac-10-billion-capsule",
+    "_source_page": 395
+  },
+  {
+    "name": "Lactoben",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/21354/lactoben-335-gm-oral-solution",
+    "_source_page": 395
+  },
+  {
+    "name": "Lactomose",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/21369/lactomose-335-gm-oral-solution",
+    "_source_page": 395
+  },
+  {
+    "name": "Lactoride",
+    "strength": null,
+    "generic": "Hartmann's Solution",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14896/lactoride-injection",
+    "_source_page": 395
+  },
+  {
+    "name": "Lactoring",
+    "strength": null,
+    "generic": "Hartmann's Solution",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14897/lactoring-injection",
+    "_source_page": 395
+  },
+  {
+    "name": "Lactro",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15352/lactro-10-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lactu",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Biopharma Limited",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2389/lactu-335-gm-oral-solution",
+    "_source_page": 395
+  },
+  {
+    "name": "Lactulose H",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/21364/lactulose-h-335-gm-oral-solution",
+    "_source_page": 395
+  },
+  {
+    "name": "Laczym",
+    "strength": "9000 IU",
+    "generic": "Lactase",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/1273/laczym-9000-iu-chewable-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lagita",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "generic": "Sodium Alginate + Potassium Bicarbonate",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/32586/lagita-500-mg-suspension",
+    "_source_page": 395
+  },
+  {
+    "name": "Lameptil",
+    "strength": "25 mg",
+    "generic": "Lamotrigine",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4926/lameptil-25-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lameptil",
+    "strength": "50 mg",
+    "generic": "Lamotrigine",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4927/lameptil-50-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamicet",
+    "strength": "50 mg",
+    "generic": "Lamotrigine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21396/lamicet-50-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamidin",
+    "strength": "100 mg",
+    "generic": "Lamivudine [For Chronic Hepatitis B]",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29949/lamidin-100-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamitan",
+    "strength": "100 mg",
+    "generic": "Lasmiditan Hemisuccinate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33184/lamitan-100-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamitan",
+    "strength": "50 mg",
+    "generic": "Lasmiditan Hemisuccinate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33183/lamitan-50-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamitrin",
+    "strength": "25 mg",
+    "generic": "Lamotrigine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4923/lamitrin-25-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamitrin",
+    "strength": "2 mg",
+    "generic": "Lamotrigine",
+    "company": "ACI Limited",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/31537/lamitrin-2-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamitrin",
+    "strength": "5 mg",
+    "generic": "Lamotrigine",
+    "company": "ACI Limited",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/31538/lamitrin-5-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamitrin",
+    "strength": "50 mg",
+    "generic": "Lamotrigine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4924/lamitrin-50-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamitrin ER",
+    "strength": "100 mg",
+    "generic": "Lamotrigine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32988/lamitrin-er-100-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamitrin ER",
+    "strength": "50 mg",
+    "generic": "Lamotrigine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/35032/lamitrin-er-50-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamivir",
+    "strength": "100 mg",
+    "generic": "Lamivudine [For Chronic Hepatitis B]",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21386/lamivir-100-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamo",
+    "strength": "25 mg",
+    "generic": "Lamotrigine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36579/lamo-25-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamo",
+    "strength": "50 mg",
+    "generic": "Lamotrigine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36578/lamo-50-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamocard",
+    "strength": "2.5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35260/lamocard-25-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamocard",
+    "strength": "5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35261/lamocard-5-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamogin",
+    "strength": "50 mg",
+    "generic": "Lamotrigine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21397/lamogin-50-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamogin",
+    "strength": "25 mg",
+    "generic": "Lamotrigine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21398/lamogin-25-mg-tablet",
+    "_source_page": 395
+  },
+  {
+    "name": "Lamogin",
+    "strength": "5 mg",
+    "generic": "Lamotrigine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/30169/lamogin-5-mg-tablet",
+    "_source_page": 395
+  }
+]

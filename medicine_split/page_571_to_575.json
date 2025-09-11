@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Pemexen",
+    "strength": "100 mg/4 ml",
+    "generic": "Pemetrexed",
+    "company": "Renata PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36108/pemexen-100-mg-injection",
+    "_source_page": 571
+  },
+  {
+    "name": "Pemexen",
+    "strength": "500 mg/20 ml",
+    "generic": "Pemetrexed",
+    "company": "Renata PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36109/pemexen-500-mg-injection",
+    "_source_page": 571
+  },
+  {
+    "name": "Pemomab",
+    "strength": "100 mg/4 ml",
+    "generic": "Pembrolizumab",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36611/pemomab-100-mg-injection",
+    "_source_page": 571
+  },
+  {
+    "name": "Pemox",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6614/pemox-500-mg-capsule",
+    "_source_page": 571
+  },
+  {
+    "name": "Pemox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6615/pemox-125-mg-suspension",
+    "_source_page": 571
+  },
+  {
+    "name": "Pemox",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6616/pemox-125-mg-pediatric-drop",
+    "_source_page": 571
+  },
+  {
+    "name": "Pemro",
+    "strength": "100 mg/4 ml",
+    "generic": "Pembrolizumab",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/30058/pemro-100-mg-injection",
+    "_source_page": 571
+  },
+  {
+    "name": "Pemroluma",
+    "strength": "100 mg/4 ml",
+    "generic": "Pembrolizumab",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37335/pemroluma-100-mg-injection",
+    "_source_page": 571
+  },
+  {
+    "name": "Penac",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11064/penac-50-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Penac TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11065/penac-tr-100-mg-capsule",
+    "_source_page": 571
+  },
+  {
+    "name": "Penac-AC",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/71/penac-ac-100-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Penalox",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8671/penalox-500-mg-capsule",
+    "_source_page": 571
+  },
+  {
+    "name": "Penalox",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8672/penalox-200-mg-suspension",
+    "_source_page": 571
+  },
+  {
+    "name": "Penamin",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11840/penamin-4-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Penci-V",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6161/penci-v-250-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Penci-V",
+    "strength": "125 mg/5 ml",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6162/penci-v-125-mg-suspension",
+    "_source_page": 571
+  },
+  {
+    "name": "Penclox",
+    "strength": "500 mg",
+    "generic": "Cloxacillin Sodium",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6197/penclox-500-mg-capsule",
+    "_source_page": 571
+  },
+  {
+    "name": "Penclox",
+    "strength": "125 mg/5 ml",
+    "generic": "Cloxacillin Sodium",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6198/penclox-125-mg-suspension",
+    "_source_page": 571
+  },
+  {
+    "name": "Pendol",
+    "strength": "50 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/10707/pendol-50-mg-capsule",
+    "_source_page": 571
+  },
+  {
+    "name": "Pendoril",
+    "strength": "4 mg",
+    "generic": "Perindopril Arginine",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2618/pendoril-4-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Pendoril",
+    "strength": "2 mg",
+    "generic": "Perindopril Arginine",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2619/pendoril-2-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Pendoril Plus",
+    "strength": "2 mg+0.625 mg",
+    "generic": "Perindopril + Indapamide",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2919/pendoril-plus-2-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Pendoril Plus",
+    "strength": "4 mg+1.25 mg",
+    "generic": "Perindopril + Indapamide",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2920/pendoril-plus-4-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Penfil",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24745/penfil-10-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Penfil",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35042/penfil-20-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Penfine",
+    "strength": "4 mm",
+    "generic": "Insulin device & needle",
+    "company": "ACI Limited",
+    "medicine_type": "Pen Needle",
+    "source_url": "https://medex.com.bd/brands/35034/penfine-4-mm-pen-needle",
+    "_source_page": 571
+  },
+  {
+    "name": "Penicillin",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6145/penicillin-250-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Penicillin-V",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6156/penicillin-v-250-mg-tablet",
+    "_source_page": 571
+  },
+  {
+    "name": "Penicillin-V",
+    "strength": "125 mg/5 ml",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6157/penicillin-v-125-mg-suspension",
+    "_source_page": 571
+  },
+  {
+    "name": "Penmox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6618/penmox-125-mg-suspension",
+    "_source_page": 571
+  },
+  {
+    "name": "Penmox",
+    "strength": "500 mg/vial",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30435/penmox-500-mg-injection",
+    "_source_page": 572
+  },
+  {
+    "name": "Penomer",
+    "strength": "1 gm/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/22076/penomer-1-gm-injection",
+    "_source_page": 572
+  },
+  {
+    "name": "Penomer",
+    "strength": "500 mg/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/22077/penomer-500-mg-injection",
+    "_source_page": 572
+  },
+  {
+    "name": "Penrif",
+    "strength": "30%+8%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10862/penrif-30-8-cream",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentab",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6146/pentab-250-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentadol",
+    "strength": "50 mg",
+    "generic": "Tapentadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10754/pentadol-50-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentadol",
+    "strength": "75 mg",
+    "generic": "Tapentadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10755/pentadol-75-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentadol",
+    "strength": "100 mg",
+    "generic": "Tapentadol Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24810/pentadol-100-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentaglobin",
+    "strength": "500 mg/10 ml",
+    "generic": "Human immunoglobulin-G",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/15262/pentaglobin-500-mg-injection",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentaglobin",
+    "strength": "2.5 gm/50 ml",
+    "generic": "Human immunoglobulin-G",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/35739/pentaglobin-25-gm-injection",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentaglobin",
+    "strength": "5 gm/100 ml",
+    "generic": "Human immunoglobulin-G",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/35740/pentaglobin-5-gm-injection",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentasa",
+    "strength": "1 gm/sachet",
+    "generic": "Mesalazine [5-aminosalicylic acid]",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Microgranules",
+    "source_url": "https://medex.com.bd/brands/30011/pentasa-1-gm-microgranules",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentasa",
+    "strength": "2 gm/sachet",
+    "generic": "Mesalazine [5-aminosalicylic acid]",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Microgranules",
+    "source_url": "https://medex.com.bd/brands/30012/pentasa-2-gm-microgranules",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentazo",
+    "strength": "30 mg/ml",
+    "generic": "Pentazocine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/23421/pentazo-30-mg-injection",
+    "_source_page": 572
+  },
+  {
+    "name": "Penticin",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20442/penticin-05-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Pentixol",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4355/pentixol-05-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Penvik",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6147/penvik-250-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Penvik DS",
+    "strength": "500 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6148/penvik-ds-500-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Penvik Forte",
+    "strength": "250 mg/5 ml",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6150/penvik-forte-250-mg-suspension",
+    "_source_page": 572
+  },
+  {
+    "name": "Penxit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4356/penxit-05-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Peocal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14465/peocal-d-500-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Peoflox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28148/peoflox-500-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Peoplex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13817/peoplex-5-mg-syrup",
+    "_source_page": 572
+  },
+  {
+    "name": "Pep",
+    "strength": "4.05 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14578/pep-405-mg-syrup",
+    "_source_page": 572
+  },
+  {
+    "name": "Pep Plus",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14694/pep-plus-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Pep Plus",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14695/pep-plus-syrup",
+    "_source_page": 572
+  },
+  {
+    "name": "Pep Sweet",
+    "strength": "25 mg",
+    "generic": "Aspartame",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1015/pep-sweet-25-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Pep-2",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14579/pep-2-10-mg-syrup",
+    "_source_page": 572
+  },
+  {
+    "name": "Pep-20",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14580/pep-20-20-mg-tablet",
+    "_source_page": 572
+  },
+  {
+    "name": "Pep-20",
+    "strength": "20 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14581/pep-20-20-mg-syrup",
+    "_source_page": 572
+  },
+  {
+    "name": "Pepcon Plus",
+    "strength": "480 mg+20 mg",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/16607/pepcon-plus-480-mg-chewable-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Pepcon Plus",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16608/pepcon-plus-480-mg-suspension",
+    "_source_page": 573
+  },
+  {
+    "name": "Pepgel",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "generic": "Sodium Alginate + Potassium Bicarbonate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/33791/pepgel-500-mg-suspension",
+    "_source_page": 573
+  },
+  {
+    "name": "Peplo",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/31496/peplo-20-mg-capsule",
+    "_source_page": 573
+  },
+  {
+    "name": "Peplo",
+    "strength": "40 mg",
+    "generic": "Omeprazole",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/31497/peplo-40-mg-capsule",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptacid",
+    "strength": "200 mg+200 mg+30 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/510/peptacid-200-mg-chewable-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptacid",
+    "strength": "(400 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/28121/peptacid-400-mg-suspension",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptex",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/31613/peptex-20-mg-capsule",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptex",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/31614/peptex-40-mg-capsule",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptid",
+    "strength": "20 mg",
+    "generic": "Famotidine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16504/peptid-20-mg-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptid",
+    "strength": "40 mg",
+    "generic": "Famotidine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29521/peptid-40-mg-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptid",
+    "strength": "40 mg/5 ml",
+    "generic": "Famotidine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/32649/peptid-40-mg-suspension",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptid",
+    "strength": "20 mg/2 ml",
+    "generic": "Famotidine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/35860/peptid-20-mg-injection",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptin",
+    "strength": "4.05 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14582/peptin-405-mg-syrup",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptin-DS",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14583/peptin-ds-10-mg-syrup",
+    "_source_page": 573
+  },
+  {
+    "name": "Pepto",
+    "strength": "87.5 mg/5 ml",
+    "generic": "Bismuth Subsalicylate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/31147/pepto-875-mg-suspension",
+    "_source_page": 573
+  },
+  {
+    "name": "Pepto-Care",
+    "strength": "87.5 mg/5 ml",
+    "generic": "Bismuth Subsalicylate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16329/pepto-care-875-mg-suspension",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptocid",
+    "strength": "87.5 mg/5 ml",
+    "generic": "Bismuth Subsalicylate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/18276/peptocid-875-mg-suspension",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptofit",
+    "strength": "87.5 mg/5 ml",
+    "generic": "Bismuth Subsalicylate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/27067/peptofit-875-mg-suspension",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptral",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1923/peptral-20-mg-capsule",
+    "_source_page": 573
+  },
+  {
+    "name": "Peptral",
+    "strength": "40 mg",
+    "generic": "Omeprazole",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23057/peptral-40-mg-capsule",
+    "_source_page": 573
+  },
+  {
+    "name": "Pepzol",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27194/pepzol-20-mg-capsule",
+    "_source_page": 573
+  },
+  {
+    "name": "Pepzol",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27195/pepzol-40-mg-capsule",
+    "_source_page": 573
+  },
+  {
+    "name": "Peranel",
+    "strength": "2 mg",
+    "generic": "Perampanel",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30510/peranel-2-mg-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Peranel",
+    "strength": "4 mg",
+    "generic": "Perampanel",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30511/peranel-4-mg-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Peratrum",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38172/peratrum-325-mg-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Perclear",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/23435/perclear-5-w-cream",
+    "_source_page": 573
+  },
+  {
+    "name": "Perex",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14036/perex-6-mg-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Perfex",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27294/perfex-120-mg-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Perfex",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27295/perfex-180-mg-tablet",
+    "_source_page": 573
+  },
+  {
+    "name": "Perfex",
+    "strength": "60 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27296/perfex-60-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Perfex",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/34840/perfex-30-mg-suspension",
+    "_source_page": 574
+  },
+  {
+    "name": "Performax",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6007/performax-50-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Performax",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6008/performax-100-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Pergel",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27411/pergel-20-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Pergoveris",
+    "strength": "150 IU (11 mcg) + 75 IU (3 mcg)",
+    "generic": "Follitropin Alfa + Lutropin Alfa",
+    "company": "Janata Traders",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/28940/pergoveris-150-iu-injection",
+    "_source_page": 574
+  },
+  {
+    "name": "Peri",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1632/peri-10-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Peri",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1633/peri-5-mg-suspension",
+    "_source_page": 574
+  },
+  {
+    "name": "Pericard",
+    "strength": "2 mg",
+    "generic": "Perindopril Arginine",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38071/pericard-2-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Pericard",
+    "strength": "4 mg",
+    "generic": "Perindopril Arginine",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38072/pericard-4-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Pericard Plus",
+    "strength": "2 mg+1.25 mg",
+    "generic": "Perindopril + Indapamide",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38069/pericard-plus-2-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Pericard Plus",
+    "strength": "4 mg+1.25 mg",
+    "generic": "Perindopril + Indapamide",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38070/pericard-plus-4-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Pericon",
+    "strength": "1 mcg",
+    "generic": "Paricalcitol",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13526/pericon-1-mcg-capsule",
+    "_source_page": 574
+  },
+  {
+    "name": "Perigen",
+    "strength": "5 mg",
+    "generic": "Haloperidol",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4386/perigen-5-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Perigen",
+    "strength": "5 mg/ml",
+    "generic": "Haloperidol",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/20836/perigen-5-mg-injection",
+    "_source_page": 574
+  },
+  {
+    "name": "Perigut",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/27192/perigut-5-mg-suspension",
+    "_source_page": 574
+  },
+  {
+    "name": "Perigut",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27193/perigut-10-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Perilac",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15369/perilac-10-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Perilac",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Biopharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15371/perilac-30-mg-injection",
+    "_source_page": 574
+  },
+  {
+    "name": "Perilac",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Biopharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28910/perilac-60-mg-injection",
+    "_source_page": 574
+  },
+  {
+    "name": "Perilor",
+    "strength": "5 mg",
+    "generic": "Desloratadine",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12270/perilor-5-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Perinase",
+    "strength": "50 mcg/spray",
+    "generic": "Fluticasone Propionate (Nasal Spray)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/13037/perinase-50-mcg-nasal-spray",
+    "_source_page": 574
+  },
+  {
+    "name": "Perinem",
+    "strength": "500 mg/vial",
+    "generic": "Doripenem",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17943/perinem-500-mg-injection",
+    "_source_page": 574
+  },
+  {
+    "name": "Perion",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1635/perion-10-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Perion",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1636/perion-5-mg-suspension",
+    "_source_page": 574
+  },
+  {
+    "name": "Periset",
+    "strength": "4 mg/5 ml",
+    "generic": "Ondansetron",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/4756/periset-4-mg-oral-solution",
+    "_source_page": 574
+  },
+  {
+    "name": "Periset",
+    "strength": "8 mg/4 ml",
+    "generic": "Ondansetron",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/23117/periset-8-mg-injection",
+    "_source_page": 574
+  },
+  {
+    "name": "Periset",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23118/periset-8-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Peristal",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31498/peristal-10-mg-tablet",
+    "_source_page": 574
+  },
+  {
+    "name": "Peristal",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/31499/peristal-5-mg-suspension",
+    "_source_page": 574
+  },
+  {
+    "name": "Peritop",
+    "strength": "50 mg",
+    "generic": "Itopride Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35090/peritop-50-mg-tablet",
+    "_source_page": 575
+  },
+  {
+    "name": "Perix",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8046/perix-250-mg-injection",
+    "_source_page": 575
+  },
+  {
+    "name": "Perix",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8047/perix-500-mg-injection",
+    "_source_page": 575
+  },
+  {
+    "name": "Perix",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8048/perix-1-gm-injection",
+    "_source_page": 575
+  },
+  {
+    "name": "Perix",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8049/perix-250-mg-injection",
+    "_source_page": 575
+  },
+  {
+    "name": "Perix",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8050/perix-500-mg-injection",
+    "_source_page": 575
+  },
+  {
+    "name": "Perix",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8051/perix-1-gm-injection",
+    "_source_page": 575
+  },
+  {
+    "name": "Perix",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8052/perix-2-gm-injection",
+    "_source_page": 575
+  },
+  {
+    "name": "Perizol",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23058/perizol-20-mg-capsule",
+    "_source_page": 575
+  },
+  {
+    "name": "Perizol",
+    "strength": "40 mg",
+    "generic": "Omeprazole",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23059/perizol-40-mg-capsule",
+    "_source_page": 575
+  },
+  {
+    "name": "Perjeta",
+    "strength": "420 mg/14 ml",
+    "generic": "Pertuzumab",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/26087/perjeta-420-mg-injection",
+    "_source_page": 575
+  },
+  {
+    "name": "Perkidopa",
+    "strength": "250 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21492/perkidopa-250-mg-tablet",
+    "_source_page": 575
+  },
+  {
+    "name": "Perkidopa",
+    "strength": "100 mg+10 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21493/perkidopa-100-mg-tablet",
+    "_source_page": 575
+  },
+  {
+    "name": "Perkinil",
+    "strength": "5 mg",
+    "generic": "Procyclidine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5138/perkinil-5-mg-tablet",
+    "_source_page": 575
+  },
+  {
+    "name": "Perkinil",
+    "strength": "10 mg/2 ml",
+    "generic": "Procyclidine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/5139/perkinil-10-mg-injection",
+    "_source_page": 575
+  },
+  {
+    "name": "Perkirol",
+    "strength": "0.25 mg",
+    "generic": "Ropinirole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5117/perkirol-025-mg-tablet",
+    "_source_page": 575
+  },
+  {
+    "name": "Perkirol",
+    "strength": "2 mg",
+    "generic": "Ropinirole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5118/perkirol-2-mg-tablet",
+    "_source_page": 575
+  },
+  {
+    "name": "Perls",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12495/perls-5-w-cream",
+    "_source_page": 575
+  },
+  {
+    "name": "Perlutex",
+    "strength": "5 mg",
+    "generic": "Medroxyprogesterone Acetate (Tablet)",
+    "company": "Leo Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5916/perlutex-5-mg-tablet",
+    "_source_page": 575
+  },
+  {
+    "name": "Perma",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12496/perma-5-w-cream",
+    "_source_page": 575
+  },
+  {
+    "name": "Permak",
+    "strength": "2%+1%+1%",
+    "generic": "Ketoconazole + Zinc Pyrithione + Aleovera",
+    "company": "Walmart pharma Ltd.",
+    "medicine_type": "Medicated Bar",
+    "source_url": "https://medex.com.bd/brands/38469/permak-2-1-medicated-bar",
+    "_source_page": 575
+  },
+  {
+    "name": "Permenin",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12497/permenin-5-w-cream",
+    "_source_page": 575
+  },
+  {
+    "name": "Permethi",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12499/permethi-5-w-cream",
+    "_source_page": 575
+  },
+  {
+    "name": "Permezen",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35582/permezen-5-w-cream",
+    "_source_page": 575
+  },
+  {
+    "name": "Permin",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12500/permin-5-w-cream",
+    "_source_page": 575
+  },
+  {
+    "name": "Permisol",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "ACI Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12501/permisol-5-w-cream",
+    "_source_page": 575
+  },
+  {
+    "name": "Permisol Max",
+    "strength": "5%+10%",
+    "generic": "Permethrin + Crotamiton",
+    "company": "ACI Limited",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/19631/permisol-max-5-10-lotion",
+    "_source_page": 575
+  },
+  {
+    "name": "Permival",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Fluphenazine + Nortriptyline",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4591/permival-05-mg-tablet",
+    "_source_page": 575
+  },
+  {
+    "name": "Perol",
+    "strength": "5 mg",
+    "generic": "Haloperidol",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4387/perol-5-mg-tablet",
+    "_source_page": 575
+  },
+  {
+    "name": "Perol",
+    "strength": "5 mg/ml",
+    "generic": "Haloperidol",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/28051/perol-5-mg-injection",
+    "_source_page": 575
+  }
+]

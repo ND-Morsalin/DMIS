@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Eracef",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7980/eracef-1-gm-injection",
+    "_source_page": 256
+  },
+  {
+    "name": "Eracef",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7981/eracef-2-gm-injection",
+    "_source_page": 256
+  },
+  {
+    "name": "Eradex",
+    "strength": "10 mg",
+    "generic": "Loratadine",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12197/eradex-10-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Eradra",
+    "strength": "5%",
+    "generic": "Lifitegrast",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27693/eradra-5-eye-drop",
+    "_source_page": 256
+  },
+  {
+    "name": "Erafix",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Virgo Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18815/erafix-400-mg-capsule",
+    "_source_page": 256
+  },
+  {
+    "name": "Erafix",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Virgo Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7556/erafix-200-mg-capsule",
+    "_source_page": 256
+  },
+  {
+    "name": "Erafix",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Virgo Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7557/erafix-100-mg-suspension",
+    "_source_page": 256
+  },
+  {
+    "name": "Eram",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37230/eram-2-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Eram",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37229/eram-1-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Eram",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37228/eram-05-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Eramin",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11813/eramin-2-mg-syrup",
+    "_source_page": 256
+  },
+  {
+    "name": "Eramin",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11812/eramin-4-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Eramox",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36253/eramox-400-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Eramox",
+    "strength": "400 mg/250 ml",
+    "generic": "Moxifloxacin Hydrochloride (Injection)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36252/eramox-400-mg-injection",
+    "_source_page": 256
+  },
+  {
+    "name": "Erasprin",
+    "strength": "81 mg",
+    "generic": "Aspirin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/37329/erasprin-81-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Erasprin",
+    "strength": "75 mg",
+    "generic": "Aspirin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/17934/erasprin-75-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Erata",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4935/erata-500-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Erata",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4934/erata-250-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Eraxis",
+    "strength": "100 mg/vial",
+    "generic": "Anidulafungin",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/30023/eraxis-100-mg-injection",
+    "_source_page": 256
+  },
+  {
+    "name": "Eraxit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4343/eraxit-05-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Erazole",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/22272/erazole-40-mg-capsule",
+    "_source_page": 256
+  },
+  {
+    "name": "Erazole",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/26139/erazole-20-mg-capsule",
+    "_source_page": 256
+  },
+  {
+    "name": "Erazole",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1998/erazole-20-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Erazole",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27180/erazole-40-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Erbitux",
+    "strength": "5 mg/ml",
+    "generic": "Cetuximab",
+    "company": "Janata Traders",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/28939/erbitux-5-mg-injection",
+    "_source_page": 256
+  },
+  {
+    "name": "Erdafixen",
+    "strength": "4 mg",
+    "generic": "Erdafitinib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38126/erdafixen-4-mg-tablet",
+    "_source_page": 256
+  },
+  {
+    "name": "Erdolin",
+    "strength": "300 mg",
+    "generic": "Erdosteine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30086/erdolin-300-mg-capsule",
+    "_source_page": 256
+  },
+  {
+    "name": "Erdolyt",
+    "strength": "300 mg",
+    "generic": "Erdosteine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26726/erdolyt-300-mg-capsule",
+    "_source_page": 256
+  },
+  {
+    "name": "Erdon",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/11009/erdon-50-mg-suppository",
+    "_source_page": 256
+  },
+  {
+    "name": "Erdon",
+    "strength": "1% w/w",
+    "generic": "Diclofenac Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/11008/erdon-1-w-gel",
+    "_source_page": 256
+  },
+  {
+    "name": "Erdon TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11006/erdon-tr-100-mg-capsule",
+    "_source_page": 257
+  },
+  {
+    "name": "Erdon-Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "generic": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/29810/erdon-plus-75-mg-injection",
+    "_source_page": 257
+  },
+  {
+    "name": "Erdostin",
+    "strength": "300 mg",
+    "generic": "Erdosteine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/17185/erdostin-300-mg-capsule",
+    "_source_page": 257
+  },
+  {
+    "name": "Erectomed",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "MedRx Life Science Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24771/erectomed-20-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erectomed",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "MedRx Life Science Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24772/erectomed-10-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erectus",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24747/erectus-10-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erectus",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24748/erectus-20-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erenzo",
+    "strength": "70 mg",
+    "generic": "Roxadustat",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37189/erenzo-70-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erenzo",
+    "strength": "20 mg",
+    "generic": "Roxadustat",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36199/erenzo-20-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erenzo",
+    "strength": "50 mg",
+    "generic": "Roxadustat",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36200/erenzo-50-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erenzo",
+    "strength": "100 mg",
+    "generic": "Roxadustat",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36201/erenzo-100-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erian",
+    "strength": "(5 mg+5 mg+10.5 mg+10 mg)/gm",
+    "generic": "Cinchocaine + Hydrocortisone + Framycetin + Esculin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/2429/erian-5-mg-ointment",
+    "_source_page": 257
+  },
+  {
+    "name": "Erian",
+    "strength": "5 mg+5 mg+10 mg+10 mg",
+    "generic": "Cinchocaine + Hydrocortisone + Framycetin + Esculin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/2430/erian-5-mg-suppository",
+    "_source_page": 257
+  },
+  {
+    "name": "Eridon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1581/eridon-10-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erinlar",
+    "strength": "150 mg",
+    "generic": "Ceritinib",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29330/erinlar-150-mg-capsule",
+    "_source_page": 257
+  },
+  {
+    "name": "Erlocent",
+    "strength": "150 mg",
+    "generic": "Erlotinib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17311/erlocent-150-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erlocent",
+    "strength": "100 mg",
+    "generic": "Erlotinib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17310/erlocent-100-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erlonix",
+    "strength": "150 mg",
+    "generic": "Erlotinib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15116/erlonix-150-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erlonix",
+    "strength": "100 mg",
+    "generic": "Erlotinib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15115/erlonix-100-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erloren",
+    "strength": "100 mg",
+    "generic": "Erlotinib",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20029/erloren-100-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erloren",
+    "strength": "150 mg",
+    "generic": "Erlotinib",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20028/erloren-150-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erlotin",
+    "strength": "100 mg",
+    "generic": "Erlotinib",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17289/erlotin-100-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erlotin",
+    "strength": "150 mg",
+    "generic": "Erlotinib",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17288/erlotin-150-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Ermac",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8440/ermac-125-mg-suspension",
+    "_source_page": 257
+  },
+  {
+    "name": "Ermite",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12485/ermite-5-w-cream",
+    "_source_page": 257
+  },
+  {
+    "name": "ERO",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8441/ero-125-mg-suspension",
+    "_source_page": 257
+  },
+  {
+    "name": "Erocin",
+    "strength": "250 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8442/erocin-250-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erocin",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8444/erocin-125-mg-suspension",
+    "_source_page": 257
+  },
+  {
+    "name": "Erocin",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8443/erocin-500-mg-tablet",
+    "_source_page": 257
+  },
+  {
+    "name": "Erode",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27385/erode-125-mg-suspension",
+    "_source_page": 257
+  },
+  {
+    "name": "Erofen",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11270/erofen-400-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Eroflam",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11184/eroflam-90-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Eroflam",
+    "strength": "60 mg",
+    "generic": "Etoricoxib",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11183/eroflam-60-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Eroflam",
+    "strength": "120 mg",
+    "generic": "Etoricoxib",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34156/eroflam-120-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Erom",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8447/erom-125-mg-suspension",
+    "_source_page": 258
+  },
+  {
+    "name": "Erom",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8446/erom-500-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Erom",
+    "strength": "250 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8445/erom-250-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Eromed",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8518/eromed-125-mg-suspension",
+    "_source_page": 258
+  },
+  {
+    "name": "Eromycin",
+    "strength": "200 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/8452/eromycin-200-mg-pediatric-drop",
+    "_source_page": 258
+  },
+  {
+    "name": "Eromycin",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8451/eromycin-125-mg-suspension",
+    "_source_page": 258
+  },
+  {
+    "name": "Eromycin",
+    "strength": "3% W/V",
+    "generic": "Erythromycin (Lotion)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/530/eromycin-3-w-lotion",
+    "_source_page": 258
+  },
+  {
+    "name": "Eromycin DS",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8450/eromycin-ds-500-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Eronib",
+    "strength": "150 mg",
+    "generic": "Erlotinib",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28361/eronib-150-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Erosa",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8456/erosa-125-mg-suspension",
+    "_source_page": 258
+  },
+  {
+    "name": "Erosa",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8455/erosa-500-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Erosa",
+    "strength": "250 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8454/erosa-250-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Erosil",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/31468/erosil-125-mg-suspension",
+    "_source_page": 258
+  },
+  {
+    "name": "Erosite",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8457/erosite-125-mg-suspension",
+    "_source_page": 258
+  },
+  {
+    "name": "Erpen",
+    "strength": "1 gm/vial",
+    "generic": "Ertapenem",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/29298/erpen-1-gm-injection",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertaco",
+    "strength": "2%",
+    "generic": "Sertaconazole Nitrate [Topical]",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31007/ertaco-2-cream",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertapen",
+    "strength": "1 gm/vial",
+    "generic": "Ertapenem",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30496/ertapen-1-gm-injection",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertinib",
+    "strength": "150 mg",
+    "generic": "Erlotinib",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27573/ertinib-150-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertinib",
+    "strength": "100 mg",
+    "generic": "Erlotinib",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27572/ertinib-100-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertivix",
+    "strength": "1 mg",
+    "generic": "Entecavir",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30352/ertivix-1-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertivix",
+    "strength": "0.5 mg",
+    "generic": "Entecavir",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30351/ertivix-05-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertoxa",
+    "strength": "15 mg",
+    "generic": "Ertugliflozin",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33729/ertoxa-15-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertoxa",
+    "strength": "5 mg",
+    "generic": "Ertugliflozin",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32867/ertoxa-5-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertu",
+    "strength": "5 mg",
+    "generic": "Ertugliflozin",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33635/ertu-5-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertu",
+    "strength": "15 mg",
+    "generic": "Ertugliflozin",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33636/ertu-15-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertuglif",
+    "strength": "15 mg",
+    "generic": "Ertugliflozin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33727/ertuglif-15-mg-tablet",
+    "_source_page": 258
+  },
+  {
+    "name": "Ertuglif",
+    "strength": "15 mg",
+    "generic": "Ertugliflozin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33727/ertuglif-15-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Erubin",
+    "strength": "2 mg/ml",
+    "generic": "Epirubicin Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17251/erubin-2-mg-injection",
+    "_source_page": 259
+  },
+  {
+    "name": "Erubin Aqua",
+    "strength": "2 mg/ml",
+    "generic": "Epirubicin Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38525/erubin-aqua-2-mg-injection",
+    "_source_page": 259
+  },
+  {
+    "name": "Erutic",
+    "strength": "25 mg",
+    "generic": "Eplerenone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30910/erutic-25-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Ery",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27855/ery-500-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Ery",
+    "strength": "250 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8460/ery-250-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Ery",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8462/ery-125-mg-suspension",
+    "_source_page": 259
+  },
+  {
+    "name": "Erybac",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8465/erybac-125-mg-suspension",
+    "_source_page": 259
+  },
+  {
+    "name": "Erybac",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8464/erybac-500-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Erybac",
+    "strength": "250 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8463/erybac-250-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Erymex",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8469/erymex-125-mg-suspension",
+    "_source_page": 259
+  },
+  {
+    "name": "Erymex",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8468/erymex-500-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Erynet",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8470/erynet-125-mg-suspension",
+    "_source_page": 259
+  },
+  {
+    "name": "Eryseem",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8528/eryseem-125-mg-suspension",
+    "_source_page": 259
+  },
+  {
+    "name": "Eryseem-500",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8527/eryseem-500-500-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Eryth",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Marksman Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8529/eryth-125-mg-suspension",
+    "_source_page": 259
+  },
+  {
+    "name": "Erythin",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8471/erythin-125-mg-suspension",
+    "_source_page": 259
+  },
+  {
+    "name": "Erythrox",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8476/erythrox-125-mg-suspension",
+    "_source_page": 259
+  },
+  {
+    "name": "Eryzen",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8479/eryzen-125-mg-suspension",
+    "_source_page": 259
+  },
+  {
+    "name": "Eryzen",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8478/eryzen-500-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Eryzen",
+    "strength": "250 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8477/eryzen-250-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Esamin",
+    "strength": "5%",
+    "generic": "Amino Acid, D-Sorbitol & Electrolytes",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14775/esamin-5-injection",
+    "_source_page": 259
+  },
+  {
+    "name": "Escap",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/26830/escap-20-mg-capsule",
+    "_source_page": 259
+  },
+  {
+    "name": "Escap",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/26831/escap-40-mg-capsule",
+    "_source_page": 259
+  },
+  {
+    "name": "Escilex",
+    "strength": "20 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34686/escilex-20-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Escilex",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30399/escilex-5-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Escilex",
+    "strength": "5 mg/5 ml",
+    "generic": "Escitalopram Oxalate",
+    "company": "Renata PLC",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37033/escilex-5-mg-oral-solution",
+    "_source_page": 259
+  },
+  {
+    "name": "Escilex",
+    "strength": "10 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30461/escilex-10-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Esigerd",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27386/esigerd-20-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Esipram",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4467/esipram-5-mg-tablet",
+    "_source_page": 259
+  },
+  {
+    "name": "Esipram",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4467/esipram-5-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esita",
+    "strength": "10 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4470/esita-10-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esita",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4469/esita-5-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esitanaaf",
+    "strength": "10 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36484/esitanaaf-10-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esitanaaf",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36485/esitanaaf-5-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esloric",
+    "strength": "300 mg",
+    "generic": "Allopurinol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35616/esloric-300-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esloric",
+    "strength": "100 mg",
+    "generic": "Allopurinol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/186/esloric-100-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmax",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2000/esmax-20-mg-capsule",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmax",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/37422/esmax-20-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmax",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2001/esmax-40-mg-capsule",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmeron",
+    "strength": "50 mg/5 ml",
+    "generic": "Rocuronium Bromide",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/26155/esmeron-50-mg-injection",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmogel",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/28392/esmogel-20-mg-capsule",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmogel",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/35876/esmogel-40-mg-capsule",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmosec",
+    "strength": "40 mg/vial",
+    "generic": "Esomeprazole",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/32997/esmosec-40-mg-injection",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmosec",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/32998/esmosec-40-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmosec",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/26149/esmosec-20-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmotac",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2003/esmotac-40-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esmotac",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2002/esmotac-20-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "ESO",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27104/eso-40-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "ESO",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2004/eso-20-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Eso MUPS",
+    "strength": "20 mg",
+    "generic": "Esomeprazole (MUPS preparation)",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "MUPS Tablet",
+    "source_url": "https://medex.com.bd/brands/37653/eso-mups-20-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Eso Plus",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/38051/eso-plus-500-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Eso Plus",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/38050/eso-plus-375-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esoben",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27467/esoben-20-mg-capsule",
+    "_source_page": 260
+  },
+  {
+    "name": "Esoben",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27468/esoben-40-mg-capsule",
+    "_source_page": 260
+  },
+  {
+    "name": "Esoben",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27469/esoben-20-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esoben",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27470/esoben-40-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esoben MUPS",
+    "strength": "40 mg",
+    "generic": "Esomeprazole (MUPS preparation)",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "MUPS Tablet",
+    "source_url": "https://medex.com.bd/brands/38277/esoben-mups-40-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esoben MUPS",
+    "strength": "20 mg",
+    "generic": "Esomeprazole (MUPS preparation)",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "MUPS Tablet",
+    "source_url": "https://medex.com.bd/brands/27471/esoben-mups-20-mg-tablet",
+    "_source_page": 260
+  },
+  {
+    "name": "Esobest",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27008/esobest-40-mg-tablet",
+    "_source_page": 260
+  }
+]

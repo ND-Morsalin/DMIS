@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Frexit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4345/frexit-05-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frilinta",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37324/frilinta-90-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frisium",
+    "strength": "10 mg",
+    "generic": "Clobazam",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4280/frisium-10-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Fritt",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11423/fritt-500-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Fritt",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11422/fritt-250-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frixon",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Maks Drug Limited",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/38481/frixon-500-mg-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Frixon",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Maks Drug Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/38482/frixon-500-mg-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Frixon",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Maks Drug Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/38483/frixon-1-gm-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Frixon",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Maks Drug Limited",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/38484/frixon-1-gm-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Frixon",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Maks Drug Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/38485/frixon-2-gm-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Frucard",
+    "strength": "40 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28485/frucard-40-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frucard",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28484/frucard-20-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Fructin",
+    "strength": "10%w/v",
+    "generic": "Fructose",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14862/fructin-10w-v-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Fructose",
+    "strength": "10%w/v",
+    "generic": "Fructose",
+    "company": "Orion Infusion Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14863/fructose-10w-v-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Fructose",
+    "strength": "10%w/v",
+    "generic": "Fructose",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/27724/fructose-10w-v-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Frudema",
+    "strength": "40 mg",
+    "generic": "Furosemide",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28538/frudema-40-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frulac",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2871/frulac-20-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frulac",
+    "strength": "40 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2872/frulac-40-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frunep",
+    "strength": "250 mg",
+    "generic": "Furosemide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2836/frunep-250-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frusin",
+    "strength": "20 mg/2 ml",
+    "generic": "Furosemide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/2839/frusin-20-mg-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Frusin",
+    "strength": "20 mg/5 ml",
+    "generic": "Furosemide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/2838/frusin-20-mg-syrup",
+    "_source_page": 316
+  },
+  {
+    "name": "Frusin",
+    "strength": "40 mg",
+    "generic": "Furosemide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2837/frusin-40-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frusin Plus",
+    "strength": "40 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2876/frusin-plus-40-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frusin Plus",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20573/frusin-plus-20-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frusiton",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2877/frusiton-20-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Frusiton",
+    "strength": "40 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2878/frusiton-40-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Fruson",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2879/fruson-20-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "Fruspa",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2880/fruspa-20-mg-tablet",
+    "_source_page": 316
+  },
+  {
+    "name": "FSH",
+    "strength": "150 IU/vial",
+    "generic": "Follicle Stimulating Hormone (FSH)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM/SC Injection",
+    "source_url": "https://medex.com.bd/brands/33144/fsh-150-iu-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "FSH",
+    "strength": "75 IU/vial",
+    "generic": "Follicle Stimulating Hormone (FSH)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM/SC Injection",
+    "source_url": "https://medex.com.bd/brands/26059/fsh-75-iu-injection",
+    "_source_page": 316
+  },
+  {
+    "name": "Fucicort",
+    "strength": "2%+0.1%",
+    "generic": "Fusidic acid + Betamethasone",
+    "company": "Leo Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/16511/fucicort-2-01-cream",
+    "_source_page": 317
+  },
+  {
+    "name": "Fucidin",
+    "strength": "2%",
+    "generic": "Sodium Fusidate (Topical)",
+    "company": "Leo Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/8921/fucidin-2-cream",
+    "_source_page": 317
+  },
+  {
+    "name": "Fucil",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6343/fucil-125-mg-suspension",
+    "_source_page": 317
+  },
+  {
+    "name": "Fucil",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6342/fucil-500-mg-capsule",
+    "_source_page": 317
+  },
+  {
+    "name": "Fucimax",
+    "strength": "250 mg",
+    "generic": "Sodium Fusidate (Oral)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26210/fucimax-250-mg-tablet",
+    "_source_page": 317
+  },
+  {
+    "name": "Fucithalmic",
+    "strength": "1%",
+    "generic": "Fusidic acid",
+    "company": "Leo Pharmaceuticals Ltd.",
+    "medicine_type": "Viscous Eye Drop",
+    "source_url": "https://medex.com.bd/brands/15746/fucithalmic-1-eye-drop",
+    "_source_page": 317
+  },
+  {
+    "name": "Fuclav",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7393/fuclav-250-mg-tablet",
+    "_source_page": 317
+  },
+  {
+    "name": "Fuclav",
+    "strength": "125 mg+31.25 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7392/fuclav-125-mg-tablet",
+    "_source_page": 317
+  },
+  {
+    "name": "Fuclav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7395/fuclav-125-mg-suspension",
+    "_source_page": 317
+  },
+  {
+    "name": "Fuclav",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7394/fuclav-500-mg-tablet",
+    "_source_page": 317
+  },
+  {
+    "name": "Fucort",
+    "strength": "2%+1%",
+    "generic": "Fusidic acid + Hydrocortisone",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12667/fucort-2-1-cream",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulfeel",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6010/fulfeel-50-mg-tablet",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulimet",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27204/fulimet-05-mg-tablet",
+    "_source_page": 317
+  },
+  {
+    "name": "FullCare",
+    "strength": null,
+    "generic": "Multiple Micronutrient Supplements",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34116/fullcare-tablet",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulphila",
+    "strength": "6 mg/0.6 ml",
+    "generic": "Pegfilgrastim [Pegylated Filgrastim]",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/30227/fulphila-6-mg-injection",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulrest",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32344/fulrest-05-mg-tablet",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulspec",
+    "strength": "500 mg/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/8220/fulspec-500-mg-injection",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulspec",
+    "strength": "1 gm/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/8221/fulspec-1-gm-injection",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulspec",
+    "strength": "250 mg/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/22060/fulspec-250-mg-injection",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulvest",
+    "strength": "250 mg/5 ml",
+    "generic": "Fulvestrant",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/36354/fulvest-250-mg-injection",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulvestrant",
+    "strength": "250 mg/5 ml",
+    "generic": "Fulvestrant",
+    "company": "ZAS Corporation",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/33991/fulvestrant-250-mg-injection",
+    "_source_page": 317
+  },
+  {
+    "name": "Fulvestrant SDZ",
+    "strength": "250 mg/5 ml",
+    "generic": "Fulvestrant",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/35456/fulvestrant-sdz-250-mg-injection",
+    "_source_page": 317
+  },
+  {
+    "name": "Funga",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9985/funga-150-mg-capsule",
+    "_source_page": 317
+  },
+  {
+    "name": "Funga",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9984/funga-50-mg-capsule",
+    "_source_page": 317
+  },
+  {
+    "name": "Fungakil",
+    "strength": "0.025%",
+    "generic": "Fluocinolone Acetonide",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/28033/fungakil-0025-cream",
+    "_source_page": 317
+  },
+  {
+    "name": "Fungakil",
+    "strength": "0.025%",
+    "generic": "Fluocinolone Acetonide",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/28034/fungakil-0025-ointment",
+    "_source_page": 317
+  },
+  {
+    "name": "Fungard",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29530/fungard-150-mg-capsule",
+    "_source_page": 317
+  },
+  {
+    "name": "Fungard",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9913/fungard-50-mg-capsule",
+    "_source_page": 317
+  },
+  {
+    "name": "Fungata",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9915/fungata-150-mg-capsule",
+    "_source_page": 317
+  },
+  {
+    "name": "Fungata",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9914/fungata-50-mg-capsule",
+    "_source_page": 317
+  },
+  {
+    "name": "Fungata",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9914/fungata-50-mg-capsule",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungi MH",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Edruc Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12678/fungi-mh-2-1-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungi-F",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Edruc Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9917/fungi-f-50-mg-capsule",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungicap",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37414/fungicap-150-mg-capsule",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungicap",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37413/fungicap-50-mg-capsule",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungicort",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/13049/fungicort-1-01-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungidal",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10026/fungidal-2-w-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungidal-HC",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12677/fungidal-hc-2-1-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungifix",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32514/fungifix-50-mg-capsule",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungimin",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10027/fungimin-2-w-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungimin",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Oral Gel",
+    "source_url": "https://medex.com.bd/brands/22465/fungimin-2-w-oral-gel",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungin",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12393/fungin-1-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungin",
+    "strength": "1%",
+    "generic": "Clotrimazole (Ear drop)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/19546/fungin-1-ear-drop",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungin-B",
+    "strength": "0.05%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12551/fungin-b-005-1-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Funginil",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27405/funginil-150-mg-capsule",
+    "_source_page": 318
+  },
+  {
+    "name": "Funginil",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27406/funginil-50-mg-capsule",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungirox",
+    "strength": "1%",
+    "generic": "Ciclopirox Olamine (Cream)",
+    "company": "Renata PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33060/fungirox-1-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungiseb",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37731/fungiseb-1-01-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungison",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12713/fungison-1-01-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungistat",
+    "strength": null,
+    "generic": "Triamcinolone + Neomycin + Nystatin + Gramicidin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12726/fungistat-ointment",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungistat",
+    "strength": null,
+    "generic": "Triamcinolone + Neomycin + Nystatin + Gramicidin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12725/fungistat-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungistin",
+    "strength": "100000 unit/ml",
+    "generic": "Nystatin",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9803/fungistin-100000-unit-suspension",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungitac",
+    "strength": "2%",
+    "generic": "Sertaconazole Nitrate [Topical]",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/26082/fungitac-2-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungitop",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36684/fungitop-2-w-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungitop HC",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36685/fungitop-hc-2-1-cream",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungitrol",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9919/fungitrol-150-mg-capsule",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungitrol",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9918/fungitrol-50-mg-capsule",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungitrol",
+    "strength": "50 mg/5 ml",
+    "generic": "Fluconazole",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9920/fungitrol-50-mg-suspension",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungitung",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Oral Gel",
+    "source_url": "https://medex.com.bd/brands/34550/fungitung-2-w-oral-gel",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungizol",
+    "strength": "1%",
+    "generic": "Clotrimazole (Ear drop)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/12378/fungizol-1-ear-drop",
+    "_source_page": 318
+  },
+  {
+    "name": "Fungizol",
+    "strength": "1%",
+    "generic": "Clotrimazole (Eye ointment)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/12379/fungizol-1-eye-ointment",
+    "_source_page": 319
+  },
+  {
+    "name": "Funzole",
+    "strength": "50 mg/5 ml",
+    "generic": "Fluconazole",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9923/funzole-50-mg-suspension",
+    "_source_page": 319
+  },
+  {
+    "name": "Funzole",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9922/funzole-150-mg-capsule",
+    "_source_page": 319
+  },
+  {
+    "name": "Funzole",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9921/funzole-50-mg-capsule",
+    "_source_page": 319
+  },
+  {
+    "name": "Furabac",
+    "strength": "100 mg",
+    "generic": "Nitrofurantoin",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/34303/furabac-100-mg-capsule",
+    "_source_page": 319
+  },
+  {
+    "name": "Furex",
+    "strength": "1.5 gm/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7243/furex-15-gm-injection",
+    "_source_page": 319
+  },
+  {
+    "name": "Furex",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7242/furex-750-mg-injection",
+    "_source_page": 319
+  },
+  {
+    "name": "Furex",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7240/furex-125-mg-suspension",
+    "_source_page": 319
+  },
+  {
+    "name": "Furex",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7239/furex-500-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furex",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7238/furex-250-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furia",
+    "strength": "60 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20372/furia-60-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furia",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20373/furia-120-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furia",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20374/furia-180-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furia",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/20375/furia-30-mg-suspension",
+    "_source_page": 319
+  },
+  {
+    "name": "Furo Plus",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2881/furo-plus-20-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furocef",
+    "strength": "1 gm/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/25839/furocef-1-gm-injection",
+    "_source_page": 319
+  },
+  {
+    "name": "Furocef",
+    "strength": "1.5 gm/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Renata PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7250/furocef-15-gm-injection",
+    "_source_page": 319
+  },
+  {
+    "name": "Furocef",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7249/furocef-750-mg-injection",
+    "_source_page": 319
+  },
+  {
+    "name": "Furocef",
+    "strength": "250 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30360/furocef-250-mg-injection",
+    "_source_page": 319
+  },
+  {
+    "name": "Furocef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7247/furocef-125-mg-suspension",
+    "_source_page": 319
+  },
+  {
+    "name": "Furocef",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7246/furocef-500-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furocef",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7245/furocef-250-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furocef",
+    "strength": "125 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7244/furocef-125-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furocef DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/30359/furocef-ds-250-mg-suspension",
+    "_source_page": 319
+  },
+  {
+    "name": "Furoclav",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7397/furoclav-500-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furoclav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/31024/furoclav-125-mg-suspension",
+    "_source_page": 319
+  },
+  {
+    "name": "Furoclav",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7396/furoclav-250-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furoget",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Get Well Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25795/furoget-125-mg-suspension",
+    "_source_page": 319
+  },
+  {
+    "name": "Furoget",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Get Well Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25794/furoget-500-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furoget",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Get Well Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25793/furoget-250-mg-tablet",
+    "_source_page": 319
+  },
+  {
+    "name": "Furoget CV",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Get Well Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18998/furoget-cv-125-mg-suspension",
+    "_source_page": 320
+  },
+  {
+    "name": "Furoget CV",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Get Well Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18997/furoget-cv-250-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furoget CV",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Get Well Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18996/furoget-cv-500-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furonaaf-CV",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28798/furonaaf-cv-250-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furonaaf-CV",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28799/furonaaf-cv-500-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furonaaf-CV",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28800/furonaaf-cv-125-mg-suspension",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotec",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7251/furotec-500-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil",
+    "strength": "1.5 gm/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7258/furotil-15-gm-injection",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7257/furotil-750-mg-injection",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7256/furotil-125-mg-suspension",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7255/furotil-500-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7254/furotil-250-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil",
+    "strength": "125 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7253/furotil-125-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil Plus",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29205/furotil-plus-500-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil Plus",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29204/furotil-plus-250-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil Plus",
+    "strength": "125 mg+31.25 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29203/furotil-plus-125-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotil Plus",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/29202/furotil-plus-125-mg-suspension",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotixol",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7259/furotixol-250-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotixol",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7260/furotixol-500-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotixol",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7261/furotixol-125-mg-suspension",
+    "_source_page": 320
+  },
+  {
+    "name": "Furotone",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2882/furotone-20-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Furoxim",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34964/furoxim-250-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Fusate",
+    "strength": "2%",
+    "generic": "Sodium Fusidate (Topical)",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/20580/fusate-2-cream",
+    "_source_page": 320
+  },
+  {
+    "name": "Fusibac-H",
+    "strength": "2%+1%",
+    "generic": "Fusidic acid + Hydrocortisone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12668/fusibac-h-2-1-cream",
+    "_source_page": 320
+  },
+  {
+    "name": "Fusicort",
+    "strength": "2%+1%",
+    "generic": "Fusidic acid + Hydrocortisone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12669/fusicort-2-1-cream",
+    "_source_page": 320
+  },
+  {
+    "name": "Fusicort Max",
+    "strength": "2%+0.1%",
+    "generic": "Fusidic acid + Betamethasone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31512/fusicort-max-2-01-cream",
+    "_source_page": 320
+  },
+  {
+    "name": "Fusid",
+    "strength": "40 mg",
+    "generic": "Furosemide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2840/fusid-40-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Fusid",
+    "strength": "20 mg/2 ml",
+    "generic": "Furosemide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/2841/fusid-20-mg-injection",
+    "_source_page": 320
+  },
+  {
+    "name": "Fusid Plus",
+    "strength": "40 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2884/fusid-plus-40-mg-tablet",
+    "_source_page": 320
+  },
+  {
+    "name": "Fusid Plus",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2883/fusid-plus-20-mg-tablet",
+    "_source_page": 320
+  }
+]

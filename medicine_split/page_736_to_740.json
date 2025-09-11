@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Tofenver",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30374/tofenver-1-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tofix",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31088/tofix-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tofranil",
+    "strength": "25 mg",
+    "generic": "Imipramine Hydrochloride",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4456/tofranil-25-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Togent",
+    "strength": "2%+0.1%",
+    "generic": "Diphenhydramine Hydrochloride + Zinc Acetate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12306/togent-2-01-cream",
+    "_source_page": 736
+  },
+  {
+    "name": "Tojak",
+    "strength": "5 mg",
+    "generic": "Tofacitinib",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26023/tojak-5-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tokn",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Alkad Laboratories",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/21299/tokn-1-mg-syrup",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolcalm",
+    "strength": "50 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15494/tolcalm-50-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolcid",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34226/tolcid-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolec",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15391/tolec-10-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolec",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/27882/tolec-30-mg-injection",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolec",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/27883/tolec-60-mg-injection",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolema",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32987/tolema-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolfamax",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35891/tolfamax-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolfamic",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34229/tolfamic-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolfem",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29614/tolfem-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolfenac Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "generic": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/11133/tolfenac-plus-75-mg-injection",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolfenac SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/28200/tolfenac-sr-100-mg-capsule",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolfi",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25008/tolfi-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolfort",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29513/tolfort-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolgrin",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34228/tolgrin-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolin",
+    "strength": "4 mg",
+    "generic": "Salbutamol",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3519/tolin-4-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolin",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3520/tolin-2-mg-syrup",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolmic",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11638/tolmic-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolmus",
+    "strength": "50 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15495/tolmus-50-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolnil",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36874/tolnil-200-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolorin",
+    "strength": "2 mg",
+    "generic": "Tolterodine Tartrate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15620/tolorin-2-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolosa",
+    "strength": "80 mg/4 ml",
+    "generic": "Tocilizumab",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/31899/tolosa-80-mg-injection",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolpa",
+    "strength": "50 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15496/tolpa-50-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolride",
+    "strength": "50 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35319/tolride-50-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolson",
+    "strength": "50 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15497/tolson-50-mg-tablet",
+    "_source_page": 736
+  },
+  {
+    "name": "Tolson",
+    "strength": "100 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15498/tolson-100-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tolter",
+    "strength": "2 mg",
+    "generic": "Tolterodine Tartrate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15622/tolter-2-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Toltrex",
+    "strength": "2 mg",
+    "generic": "Tolterodine Tartrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15623/toltrex-2-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tolus",
+    "strength": "50 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36878/tolus-50-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tolus",
+    "strength": "100 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36965/tolus-100-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tolvan",
+    "strength": "15 mg",
+    "generic": "Tolvaptan",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38531/tolvan-15-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Toma",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3747/toma-1-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Toma",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3748/toma-1-mg-syrup",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomart",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34792/tomart-1-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomart",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/34793/tomart-1-mg-syrup",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomephen",
+    "strength": "10 mg/5 ml",
+    "generic": "Dextromethorphan Hydrobromide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3995/tomephen-10-mg-syrup",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomide",
+    "strength": "2.5 mg",
+    "generic": "Torasemide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25042/tomide-25-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomide",
+    "strength": "5 mg",
+    "generic": "Torasemide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26533/tomide-5-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomin",
+    "strength": "0.3%",
+    "generic": "Tobramycin (Ophthalmic)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28951/tomin-03-eye-drop",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomin-D",
+    "strength": "0.1%+0.3%",
+    "generic": "Dexamethasone + Tobramycin",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28952/tomin-d-01-03-eye-drop",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomium",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27943/tomium-50-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tompag",
+    "strength": "25 mg",
+    "generic": "Eltrombopag Olamine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33871/tompag-25-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tompag",
+    "strength": "50 mg",
+    "generic": "Eltrombopag Olamine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33872/tompag-50-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomycin",
+    "strength": "0.3%",
+    "generic": "Tobramycin (Ophthalmic)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15737/tomycin-03-eye-drop",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomycin",
+    "strength": "0.3%",
+    "generic": "Tobramycin (Ophthalmic)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/15738/tomycin-03-eye-ointment",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomycin-D",
+    "strength": "0.1%+0.3%",
+    "generic": "Dexamethasone + Tobramycin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15859/tomycin-d-01-03-eye-drop",
+    "_source_page": 737
+  },
+  {
+    "name": "Tomycin-D",
+    "strength": "0.1%+0.3%",
+    "generic": "Dexamethasone + Tobramycin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/15860/tomycin-d-01-03-eye-ointment",
+    "_source_page": 737
+  },
+  {
+    "name": "Tone",
+    "strength": "100 mg",
+    "generic": "Thiamine Hydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27756/tone-100-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tonemide",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28605/tonemide-20-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Tonilax",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/35643/tonilax-335-gm-oral-solution",
+    "_source_page": 737
+  },
+  {
+    "name": "Top",
+    "strength": "50 mg",
+    "generic": "Ketoprofen",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/11367/top-50-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Top",
+    "strength": "100 mg",
+    "generic": "Ketoprofen",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/11368/top-100-mg-tablet",
+    "_source_page": 737
+  },
+  {
+    "name": "Topcef",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8077/topcef-250-mg-injection",
+    "_source_page": 737
+  },
+  {
+    "name": "Topcef",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8078/topcef-500-mg-injection",
+    "_source_page": 737
+  },
+  {
+    "name": "Topcef",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8079/topcef-1-gm-injection",
+    "_source_page": 737
+  },
+  {
+    "name": "Topcef",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8081/topcef-500-mg-injection",
+    "_source_page": 738
+  },
+  {
+    "name": "Topcef",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8082/topcef-1-gm-injection",
+    "_source_page": 738
+  },
+  {
+    "name": "Topcef",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8083/topcef-2-gm-injection",
+    "_source_page": 738
+  },
+  {
+    "name": "Toperin",
+    "strength": "50 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15499/toperin-50-mg-tablet",
+    "_source_page": 738
+  },
+  {
+    "name": "Topflu",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37053/topflu-500-mg-capsule",
+    "_source_page": 738
+  },
+  {
+    "name": "Topflu",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/37054/topflu-125-mg-suspension",
+    "_source_page": 738
+  },
+  {
+    "name": "Topibac",
+    "strength": "1%",
+    "generic": "Retapamulin",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/29630/topibac-1-ointment",
+    "_source_page": 738
+  },
+  {
+    "name": "Topibet CL",
+    "strength": "0.1%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12553/topibet-cl-01-1-ointment",
+    "_source_page": 738
+  },
+  {
+    "name": "Topibet CL",
+    "strength": "0.05%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/30665/topibet-cl-005-1-cream",
+    "_source_page": 738
+  },
+  {
+    "name": "Topicacin",
+    "strength": "0.025% w/w",
+    "generic": "Capsaicin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/30699/topicacin-0025-w-cream",
+    "_source_page": 738
+  },
+  {
+    "name": "Topicare",
+    "strength": "0.05%+3%",
+    "generic": "Clobetasol Propionate + Salicylic Acid",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/34576/topicare-005-3-ointment",
+    "_source_page": 738
+  },
+  {
+    "name": "Topicazole",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10032/topicazole-2-w-cream",
+    "_source_page": 738
+  },
+  {
+    "name": "Topicazole Plus",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12688/topicazole-plus-2-1-cream",
+    "_source_page": 738
+  },
+  {
+    "name": "Topiclo",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12592/topiclo-005-cream",
+    "_source_page": 738
+  },
+  {
+    "name": "Topiclo",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12593/topiclo-005-ointment",
+    "_source_page": 738
+  },
+  {
+    "name": "Topiclo",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/30034/topiclo-005-lotion",
+    "_source_page": 738
+  },
+  {
+    "name": "Topiclo",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Spray",
+    "source_url": "https://medex.com.bd/brands/30035/topiclo-005-spray",
+    "_source_page": 738
+  },
+  {
+    "name": "Topiclo NN",
+    "strength": "(0.5 mg+5 mg+1 Lac IU)/gm",
+    "generic": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/13028/topiclo-nn-05-mg-ointment",
+    "_source_page": 738
+  },
+  {
+    "name": "Topiclo S",
+    "strength": "0.05%+3%",
+    "generic": "Clobetasol Propionate + Salicylic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12611/topiclo-s-005-3-ointment",
+    "_source_page": 738
+  },
+  {
+    "name": "Topicort",
+    "strength": "1%",
+    "generic": "Hydrocortisone Acetate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12660/topicort-1-cream",
+    "_source_page": 738
+  },
+  {
+    "name": "Topiderm",
+    "strength": "2%+1%",
+    "generic": "Fusidic acid + Hydrocortisone",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33941/topiderm-2-1-cream",
+    "_source_page": 738
+  },
+  {
+    "name": "Topidin",
+    "strength": "5% w/w",
+    "generic": "Povidone Iodine",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/28611/topidin-5-w-ointment",
+    "_source_page": 738
+  },
+  {
+    "name": "Topimax",
+    "strength": "25 mg",
+    "generic": "Topiramate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30966/topimax-25-mg-tablet",
+    "_source_page": 738
+  },
+  {
+    "name": "Topimax",
+    "strength": "50 mg",
+    "generic": "Topiramate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30967/topimax-50-mg-tablet",
+    "_source_page": 738
+  },
+  {
+    "name": "Topirva",
+    "strength": "25 mg",
+    "generic": "Topiramate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5096/topirva-25-mg-tablet",
+    "_source_page": 738
+  },
+  {
+    "name": "Topirva",
+    "strength": "50 mg",
+    "generic": "Topiramate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5097/topirva-50-mg-tablet",
+    "_source_page": 738
+  },
+  {
+    "name": "Topirva XR",
+    "strength": "100 mg",
+    "generic": "Topiramate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/33824/topirva-xr-100-mg-capsule",
+    "_source_page": 738
+  },
+  {
+    "name": "Topirva XR",
+    "strength": "50 mg",
+    "generic": "Topiramate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/33825/topirva-xr-50-mg-capsule",
+    "_source_page": 738
+  },
+  {
+    "name": "Topirva XR",
+    "strength": "25 mg",
+    "generic": "Topiramate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/33826/topirva-xr-25-mg-capsule",
+    "_source_page": 738
+  },
+  {
+    "name": "Topita SR",
+    "strength": "100 mg",
+    "generic": "Tapentadol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/29100/topita-sr-100-mg-tablet",
+    "_source_page": 738
+  },
+  {
+    "name": "Topita SR",
+    "strength": "50 mg",
+    "generic": "Tapentadol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/29101/topita-sr-50-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Topium",
+    "strength": "18 mcg",
+    "generic": "Tiotropium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3642/topium-18-mcg-inhalation-capsule",
+    "_source_page": 739
+  },
+  {
+    "name": "Toplevo",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9527/toplevo-500-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Toplon",
+    "strength": "320 mg",
+    "generic": "Gemifloxacin",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9416/toplon-320-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Topmate",
+    "strength": "25 mg",
+    "generic": "Topiramate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5094/topmate-25-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Topmate",
+    "strength": "50 mg",
+    "generic": "Topiramate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5095/topmate-50-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Topomox",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9621/topomox-400-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Toposar",
+    "strength": "50 mg",
+    "generic": "Etoposide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26628/toposar-50-mg-capsule",
+    "_source_page": 739
+  },
+  {
+    "name": "Toposar",
+    "strength": "100 mg/5 ml",
+    "generic": "Etoposide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/26629/toposar-100-mg-injection",
+    "_source_page": 739
+  },
+  {
+    "name": "Toposide",
+    "strength": "100 mg/5 ml",
+    "generic": "Etoposide",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34639/toposide-100-mg-injection",
+    "_source_page": 739
+  },
+  {
+    "name": "Topotecan PhaRes",
+    "strength": "4 mg/4 ml",
+    "generic": "Topotecan",
+    "company": "ZAS Corporation",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/17309/topotecan-phares-4-mg-injection",
+    "_source_page": 739
+  },
+  {
+    "name": "Topoxin",
+    "strength": "100 mg/5 ml",
+    "generic": "Etoposide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15081/topoxin-100-mg-injection",
+    "_source_page": 739
+  },
+  {
+    "name": "Topra",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2249/topra-20-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Topra",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2250/topra-40-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Topress",
+    "strength": "50 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2581/topress-50-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Topril",
+    "strength": "50 mg",
+    "generic": "Captopril",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30701/topril-50-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Topsil",
+    "strength": "4 mg",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4112/topsil-4-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Topsil",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4113/topsil-4-mg-syrup",
+    "_source_page": 739
+  },
+  {
+    "name": "TopUp",
+    "strength": "5 mg",
+    "generic": "Tadalafil",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24755/topup-5-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "TopUp",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24756/topup-20-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "TopUp",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27248/topup-10-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Toradolin",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15392/toradolin-10-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Toradolin",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15393/toradolin-30-mg-injection",
+    "_source_page": 739
+  },
+  {
+    "name": "Torafix",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38479/torafix-10-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Torafix",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Maks Drug Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/38480/torafix-30-mg-injection",
+    "_source_page": 739
+  },
+  {
+    "name": "Toralin",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15390/toralin-10-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Toralin",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/38565/toralin-30-mg-injection",
+    "_source_page": 739
+  },
+  {
+    "name": "Toralin",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/38566/toralin-60-mg-injection",
+    "_source_page": 739
+  },
+  {
+    "name": "Toramax",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15354/toramax-10-mg-tablet",
+    "_source_page": 739
+  },
+  {
+    "name": "Toramax",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15355/toramax-30-mg-injection",
+    "_source_page": 739
+  },
+  {
+    "name": "Toramax",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/27580/toramax-60-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Torax",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15394/torax-10-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Torax",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15395/torax-60-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Torax",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15396/torax-30-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Toraxim",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7814/toraxim-40-mg-suspension",
+    "_source_page": 740
+  },
+  {
+    "name": "Toraxim",
+    "strength": "20 mg/ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/7815/toraxim-20-mg-pediatric-drop",
+    "_source_page": 740
+  },
+  {
+    "name": "Torbi",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20107/torbi-90-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Torbi",
+    "strength": "120 mg",
+    "generic": "Etoricoxib",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20108/torbi-120-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Torcin",
+    "strength": "0.3%",
+    "generic": "Tobramycin (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15739/torcin-03-eye-drop",
+    "_source_page": 740
+  },
+  {
+    "name": "Torcin",
+    "strength": "0.3%",
+    "generic": "Tobramycin (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/29899/torcin-03-eye-ointment",
+    "_source_page": 740
+  },
+  {
+    "name": "Torcin D",
+    "strength": "0.1%+0.3%",
+    "generic": "Dexamethasone + Tobramycin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27078/torcin-d-01-03-eye-drop",
+    "_source_page": 740
+  },
+  {
+    "name": "Torcin D",
+    "strength": "0.1%+0.3%",
+    "generic": "Dexamethasone + Tobramycin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/29524/torcin-d-01-03-eye-ointment",
+    "_source_page": 740
+  },
+  {
+    "name": "Torcox",
+    "strength": "60 mg",
+    "generic": "Etoricoxib",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28496/torcox-60-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Torcox",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28497/torcox-90-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Torcox",
+    "strength": "120 mg",
+    "generic": "Etoricoxib",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28498/torcox-120-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Torimon",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11221/torimon-90-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Torimon",
+    "strength": "120 mg",
+    "generic": "Etoricoxib",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11222/torimon-120-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Toro",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15397/toro-10-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Toro",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/21231/toro-30-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Toroaid",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15398/toroaid-10-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Toroaid",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15399/toroaid-30-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Toroaid",
+    "strength": "0.5%",
+    "generic": "Ketorolac Tromethamine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15455/toroaid-05-eye-drop",
+    "_source_page": 740
+  },
+  {
+    "name": "Toroaid",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26583/toroaid-60-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Torolac",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15400/torolac-10-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Torosic",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15441/torosic-10-mg-tablet",
+    "_source_page": 740
+  },
+  {
+    "name": "Torosic",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15442/torosic-30-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Torosic",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26986/torosic-60-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Torped",
+    "strength": "250 mg/5 ml",
+    "generic": "Cefotaxime",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7726/torped-250-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Torped",
+    "strength": "500 mg/10 ml",
+    "generic": "Cefotaxime",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7727/torped-500-mg-injection",
+    "_source_page": 740
+  },
+  {
+    "name": "Torped",
+    "strength": "1 gm/10 ml",
+    "generic": "Cefotaxime",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7728/torped-1-gm-injection",
+    "_source_page": 740
+  }
+]

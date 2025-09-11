@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Tenil",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4268/tenil-3-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenivasc",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22983/tenivasc-5-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenizide",
+    "strength": "20 mg+12.5 mg",
+    "generic": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22979/tenizide-20-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenkular",
+    "strength": "5 mg",
+    "generic": "Prochlorperazine Maleate",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27397/tenkular-5-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenobis",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2505/tenobis-25-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenobis",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2506/tenobis-5-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenobis",
+    "strength": "1.25 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36518/tenobis-125-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenobis Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18281/tenobis-plus-25-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenobis Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18282/tenobis-plus-5-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenobis-A",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33205/tenobis-a-25-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenocab",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/844/tenocab-5-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenocab",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/845/tenocab-5-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenocard",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1096/tenocard-50-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoclor",
+    "strength": "50 mg+25 mg",
+    "generic": "Atenolol + Chlorthalidone",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30619/tenoclor-50-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenodin",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/846/tenodin-5-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenodin",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/847/tenodin-5-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoflex",
+    "strength": "20 mg",
+    "generic": "Tenoxicam",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11628/tenoflex-20-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoloc",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1098/tenoloc-50-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoloc",
+    "strength": "100 mg",
+    "generic": "Atenolol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2471/tenoloc-100-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenomin",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28601/tenomin-50-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenopain",
+    "strength": "20 mg",
+    "generic": "Tenoxicam",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11635/tenopain-20-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenopain",
+    "strength": "20 mg/vial",
+    "generic": "Tenoxicam",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/38397/tenopain-20-mg-injection",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenopin",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/848/tenopin-5-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoren",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1100/tenoren-50-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoren",
+    "strength": "100 mg",
+    "generic": "Atenolol",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1101/tenoren-100-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoren",
+    "strength": "25 mg",
+    "generic": "Atenolol",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1102/tenoren-25-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoren Plus",
+    "strength": "50 mg+25 mg",
+    "generic": "Atenolol + Chlorthalidone",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1109/tenoren-plus-50-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenorix",
+    "strength": "20 mg",
+    "generic": "Tenoxicam",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11629/tenorix-20-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenovir",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Virgo Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1103/tenovir-50-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoviral",
+    "strength": "300 mg",
+    "generic": "Tenofovir Disoproxil",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24833/tenoviral-300-mg-tablet",
+    "_source_page": 721
+  },
+  {
+    "name": "Tenoxim",
+    "strength": "20 mg",
+    "generic": "Tenoxicam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24837/tenoxim-20-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Tensa",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Marker Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4367/tensa-05-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Tensareal",
+    "strength": "5 mg",
+    "generic": "Diazepam",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19811/tensareal-5-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Tensfree",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18328/tensfree-3-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Tensicon",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4368/tensicon-05-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Tensin",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31582/tensin-50-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Tensnil",
+    "strength": "10 mg",
+    "generic": "Clobazam",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27891/tensnil-10-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Tenvira",
+    "strength": "300 mg",
+    "generic": "Tenofovir Disoproxil",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9759/tenvira-300-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Tepadina",
+    "strength": "15 mg/vial",
+    "generic": "Thiotepa",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/30781/tepadina-15-mg-injection",
+    "_source_page": 722
+  },
+  {
+    "name": "Terabac",
+    "strength": "150 mg/15 ml",
+    "generic": "Lefamulin Acetate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35290/terabac-150-mg-injection",
+    "_source_page": 722
+  },
+  {
+    "name": "Terazon",
+    "strength": "2 mg",
+    "generic": "Terazosin Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2592/terazon-2-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terazon",
+    "strength": "5 mg",
+    "generic": "Terazosin Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2593/terazon-5-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbex",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10037/terbex-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbex",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10054/terbex-1-cream",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbicare",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33628/terbicare-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbicon",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27285/terbicon-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbicon",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36555/terbicon-1-cream",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbiderm",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29179/terbiderm-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbiderm",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34484/terbiderm-1-cream",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbifin",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10038/terbifin-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbifin",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10055/terbifin-1-cream",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbigel",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35890/terbigel-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbiheal",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32343/terbiheal-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbiheal",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/32345/terbiheal-1-cream",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbikill",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31051/terbikill-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbikill",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31052/terbikill-1-cream",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbimax",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31732/terbimax-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbimax",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31733/terbimax-1-cream",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbin",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10056/terbin-1-cream",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbin",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24849/terbin-250-mg-tablet",
+    "_source_page": 722
+  },
+  {
+    "name": "Terbin",
+    "strength": "125 mg/sachet",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Granules",
+    "source_url": "https://medex.com.bd/brands/31047/terbin-125-mg-oral-granules",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbin",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Topical Spray",
+    "source_url": "https://medex.com.bd/brands/32479/terbin-1-spray",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbinox",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32459/terbinox-250-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbinox",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/32641/terbinox-1-cream",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbipro",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37061/terbipro-250-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbisol",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33711/terbisol-1-cream",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbitac",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29441/terbitac-250-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbitac",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/29442/terbitac-1-cream",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbiver",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34237/terbiver-250-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbixen",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31596/terbixen-250-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Terbulin",
+    "strength": "1.5 mg/5 ml",
+    "generic": "Terbutaline Sulfate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3602/terbulin-15-mg-syrup",
+    "_source_page": 723
+  },
+  {
+    "name": "Terfix",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37564/terfix-250-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Terfun",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38573/terfun-1-cream",
+    "_source_page": 723
+  },
+  {
+    "name": "Tergocin",
+    "strength": "200 mg/vial",
+    "generic": "Teicoplanin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8980/tergocin-200-mg-injection",
+    "_source_page": 723
+  },
+  {
+    "name": "Tergocin",
+    "strength": "400 mg/vial",
+    "generic": "Teicoplanin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/33490/tergocin-400-mg-injection",
+    "_source_page": 723
+  },
+  {
+    "name": "Tericin",
+    "strength": "50 mg/vial",
+    "generic": "Amphotericin B",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/16906/tericin-50-mg-injection",
+    "_source_page": 723
+  },
+  {
+    "name": "Teriflox",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34972/teriflox-500-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Teripen",
+    "strength": "20 mcg/80 mcl",
+    "generic": "Teriparatide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/35831/teripen-20-mcg-injection",
+    "_source_page": 723
+  },
+  {
+    "name": "Terlipressin ever",
+    "strength": "1 mg/5 ml",
+    "generic": "Terlipressin Acetate",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/33953/terlipressin-ever-1-mg-injection",
+    "_source_page": 723
+  },
+  {
+    "name": "Terlyx",
+    "strength": "1 mg/8.5 ml",
+    "generic": "Terlipressin Acetate",
+    "company": "Radius Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/33220/terlyx-1-mg-injection",
+    "_source_page": 723
+  },
+  {
+    "name": "Termider",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Biopharma Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10057/termider-1-cream",
+    "_source_page": 723
+  },
+  {
+    "name": "Termider",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28915/termider-250-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Terminex",
+    "strength": "200 mg+200 mcg",
+    "generic": "Mifepristone + Misoprostol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22541/terminex-200-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Ternilla",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/87/ternilla-100-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Ternilla SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/34638/ternilla-sr-200-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Terrell",
+    "strength": "100% v/v",
+    "generic": "Isoflurane",
+    "company": "ZAS Corporation",
+    "medicine_type": "Solution for Inhalation",
+    "source_url": "https://medex.com.bd/brands/29601/terrell-100-v-solution-for-inhalation",
+    "_source_page": 723
+  },
+  {
+    "name": "Tervent",
+    "strength": "2.5 mg",
+    "generic": "Terbutaline Sulfate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3603/tervent-25-mg-tablet",
+    "_source_page": 723
+  },
+  {
+    "name": "Tervent",
+    "strength": "1.5 mg/5 ml",
+    "generic": "Terbutaline Sulfate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3604/tervent-15-mg-syrup",
+    "_source_page": 723
+  },
+  {
+    "name": "Tervent",
+    "strength": "5 mg/2 ml",
+    "generic": "Terbutaline Sulfate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Nebuliser Solution",
+    "source_url": "https://medex.com.bd/brands/35750/tervent-5-mg-respirator-solution",
+    "_source_page": 723
+  },
+  {
+    "name": "Tesco DL",
+    "strength": "(14 mg+6.5 mg+2 mg)/5 ml",
+    "generic": "Diphenhydramine + Dextromethorphan + Levomenthol",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/32979/tesco-dl-14-mg-syrup",
+    "_source_page": 723
+  },
+  {
+    "name": "Tesco GL",
+    "strength": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "generic": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/32985/tesco-gl-100-mg-syrup",
+    "_source_page": 724
+  },
+  {
+    "name": "Teslar",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35504/teslar-20-mg-tablet",
+    "_source_page": 724
+  },
+  {
+    "name": "Teslar",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35505/teslar-40-mg-tablet",
+    "_source_page": 724
+  },
+  {
+    "name": "Teslar",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35506/teslar-80-mg-tablet",
+    "_source_page": 724
+  },
+  {
+    "name": "Teslar-M",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36081/teslar-m-5-mg-tablet",
+    "_source_page": 724
+  },
+  {
+    "name": "Teslar-M",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36082/teslar-m-5-mg-tablet",
+    "_source_page": 724
+  },
+  {
+    "name": "Testanon",
+    "strength": "250 mg/ml",
+    "generic": "Testosterone Decanoate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/5945/testanon-250-mg-injection",
+    "_source_page": 724
+  },
+  {
+    "name": "Testoren",
+    "strength": "250 mg/ml",
+    "generic": "Testosterone Decanoate",
+    "company": "ACI Limited",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/26385/testoren-250-mg-injection",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetagam-P",
+    "strength": "250 IU/ml",
+    "generic": "Human Tetanus Immunoglobulin",
+    "company": "International Agencies (Bd.) Limited",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/15263/tetagam-p-250-iu-injection",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetclin",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28602/tetclin-250-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetmosol",
+    "strength": "25% w/w",
+    "generic": "Monosulfiram",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/37726/tetmosol-25-w-solution",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetraben",
+    "strength": "12.5 mg",
+    "generic": "Tetrabenazine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31042/tetraben-125-mg-tablet",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetraben",
+    "strength": "25 mg",
+    "generic": "Tetrabenazine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31043/tetraben-25-mg-tablet",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetrabez",
+    "strength": "12.5 mg",
+    "generic": "Tetrabenazine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30106/tetrabez-125-mg-tablet",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetrabez",
+    "strength": "25 mg",
+    "generic": "Tetrabenazine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30107/tetrabez-25-mg-tablet",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetracef",
+    "strength": "500 mg/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8179/tetracef-500-mg-injection",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetracef",
+    "strength": "1 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8180/tetracef-1-gm-injection",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetracef",
+    "strength": "2 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/30760/tetracef-2-gm-injection",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetracillin",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8298/tetracillin-250-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetracomb",
+    "strength": null,
+    "generic": "Triamcinolone + Neomycin + Nystatin + Gramicidin",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12729/tetracomb-cream",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetracomb",
+    "strength": null,
+    "generic": "Triamcinolone + Neomycin + Nystatin + Gramicidin",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12730/tetracomb-ointment",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetracycline",
+    "strength": "500 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8284/tetracycline-500-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetracycline",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8285/tetracycline-250-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetracycline H",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8286/tetracycline-h-250-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetrafast",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8316/tetrafast-250-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetram",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8290/tetram-250-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetramet",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8291/tetramet-250-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetramin",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8317/tetramin-250-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetramix",
+    "strength": "0.05%+0.75%+2%+1%",
+    "generic": "Clobetasol Propionate + Ofloxacin + Ornidazole + Terbinafine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37123/tetramix-005-075-cream",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetramycin",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38088/tetramycin-250-mg-capsule",
+    "_source_page": 724
+  },
+  {
+    "name": "Tetrasina",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8292/tetrasina-250-mg-capsule",
+    "_source_page": 725
+  },
+  {
+    "name": "Tetrasina",
+    "strength": "500 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8293/tetrasina-500-mg-capsule",
+    "_source_page": 725
+  },
+  {
+    "name": "Tetrasol",
+    "strength": "25% w/w",
+    "generic": "Monosulfiram",
+    "company": "ACI Limited",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/12480/tetrasol-25-w-solution",
+    "_source_page": 725
+  },
+  {
+    "name": "Tetrax",
+    "strength": "500 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8294/tetrax-500-mg-capsule",
+    "_source_page": 725
+  },
+  {
+    "name": "Tetraxim",
+    "strength": "0.5 ml/prefilled syringe",
+    "generic": "Diphtheria, Tetanus, Pertussis, Poliomyelitis Vaccine",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/31519/tetraxim-05-ml-injection",
+    "_source_page": 725
+  },
+  {
+    "name": "Tetrazin",
+    "strength": "12.5 mg",
+    "generic": "Tetrabenazine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16710/tetrazin-125-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Tetrazin",
+    "strength": "25 mg",
+    "generic": "Tetrabenazine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24862/tetrazin-25-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Teviral",
+    "strength": "0.5 mg",
+    "generic": "Entecavir",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9745/teviral-05-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Teviral",
+    "strength": "1 mg",
+    "generic": "Entecavir",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9746/teviral-1-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Tevirax",
+    "strength": "25 mg",
+    "generic": "Tenofovir Alafenamide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38623/tevirax-25-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Texa",
+    "strength": "0.1%+0.3%",
+    "generic": "Dexamethasone + Tobramycin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15853/texa-01-03-eye-drop",
+    "_source_page": 725
+  },
+  {
+    "name": "Texamic",
+    "strength": "500 mg",
+    "generic": "Tranexamic Acid",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/25082/texamic-500-mg-capsule",
+    "_source_page": 725
+  },
+  {
+    "name": "Texicam",
+    "strength": "20 mg",
+    "generic": "Tenoxicam",
+    "company": "Credence Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11630/texicam-20-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Texit",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7655/texit-200-mg-capsule",
+    "_source_page": 725
+  },
+  {
+    "name": "Texit",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7656/texit-400-mg-capsule",
+    "_source_page": 725
+  },
+  {
+    "name": "Texit",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7657/texit-100-mg-suspension",
+    "_source_page": 725
+  },
+  {
+    "name": "Texit DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/34052/texit-ds-200-mg-suspension",
+    "_source_page": 725
+  },
+  {
+    "name": "Texit Junior",
+    "strength": "25 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/34053/texit-junior-25-mg-pediatric-drop",
+    "_source_page": 725
+  },
+  {
+    "name": "Tezo",
+    "strength": "200 mg",
+    "generic": "Tedizolid Phosphate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37134/tezo-200-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Tezolid",
+    "strength": "200 mg",
+    "generic": "Tedizolid Phosphate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26036/tezolid-200-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Tezolid",
+    "strength": "200 mg/vial",
+    "generic": "Tedizolid Phosphate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/26037/tezolid-200-mg-injection",
+    "_source_page": 725
+  },
+  {
+    "name": "Tezolin",
+    "strength": "200 mg",
+    "generic": "Tedizolid Phosphate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26034/tezolin-200-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Tgdrop",
+    "strength": "100 mg",
+    "generic": "Ciprofibrate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36613/tgdrop-100-mg-tablet",
+    "_source_page": 725
+  },
+  {
+    "name": "Tget",
+    "strength": "0.3%",
+    "generic": "Gatifloxacin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/20606/tget-03-eye-drop",
+    "_source_page": 725
+  },
+  {
+    "name": "Tget D",
+    "strength": "0.3%+0.1%",
+    "generic": "Gatifloxacin + Dexamethasone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/32467/tget-d-03-01-eye-drop",
+    "_source_page": 725
+  },
+  {
+    "name": "Tgocef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7658/tgocef-200-mg-capsule",
+    "_source_page": 725
+  },
+  {
+    "name": "Tgocef",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7659/tgocef-400-mg-capsule",
+    "_source_page": 725
+  },
+  {
+    "name": "Tgocef",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7660/tgocef-100-mg-suspension",
+    "_source_page": 725
+  },
+  {
+    "name": "Tgocef DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27795/tgocef-ds-200-mg-suspension",
+    "_source_page": 725
+  },
+  {
+    "name": "Thai-1",
+    "strength": "100 mg/ml",
+    "generic": "Thiamine Hydrochloride",
+    "company": "Edruc Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/13593/thai-1-100-mg-injection",
+    "_source_page": 725
+  }
+]

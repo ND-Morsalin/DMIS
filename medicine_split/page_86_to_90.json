@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Benmet",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10079/benmet-200-mg-suspension",
+    "_source_page": 86
+  },
+  {
+    "name": "Benocef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25869/benocef-125-mg-suspension",
+    "_source_page": 86
+  },
+  {
+    "name": "Benocef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/25872/benocef-500-mg-capsule",
+    "_source_page": 86
+  },
+  {
+    "name": "Benosol",
+    "strength": "25% w/v",
+    "generic": "Benzyl Benzoate",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Emulsion",
+    "source_url": "https://medex.com.bd/brands/12473/benosol-25-w-emulsion",
+    "_source_page": 86
+  },
+  {
+    "name": "Benostar",
+    "strength": "0.15%",
+    "generic": "Benzydamine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Mouthwash",
+    "source_url": "https://medex.com.bd/brands/26169/benostar-015-mouthwash",
+    "_source_page": 86
+  },
+  {
+    "name": "Benoxiclin",
+    "strength": "1%+5%",
+    "generic": "Clindamycin + Benzoyl peroxide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/19410/benoxiclin-1-5-topical-gel",
+    "_source_page": 86
+  },
+  {
+    "name": "Benozol",
+    "strength": "1%",
+    "generic": "Brinzolamide",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/16066/benozol-1-suspension",
+    "_source_page": 86
+  },
+  {
+    "name": "Benozol BR",
+    "strength": "1%+0.2%",
+    "generic": "Brinzolamide + Brimonidine Tartrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/16331/benozol-br-1-02-suspension",
+    "_source_page": 86
+  },
+  {
+    "name": "Benozol PF",
+    "strength": "1%",
+    "generic": "Brinzolamide",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/38147/benozol-pf-1-suspension",
+    "_source_page": 86
+  },
+  {
+    "name": "Benprox",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27443/benprox-250-mg-suspension",
+    "_source_page": 86
+  },
+  {
+    "name": "Benprox",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27442/benprox-750-mg-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Benprox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27441/benprox-500-mg-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Benquil",
+    "strength": "15 mg",
+    "generic": "Midazolam",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32246/benquil-15-mg-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Benquil",
+    "strength": "7.5 mg",
+    "generic": "Midazolam",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4171/benquil-75-mg-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Bensal",
+    "strength": "6%+3%",
+    "generic": "Benzoic Acid + Salicylic Acid",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12452/bensal-6-3-ointment",
+    "_source_page": 86
+  },
+  {
+    "name": "Benvit B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13878/benvit-b-5-mg-syrup",
+    "_source_page": 86
+  },
+  {
+    "name": "Benvit B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13877/benvit-b-5-mg-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Benvit M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25285/benvit-m-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Benvit-Z",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27447/benvit-z-syrup",
+    "_source_page": 86
+  },
+  {
+    "name": "Benvit-Z",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27446/benvit-z-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Benz",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Belsen Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/301/benz-400-mg-chewable-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzabiol",
+    "strength": "25% w/v",
+    "generic": "Benzyl Benzoate",
+    "company": "Aztec Pharmaceuticals Ltd.",
+    "medicine_type": "Emulsion",
+    "source_url": "https://medex.com.bd/brands/18150/benzabiol-25-w-emulsion",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzac",
+    "strength": "4%",
+    "generic": "Benzoyl Peroxide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/13084/benzac-4-cream",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzalic",
+    "strength": "6%+3%",
+    "generic": "Benzoic Acid + Salicylic Acid",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12453/benzalic-6-3-ointment",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzapen",
+    "strength": "12 lac units/vial",
+    "generic": "Benzathine Penicillin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/6163/benzapen-12-lac-injection",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzenod",
+    "strength": "3 mg",
+    "generic": "Rivastigmine Tartrate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30304/benzenod-3-mg-capsule",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzenod",
+    "strength": "1.5 mg",
+    "generic": "Rivastigmine Tartrate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30303/benzenod-15-mg-capsule",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4328/benzit-05-mg-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzol",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10081/benzol-200-mg-suspension",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzol",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10080/benzol-400-mg-tablet",
+    "_source_page": 86
+  },
+  {
+    "name": "Benzopam",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18320/benzopam-3-mg-tablet",
+    "_source_page": 87
+  },
+  {
+    "name": "Beovu",
+    "strength": "6 mg/0.05 ml",
+    "generic": "Brolucizumab",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35019/beovu-6-mg-injection",
+    "_source_page": 87
+  },
+  {
+    "name": "Bepanthin",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38239/bepanthin-5-w-cream",
+    "_source_page": 87
+  },
+  {
+    "name": "Beplex-50 Forte",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37675/beplex-50-forte-5-mg-capsule",
+    "_source_page": 87
+  },
+  {
+    "name": "Beplex-50 Forte",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/37680/beplex-50-forte-5-mg-syrup",
+    "_source_page": 87
+  },
+  {
+    "name": "Bepogen",
+    "strength": "1.5%",
+    "generic": "Bepotastine Besilate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15926/bepogen-15-eye-drop",
+    "_source_page": 87
+  },
+  {
+    "name": "Bepol",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10409/bepol-120-mg-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Bepol Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10565/bepol-plus-500-mg-tablet",
+    "_source_page": 87
+  },
+  {
+    "name": "Bepost",
+    "strength": "1.5%",
+    "generic": "Bepotastine Besilate",
+    "company": "ACI Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27540/bepost-15-eye-drop",
+    "_source_page": 87
+  },
+  {
+    "name": "Bepotas",
+    "strength": "1.5%",
+    "generic": "Bepotastine Besilate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15923/bepotas-15-eye-drop",
+    "_source_page": 87
+  },
+  {
+    "name": "Beridom",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Belsen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1519/beridom-10-mg-tablet",
+    "_source_page": 87
+  },
+  {
+    "name": "Beridom",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Belsen Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1520/beridom-5-mg-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Besectil",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1806/besectil-20-mg-capsule",
+    "_source_page": 87
+  },
+  {
+    "name": "Besibac",
+    "strength": "0.6%",
+    "generic": "Besifloxacin",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15706/besibac-06-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Besicare",
+    "strength": "0.6%",
+    "generic": "Besifloxacin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/36609/besicare-06-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Besiflox",
+    "strength": "0.6%",
+    "generic": "Besifloxacin",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15707/besiflox-06-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Besigen",
+    "strength": "0.6%",
+    "generic": "Besifloxacin",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15708/besigen-06-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Besiven",
+    "strength": "0.6%",
+    "generic": "Besifloxacin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15709/besiven-06-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Besixin",
+    "strength": "0.6%",
+    "generic": "Besifloxacin",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/27701/besixin-06-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Beslocin",
+    "strength": "0.6%",
+    "generic": "Besifloxacin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/33653/beslocin-06-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Besone",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/18213/besone-01-ointment",
+    "_source_page": 87
+  },
+  {
+    "name": "Besone-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12520/besone-n-01-05-ointment",
+    "_source_page": 87
+  },
+  {
+    "name": "Bestal",
+    "strength": null,
+    "generic": "Iron + Folic acid + Vitamin B complex + Vitamin C",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13226/bestal-capsule",
+    "_source_page": 87
+  },
+  {
+    "name": "Bestcef",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7480/bestcef-100-mg-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Bestcef",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7479/bestcef-400-mg-capsule",
+    "_source_page": 87
+  },
+  {
+    "name": "Bestcef",
+    "strength": "25 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/33973/bestcef-25-mg-pediatric-drop",
+    "_source_page": 87
+  },
+  {
+    "name": "Bestcef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7478/bestcef-200-mg-capsule",
+    "_source_page": 87
+  },
+  {
+    "name": "Bestcef Forte",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28884/bestcef-forte-200-mg-suspension",
+    "_source_page": 87
+  },
+  {
+    "name": "Bestcef Max",
+    "strength": "100 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/37900/bestcef-max-100-mg-pediatric-drop",
+    "_source_page": 87
+  },
+  {
+    "name": "Bestcol",
+    "strength": "10 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24331/bestcol-10-mg-tablet",
+    "_source_page": 87
+  },
+  {
+    "name": "Bestcol",
+    "strength": "20 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32898/bestcol-20-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Bestcol",
+    "strength": "10 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24331/bestcol-10-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Bester",
+    "strength": "0.15%",
+    "generic": "Benzydamine Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Mouthwash",
+    "source_url": "https://medex.com.bd/brands/34905/bester-015-mouthwash",
+    "_source_page": 88
+  },
+  {
+    "name": "Bestfresh",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "UNIDO Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36807/bestfresh-1-eye-drop",
+    "_source_page": 88
+  },
+  {
+    "name": "Bestfresh SV",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "UNIDO Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/37316/bestfresh-sv-1-eye-drop",
+    "_source_page": 88
+  },
+  {
+    "name": "Bestron",
+    "strength": "0.45 mg+20 mg",
+    "generic": "Conjugated Estrogen + Bazedoxifene",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31008/bestron-045-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Bet-A",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/18186/bet-a-01-ointment",
+    "_source_page": 88
+  },
+  {
+    "name": "Bet-A",
+    "strength": "0.5 mg",
+    "generic": "Betamethasone",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13003/bet-a-05-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Bet-A",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/18185/bet-a-01-cream",
+    "_source_page": 88
+  },
+  {
+    "name": "Bet-CG",
+    "strength": "0.05%+1%+0.1%",
+    "generic": "Betamethasone + Clotrimazole + Gentamicin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/18229/bet-cg-005-1-cream",
+    "_source_page": 88
+  },
+  {
+    "name": "Bet-CL",
+    "strength": "0.1%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12545/bet-cl-01-1-ointment",
+    "_source_page": 88
+  },
+  {
+    "name": "Bet-CL",
+    "strength": "0.05%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12544/bet-cl-005-1-cream",
+    "_source_page": 88
+  },
+  {
+    "name": "Beta Natural Intimate Wash",
+    "strength": null,
+    "generic": "Immortelle + Sensiva + Citrofol & Others",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Liquid",
+    "source_url": "https://medex.com.bd/brands/34016/beta-natural-intimate-wash-liquid",
+    "_source_page": 88
+  },
+  {
+    "name": "Betabis",
+    "strength": "10 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32033/betabis-10-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betabis",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2476/betabis-5-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betabis",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2475/betabis-25-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betabis Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32031/betabis-plus-25-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betabis Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32032/betabis-plus-5-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betabis-A",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28222/betabis-a-25-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacal",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/809/betacal-5-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacap TR",
+    "strength": "40 mg",
+    "generic": "Propranolol Hydrochloride",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/2464/betacap-tr-40-mg-capsule",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacard",
+    "strength": "50 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2563/betacard-50-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacin-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (E/E)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18236/betacin-n-01-05-eye-drop",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacor",
+    "strength": "10 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38149/betacor-10-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacor",
+    "strength": "1.25 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38148/betacor-125-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacor",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2492/betacor-5-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacor",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2491/betacor-25-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacor AM",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26453/betacor-am-25-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacor HZ",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18299/betacor-hz-5-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betacor HZ",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18298/betacor-hz-25-mg-tablet",
+    "_source_page": 88
+  },
+  {
+    "name": "Betaderm",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/18208/betaderm-01-ointment",
+    "_source_page": 89
+  },
+  {
+    "name": "Betaderm N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12521/betaderm-n-01-05-ointment",
+    "_source_page": 89
+  },
+  {
+    "name": "Betadine",
+    "strength": "5% w/w",
+    "generic": "Povidone Iodine",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12858/betadine-5-w-ointment",
+    "_source_page": 89
+  },
+  {
+    "name": "Betadine",
+    "strength": "5% w/v",
+    "generic": "Povidone Iodine",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/12846/betadine-5-w-solution",
+    "_source_page": 89
+  },
+  {
+    "name": "Betadine",
+    "strength": "10% w/v",
+    "generic": "Povidone Iodine",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/12847/betadine-10-w-solution",
+    "_source_page": 89
+  },
+  {
+    "name": "Betadine",
+    "strength": "5% w/w",
+    "generic": "Povidone Iodine",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Topical Powder",
+    "source_url": "https://medex.com.bd/brands/27021/betadine-5-w-powder",
+    "_source_page": 89
+  },
+  {
+    "name": "Betadine",
+    "strength": "5% w/w",
+    "generic": "Povidone Iodine",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/27020/betadine-5-w-cream",
+    "_source_page": 89
+  },
+  {
+    "name": "Betadine",
+    "strength": "7.5% w/v",
+    "generic": "Povidone Iodine",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Surgical Scrub",
+    "source_url": "https://medex.com.bd/brands/12874/betadine-75-w-surgical-scrub",
+    "_source_page": 89
+  },
+  {
+    "name": "Betadine",
+    "strength": "1% w/v",
+    "generic": "Povidone Iodine",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Mouthwash",
+    "source_url": "https://medex.com.bd/brands/23764/betadine-1-w-mouthwash",
+    "_source_page": 89
+  },
+  {
+    "name": "Betafix",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25718/betafix-5-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betafix",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25717/betafix-25-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betafix AM",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29138/betafix-am-25-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betafix Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18290/betafix-plus-5-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betafix Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18289/betafix-plus-25-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betagest",
+    "strength": "50 mg/10 ml",
+    "generic": "Labetalol Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/34399/betagest-50-mg-injection",
+    "_source_page": 89
+  },
+  {
+    "name": "Betagest",
+    "strength": "100 mg",
+    "generic": "Labetalol Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34398/betagest-100-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betagest",
+    "strength": "200 mg",
+    "generic": "Labetalol Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34397/betagest-200-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betaloc",
+    "strength": "25 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2564/betaloc-25-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betaloc",
+    "strength": "50 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2565/betaloc-50-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betaloc-XR",
+    "strength": "50 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/2566/betaloc-xr-50-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betaloc-XR",
+    "strength": "100 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/2567/betaloc-xr-100-mg-tablet",
+    "_source_page": 89
+  },
+  {
+    "name": "Betamesal",
+    "strength": "0.05%+2%",
+    "generic": "Betamethasone Dipropionate + Salicylic Acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Scalp Lotion",
+    "source_url": "https://medex.com.bd/brands/12554/betamesal-005-2-scalp-lotion",
+    "_source_page": 89
+  },
+  {
+    "name": "Betamesal",
+    "strength": "0.05%+3%",
+    "generic": "Betamethasone Dipropionate + Salicylic Acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Scalp Ointment",
+    "source_url": "https://medex.com.bd/brands/18260/betamesal-005-3-ointment",
+    "_source_page": 89
+  },
+  {
+    "name": "Betameson",
+    "strength": "0.05%",
+    "generic": "Betamethasone Dipropionate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/27497/betameson-005-cream",
+    "_source_page": 89
+  },
+  {
+    "name": "Betameson",
+    "strength": "0.05%",
+    "generic": "Betamethasone Dipropionate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/27498/betameson-005-ointment",
+    "_source_page": 89
+  },
+  {
+    "name": "Betameson-CL",
+    "strength": "0.05%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/27496/betameson-cl-005-1-cream",
+    "_source_page": 89
+  },
+  {
+    "name": "Betameson-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12523/betameson-n-01-05-cream",
+    "_source_page": 89
+  },
+  {
+    "name": "Betamet",
+    "strength": "0.05%",
+    "generic": "Betamethasone Dipropionate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38240/betamet-005-cream",
+    "_source_page": 89
+  },
+  {
+    "name": "Betamycin",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12524/betamycin-01-05-ointment",
+    "_source_page": 89
+  },
+  {
+    "name": "Betanem",
+    "strength": "1 gm/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/22058/betanem-1-gm-injection",
+    "_source_page": 89
+  },
+  {
+    "name": "Betanem",
+    "strength": "500 mg/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/22059/betanem-500-mg-injection",
+    "_source_page": 90
+  },
+  {
+    "name": "Betanic",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14014/betanic-6-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betanol",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1075/betanol-50-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betanol",
+    "strength": "25 mg",
+    "generic": "Atenolol",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1074/betanol-25-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betanol",
+    "strength": "100 mg",
+    "generic": "Atenolol",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1073/betanol-100-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betanosol-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Edruc Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/18246/betanosol-n-01-05-cream",
+    "_source_page": 90
+  },
+  {
+    "name": "Betanosol-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Edruc Limited",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12525/betanosol-n-01-05-ointment",
+    "_source_page": 90
+  },
+  {
+    "name": "Betaone",
+    "strength": "50 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2568/betaone-50-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betaone",
+    "strength": "25 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22315/betaone-25-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betapress",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Cipla Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1076/betapress-50-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betapro",
+    "strength": "10 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25700/betapro-10-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betapro",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25699/betapro-5-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betapro",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25698/betapro-25-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betasec",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1077/betasec-50-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betasef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6809/betasef-125-mg-suspension",
+    "_source_page": 90
+  },
+  {
+    "name": "Betasef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6808/betasef-500-mg-capsule",
+    "_source_page": 90
+  },
+  {
+    "name": "Betasef",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cephradine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6811/betasef-125-mg-pediatric-drop",
+    "_source_page": 90
+  },
+  {
+    "name": "Betasef",
+    "strength": "250 mg",
+    "generic": "Cephradine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6807/betasef-250-mg-capsule",
+    "_source_page": 90
+  },
+  {
+    "name": "Betasef DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6810/betasef-ds-250-mg-suspension",
+    "_source_page": 90
+  },
+  {
+    "name": "Betaseptic",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/27022/betaseptic-05-70-hand-rub",
+    "_source_page": 90
+  },
+  {
+    "name": "Betasil",
+    "strength": "1.5%",
+    "generic": "Bepotastine Besilate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15924/betasil-15-eye-drop",
+    "_source_page": 90
+  },
+  {
+    "name": "Betason N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/30668/betason-n-01-05-ointment",
+    "_source_page": 90
+  },
+  {
+    "name": "Betason N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (E/E)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/13009/betason-n-01-05-eye-drop",
+    "_source_page": 90
+  },
+  {
+    "name": "Betason N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (E/E)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/13008/betason-n-01-05-eye-ointment",
+    "_source_page": 90
+  },
+  {
+    "name": "Betastin",
+    "strength": "1.5%",
+    "generic": "Bepotastine Besilate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15925/betastin-15-eye-drop",
+    "_source_page": 90
+  },
+  {
+    "name": "Betatin",
+    "strength": "16 mg",
+    "generic": "Betahistine Dihydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31422/betatin-16-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betatin",
+    "strength": "8 mg",
+    "generic": "Betahistine Dihydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31421/betatin-8-mg-tablet",
+    "_source_page": 90
+  },
+  {
+    "name": "Betaval",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/18203/betaval-01-cream",
+    "_source_page": 90
+  },
+  {
+    "name": "Betaval",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/18204/betaval-01-ointment",
+    "_source_page": 90
+  },
+  {
+    "name": "Betaval N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12527/betaval-n-01-05-cream",
+    "_source_page": 90
+  }
+]

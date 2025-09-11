@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Atovin",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27841/atovin-20-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "Atovin",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1139/atovin-10-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "Atoz Premium",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14083/atoz-premium-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "Atoz Senior",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14136/atoz-senior-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "AtoZin",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28064/atozin-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "ATP",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/37464/atp-120-mg-suspension",
+    "_source_page": 66
+  },
+  {
+    "name": "ATP Extra",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10568/atp-extra-500-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "ATP XR",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/10407/atp-xr-665-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "Atracurium Hameln",
+    "strength": "25 mg/2.5 ml",
+    "generic": "Atracurium Besilate",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/29598/atracurium-hameln-25-mg-injection",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrex",
+    "strength": "40 mg/5 ml",
+    "generic": "Levamisole Hydrochloride",
+    "company": "Aztec Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/21451/atrex-40-mg-syrup",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrizin",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11924/atrizin-10-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrizin",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11925/atrizin-5-mg-syrup",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrizin",
+    "strength": "2.5 mg/ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/11926/atrizin-25-mg-pediatric-drop",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrogen",
+    "strength": "1%",
+    "generic": "Atropine Sulfate (Ophthalmic)",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/26547/atrogen-1-eye-ointment",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrogen",
+    "strength": "1%",
+    "generic": "Atropine Sulfate (Ophthalmic)",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16022/atrogen-1-eye-drop",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrogen M",
+    "strength": "0.01%",
+    "generic": "Atropine Sulfate (Ophthalmic)",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36346/atrogen-m-001-eye-drop",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrokid",
+    "strength": "0.01%",
+    "generic": "Atropine Sulfate (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/38222/atrokid-001-eye-drop",
+    "_source_page": 66
+  },
+  {
+    "name": "Atropin",
+    "strength": "0.6 mg/ml",
+    "generic": "Atropine Sulfate (Injection)",
+    "company": "S.N. Pharmaceutical Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/1266/atropin-06-mg-injection",
+    "_source_page": 66
+  },
+  {
+    "name": "Atropine",
+    "strength": "0.6 mg/ml",
+    "generic": "Atropine Sulfate (Injection)",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/1311/atropine-06-mg-injection",
+    "_source_page": 66
+  },
+  {
+    "name": "Atropine",
+    "strength": "0.6 mg/ml",
+    "generic": "Atropine Sulfate (Injection)",
+    "company": "Edruc Limited",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/1313/atropine-06-mg-injection",
+    "_source_page": 66
+  },
+  {
+    "name": "Atropine",
+    "strength": "0.6 mg/ml",
+    "generic": "Atropine Sulfate (Injection)",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/1312/atropine-06-mg-injection",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrovast",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1141/atrovast-20-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "Atrovast",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1140/atrovast-10-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "Attentin",
+    "strength": "10 mg",
+    "generic": "Atomoxetine Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/1111/attentin-10-mg-capsule",
+    "_source_page": 66
+  },
+  {
+    "name": "Attentin",
+    "strength": "40 mg",
+    "generic": "Atomoxetine Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37894/attentin-40-mg-capsule",
+    "_source_page": 66
+  },
+  {
+    "name": "ATV",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1113/atv-10-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "ATV",
+    "strength": "40 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3374/atv-40-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "ATV",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1114/atv-20-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "ATV Eze",
+    "strength": "20 mg+10 mg",
+    "generic": "Atorvastatin + Ezetimibe",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33204/atv-eze-20-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "ATV Eze",
+    "strength": "10 mg+10 mg",
+    "generic": "Atorvastatin + Ezetimibe",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33203/atv-eze-10-mg-tablet",
+    "_source_page": 66
+  },
+  {
+    "name": "ATV Plus",
+    "strength": "5 mg+10 mg",
+    "generic": "Amlodipine Besilate + Atorvastatin",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/713/atv-plus-5-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "AU-20",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Decent Pharma Laboratories Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1803/au-20-20-mg-capsule",
+    "_source_page": 67
+  },
+  {
+    "name": "Audicare",
+    "strength": "0.3%+1%+0.025%+2%",
+    "generic": "Ofloxacin + Clotrimazole + Beclomethasone + Lidocaine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/34332/audicare-03-1-ear-drop",
+    "_source_page": 67
+  },
+  {
+    "name": "Audicom",
+    "strength": "0.3%+1%+0.025%+2%",
+    "generic": "Ofloxacin + Clotrimazole + Beclomethasone + Lidocaine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/38173/audicom-03-1-ear-drop",
+    "_source_page": 67
+  },
+  {
+    "name": "Augment",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17793/augment-500-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Augment",
+    "strength": "250 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17792/augment-250-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Augment",
+    "strength": "875 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17794/augment-875-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Augment",
+    "strength": "(1 gm+200 mg)/20 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/17796/augment-1-gm-injection",
+    "_source_page": 67
+  },
+  {
+    "name": "Augment",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/17795/augment-125-mg-suspension",
+    "_source_page": 67
+  },
+  {
+    "name": "Aumi",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1804/aumi-20-mg-capsule",
+    "_source_page": 67
+  },
+  {
+    "name": "Aumi",
+    "strength": "40 mg",
+    "generic": "Omeprazole",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1805/aumi-40-mg-capsule",
+    "_source_page": 67
+  },
+  {
+    "name": "AUP",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Decent Pharma Laboratories Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2139/aup-20-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "AUP",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Decent Pharma Laboratories Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2140/aup-40-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Aurifer",
+    "strength": "210 mg",
+    "generic": "Ferric Citrate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38154/aurifer-210-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Austomin",
+    "strength": "250 mg+200 mg",
+    "generic": "Glucosamine Sulfate + Chondroitin",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14989/austomin-250-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Autoben",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/32493/autoben-400-mg-chewable-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Autotear",
+    "strength": "0.4%+0.3%",
+    "generic": "Polyethylene Glycol + Propylene Glycol",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16163/autotear-04-03-eye-drop",
+    "_source_page": 67
+  },
+  {
+    "name": "AV",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17735/av-5-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "AV",
+    "strength": "5 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3089/av-5-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "AV",
+    "strength": "10 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3090/av-10-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Avaflox",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37262/avaflox-400-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Avaflut",
+    "strength": "27.5 mcg/spray",
+    "generic": "Fluticasone Furoate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/33876/avaflut-275-mcg-nasal-spray",
+    "_source_page": 67
+  },
+  {
+    "name": "Avalet",
+    "strength": "20 mg",
+    "generic": "Avatrombopag",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34727/avalet-20-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Avalon",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8556/avalon-200-mg-suspension",
+    "_source_page": 67
+  },
+  {
+    "name": "Avalon",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8557/avalon-500-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Avamist",
+    "strength": "27.5 mcg/spray",
+    "generic": "Fluticasone Furoate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/26618/avamist-275-mcg-nasal-spray",
+    "_source_page": 67
+  },
+  {
+    "name": "Avanza",
+    "strength": "4 mg",
+    "generic": "Astaxanthin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29349/avanza-4-mg-capsule",
+    "_source_page": 67
+  },
+  {
+    "name": "Avanza",
+    "strength": "2 mg",
+    "generic": "Astaxanthin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29348/avanza-2-mg-capsule",
+    "_source_page": 67
+  },
+  {
+    "name": "Avapag",
+    "strength": "20 mg",
+    "generic": "Avatrombopag",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38208/avapag-20-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Avas",
+    "strength": "40 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1167/avas-40-mg-tablet",
+    "_source_page": 67
+  },
+  {
+    "name": "Avas",
+    "strength": "40 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1167/avas-40-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avas",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1166/avas-20-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avas EZ",
+    "strength": "40 mg+10 mg",
+    "generic": "Atorvastatin + Ezetimibe",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36594/avas-ez-40-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avas EZ",
+    "strength": "20 mg+10 mg",
+    "generic": "Atorvastatin + Ezetimibe",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36593/avas-ez-20-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avas EZ",
+    "strength": "10 mg+10 mg",
+    "generic": "Atorvastatin + Ezetimibe",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36592/avas-ez-10-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avaspray",
+    "strength": "27.5 mcg/spray",
+    "generic": "Fluticasone Furoate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/20479/avaspray-275-mcg-nasal-spray",
+    "_source_page": 68
+  },
+  {
+    "name": "Avastatin",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1168/avastatin-10-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avastin",
+    "strength": "100 mg/4 ml",
+    "generic": "Bevacizumab",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15089/avastin-100-mg-injection",
+    "_source_page": 68
+  },
+  {
+    "name": "Avastin",
+    "strength": "400 mg/16 ml",
+    "generic": "Bevacizumab",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/26084/avastin-400-mg-injection",
+    "_source_page": 68
+  },
+  {
+    "name": "Avastrol",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Centeon Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27255/avastrol-10-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avastrol",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Centeon Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27256/avastrol-20-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avatan",
+    "strength": "0.004%",
+    "generic": "Travoprost",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16721/avatan-0004-eye-drop",
+    "_source_page": 68
+  },
+  {
+    "name": "Avatan-T",
+    "strength": "0.004%+0.5%",
+    "generic": "Travoprost + Timolol Maleate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16124/avatan-t-0004-05-eye-drop",
+    "_source_page": 68
+  },
+  {
+    "name": "Avator",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1170/avator-20-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avator",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1169/avator-10-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avatrom",
+    "strength": "20 mg",
+    "generic": "Avatrombopag",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37938/avatrom-20-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avaxim (For child)",
+    "strength": "80 unit/0.5 ml",
+    "generic": "Inactivated Hepatitis A vaccine",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/33651/avaxim-for-child-80-unit-injection",
+    "_source_page": 68
+  },
+  {
+    "name": "Avelox",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Marker Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9419/avelox-500-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avemec",
+    "strength": "6 mg",
+    "generic": "Ivermectin (Tablet)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29466/avemec-6-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avemec",
+    "strength": "12 mg",
+    "generic": "Ivermectin (Tablet)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29464/avemec-12-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avenac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34/avenac-100-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Aventy",
+    "strength": "50 mg",
+    "generic": "Avanafil",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34281/aventy-50-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Aventy",
+    "strength": "100 mg",
+    "generic": "Avanafil",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34282/aventy-100-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avert",
+    "strength": "50 mg",
+    "generic": "Meclizine Hydrochloride",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4609/avert-50-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avert Plus",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4647/avert-plus-25-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avidol",
+    "strength": "6.25 mg",
+    "generic": "Carvedilol",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2510/avidol-625-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avidro",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31895/avidro-05-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avidro",
+    "strength": "1.5 mg",
+    "generic": "Pizotifen",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31894/avidro-15-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avifanz",
+    "strength": "600 mg",
+    "generic": "Efavirenz",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9723/avifanz-600-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avifix",
+    "strength": "250 mg",
+    "generic": "Nelfinavir",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9725/avifix-250-mg-tablet",
+    "_source_page": 68
+  },
+  {
+    "name": "Avil",
+    "strength": "22.7 mg",
+    "generic": "Pheniramine Maleate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11904/avil-227-mg-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avil",
+    "strength": "15 mg/5 ml",
+    "generic": "Pheniramine Maleate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11906/avil-15-mg-syrup",
+    "_source_page": 69
+  },
+  {
+    "name": "Avil",
+    "strength": "45.5 mg/2 ml",
+    "generic": "Pheniramine Maleate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/11907/avil-455-mg-injection",
+    "_source_page": 69
+  },
+  {
+    "name": "Avil Retard",
+    "strength": "75 mg",
+    "generic": "Pheniramine Maleate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11905/avil-retard-75-mg-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avilam",
+    "strength": "150 mg",
+    "generic": "Lamivudine [For HIV Infection]",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9729/avilam-150-mg-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avintol",
+    "strength": "5 mg",
+    "generic": "Vinpocetine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3146/avintol-5-mg-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avirax HC",
+    "strength": "5%+1%",
+    "generic": "Acyclovir + Hydrocortisone",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33571/avirax-hc-5-1-cream",
+    "_source_page": 69
+  },
+  {
+    "name": "Avison",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12700/avison-1-01-cream",
+    "_source_page": 69
+  },
+  {
+    "name": "Avista",
+    "strength": null,
+    "generic": "Super antioxidant [vitamins & minerals]",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14735/avista-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avitaz",
+    "strength": "(2 gm+0.5 gm)/vial",
+    "generic": "Ceftazidime + Avibactam",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37502/avitaz-2-gm-injection",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlocid MS",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16592/avlocid-ms-480-mg-suspension",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlocid Plus",
+    "strength": "(400 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21934/avlocid-plus-400-mg-suspension",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloclav",
+    "strength": "875 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26327/avloclav-875-mg-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloclav",
+    "strength": "250 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26325/avloclav-250-mg-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloclav",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26326/avloclav-500-mg-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloclav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26328/avloclav-125-mg-suspension",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloclav",
+    "strength": "(500 mg+100 mg)/10 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27537/avloclav-500-mg-injection",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloclav",
+    "strength": "(1 gm+200 mg)/20 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27538/avloclav-1-gm-injection",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloclav BID",
+    "strength": "(400 mg+57.50 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27539/avloclav-bid-400-mg-suspension",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlomox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26331/avlomox-125-mg-suspension",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlomox",
+    "strength": "500 mg/vial",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26330/avlomox-500-mg-injection",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlomox",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26329/avlomox-250-mg-capsule",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlomox",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6485/avlomox-500-mg-capsule",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlomox",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6484/avlomox-125-mg-pediatric-drop",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlomox DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26332/avlomox-ds-250-mg-suspension",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloquin",
+    "strength": "250 mg",
+    "generic": "Chloroquine Phosphate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10257/avloquin-250-mg-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloquin",
+    "strength": "50 mg/5 ml",
+    "generic": "Chloroquine Phosphate",
+    "company": "ACI Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/10258/avloquin-50-mg-syrup",
+    "_source_page": 69
+  },
+  {
+    "name": "Avloquin-H",
+    "strength": "200 mg",
+    "generic": "Hydroxychloroquine Sulphate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35030/avloquin-h-200-mg-tablet",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlosef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26333/avlosef-125-mg-suspension",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlosef",
+    "strength": "1 gm/vial",
+    "generic": "Cephradine",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6798/avlosef-1-gm-injection",
+    "_source_page": 69
+  },
+  {
+    "name": "Avlosef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26333/avlosef-125-mg-suspension",
+    "_source_page": 70
+  },
+  {
+    "name": "Avlosef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6793/avlosef-500-mg-capsule",
+    "_source_page": 70
+  },
+  {
+    "name": "Avlosef",
+    "strength": "250 mg",
+    "generic": "Cephradine",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6792/avlosef-250-mg-capsule",
+    "_source_page": 70
+  },
+  {
+    "name": "Avlosef DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6795/avlosef-ds-250-mg-suspension",
+    "_source_page": 70
+  },
+  {
+    "name": "Avlotrin",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/8991/avlotrin-200-mg-suspension",
+    "_source_page": 70
+  },
+  {
+    "name": "Avlotrin DS",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8990/avlotrin-ds-800-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avocard",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1172/avocard-20-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avocard",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1171/avocard-10-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avodil VL",
+    "strength": "10 mg+320 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17744/avodil-vl-10-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avolac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2377/avolac-335-gm-oral-solution",
+    "_source_page": 70
+  },
+  {
+    "name": "Avolose",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/21381/avolose-335-gm-oral-solution",
+    "_source_page": 70
+  },
+  {
+    "name": "Avomine",
+    "strength": "25 mg",
+    "generic": "Promethazine Theoclate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4651/avomine-25-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avomit",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1516/avomit-5-mg-suspension",
+    "_source_page": 70
+  },
+  {
+    "name": "Avomit",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1515/avomit-10-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avona",
+    "strength": "4 mg/5 ml",
+    "generic": "Ondansetron",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/4723/avona-4-mg-oral-solution",
+    "_source_page": 70
+  },
+  {
+    "name": "Avona",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4721/avona-8-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avonex",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4628/avonex-25-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avonoid",
+    "strength": "450 mg+50 mg",
+    "generic": "Diosmin + Hesperidin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2415/avonoid-450-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avost",
+    "strength": "0.004%",
+    "generic": "Travoprost",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16722/avost-0004-eye-drop",
+    "_source_page": 70
+  },
+  {
+    "name": "Avost Plus",
+    "strength": "0.004%+0.5%",
+    "generic": "Travoprost + Timolol Maleate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/25094/avost-plus-0004-05-eye-drop",
+    "_source_page": 70
+  },
+  {
+    "name": "Avotil",
+    "strength": "5 mg",
+    "generic": "Prochlorperazine Maleate",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4676/avotil-5-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avro",
+    "strength": "0.004%",
+    "generic": "Travoprost",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16723/avro-0004-eye-drop",
+    "_source_page": 70
+  },
+  {
+    "name": "Avudin",
+    "strength": "150 mg+300 mg",
+    "generic": "Lamivudine + Zidovudine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9728/avudin-150-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Avycef",
+    "strength": "(2 gm+0.5 gm)/vial",
+    "generic": "Ceftazidime + Avibactam",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34622/avycef-2-gm-injection",
+    "_source_page": 70
+  },
+  {
+    "name": "Aweekly",
+    "strength": "0.25 mg/0.5 ml",
+    "generic": "Semaglutide",
+    "company": "ACI Limited",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/37990/aweekly-025-mg-injection",
+    "_source_page": 70
+  },
+  {
+    "name": "Aweekly",
+    "strength": "0.5 mg/0.5 ml",
+    "generic": "Semaglutide",
+    "company": "ACI Limited",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/38139/aweekly-05-mg-injection",
+    "_source_page": 70
+  },
+  {
+    "name": "AX",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14012/ax-6-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Axant",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11764/axant-10-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Axant",
+    "strength": "25 mg",
+    "generic": "Baclofen",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11765/axant-25-mg-tablet",
+    "_source_page": 70
+  },
+  {
+    "name": "Axeclav",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18980/axeclav-250-mg-tablet",
+    "_source_page": 70
+  }
+]

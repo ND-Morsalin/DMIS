@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Recin",
+    "strength": "0.3%",
+    "generic": "Gentamicin Sulfate (Ophthalmic)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/8411/recin-03-eye-drop",
+    "_source_page": 621
+  },
+  {
+    "name": "Recita",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30913/recita-5-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recita",
+    "strength": "10 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30914/recita-10-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Reclevus",
+    "strength": "50 mg",
+    "generic": "Vildagliptin",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25238/reclevus-50-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Reclevus Met",
+    "strength": "50 mg+500 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25247/reclevus-met-50-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Reclevus Met",
+    "strength": "50 mg+850 mg",
+    "generic": "Vildagliptin + Metformin Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25248/reclevus-met-50-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recocid",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21936/recocid-175-mg-suspension",
+    "_source_page": 621
+  },
+  {
+    "name": "Recocid Plus",
+    "strength": "400 mg+400 mg+30 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/513/recocid-plus-400-mg-chewable-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recocid Plus",
+    "strength": "(200 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21937/recocid-plus-200-mg-suspension",
+    "_source_page": 621
+  },
+  {
+    "name": "Recodep",
+    "strength": "12.5 mg+5 mg",
+    "generic": "Amitriptyline Hydrochloride + Chlordiazepoxide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37049/recodep-125-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recof",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4067/recof-15-mg-syrup",
+    "_source_page": 621
+  },
+  {
+    "name": "Recof",
+    "strength": "6 mg/ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/25530/recof-6-mg-pediatric-drop",
+    "_source_page": 621
+  },
+  {
+    "name": "Recofast",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7311/recofast-250-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recofast",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7312/recofast-500-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recofast",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7313/recofast-125-mg-suspension",
+    "_source_page": 621
+  },
+  {
+    "name": "Recofast",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7314/recofast-750-mg-injection",
+    "_source_page": 621
+  },
+  {
+    "name": "Recofast CV",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31959/recofast-cv-250-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recofast CV",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31960/recofast-cv-500-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recogen",
+    "strength": "2000 IU",
+    "generic": "Erythropoietin Alfa",
+    "company": "ACI Limited",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/20032/recogen-2000-iu-injection",
+    "_source_page": 621
+  },
+  {
+    "name": "Recogen",
+    "strength": "3000 IU",
+    "generic": "Erythropoietin Alfa",
+    "company": "ACI Limited",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/20033/recogen-3000-iu-injection",
+    "_source_page": 621
+  },
+  {
+    "name": "Recogen",
+    "strength": "5000 IU",
+    "generic": "Erythropoietin Alfa",
+    "company": "ACI Limited",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/20034/recogen-5000-iu-injection",
+    "_source_page": 621
+  },
+  {
+    "name": "Recogen",
+    "strength": "10000 IU",
+    "generic": "Erythropoietin Alfa",
+    "company": "ACI Limited",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/20035/recogen-10000-iu-injection",
+    "_source_page": 621
+  },
+  {
+    "name": "Reconil",
+    "strength": "200 mg",
+    "generic": "Hydroxychloroquine Sulphate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11664/reconil-200-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recormon",
+    "strength": "2000 IU/0.3 ml",
+    "generic": "Erythropoietin Beta",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/16477/recormon-2000-iu-injection",
+    "_source_page": 621
+  },
+  {
+    "name": "Recormon",
+    "strength": "5000 IU/0.3 ml",
+    "generic": "Erythropoietin Beta",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/16478/recormon-5000-iu-injection",
+    "_source_page": 621
+  },
+  {
+    "name": "Recormon",
+    "strength": "10000 IU/0.6 ml",
+    "generic": "Erythropoietin Beta",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/16479/recormon-10000-iu-injection",
+    "_source_page": 621
+  },
+  {
+    "name": "Recova Plus",
+    "strength": null,
+    "generic": "Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13268/recova-plus-capsule",
+    "_source_page": 621
+  },
+  {
+    "name": "Recox",
+    "strength": "60 mg",
+    "generic": "Etoricoxib",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11258/recox-60-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recox",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11259/recox-90-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Recox",
+    "strength": "120 mg",
+    "generic": "Etoricoxib",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11260/recox-120-mg-tablet",
+    "_source_page": 621
+  },
+  {
+    "name": "Rectocare",
+    "strength": "0.4%",
+    "generic": "Nitroglycerin (Ointment)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/3034/rectocare-04-ointment",
+    "_source_page": 622
+  },
+  {
+    "name": "Recular",
+    "strength": "0.5%",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15452/recular-05-eye-drop",
+    "_source_page": 622
+  },
+  {
+    "name": "Recur",
+    "strength": "1 mg",
+    "generic": "Finasteride [For Androgenic Alopecia]",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15579/recur-1-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Red Plus-CI",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13396/red-plus-ci-50-mg-capsule",
+    "_source_page": 622
+  },
+  {
+    "name": "Redema",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27827/redema-20-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Redema",
+    "strength": "40 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27828/redema-40-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Redep",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34050/redep-5-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Redimat",
+    "strength": "2 mg+500 mg",
+    "generic": "Glimepiride + Metformin",
+    "company": "Radius Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/33216/redimat-2-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Rednisone",
+    "strength": "5 mg",
+    "generic": "Prednisolone",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22297/rednisone-5-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reducid",
+    "strength": "40 mg/5 ml",
+    "generic": "Famotidine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/34758/reducid-40-mg-suspension",
+    "_source_page": 622
+  },
+  {
+    "name": "Reducid",
+    "strength": "20 mg",
+    "generic": "Famotidine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34759/reducid-20-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reducid",
+    "strength": "40 mg",
+    "generic": "Famotidine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34760/reducid-40-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reducof",
+    "strength": "(20 mg+10 mg+2.5 mg)/5 ml",
+    "generic": "Dextromethorphan + Phenylephrine + Triprolidine",
+    "company": "Renata PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30292/reducof-20-mg-syrup",
+    "_source_page": 622
+  },
+  {
+    "name": "Reef-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26111/reef-d-500-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reef-D Vita",
+    "strength": "600 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/36662/reef-d-vita-600-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reef-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26112/reef-dx-600-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reefcal Kit",
+    "strength": "150 mg+600 mg+400 IU",
+    "generic": "Ibandronic Acid + Coral Calcium + Vitamin D3",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29443/reefcal-kit-150-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reefcal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26737/reefcal-d-500-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reefcal-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26738/reefcal-dx-600-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reelart",
+    "strength": "5 mg",
+    "generic": "Desloratadine",
+    "company": "MST Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12271/reelart-5-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reelife",
+    "strength": "12.5 mg+5 mg",
+    "generic": "Amitriptyline Hydrochloride + Chlordiazepoxide",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26744/reelife-125-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Reelife DS",
+    "strength": "25 mg+10 mg",
+    "generic": "Amitriptyline Hydrochloride + Chlordiazepoxide",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36357/reelife-ds-25-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Refain",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11074/refain-50-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Refain",
+    "strength": "75 mg/3 ml",
+    "generic": "Diclofenac Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/11076/refain-75-mg-injection",
+    "_source_page": 622
+  },
+  {
+    "name": "Refain TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11075/refain-tr-100-mg-capsule",
+    "_source_page": 622
+  },
+  {
+    "name": "Refemoline",
+    "strength": "0.1%+0.025%",
+    "generic": "Fluorometholone + Tetrahydrozoline",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15890/refemoline-01-0025-eye-drop",
+    "_source_page": 622
+  },
+  {
+    "name": "Refla",
+    "strength": "6 mg",
+    "generic": "Deflazacort",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16421/refla-6-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Refla",
+    "strength": "24 mg",
+    "generic": "Deflazacort",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19699/refla-24-mg-tablet",
+    "_source_page": 622
+  },
+  {
+    "name": "Refla",
+    "strength": "6 mg/5 ml",
+    "generic": "Deflazacort",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/30850/refla-6-mg-suspension",
+    "_source_page": 622
+  },
+  {
+    "name": "Reflacid",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "generic": "Sodium Alginate + Potassium Bicarbonate",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16693/reflacid-500-mg-suspension",
+    "_source_page": 622
+  },
+  {
+    "name": "Reflexen",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17181/reflexen-10-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Reflexen",
+    "strength": "25 mg",
+    "generic": "Baclofen",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17182/reflexen-25-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Reflon",
+    "strength": "500 mg",
+    "generic": "Glucosamine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29479/reflon-500-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Refol Z TR",
+    "strength": "47 mg+0.5 mg+22.5 mg",
+    "generic": "Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16470/refol-z-tr-47-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Refolic",
+    "strength": "5 mg",
+    "generic": "Folic Acid",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13463/refolic-5-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Refresh Liquigel",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16156/refresh-liquigel-1-eye-drop",
+    "_source_page": 623
+  },
+  {
+    "name": "Refresh Tears",
+    "strength": "0.5%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/26824/refresh-tears-05-eye-drop",
+    "_source_page": 623
+  },
+  {
+    "name": "Refresh-i",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16157/refresh-i-1-eye-drop",
+    "_source_page": 623
+  },
+  {
+    "name": "Regab",
+    "strength": "25 mg",
+    "generic": "Pregabalin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5044/regab-25-mg-capsule",
+    "_source_page": 623
+  },
+  {
+    "name": "Regab",
+    "strength": "50 mg",
+    "generic": "Pregabalin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5045/regab-50-mg-capsule",
+    "_source_page": 623
+  },
+  {
+    "name": "Regab",
+    "strength": "75 mg",
+    "generic": "Pregabalin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5046/regab-75-mg-capsule",
+    "_source_page": 623
+  },
+  {
+    "name": "Regab",
+    "strength": "100 mg",
+    "generic": "Pregabalin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32111/regab-100-mg-capsule",
+    "_source_page": 623
+  },
+  {
+    "name": "Regab",
+    "strength": "150 mg",
+    "generic": "Pregabalin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32112/regab-150-mg-capsule",
+    "_source_page": 623
+  },
+  {
+    "name": "Regain",
+    "strength": "2%",
+    "generic": "Minoxidil",
+    "company": "Renata PLC",
+    "medicine_type": "Scalp Solution",
+    "source_url": "https://medex.com.bd/brands/12811/regain-2-scalp-solution",
+    "_source_page": 623
+  },
+  {
+    "name": "Regain",
+    "strength": "5%",
+    "generic": "Minoxidil",
+    "company": "Renata PLC",
+    "medicine_type": "Scalp Solution",
+    "source_url": "https://medex.com.bd/brands/12812/regain-5-scalp-solution",
+    "_source_page": 623
+  },
+  {
+    "name": "Reganex",
+    "strength": "40 mg",
+    "generic": "Regorafenib Monohydrate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32819/reganex-40-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Regenox",
+    "strength": "5%",
+    "generic": "Minoxidil",
+    "company": "ZAS Corporation",
+    "medicine_type": "Scalp Solution",
+    "source_url": "https://medex.com.bd/brands/35333/regenox-5-scalp-solution",
+    "_source_page": 623
+  },
+  {
+    "name": "Regerd",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1953/regerd-20-mg-capsule",
+    "_source_page": 623
+  },
+  {
+    "name": "Regerd",
+    "strength": "40 mg",
+    "generic": "Omeprazole",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1954/regerd-40-mg-capsule",
+    "_source_page": 623
+  },
+  {
+    "name": "Regerd",
+    "strength": "40 mg/vial",
+    "generic": "Omeprazole",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/33296/regerd-40-mg-injection",
+    "_source_page": 623
+  },
+  {
+    "name": "Regler",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/28636/regler-30-mg-capsule",
+    "_source_page": 623
+  },
+  {
+    "name": "Regler",
+    "strength": "60 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/28637/regler-60-mg-capsule",
+    "_source_page": 623
+  },
+  {
+    "name": "Reglutide",
+    "strength": "1.34 mg/ml",
+    "generic": "Semaglutide",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/31411/reglutide-134-mg-injection",
+    "_source_page": 623
+  },
+  {
+    "name": "Regocent",
+    "strength": "40 mg",
+    "generic": "Regorafenib Monohydrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30216/regocent-40-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Regora",
+    "strength": "40 mg",
+    "generic": "Regorafenib Monohydrate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25995/regora-40-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Regotab",
+    "strength": "40 mg",
+    "generic": "Regorafenib Monohydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34655/regotab-40-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Regrow",
+    "strength": "2%",
+    "generic": "Minoxidil",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Scalp Solution",
+    "source_url": "https://medex.com.bd/brands/13102/regrow-2-scalp-solution",
+    "_source_page": 623
+  },
+  {
+    "name": "Regtin",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17036/regtin-400-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Regtin",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/17038/regtin-200-mg-suspension",
+    "_source_page": 623
+  },
+  {
+    "name": "Regtin DS",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17037/regtin-ds-800-mg-tablet",
+    "_source_page": 623
+  },
+  {
+    "name": "Regulose",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2402/regulose-335-gm-oral-solution",
+    "_source_page": 624
+  },
+  {
+    "name": "Regumen",
+    "strength": "0.05 mg+2.5 mg",
+    "generic": "Ethinyl Estradiol + Lynestrenol (0.05 mg)",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6114/regumen-005-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Regut",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1639/regut-10-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Rehanzil",
+    "strength": "40 mg+1 mg+0.5 mg",
+    "generic": "Relugolix + Estradiol + Norethindrone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33229/rehanzil-40-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Rehydril",
+    "strength": "100 mg",
+    "generic": "Racecadotril",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/24056/rehydril-100-mg-capsule",
+    "_source_page": 624
+  },
+  {
+    "name": "Rejoin-D",
+    "strength": "750 mg+50 mg",
+    "generic": "Glucosamine Sulfate + Diacerein",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19789/rejoin-d-750-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Rejoy",
+    "strength": "7.5 mg",
+    "generic": "Mirtazapine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28424/rejoy-75-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Rejoy",
+    "strength": "15 mg",
+    "generic": "Mirtazapine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28425/rejoy-15-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Rejoy",
+    "strength": "30 mg",
+    "generic": "Mirtazapine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28426/rejoy-30-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Rejubion",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13693/rejubion-100-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Rejubion",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/13694/rejubion-100-mg-injection",
+    "_source_page": 624
+  },
+  {
+    "name": "Rejuven",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14332/rejuven-500-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Rejuven-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14467/rejuven-d-500-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relacef",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29532/relacef-250-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relacef",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29533/relacef-500-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relacef Plus",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29534/relacef-plus-250-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relacef Plus",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29535/relacef-plus-500-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Reladol",
+    "strength": "100 mg/2 ml",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/33792/reladol-100-mg-injection",
+    "_source_page": 624
+  },
+  {
+    "name": "Relafin",
+    "strength": "50 mg",
+    "generic": "Fluvoxamine Maleate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4516/relafin-50-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relafin",
+    "strength": "100 mg",
+    "generic": "Fluvoxamine Maleate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35704/relafin-100-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relanab",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34183/relanab-500-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relanab",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34184/relanab-750-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relanab",
+    "strength": "1000 mg",
+    "generic": "Nabumetone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35792/relanab-1000-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relanta Max",
+    "strength": "(500 mg+213 mg+325 mg)/10 ml",
+    "generic": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/38575/relanta-max-500-mg-suspension",
+    "_source_page": 624
+  },
+  {
+    "name": "Relatro",
+    "strength": "25 mg",
+    "generic": "Dantrolene Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29170/relatro-25-mg-capsule",
+    "_source_page": 624
+  },
+  {
+    "name": "Relaxaid",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18332/relaxaid-3-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relaxen",
+    "strength": "5 mg",
+    "generic": "Diazepam",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4229/relaxen-5-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relaxium",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4263/relaxium-3-mg-tablet",
+    "_source_page": 624
+  },
+  {
+    "name": "Relaxo",
+    "strength": "25 mg",
+    "generic": "Dantrolene Sodium",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16385/relaxo-25-mg-capsule",
+    "_source_page": 624
+  },
+  {
+    "name": "Relaxo",
+    "strength": "50 mg",
+    "generic": "Dantrolene Sodium",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16386/relaxo-50-mg-capsule",
+    "_source_page": 624
+  },
+  {
+    "name": "Relaxton",
+    "strength": "25 mg/2.5 ml",
+    "generic": "Atracurium Besilate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/1262/relaxton-25-mg-injection",
+    "_source_page": 625
+  },
+  {
+    "name": "Relentus",
+    "strength": "2 mg",
+    "generic": "Tizanidine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11788/relentus-2-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relestat",
+    "strength": "0.05%",
+    "generic": "Epinastine Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/26823/relestat-005-eye-drop",
+    "_source_page": 625
+  },
+  {
+    "name": "Releve",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11531/releve-500-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relexid",
+    "strength": "200 mg",
+    "generic": "Pivmecillinam",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6688/relexid-200-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Religox",
+    "strength": "120 mg",
+    "generic": "Relugolix",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35202/religox-120-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relikof",
+    "strength": "125 mg/5 ml",
+    "generic": "Citric Acid Monohydrate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28178/relikof-125-mg-syrup",
+    "_source_page": 625
+  },
+  {
+    "name": "Relikof Kidz",
+    "strength": "31.25 mg/5 ml",
+    "generic": "Citric Acid Monohydrate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28179/relikof-kidz-3125-mg-syrup",
+    "_source_page": 625
+  },
+  {
+    "name": "Relise",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/77/relise-100-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relitch",
+    "strength": "0.05%+0.1%+2.5%",
+    "generic": "Betamethasone + Phenylephrine + Lignocaine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Rectal Ointment",
+    "source_url": "https://medex.com.bd/brands/2560/relitch-005-01-rectal-ointment",
+    "_source_page": 625
+  },
+  {
+    "name": "Reliv",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23391/reliv-500-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Reliv",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/23392/reliv-120-mg-suspension",
+    "_source_page": 625
+  },
+  {
+    "name": "Reliv Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10616/reliv-plus-500-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relivix",
+    "strength": "125 mg/5 ml",
+    "generic": "Citric Acid Monohydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/29829/relivix-125-mg-syrup",
+    "_source_page": 625
+  },
+  {
+    "name": "Relivix Kids",
+    "strength": "31.25 mg/5 ml",
+    "generic": "Citric Acid Monohydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/29830/relivix-kids-3125-mg-syrup",
+    "_source_page": 625
+  },
+  {
+    "name": "Relmas",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27339/relmas-10-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relnac",
+    "strength": "1% w/w",
+    "generic": "Diclofenac Sodium",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/36396/relnac-1-w-gel",
+    "_source_page": 625
+  },
+  {
+    "name": "Relnac Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "generic": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/36397/relnac-plus-75-mg-injection",
+    "_source_page": 625
+  },
+  {
+    "name": "Relofen",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11753/relofen-10-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relor",
+    "strength": "10 mg",
+    "generic": "Loratadine",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12226/relor-10-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relsin",
+    "strength": "4 mg",
+    "generic": "Silodosin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32283/relsin-4-mg-capsule",
+    "_source_page": 625
+  },
+  {
+    "name": "Relsin",
+    "strength": "8 mg",
+    "generic": "Silodosin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32284/relsin-8-mg-capsule",
+    "_source_page": 625
+  },
+  {
+    "name": "Reluciba",
+    "strength": "120 mg",
+    "generic": "Relugolix",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34454/reluciba-120-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relugoli",
+    "strength": "120 mg",
+    "generic": "Relugolix",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34851/relugoli-120-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relupros",
+    "strength": "120 mg",
+    "generic": "Relugolix",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33084/relupros-120-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Reluren",
+    "strength": "40 mg+1 mg+0.5 mg",
+    "generic": "Relugolix + Estradiol + Norethindrone",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33228/reluren-40-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relux",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4358/relux-05-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relvis",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1445/relvis-50-mg-tablet",
+    "_source_page": 625
+  },
+  {
+    "name": "Relvis",
+    "strength": "5 mg/2 ml",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Biopharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/1446/relvis-5-mg-injection",
+    "_source_page": 625
+  },
+  {
+    "name": "Relvis",
+    "strength": "10 mg/5 ml",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/37909/relvis-10-mg-syrup",
+    "_source_page": 625
+  }
+]

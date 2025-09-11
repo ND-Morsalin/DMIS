@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Peron",
+    "strength": "20 mg",
+    "generic": "Prednisolone",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31102/peron-20-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "Peron",
+    "strength": "5 mg",
+    "generic": "Prednisolone",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31103/peron-5-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "Peron",
+    "strength": "10 mg",
+    "generic": "Prednisolone",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31104/peron-10-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "Perosa",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12502/perosa-5-w-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Perscab",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/28494/perscab-5-w-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Pertilos",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21844/pertilos-50-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "Pertilos Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2974/pertilos-plus-50-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "Pertuza",
+    "strength": "420 mg/14 ml",
+    "generic": "Pertuzumab",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/26053/pertuza-420-mg-injection",
+    "_source_page": 576
+  },
+  {
+    "name": "Pesimex",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12503/pesimex-5-w-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Petorolac",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21280/petorolac-10-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "Petracin",
+    "strength": "3%+0.013%",
+    "generic": "Oxytetracycline + Polymixin B Sulphate",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12954/petracin-3-0013-ointment",
+    "_source_page": 576
+  },
+  {
+    "name": "Petrolac",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Prime Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15437/petrolac-10-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "Peuli",
+    "strength": "30 mg",
+    "generic": "Ulipristal Acetate [For emergency contraception]",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16730/peuli-30-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "Pevaryl",
+    "strength": "1%",
+    "generic": "Econazole Nitrate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12441/pevaryl-1-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Pevicort",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12714/pevicort-1-01-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Peviderm",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12715/peviderm-1-01-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Pevisia",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12716/pevisia-1-01-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Pevisic",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Physic pharmaceuticals ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37799/pevisic-1-01-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Pevisone",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12717/pevisone-1-01-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Pevitin",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12718/pevitin-1-01-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "Pevizen",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35583/pevizen-1-01-cream",
+    "_source_page": 576
+  },
+  {
+    "name": "PG",
+    "strength": "50 mg",
+    "generic": "Pregabalin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5018/pg-50-mg-capsule",
+    "_source_page": 576
+  },
+  {
+    "name": "PG",
+    "strength": "75 mg",
+    "generic": "Pregabalin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5019/pg-75-mg-capsule",
+    "_source_page": 576
+  },
+  {
+    "name": "PG",
+    "strength": "25 mg",
+    "generic": "Pregabalin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/23819/pg-25-mg-capsule",
+    "_source_page": 576
+  },
+  {
+    "name": "PG",
+    "strength": "150 mg",
+    "generic": "Pregabalin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29925/pg-150-mg-capsule",
+    "_source_page": 576
+  },
+  {
+    "name": "PG CR",
+    "strength": "82.5 mg",
+    "generic": "Pregabalin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/34653/pg-cr-825-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "PG CR",
+    "strength": "165 mg",
+    "generic": "Pregabalin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/34654/pg-cr-165-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "PGT",
+    "strength": "15 mg",
+    "generic": "Pioglitazone",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5585/pgt-15-mg-tablet",
+    "_source_page": 576
+  },
+  {
+    "name": "Phacomin",
+    "strength": "(2 mg+0.5 mg +0.6 mg+10 mg)/ml",
+    "generic": "Adenosine + Cytochrome-C + Sodium Succinate + Nicotinamide",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/30965/phacomin-2-mg-eye-drop",
+    "_source_page": 576
+  },
+  {
+    "name": "Phacovit",
+    "strength": "(2 mg+0.5 mg +0.6 mg+10 mg)/ml",
+    "generic": "Adenosine + Cytochrome-C + Sodium Succinate + Nicotinamide",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16214/phacovit-2-mg-eye-drop",
+    "_source_page": 576
+  },
+  {
+    "name": "Phagocin",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Marker Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8673/phagocin-500-mg-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Phagocin",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Marker Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8674/phagocin-200-mg-suspension",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharma Saline",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/14812/pharma-saline-1025-gm-powder",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmacid",
+    "strength": "250 mg+400 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/482/pharmacid-250-mg-chewable-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmacid Plus",
+    "strength": "400 mg+400 mg+30 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/511/pharmacid-plus-400-mg-chewable-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmacid Plus",
+    "strength": "(200 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/512/pharmacid-plus-200-mg-suspension",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmapam",
+    "strength": "5 mg",
+    "generic": "Diazepam",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4228/pharmapam-5-mg-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmapen",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6151/pharmapen-250-mg-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmapen",
+    "strength": "125 mg/5 ml",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6152/pharmapen-125-mg-suspension",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmatrim",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9040/pharmatrim-400-mg-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmatrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9042/pharmatrim-200-mg-suspension",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmatrim DS",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9041/pharmatrim-ds-800-mg-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmavit",
+    "strength": null,
+    "generic": "Multivitamin [Pediatric preparation]",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/14246/pharmavit-pediatric-drop",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmik Hand Care",
+    "strength": "75%+0.125%+1.45%",
+    "generic": "Isopropyl Alcohol + Hydrogen Peroxide + Glycerol",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/37725/pharmik-hand-care-75-0125-hand-rub",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmik Hand Care",
+    "strength": "70%",
+    "generic": "Isopropyl alcohol",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/37876/pharmik-hand-care-70-hand-rub",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmik Hand Rub",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28979/pharmik-hand-rub-05-70-hand-rub",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmoxyl",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6621/pharmoxyl-250-mg-capsule",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmoxyl",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6622/pharmoxyl-500-mg-capsule",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmoxyl",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6623/pharmoxyl-125-mg-suspension",
+    "_source_page": 577
+  },
+  {
+    "name": "Pharmoxyl",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6624/pharmoxyl-125-mg-pediatric-drop",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenadryl",
+    "strength": "10 mg/5 ml",
+    "generic": "Diphenhydramine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11879/phenadryl-10-mg-syrup",
+    "_source_page": 577
+  },
+  {
+    "name": "Phendrin",
+    "strength": "10 mg/5 ml",
+    "generic": "Diphenhydramine Hydrochloride",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11882/phendrin-10-mg-syrup",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenerex",
+    "strength": "5 mg/5 ml",
+    "generic": "Promethazine Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/4663/phenerex-5-mg-oral-solution",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenerex",
+    "strength": "50 mg/2 ml",
+    "generic": "Promethazine Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/4665/phenerex-50-mg-injection",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenerex",
+    "strength": "25 mg/ml",
+    "generic": "Promethazine Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/27425/phenerex-25-mg-injection",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenergan",
+    "strength": "5 mg/5 ml",
+    "generic": "Promethazine Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/23919/phenergan-5-mg-oral-solution",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenergan",
+    "strength": "10 mg",
+    "generic": "Promethazine Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23928/phenergan-10-mg-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenergan Plus",
+    "strength": "(5 mg+6.25 mg)/5 ml",
+    "generic": "Phenylephrine + Promethazine",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/34670/phenergan-plus-5-mg-syrup",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenobarbitone",
+    "strength": "30 mg",
+    "generic": "Phenobarbital",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4973/phenobarbitone-30-mg-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenocept",
+    "strength": "500 mg",
+    "generic": "Mycophenolate Mofetil",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15161/phenocept-500-mg-tablet",
+    "_source_page": 577
+  },
+  {
+    "name": "Phenomark",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11841/phenomark-2-mg-syrup",
+    "_source_page": 578
+  },
+  {
+    "name": "Phenoson",
+    "strength": "30 mg",
+    "generic": "Phenobarbital",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4972/phenoson-30-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Phenoxymethyl",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6158/phenoxymethyl-250-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Phensilex",
+    "strength": "5 mg/5 ml",
+    "generic": "Promethazine Hydrochloride",
+    "company": "Aztec Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/23905/phensilex-5-mg-oral-solution",
+    "_source_page": 578
+  },
+  {
+    "name": "Pheramin",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11842/pheramin-4-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Pheramin",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11843/pheramin-2-mg-syrup",
+    "_source_page": 578
+  },
+  {
+    "name": "Phesgo",
+    "strength": "(1200 mg+600 mg)/vial",
+    "generic": "Pertuzumab + Trastuzumab",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37528/phesgo-1200-mg-injection",
+    "_source_page": 578
+  },
+  {
+    "name": "Phesgo",
+    "strength": "(600 mg+600 mg)/vial",
+    "generic": "Pertuzumab + Trastuzumab",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37529/phesgo-600-mg-injection",
+    "_source_page": 578
+  },
+  {
+    "name": "Phidazole",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10187/phidazole-400-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Phidazole",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10188/phidazole-200-mg-suspension",
+    "_source_page": 578
+  },
+  {
+    "name": "Phocytan",
+    "strength": "0.66 mmol/ml",
+    "generic": "Glucose-1-phosphate",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37717/phocytan-066-mmol-injection",
+    "_source_page": 578
+  },
+  {
+    "name": "Phoscon",
+    "strength": "210 mg",
+    "generic": "Ferric Citrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29017/phoscon-210-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Phosphoprep",
+    "strength": "(2.711 gm+1.2 gm)/5 ml",
+    "generic": "Sodium Dihydrogen Phosphate + Disodium Hydrogen Phosphate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2414/phosphoprep-2711-gm-oral-solution",
+    "_source_page": 578
+  },
+  {
+    "name": "Photoderm AKN Mat SPF 30",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/36224/photoderm-akn-mat-spf-30-lotion",
+    "_source_page": 578
+  },
+  {
+    "name": "Photoderm Aquafluide Neutre SPF 50",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36228/photoderm-aquafluide-neutre-spf-50-cream",
+    "_source_page": 578
+  },
+  {
+    "name": "Photoderm Compact Claire SPF50+",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36226/photoderm-compact-claire-spf50-cream",
+    "_source_page": 578
+  },
+  {
+    "name": "Photoderm Creme SPF50+",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36227/photoderm-creme-spf50-cream",
+    "_source_page": 578
+  },
+  {
+    "name": "Photoderm Spot Age SPF50+",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36229/photoderm-spot-age-spf50-cream",
+    "_source_page": 578
+  },
+  {
+    "name": "Photoderm Stick SPF 50",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/36225/photoderm-stick-spf-50-ointment",
+    "_source_page": 578
+  },
+  {
+    "name": "Phydox",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27476/phydox-200-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Phydox",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27477/phydox-400-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Phylopen",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6374/phylopen-250-mg-capsule",
+    "_source_page": 578
+  },
+  {
+    "name": "Phylopen",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6376/phylopen-125-mg-suspension",
+    "_source_page": 578
+  },
+  {
+    "name": "Phylopen",
+    "strength": "500 mg/vial",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6378/phylopen-500-mg-injection",
+    "_source_page": 578
+  },
+  {
+    "name": "Phylopen DS",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6375/phylopen-ds-500-mg-capsule",
+    "_source_page": 578
+  },
+  {
+    "name": "Phylopen Forte",
+    "strength": "250 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6377/phylopen-forte-250-mg-suspension",
+    "_source_page": 578
+  },
+  {
+    "name": "Phytocal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36188/phytocal-d-500-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Phytocal DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36189/phytocal-dx-600-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Piazol",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23040/piazol-20-mg-capsule",
+    "_source_page": 578
+  },
+  {
+    "name": "Picaso",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31209/picaso-10-mg-tablet",
+    "_source_page": 578
+  },
+  {
+    "name": "Picaso",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/31210/picaso-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Pico",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33527/pico-10-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Pico",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/33528/pico-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Pico Plus",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/30235/pico-plus-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Pico Plus",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31089/pico-plus-10-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picocef",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7301/picocef-250-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picocef",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7302/picocef-500-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picocef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7303/picocef-125-mg-suspension",
+    "_source_page": 579
+  },
+  {
+    "name": "Picolax",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31211/picolax-10-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picolax",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/32604/picolax-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Picolax Kids",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/33778/picolax-kids-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Picolife",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35368/picolife-10-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picolon",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/36786/picolon-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Picolon",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36788/picolon-10-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picoral",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33523/picoral-10-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picoral",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/33524/picoral-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Picorif",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35599/picorif-10-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picorif",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/35600/picorif-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Picosoft",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36440/picosoft-10-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picosoft",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/36441/picosoft-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Picosul",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33241/picosul-10-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Picosul",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/33242/picosul-5-mg-oral-solution",
+    "_source_page": 579
+  },
+  {
+    "name": "Pidogrel",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30857/pidogrel-75-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Pidogrel Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30859/pidogrel-plus-75-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Pidomod",
+    "strength": "400 mg",
+    "generic": "Pidotimod",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35280/pidomod-400-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Pidomod",
+    "strength": "800 mg",
+    "generic": "Pidotimod",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35281/pidomod-800-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Pidonex",
+    "strength": "400 mg",
+    "generic": "Pidotimod",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35652/pidonex-400-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Pidonex",
+    "strength": "800 mg",
+    "generic": "Pidotimod",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35653/pidonex-800-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Pidus",
+    "strength": "15 mg",
+    "generic": "Pioglitazone",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5586/pidus-15-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Pifen",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10812/pifen-05-mg-tablet",
+    "_source_page": 579
+  },
+  {
+    "name": "Pifen",
+    "strength": "1.5 mg",
+    "generic": "Pizotifen",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10813/pifen-15-mg-tablet",
+    "_source_page": 580
+  },
+  {
+    "name": "Piglit",
+    "strength": "15 mg",
+    "generic": "Pioglitazone",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5587/piglit-15-mg-tablet",
+    "_source_page": 580
+  },
+  {
+    "name": "Pigmentbio C-Concentrate",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36234/pigmentbio-c-concentrate-cream",
+    "_source_page": 580
+  },
+  {
+    "name": "Pigmentbio Daily Care SPF50+",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36231/pigmentbio-daily-care-spf50-cream",
+    "_source_page": 580
+  },
+  {
+    "name": "Pigmentbio Foaming Cream",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36230/pigmentbio-foaming-cream-cream",
+    "_source_page": 580
+  },
+  {
+    "name": "Pigmentbio Night Renewer",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36232/pigmentbio-night-renewer-cream",
+    "_source_page": 580
+  },
+  {
+    "name": "Pigmentbio Sensitive Areas",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36233/pigmentbio-sensitive-areas-cream",
+    "_source_page": 580
+  },
+  {
+    "name": "Pikos",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37341/pikos-10-mg-tablet",
+    "_source_page": 580
+  },
+  {
+    "name": "Pikos",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37342/pikos-5-mg-oral-solution",
+    "_source_page": 580
+  },
+  {
+    "name": "Pilesnil",
+    "strength": "450 mg+50 mg",
+    "generic": "Diosmin + Hesperidin",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34578/pilesnil-450-mg-tablet",
+    "_source_page": 580
+  },
+  {
+    "name": "Pilestop",
+    "strength": "450 mg+50 mg",
+    "generic": "Diosmin + Hesperidin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2423/pilestop-450-mg-tablet",
+    "_source_page": 580
+  },
+  {
+    "name": "Pileus",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27094/pileus-50-mg-capsule",
+    "_source_page": 580
+  },
+  {
+    "name": "Pileus",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27095/pileus-150-mg-capsule",
+    "_source_page": 580
+  },
+  {
+    "name": "Pilo Drop",
+    "strength": "1%",
+    "generic": "Pilocarpine Hydrochloride (Ophthalmic)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16079/pilo-drop-1-eye-drop",
+    "_source_page": 580
+  },
+  {
+    "name": "Pilo Drop",
+    "strength": "2%",
+    "generic": "Pilocarpine Hydrochloride (Ophthalmic)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16080/pilo-drop-2-eye-drop",
+    "_source_page": 580
+  },
+  {
+    "name": "Pilo Drop",
+    "strength": "4%",
+    "generic": "Pilocarpine Hydrochloride (Ophthalmic)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16081/pilo-drop-4-eye-drop",
+    "_source_page": 580
+  },
+  {
+    "name": "Pilogen",
+    "strength": "5 mg",
+    "generic": "Pilocarpine Hydrochloride (Oral)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2431/pilogen-5-mg-tablet",
+    "_source_page": 580
+  },
+  {
+    "name": "Piloma",
+    "strength": "2%",
+    "generic": "Pilocarpine Hydrochloride (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16085/piloma-2-eye-drop",
+    "_source_page": 580
+  },
+  {
+    "name": "Piloma OSD",
+    "strength": "2%",
+    "generic": "Pilocarpine Hydrochloride (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36675/piloma-osd-2-eye-drop",
+    "_source_page": 580
+  },
+  {
+    "name": "Pilorine",
+    "strength": "2%",
+    "generic": "Pilocarpine Hydrochloride (Ophthalmic)",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16076/pilorine-2-eye-drop",
+    "_source_page": 580
+  },
+  {
+    "name": "Pilosol",
+    "strength": "4%+2%+0.025%",
+    "generic": "Calcium Dobesilate + Lidocaine + Dexamethasone",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Rectal Ointment",
+    "source_url": "https://medex.com.bd/brands/26736/pilosol-4-2-rectal-ointment",
+    "_source_page": 580
+  },
+  {
+    "name": "Pimacef",
+    "strength": "1 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/32549/pimacef-1-gm-injection",
+    "_source_page": 580
+  },
+  {
+    "name": "Pime-4",
+    "strength": "500 mg/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8176/pime-4-500-mg-injection",
+    "_source_page": 580
+  },
+  {
+    "name": "Pime-4",
+    "strength": "1 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8177/pime-4-1-gm-injection",
+    "_source_page": 580
+  },
+  {
+    "name": "Pimin",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5469/pimin-500-mg-tablet",
+    "_source_page": 580
+  },
+  {
+    "name": "Pimin",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5470/pimin-850-mg-tablet",
+    "_source_page": 580
+  },
+  {
+    "name": "Pimplex",
+    "strength": "0.1%",
+    "generic": "Adapalene",
+    "company": "Biopharma Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/28913/pimplex-01-cream",
+    "_source_page": 580
+  },
+  {
+    "name": "Pimponil",
+    "strength": "1.2%+0.025%",
+    "generic": "Clindamycin + Tretinoin",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/21204/pimponil-12-0025-topical-gel",
+    "_source_page": 580
+  },
+  {
+    "name": "Pinam",
+    "strength": "200 mg",
+    "generic": "Pivmecillinam",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6685/pinam-200-mg-tablet",
+    "_source_page": 580
+  },
+  {
+    "name": "Pinarof",
+    "strength": "1%",
+    "generic": "Tapinarof",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38257/pinarof-1-cream",
+    "_source_page": 580
+  }
+]

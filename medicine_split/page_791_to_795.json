@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Voltid",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28738/voltid-50-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Voltid",
+    "strength": "1% w/w",
+    "generic": "Diclofenac Sodium",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/28740/voltid-1-w-gel",
+    "_source_page": 791
+  },
+  {
+    "name": "Voltid SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/28739/voltid-sr-100-mg-capsule",
+    "_source_page": 791
+  },
+  {
+    "name": "Volton TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/27948/volton-tr-100-mg-capsule",
+    "_source_page": 791
+  },
+  {
+    "name": "Volulyte",
+    "strength": "6%+0.9%",
+    "generic": "Hydroxyethyl Starch + Sodium Chloride",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/31119/volulyte-6-09-injection",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomend",
+    "strength": "40 mg",
+    "generic": "Aprepitant",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29342/vomend-40-mg-capsule",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomidyl",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23183/vomidyl-8-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomigotrip",
+    "strength": "150 mg",
+    "generic": "Hyoscine Hydrobromide",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/37672/vomigotrip-150-mg-chewable-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomigotrip",
+    "strength": "300 mg",
+    "generic": "Hyoscine Hydrobromide",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37673/vomigotrip-300-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomino",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1656/vomino-10-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomino",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1657/vomino-5-mg-suspension",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomiren",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29884/vomiren-05-mg-capsule",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomiren",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Renata PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/31397/vomiren-025-mg-injection",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomiren",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Renata PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/31398/vomiren-0075-mg-injection",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomiren",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32168/vomiren-05-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomiset",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4763/vomiset-8-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomistop",
+    "strength": "4 mg/5 ml",
+    "generic": "Ondansetron",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/36497/vomistop-4-mg-oral-solution",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomistop",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37620/vomistop-8-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "VomitOF",
+    "strength": "4 mg/5 ml",
+    "generic": "Ondansetron",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/23139/vomitof-4-mg-oral-solution",
+    "_source_page": 791
+  },
+  {
+    "name": "VomitOF",
+    "strength": "8 mg/4 ml",
+    "generic": "Ondansetron",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/34575/vomitof-8-mg-injection",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomitop",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1658/vomitop-10-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomitop",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1659/vomitop-5-mg-pediatric-drop",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomitop",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/26929/vomitop-5-mg-suspension",
+    "_source_page": 791
+  },
+  {
+    "name": "Vomix DR",
+    "strength": "10 mg+10 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/26316/vomix-dr-10-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vonazol",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32069/vonazol-200-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vonazol",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32070/vonazol-50-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vonion",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35180/vonion-10-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vonion",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35181/vonion-20-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vonity",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35046/vonity-10-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vonity",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35047/vonity-20-mg-tablet",
+    "_source_page": 791
+  },
+  {
+    "name": "Vonix",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34823/vonix-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonix",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34824/vonix-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Voniza",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34869/voniza-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Voniza",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34870/voniza-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonliv",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38248/vonliv-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonliv",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38249/vonliv-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vono",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34812/vono-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vono",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34813/vono-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonobest",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36826/vonobest-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonocab",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34913/vonocab-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonocab",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34914/vonocab-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonocab Trio",
+    "strength": "20 mg+1000 mg+500 mg",
+    "generic": "Vonoprazan + Amoxicillin + Clarithromycin",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35098/vonocab-trio-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonofast",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37618/vonofast-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonofast",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37619/vonofast-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonofix",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34806/vonofix-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonofix",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34807/vonofix-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "VonoKit",
+    "strength": "20 mg+1000 mg+500 mg",
+    "generic": "Vonoprazan + Amoxicillin + Clarithromycin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35082/vonokit-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonolend",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34818/vonolend-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonolend",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34819/vonolend-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonolend Kit",
+    "strength": "40 mg+2000 mg+1000 mg",
+    "generic": "Vonoprazan + Amoxicillin + Clarithromycin",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35407/vonolend-kit-40-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonomax",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34821/vonomax-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonomax",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35103/vonomax-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonomax Duo",
+    "strength": "40 mg + 3000 mg",
+    "generic": "Vonoprazan + Amoxicillin",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38251/vonomax-duo-40-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonomax Trio",
+    "strength": "20 mg+1000 mg+500 mg",
+    "generic": "Vonoprazan + Amoxicillin + Clarithromycin",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38556/vonomax-trio-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonopa",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35092/vonopa-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonopa",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35093/vonopa-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonosil",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35070/vonosil-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonosil",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35071/vonosil-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonotop",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38443/vonotop-10-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonotop",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38444/vonotop-20-mg-tablet",
+    "_source_page": 792
+  },
+  {
+    "name": "Vonover",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37494/vonover-10-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vonover",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37495/vonover-20-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vonozan",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34808/vonozan-10-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vonozan",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34809/vonozan-20-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vontac",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35088/vontac-10-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vontac",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35089/vontac-20-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vopran",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37670/vopran-10-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vopran",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37671/vopran-20-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vori",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29032/vori-200-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vori",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29618/vori-50-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vori",
+    "strength": "200 mg/vial",
+    "generic": "Voriconazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/38156/vori-200-mg-injection",
+    "_source_page": 793
+  },
+  {
+    "name": "Voriaid",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34320/voriaid-50-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Voriaid",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34321/voriaid-200-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Voricare",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36628/voricare-50-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Voricare",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36629/voricare-200-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Voricon",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16902/voricon-50-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Voricon",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16903/voricon-200-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Voricon",
+    "strength": "200 mg/5 ml",
+    "generic": "Voriconazole",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/16904/voricon-200-mg-suspension",
+    "_source_page": 793
+  },
+  {
+    "name": "Voricon",
+    "strength": "100 mg",
+    "generic": "Voriconazole",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37186/voricon-100-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Voriderm",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29909/voriderm-200-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Voriderm",
+    "strength": "200 mg/5 ml",
+    "generic": "Voriconazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/29910/voriderm-200-mg-suspension",
+    "_source_page": 793
+  },
+  {
+    "name": "Voriderm",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29911/voriderm-50-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Voriderm",
+    "strength": "200 mg/vial",
+    "generic": "Voriconazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/33830/voriderm-200-mg-injection",
+    "_source_page": 793
+  },
+  {
+    "name": "Vorier",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34205/vorier-200-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vorier",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37915/vorier-50-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vorifast",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26859/vorifast-200-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vorifast",
+    "strength": "200 mg/vial",
+    "generic": "Voriconazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/28968/vorifast-200-mg-injection",
+    "_source_page": 793
+  },
+  {
+    "name": "Vorifast",
+    "strength": "200 mg/5 ml",
+    "generic": "Voriconazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/29381/vorifast-200-mg-suspension",
+    "_source_page": 793
+  },
+  {
+    "name": "Vorifast",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32741/vorifast-50-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vorifast",
+    "strength": "100 mg",
+    "generic": "Voriconazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34920/vorifast-100-mg-tablet",
+    "_source_page": 793
+  },
+  {
+    "name": "Vorifend",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30119/vorifend-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorifix",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35012/vorifix-50-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorifix",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35013/vorifix-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorihil",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38521/vorihil-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorile",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35727/vorile-50-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorile",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35728/vorile-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorile",
+    "strength": "200 mg/5 ml",
+    "generic": "Voriconazole",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/35729/vorile-200-mg-suspension",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorimart",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34796/vorimart-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorinox",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29833/vorinox-50-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorinox",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29834/vorinox-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorinox",
+    "strength": "200 mg/5 ml",
+    "generic": "Voriconazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/29835/vorinox-200-mg-suspension",
+    "_source_page": 794
+  },
+  {
+    "name": "Voritec",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31158/voritec-50-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Voritec",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31159/voritec-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Voritec",
+    "strength": "200 mg/vial",
+    "generic": "Voriconazole",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/37377/voritec-200-mg-injection",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorixen",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35893/vorixen-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorizol",
+    "strength": "50 mg",
+    "generic": "Voriconazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26630/vorizol-50-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorizol",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26631/vorizol-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorizol",
+    "strength": "200 mg/5 ml",
+    "generic": "Voriconazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26632/vorizol-200-mg-suspension",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorizol",
+    "strength": "200 mg/vial",
+    "generic": "Voriconazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/35268/vorizol-200-mg-injection",
+    "_source_page": 794
+  },
+  {
+    "name": "Vortiox",
+    "strength": "5 mg",
+    "generic": "Vortioxetine Hydrobromide",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35150/vortiox-5-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vortiox",
+    "strength": "10 mg",
+    "generic": "Vortioxetine Hydrobromide",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35151/vortiox-10-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vortiox",
+    "strength": "20 mg",
+    "generic": "Vortioxetine Hydrobromide",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35152/vortiox-20-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vortixen",
+    "strength": "5 mg",
+    "generic": "Vortioxetine Hydrobromide",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36098/vortixen-5-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vortixen",
+    "strength": "10 mg",
+    "generic": "Vortioxetine Hydrobromide",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36099/vortixen-10-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorton",
+    "strength": "5 mg",
+    "generic": "Vortioxetine Hydrobromide",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37470/vorton-5-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorton",
+    "strength": "10 mg",
+    "generic": "Vortioxetine Hydrobromide",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37471/vorton-10-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Vorton",
+    "strength": "15 mg",
+    "generic": "Vortioxetine Hydrobromide",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37472/vorton-15-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Votab",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35305/votab-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Votrient",
+    "strength": "200 mg",
+    "generic": "Pazopanib Hydrochloride",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35029/votrient-200-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Voxamin",
+    "strength": "50 mg",
+    "generic": "Fluvoxamine Maleate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34151/voxamin-50-mg-tablet",
+    "_source_page": 794
+  },
+  {
+    "name": "Voxamin",
+    "strength": "100 mg",
+    "generic": "Fluvoxamine Maleate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37466/voxamin-100-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "Voxamin XR",
+    "strength": "100 mg",
+    "generic": "Fluvoxamine Maleate",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/34152/voxamin-xr-100-mg-capsule",
+    "_source_page": 795
+  },
+  {
+    "name": "Voxamin XR",
+    "strength": "150 mg",
+    "generic": "Fluvoxamine Maleate",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/34153/voxamin-xr-150-mg-capsule",
+    "_source_page": 795
+  },
+  {
+    "name": "Vozol",
+    "strength": "200 mg",
+    "generic": "Voriconazole",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38700/vozol-200-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "Vroot",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30656/vroot-6-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "Vtapa",
+    "strength": "1%",
+    "generic": "Tapinarof",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35457/vtapa-1-cream",
+    "_source_page": 795
+  },
+  {
+    "name": "Vulcan",
+    "strength": "150 mg",
+    "generic": "Oteseconazole",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/36452/vulcan-150-mg-capsule",
+    "_source_page": 795
+  },
+  {
+    "name": "Vurdon plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "generic": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/38708/vurdon-plus-75-mg-injection",
+    "_source_page": 795
+  },
+  {
+    "name": "Vurdon SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11106/vurdon-sr-100-mg-capsule",
+    "_source_page": 795
+  },
+  {
+    "name": "Vwash plus",
+    "strength": "1.2% w/v",
+    "generic": "Lactic Acid",
+    "company": "Unilever Bangladesh Limited",
+    "medicine_type": "Topical Solution",
+    "source_url": "https://medex.com.bd/brands/34893/vwash-plus-12-w-topical-solution",
+    "_source_page": 795
+  },
+  {
+    "name": "Wandara",
+    "strength": "1 gm/vial",
+    "generic": "Ertapenem",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30495/wandara-1-gm-injection",
+    "_source_page": 795
+  },
+  {
+    "name": "Warin",
+    "strength": "5 mg",
+    "generic": "Warfarin Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3216/warin-5-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "Warin",
+    "strength": "2 mg",
+    "generic": "Warfarin Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25421/warin-2-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "Wash N Care",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/33794/wash-n-care-05-70-hand-rub",
+    "_source_page": 795
+  },
+  {
+    "name": "Washout Ezy",
+    "strength": "75%+0.125%+1.45%",
+    "generic": "Isopropyl Alcohol + Hydrogen Peroxide + Glycerol",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28985/washout-ezy-75-0125-hand-rub",
+    "_source_page": 795
+  },
+  {
+    "name": "Wataris",
+    "strength": "40 mg",
+    "generic": "Furosemide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38403/wataris-40-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "Water for Inj.",
+    "strength": "5 ml/ampoule",
+    "generic": "Water for injection",
+    "company": "Edruc Limited",
+    "medicine_type": "Liquid",
+    "source_url": "https://medex.com.bd/brands/27493/water-for-inj-5-ml-liquid",
+    "_source_page": 795
+  },
+  {
+    "name": "Water for injection",
+    "strength": "5 ml/ampoule",
+    "generic": "Water for injection",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Liquid",
+    "source_url": "https://medex.com.bd/brands/27429/water-for-injection-5-ml-liquid",
+    "_source_page": 795
+  },
+  {
+    "name": "Water for injection",
+    "strength": "10 ml/ampoule",
+    "generic": "Water for injection",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Liquid",
+    "source_url": "https://medex.com.bd/brands/27430/water-for-injection-10-ml-liquid",
+    "_source_page": 795
+  },
+  {
+    "name": "Water for injection",
+    "strength": "10 ml/ampoule",
+    "generic": "Water for injection",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Liquid",
+    "source_url": "https://medex.com.bd/brands/27749/water-for-injection-10-ml-liquid",
+    "_source_page": 795
+  },
+  {
+    "name": "Water for injection",
+    "strength": "5 ml/ampoule",
+    "generic": "Water for injection",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Liquid",
+    "source_url": "https://medex.com.bd/brands/33020/water-for-injection-5-ml-liquid",
+    "_source_page": 795
+  },
+  {
+    "name": "Water for injection",
+    "strength": "10 ml/ampoule",
+    "generic": "Water for injection",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Liquid",
+    "source_url": "https://medex.com.bd/brands/33021/water-for-injection-10-ml-liquid",
+    "_source_page": 795
+  },
+  {
+    "name": "Water for Injection",
+    "strength": "5 mg/ampoule",
+    "generic": "Water for injection",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Liquid",
+    "source_url": "https://medex.com.bd/brands/36534/water-for-injection-5-mg-liquid",
+    "_source_page": 795
+  },
+  {
+    "name": "Waxnil",
+    "strength": "5% w/v",
+    "generic": "Sodium Bicarbonate [Ear Preparations]",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/34449/waxnil-5-w-ear-drop",
+    "_source_page": 795
+  },
+  {
+    "name": "Waxsol",
+    "strength": "0.5%",
+    "generic": "Docusate Sodium (Ear drop)",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/30113/waxsol-05-ear-drop",
+    "_source_page": 795
+  },
+  {
+    "name": "Wedica",
+    "strength": "100 mg",
+    "generic": "Trelagliptin Succinate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27290/wedica-100-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "Wedica",
+    "strength": "50 mg",
+    "generic": "Trelagliptin Succinate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27291/wedica-50-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "Wella",
+    "strength": "12.5 mg+5 mg",
+    "generic": "Amitriptyline Hydrochloride + Chlordiazepoxide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33837/wella-125-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "Wella DS",
+    "strength": "25 mg+10 mg",
+    "generic": "Amitriptyline Hydrochloride + Chlordiazepoxide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38015/wella-ds-25-mg-tablet",
+    "_source_page": 795
+  },
+  {
+    "name": "WellFine 32G",
+    "strength": "4 mm",
+    "generic": "Insulin device & needle",
+    "company": "MicroMed",
+    "medicine_type": "Pen Needle",
+    "source_url": "https://medex.com.bd/brands/34507/wellfine-32g-4-mm-pen-needle",
+    "_source_page": 795
+  }
+]

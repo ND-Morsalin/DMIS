@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Fix-A DS",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7567/fix-a-ds-400-mg-capsule",
+    "_source_page": 296
+  },
+  {
+    "name": "Fix-A DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7569/fix-a-ds-200-mg-suspension",
+    "_source_page": 296
+  },
+  {
+    "name": "Fix-A Max",
+    "strength": "100 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/35171/fix-a-max-100-mg-pediatric-drop",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixal",
+    "strength": "30 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12121/fixal-30-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixal",
+    "strength": "60 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12122/fixal-60-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixal",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12123/fixal-120-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixal",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12124/fixal-180-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixal",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/12125/fixal-30-mg-suspension",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixbac",
+    "strength": "25 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/27980/fixbac-25-mg-pediatric-drop",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixbac",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7570/fixbac-200-mg-capsule",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixbac",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7571/fixbac-400-mg-capsule",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixbac",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7572/fixbac-100-mg-suspension",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixbac DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27979/fixbac-ds-200-mg-suspension",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixcef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7235/fixcef-125-mg-suspension",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixcef",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7234/fixcef-500-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixcef",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7233/fixcef-250-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixcef Plus",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19008/fixcef-plus-250-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixcef Plus",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19007/fixcef-plus-500-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixen",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12126/fixen-120-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixen",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27966/fixen-180-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixen",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/27967/fixen-30-mg-suspension",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixgut",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/15892/fixgut-5-mg-suspension",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixgut",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15876/fixgut-10-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixim",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18796/fixim-200-mg-capsule",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixim",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28119/fixim-100-mg-suspension",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixocard",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/833/fixocard-5-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixocard",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/834/fixocard-5-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixolin",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/16458/fixolin-100-mg-syrup",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixolin",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16457/fixolin-400-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixolin",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26298/fixolin-200-mg-tablet",
+    "_source_page": 296
+  },
+  {
+    "name": "Fixonac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/46/fixonac-100-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixonase",
+    "strength": "27.5 mcg/spray",
+    "generic": "Fluticasone Furoate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/33860/fixonase-275-mcg-nasal-spray",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixotim",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32510/fixotim-200-mg-capsule",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixotim",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32511/fixotim-400-mg-capsule",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixotim",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/32512/fixotim-100-mg-suspension",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixpro",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7564/fixpro-400-mg-capsule",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixpro",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7565/fixpro-100-mg-suspension",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixpro",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7563/fixpro-200-mg-capsule",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixpro DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26174/fixpro-ds-200-mg-suspension",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixtat",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34068/fixtat-20-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Fixvel",
+    "strength": "400 mg+100 mg",
+    "generic": "Sofosbuvir + Velpatasvir",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27314/fixvel-400-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Fizi",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31738/fizi-5-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Fizi",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31739/fizi-10-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "FizyCal-D",
+    "strength": "1358.196 mg+600 mg (Elemental calcium)+400 IU",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin D3",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/18448/fizycal-d-1358196-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "FizyCal-M",
+    "strength": null,
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin D3 + Multiminerals",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/32405/fizycal-m-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Fizyth",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8641/fizyth-500-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Fizz-CI",
+    "strength": null,
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate + Vitamin B Complex + Vitamin C",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27916/fizz-ci-capsule",
+    "_source_page": 297
+  },
+  {
+    "name": "Fizz-TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/27915/fizz-tr-150-mg-capsule",
+    "_source_page": 297
+  },
+  {
+    "name": "Flac",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6251/flac-500-mg-capsule",
+    "_source_page": 297
+  },
+  {
+    "name": "Flac",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6250/flac-250-mg-capsule",
+    "_source_page": 297
+  },
+  {
+    "name": "Flac",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6252/flac-125-mg-suspension",
+    "_source_page": 297
+  },
+  {
+    "name": "Flacol",
+    "strength": "67 mg/ml",
+    "generic": "Simethicone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1298/flacol-67-mg-pediatric-drop",
+    "_source_page": 297
+  },
+  {
+    "name": "Flacol",
+    "strength": "40 mg",
+    "generic": "Simethicone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/24495/flacol-40-mg-chewable-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Flacort",
+    "strength": "24 mg",
+    "generic": "Deflazacort",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26419/flacort-24-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Flacort",
+    "strength": "6 mg",
+    "generic": "Deflazacort",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16420/flacort-6-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Flacort",
+    "strength": "6 mg/5 ml",
+    "generic": "Deflazacort",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/26420/flacort-6-mg-suspension",
+    "_source_page": 297
+  },
+  {
+    "name": "Flagas",
+    "strength": "67 mg/ml",
+    "generic": "Simethicone",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/34174/flagas-67-mg-pediatric-drop",
+    "_source_page": 297
+  },
+  {
+    "name": "Flagyl",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10104/flagyl-400-mg-tablet",
+    "_source_page": 297
+  },
+  {
+    "name": "Flagyl",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10105/flagyl-200-mg-suspension",
+    "_source_page": 297
+  },
+  {
+    "name": "Flagyl",
+    "strength": "500 mg/100 ml",
+    "generic": "Metronidazole",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36087/flagyl-500-mg-injection",
+    "_source_page": 297
+  },
+  {
+    "name": "Flam",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11305/flam-400-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamex",
+    "strength": "200 mg",
+    "generic": "Ibuprofen",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11271/flamex-200-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamex",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11272/flamex-400-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamex",
+    "strength": "5% w/w",
+    "generic": "Ibuprofen",
+    "company": "ACI Limited",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/33392/flamex-5-w-topical-gel",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamex",
+    "strength": "100 mg/5 ml",
+    "generic": "Ibuprofen",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/11273/flamex-100-mg-suspension",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamfix",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36768/flamfix-750-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamfix",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34161/flamfix-500-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamic",
+    "strength": "50 mg/5 ml",
+    "generic": "Mefenamic acid",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/11393/flamic-50-mg-suspension",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamic",
+    "strength": "250 mg",
+    "generic": "Mefenamic acid",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11391/flamic-250-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamic",
+    "strength": "500 mg",
+    "generic": "Mefenamic acid",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11392/flamic-500-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamitrol",
+    "strength": "0.1%",
+    "generic": "Dexamethasone (Ophthalmic)",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/19849/flamitrol-01-eye-drop",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamyd",
+    "strength": "500 mg/100 ml",
+    "generic": "Metronidazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/10109/flamyd-500-mg-injection",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamyd",
+    "strength": "500 mg",
+    "generic": "Metronidazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10108/flamyd-500-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamyd",
+    "strength": "250 mg",
+    "generic": "Metronidazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10107/flamyd-250-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamyd",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/22382/flamyd-200-mg-suspension",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamyd V",
+    "strength": "1.3%",
+    "generic": "Metronidazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Vaginal Gel",
+    "source_url": "https://medex.com.bd/brands/34232/flamyd-v-13-vaginal-gel",
+    "_source_page": 298
+  },
+  {
+    "name": "Flamzin",
+    "strength": "1%",
+    "generic": "Silver Sulfadiazine",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12367/flamzin-1-cream",
+    "_source_page": 298
+  },
+  {
+    "name": "Flatameal DS",
+    "strength": "(200 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/26299/flatameal-ds-200-mg-suspension",
+    "_source_page": 298
+  },
+  {
+    "name": "Flatulex",
+    "strength": "67 mg/ml",
+    "generic": "Simethicone",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1299/flatulex-67-mg-pediatric-drop",
+    "_source_page": 298
+  },
+  {
+    "name": "Flatunil",
+    "strength": "67 mg/ml",
+    "generic": "Simethicone",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/24490/flatunil-67-mg-pediatric-drop",
+    "_source_page": 298
+  },
+  {
+    "name": "Flatus",
+    "strength": "67 mg/ml",
+    "generic": "Simethicone",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/24492/flatus-67-mg-pediatric-drop",
+    "_source_page": 298
+  },
+  {
+    "name": "Flavit",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13782/flavit-5-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flavit-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14204/flavit-m-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flavona",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28208/flavona-50-mg-capsule",
+    "_source_page": 298
+  },
+  {
+    "name": "Flavox",
+    "strength": "200 mg",
+    "generic": "Flavoxate Hydrochloride",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15581/flavox-200-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flavox",
+    "strength": "100 mg",
+    "generic": "Flavoxate Hydrochloride",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27782/flavox-100-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flecard",
+    "strength": "50 mg",
+    "generic": "Flecainide Acetate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36969/flecard-50-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Fleco",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/47/fleco-100-mg-tablet",
+    "_source_page": 298
+  },
+  {
+    "name": "Flegnil",
+    "strength": "125 mg/5 ml",
+    "generic": "Carbocisteine",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30711/flegnil-125-mg-syrup",
+    "_source_page": 298
+  },
+  {
+    "name": "Flegnil DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Carbocisteine",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30712/flegnil-ds-250-mg-syrup",
+    "_source_page": 298
+  },
+  {
+    "name": "Flexi",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2/flexi-100-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexi SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/17374/flexi-sr-200-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexibac",
+    "strength": "5 mg",
+    "generic": "Baclofen",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11726/flexibac-5-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexibac",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11727/flexibac-10-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexibac",
+    "strength": "25 mg",
+    "generic": "Baclofen",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11728/flexibac-25-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexibac",
+    "strength": "5 mg/5 ml",
+    "generic": "Baclofen",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/18071/flexibac-5-mg-oral-solution",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexidol",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17375/flexidol-100-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexifen",
+    "strength": "5 mg",
+    "generic": "Baclofen",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11729/flexifen-5-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexifen",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11730/flexifen-10-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexilax",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11733/flexilax-10-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexilax",
+    "strength": "5 mg",
+    "generic": "Baclofen",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11732/flexilax-5-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Fleximoov",
+    "strength": "15%+10%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/22198/fleximoov-15-10-cream",
+    "_source_page": 299
+  },
+  {
+    "name": "Fleximoov",
+    "strength": "30%+8%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/22197/fleximoov-30-8-cream",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexiril",
+    "strength": "5 mg",
+    "generic": "Baclofen",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29862/flexiril-5-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexiril",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29861/flexiril-10-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "FlexiRun",
+    "strength": "40 mg",
+    "generic": "Undenatured Type II Collagen",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34078/flexirun-40-mg-capsule",
+    "_source_page": 299
+  },
+  {
+    "name": "FlexiRun Plus",
+    "strength": "40 mg+100 mg",
+    "generic": "Undenatured Type II Collagen + Boswellia Serrata",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34079/flexirun-plus-40-mg-capsule",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexivan",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/48/flexivan-100-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexivan ER",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/49/flexivan-er-200-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexor",
+    "strength": "5 mg",
+    "generic": "Cyclobenzaprine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11793/flexor-5-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flexor",
+    "strength": "10 mg",
+    "generic": "Cyclobenzaprine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11794/flexor-10-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Fliban",
+    "strength": "100 mg",
+    "generic": "Flibanserin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32596/fliban-100-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flindof",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26258/flindof-400-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flindof",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26257/flindof-200-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flintex",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Oyster Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30545/flintex-15-mg-syrup",
+    "_source_page": 299
+  },
+  {
+    "name": "Flixocort",
+    "strength": "250 mcg/metered dose",
+    "generic": "Fluticasone Propionate (Inhaler)",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/29372/flixocort-250-mcg-inhaler",
+    "_source_page": 299
+  },
+  {
+    "name": "Flixocort",
+    "strength": "125 mcg/metered dose",
+    "generic": "Fluticasone Propionate (Inhaler)",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/29371/flixocort-125-mcg-inhaler",
+    "_source_page": 299
+  },
+  {
+    "name": "Flixonat",
+    "strength": "50 mcg/spray",
+    "generic": "Fluticasone Propionate (Nasal Spray)",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/33883/flixonat-50-mcg-nasal-spray",
+    "_source_page": 299
+  },
+  {
+    "name": "Flocet",
+    "strength": "400 mg",
+    "generic": "Ofloxacin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9651/flocet-400-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flocet",
+    "strength": "200 mg",
+    "generic": "Ofloxacin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9650/flocet-200-mg-tablet",
+    "_source_page": 299
+  },
+  {
+    "name": "Flocet",
+    "strength": "200 mg",
+    "generic": "Ofloxacin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9650/flocet-200-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Flocip",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9262/flocip-500-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Flocip",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9263/flocip-250-mg-suspension",
+    "_source_page": 300
+  },
+  {
+    "name": "Flogem",
+    "strength": "320 mg",
+    "generic": "Gemifloxacin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9404/flogem-320-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Flomont",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22623/flomont-10-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Flomox",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33884/flomox-400-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Flomox",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9626/flomox-05-eye-drop",
+    "_source_page": 300
+  },
+  {
+    "name": "Flomox D",
+    "strength": "0.5%+0.1%",
+    "generic": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27725/flomox-d-05-01-eye-drop",
+    "_source_page": 300
+  },
+  {
+    "name": "Flomox XG",
+    "strength": "0.5%+0.4%",
+    "generic": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27726/flomox-xg-05-04-eye-drop",
+    "_source_page": 300
+  },
+  {
+    "name": "Flomyst F",
+    "strength": "(250 mcg+10 mcg)/puff",
+    "generic": "Fluticasone Propionate + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/28434/flomyst-f-250-mcg-inhaler",
+    "_source_page": 300
+  },
+  {
+    "name": "Flomyst F",
+    "strength": "(125 mcg+5 mcg)/puff",
+    "generic": "Fluticasone Propionate + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/28435/flomyst-f-125-mcg-inhaler",
+    "_source_page": 300
+  },
+  {
+    "name": "Flomyst F",
+    "strength": "(50 mcg+5 mcg)/puff",
+    "generic": "Fluticasone Propionate + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/28436/flomyst-f-50-mcg-inhaler",
+    "_source_page": 300
+  },
+  {
+    "name": "Flonasin",
+    "strength": "(137 mcg+50 mcg)/spray",
+    "generic": "Azelastine Hydrochloride + Fluticasone Propionate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/18019/flonasin-137-mcg-nasal-spray",
+    "_source_page": 300
+  },
+  {
+    "name": "Flonaspray",
+    "strength": "50 mcg/spray",
+    "generic": "Fluticasone Propionate (Nasal Spray)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/13032/flonaspray-50-mcg-nasal-spray",
+    "_source_page": 300
+  },
+  {
+    "name": "Flonor",
+    "strength": "0.4 mg",
+    "generic": "Tamsulosin Hydrochloride",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Capsule (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/15587/flonor-04-mg-capsule",
+    "_source_page": 300
+  },
+  {
+    "name": "Flontin",
+    "strength": "250 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9264/flontin-250-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Flontin",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9265/flontin-500-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Flontin",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9266/flontin-750-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Flontin",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9267/flontin-250-mg-suspension",
+    "_source_page": 300
+  },
+  {
+    "name": "Flontin",
+    "strength": "200 mg/100 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Renata PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9268/flontin-200-mg-injection",
+    "_source_page": 300
+  },
+  {
+    "name": "Floragen-G",
+    "strength": "10 Billion",
+    "generic": "Lactobacillus Rhamnosus GG",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38275/floragen-g-10-billion-capsule",
+    "_source_page": 300
+  },
+  {
+    "name": "Floren",
+    "strength": "100 mg",
+    "generic": "Flibanserin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36126/floren-100-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Florest",
+    "strength": "50 mg",
+    "generic": "Fluvoxamine Maleate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30242/florest-50-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Florest",
+    "strength": "100 mg",
+    "generic": "Fluvoxamine Maleate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34150/florest-100-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Florium",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20413/florium-10-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Florium",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20412/florium-5-mg-tablet",
+    "_source_page": 300
+  },
+  {
+    "name": "Floriva-F",
+    "strength": "(25 mcg+50 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/34712/floriva-f-25-mcg-inhaler",
+    "_source_page": 300
+  },
+  {
+    "name": "Floriva-F",
+    "strength": "(25 mcg+250 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/32792/floriva-f-25-mcg-inhaler",
+    "_source_page": 300
+  },
+  {
+    "name": "Floriva-F",
+    "strength": "(25 mcg+125 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/34711/floriva-f-25-mcg-inhaler",
+    "_source_page": 300
+  },
+  {
+    "name": "Floriva-F",
+    "strength": "50 mcg+250 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/34300/floriva-f-50-mcg-inhalation-capsule",
+    "_source_page": 300
+  }
+]

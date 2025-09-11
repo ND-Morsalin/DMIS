@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Zeptide",
+    "strength": "5 mg/0.5 ml",
+    "generic": "Tirzepatide",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/37509/zeptide-5-mg-injection",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeptide",
+    "strength": "7.5 mg/0.5 ml",
+    "generic": "Tirzepatide",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/37510/zeptide-75-mg-injection",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeptol",
+    "strength": "200 mg",
+    "generic": "Carbamazepine",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4813/zeptol-200-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeptol CR",
+    "strength": "200 mg",
+    "generic": "Carbamazepine",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/4814/zeptol-cr-200-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeptol CR",
+    "strength": "400 mg",
+    "generic": "Carbamazepine",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/4815/zeptol-cr-400-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerin",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10552/zerin-500-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerin",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10553/zerin-120-mg-suspension",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerin",
+    "strength": "80 mg/ml",
+    "generic": "Paracetamol",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/27427/zerin-80-mg-pediatric-drop",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerin-XP",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10634/zerin-xp-500-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerlinda",
+    "strength": "4 mg/5 ml",
+    "generic": "Zoledronic Acid [For hypercalcemia]",
+    "company": "BOTS Pvt. Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17283/zerlinda-4-mg-injection",
+    "_source_page": 816
+  },
+  {
+    "name": "Zero",
+    "strength": "8 mg",
+    "generic": "Sucralose",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14764/zero-8-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zero",
+    "strength": "12 mg/sachet",
+    "generic": "Sucralose",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/28284/zero-12-mg-powder",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerobac",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8514/zerobac-125-mg-suspension",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerocal",
+    "strength": "6.5 mg",
+    "generic": "Sucralose",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29889/zerocal-65-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerocal",
+    "strength": "12 mg/sachet",
+    "generic": "Sucralose",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/29890/zerocal-12-mg-powder",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerodol",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/99/zerodol-100-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerofen",
+    "strength": "100 mg",
+    "generic": "Ketoprofen",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/29270/zerofen-100-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeroflux",
+    "strength": "(500 mg+267 mg+160 mg)/10 ml",
+    "generic": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/32297/zeroflux-500-mg-suspension",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeroget",
+    "strength": "8 mg",
+    "generic": "Sucralose",
+    "company": "Get Well Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34395/zeroget-8-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerolent",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29271/zerolent-10-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerolip",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33633/zerolip-10-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerolip",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33634/zerolip-20-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeromig",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10821/zeromig-05-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeromig",
+    "strength": "1.5 mg",
+    "generic": "Pizotifen",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30045/zeromig-15-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeropain",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15414/zeropain-10-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeropain",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15415/zeropain-30-mg-injection",
+    "_source_page": 816
+  },
+  {
+    "name": "Zeropain",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26860/zeropain-60-mg-injection",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerotens",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18339/zerotens-3-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerotil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30443/zerotil-250-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerotil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30444/zerotil-500-mg-tablet",
+    "_source_page": 816
+  },
+  {
+    "name": "Zerotil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/30445/zerotil-125-mg-suspension",
+    "_source_page": 817
+  },
+  {
+    "name": "Zerotil",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/31892/zerotil-750-mg-injection",
+    "_source_page": 817
+  },
+  {
+    "name": "Zerotil",
+    "strength": "1.5 gm/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/31893/zerotil-15-gm-injection",
+    "_source_page": 817
+  },
+  {
+    "name": "Zerotil Plus",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30997/zerotil-plus-250-mg-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zerotil Plus",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30998/zerotil-plus-500-mg-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zerotil plus",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/35330/zerotil-plus-125-mg-suspension",
+    "_source_page": 817
+  },
+  {
+    "name": "Zervin",
+    "strength": "0.24%",
+    "generic": "Cetirizine Hydrochloride (Ophthalmic)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/30208/zervin-024-eye-drop",
+    "_source_page": 817
+  },
+  {
+    "name": "Zesprin",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3294/zesprin-75-mg-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zest",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14053/zest-6-mg-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zesup",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14604/zesup-10-mg-syrup",
+    "_source_page": 817
+  },
+  {
+    "name": "Zesup",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28166/zesup-20-mg-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zetaro",
+    "strength": "600 mg/vial",
+    "generic": "Ceftaroline Fosamil",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38404/zetaro-600-mg-injection",
+    "_source_page": 817
+  },
+  {
+    "name": "ZFC",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/31592/zfc-50-mg-capsule",
+    "_source_page": 817
+  },
+  {
+    "name": "Zibac",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8717/zibac-250-mg-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zibac",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8718/zibac-500-mg-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zibac",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8719/zibac-200-mg-suspension",
+    "_source_page": 817
+  },
+  {
+    "name": "Zibac",
+    "strength": "500 mg/ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/8720/zibac-500-mg-injection",
+    "_source_page": 817
+  },
+  {
+    "name": "Zibac",
+    "strength": "1%",
+    "generic": "Azithromycin Dihydrate (Ophthalmic)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15692/zibac-1-eye-drop",
+    "_source_page": 817
+  },
+  {
+    "name": "Zico",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14606/zico-10-mg-syrup",
+    "_source_page": 817
+  },
+  {
+    "name": "Zico",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34604/zico-20-mg-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zico Plus",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14706/zico-plus-syrup",
+    "_source_page": 817
+  },
+  {
+    "name": "Zico Plus",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34605/zico-plus-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zicolin",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "generic": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/25401/zicolin-60-mg-capsule",
+    "_source_page": 817
+  },
+  {
+    "name": "Zicovit-B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14719/zicovit-b-syrup",
+    "_source_page": 817
+  },
+  {
+    "name": "Zide",
+    "strength": "80 mg",
+    "generic": "Gliclazide",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5265/zide-80-mg-tablet",
+    "_source_page": 817
+  },
+  {
+    "name": "Zidicef",
+    "strength": "250 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7895/zidicef-250-mg-injection",
+    "_source_page": 817
+  },
+  {
+    "name": "Zidicef",
+    "strength": "500 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7896/zidicef-500-mg-injection",
+    "_source_page": 817
+  },
+  {
+    "name": "Zidicef",
+    "strength": "1 gm/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7897/zidicef-1-gm-injection",
+    "_source_page": 817
+  },
+  {
+    "name": "Zidim",
+    "strength": "250 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7898/zidim-250-mg-injection",
+    "_source_page": 817
+  },
+  {
+    "name": "Zidim",
+    "strength": "500 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7899/zidim-500-mg-injection",
+    "_source_page": 817
+  },
+  {
+    "name": "Zidim",
+    "strength": "1 gm/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7900/zidim-1-gm-injection",
+    "_source_page": 818
+  },
+  {
+    "name": "Zidimax",
+    "strength": "250 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7902/zidimax-250-mg-injection",
+    "_source_page": 818
+  },
+  {
+    "name": "Zidimax",
+    "strength": "500 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7903/zidimax-500-mg-injection",
+    "_source_page": 818
+  },
+  {
+    "name": "Ziditam",
+    "strength": "(2 gm+0.5 gm)/vial",
+    "generic": "Ceftazidime + Avibactam",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38405/ziditam-2-gm-injection",
+    "_source_page": 818
+  },
+  {
+    "name": "Zido",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14569/zido-10-mg-syrup",
+    "_source_page": 818
+  },
+  {
+    "name": "Zido-B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14707/zido-b-syrup",
+    "_source_page": 818
+  },
+  {
+    "name": "Zif Forte",
+    "strength": null,
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate + Vitamin B Complex + Vitamin C",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13421/zif-forte-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zif-A",
+    "strength": "48 mg+0.5 mg+22.5 mg",
+    "generic": "Ferrous Ascorbate + Folic Acid + Zinc Sulfate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34457/zif-a-48-mg-tablet",
+    "_source_page": 818
+  },
+  {
+    "name": "Zif-CI",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13354/zif-ci-50-mg-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zifday",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/37411/zifday-50-mg-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zifef TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/28500/zifef-tr-150-mg-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zifex SR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/13335/zifex-sr-150-mg-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Ziflu",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14608/ziflu-20-mg-tablet",
+    "_source_page": 818
+  },
+  {
+    "name": "Ziflu",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14609/ziflu-10-mg-syrup",
+    "_source_page": 818
+  },
+  {
+    "name": "Zifocap",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13355/zifocap-50-mg-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zifolet",
+    "strength": "5 mg+20 mg",
+    "generic": "Folic Acid + Zinc Sulfate Monohydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14669/zifolet-5-mg-tablet",
+    "_source_page": 818
+  },
+  {
+    "name": "Zifonyl",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13356/zifonyl-50-mg-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zifort",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28107/zifort-10-mg-syrup",
+    "_source_page": 818
+  },
+  {
+    "name": "Zifov",
+    "strength": null,
+    "generic": "Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13407/zifov-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zigrow",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36829/zigrow-20-mg-tablet",
+    "_source_page": 818
+  },
+  {
+    "name": "Zigrow",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/37517/zigrow-10-mg-syrup",
+    "_source_page": 818
+  },
+  {
+    "name": "Zigrow B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/36762/zigrow-b-syrup",
+    "_source_page": 818
+  },
+  {
+    "name": "Zigrow B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37210/zigrow-b-tablet",
+    "_source_page": 818
+  },
+  {
+    "name": "Zikid",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14610/zikid-10-mg-syrup",
+    "_source_page": 818
+  },
+  {
+    "name": "Zikid",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33795/zikid-20-mg-tablet",
+    "_source_page": 818
+  },
+  {
+    "name": "Zilas",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31254/zilas-20-mg-tablet",
+    "_source_page": 818
+  },
+  {
+    "name": "Zilic-TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Decent Pharma Laboratories Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13320/zilic-tr-150-mg-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Ziliron-B",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Folic Acid + Zinc + Vitamin B-Complex",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13398/ziliron-b-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zilon",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1977/zilon-20-mg-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zilon",
+    "strength": "40 mg",
+    "generic": "Omeprazole",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1978/zilon-40-mg-capsule",
+    "_source_page": 818
+  },
+  {
+    "name": "Zilsart",
+    "strength": "40 mg",
+    "generic": "Azilsartan Medoxomil",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18021/zilsart-40-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zilvit",
+    "strength": null,
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate + Vitamin B Complex + Vitamin C",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13422/zilvit-capsule",
+    "_source_page": 819
+  },
+  {
+    "name": "Zimax",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8721/zimax-250-mg-capsule",
+    "_source_page": 819
+  },
+  {
+    "name": "Zimax",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8723/zimax-200-mg-suspension",
+    "_source_page": 819
+  },
+  {
+    "name": "Zimax",
+    "strength": "500 mg/vial",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/8724/zimax-500-mg-injection",
+    "_source_page": 819
+  },
+  {
+    "name": "Zimax",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25666/zimax-500-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zimobin TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13321/zimobin-tr-150-mg-capsule",
+    "_source_page": 819
+  },
+  {
+    "name": "Zimon",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14611/zimon-20-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zimon",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14612/zimon-10-mg-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zimon Plus",
+    "strength": "(25 mcg+100 mg+1 mg)/5 ml",
+    "generic": "Vitamin B12 + Elemental Iron + Folic Acid",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13223/zimon-plus-25-mcg-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinaclav",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36505/zinaclav-250-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinaclav",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36506/zinaclav-500-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinc Kid",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/32317/zinc-kid-20-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinc Plus",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14709/zinc-plus-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinc Sulphate",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14620/zinc-sulphate-10-mg-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinc-AG",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/31591/zinc-ag-10-mg-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinc-R",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30970/zinc-r-20-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinc-S",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14619/zinc-s-10-mg-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinca",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14613/zinca-10-mg-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinca Plex",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14708/zinca-plex-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zincare",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/27428/zincare-20-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zincase",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14614/zincase-10-mg-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zincep",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14616/zincep-10-mg-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "ZincFast",
+    "strength": "60 mg",
+    "generic": "Zinc Orotate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31144/zincfast-60-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zincin",
+    "strength": "15 mg",
+    "generic": "Cinnarizine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4604/zincin-15-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zincoral",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14618/zincoral-10-mg-syrup",
+    "_source_page": 819
+  },
+  {
+    "name": "Zincoral DT",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/29448/zincoral-dt-20-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "ZincTab",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29783/zinctab-20-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinex",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8725/zinex-250-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinex",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8726/zinex-500-mg-tablet",
+    "_source_page": 819
+  },
+  {
+    "name": "Zinex",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8727/zinex-200-mg-suspension",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinfo",
+    "strength": "500 mg+22.5 mg",
+    "generic": "Folic Acid + Zinc Sulfate Monohydrate",
+    "company": "Marker Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/14670/zinfo-500-mg-capsule",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinforo",
+    "strength": "600 mg/vial",
+    "generic": "Ceftaroline Fosamil",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36841/zinforo-600-mg-injection",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinga",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14622/zinga-10-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinga",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28922/zinga-20-mg-tablet",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinga B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/35043/zinga-b-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinga B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36588/zinga-b-tablet",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinofa",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14623/zinofa-10-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinofa-B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14710/zinofa-b-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinon",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14624/zinon-20-mg-tablet",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinon",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14625/zinon-10-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinoret",
+    "strength": "60 mg",
+    "generic": "Zinc Orotate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27081/zinoret-60-mg-tablet",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinpro",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14626/zinpro-10-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zins",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14657/zins-10-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinsul",
+    "strength": "4.05 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14627/zinsul-405-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinta-20",
+    "strength": "20 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "MST Pharma",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14628/zinta-20-20-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zinton",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14629/zinton-10-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zipol",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14630/zipol-10-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zipol",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34057/zipol-20-mg-tablet",
+    "_source_page": 820
+  },
+  {
+    "name": "Zipol Plus",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14711/zipol-plus-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zipol-B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34058/zipol-b-tablet",
+    "_source_page": 820
+  },
+  {
+    "name": "Zipradon",
+    "strength": "20 mg",
+    "generic": "Ziprasidone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4440/zipradon-20-mg-capsule",
+    "_source_page": 820
+  },
+  {
+    "name": "Zipradon",
+    "strength": "40 mg",
+    "generic": "Ziprasidone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4441/zipradon-40-mg-capsule",
+    "_source_page": 820
+  },
+  {
+    "name": "Ziqui",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14631/ziqui-10-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Zirgan",
+    "strength": "0.15%",
+    "generic": "Ganciclovir (Ophthalmic)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Gel",
+    "source_url": "https://medex.com.bd/brands/9722/zirgan-015-eye-gel",
+    "_source_page": 820
+  },
+  {
+    "name": "Ziron-F",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13322/ziron-f-150-mg-capsule",
+    "_source_page": 820
+  },
+  {
+    "name": "Zis-DS",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14632/zis-ds-10-mg-syrup",
+    "_source_page": 820
+  },
+  {
+    "name": "Ziska Oral Saline",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/14819/ziska-oral-saline-1025-gm-powder",
+    "_source_page": 820
+  },
+  {
+    "name": "Ziskavit",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13869/ziskavit-5-mg-tablet",
+    "_source_page": 820
+  },
+  {
+    "name": "Ziskavit-M",
+    "strength": null,
+    "generic": "Multivitamin [Adult preparation]",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14067/ziskavit-m-tablet",
+    "_source_page": 820
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Indever",
+    "strength": "20 mg",
+    "generic": "Propranolol Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35206/indever-20-mg-tablet",
+    "_source_page": 366
+  },
+  {
+    "name": "Index Tasty Food Saline",
+    "strength": null,
+    "generic": "Oral rehydration salt [tasty]",
+    "company": "Index Food & Beverage",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/37694/index-tasty-food-saline-powder",
+    "_source_page": 366
+  },
+  {
+    "name": "Indica-G",
+    "strength": "110 mcg+50 mcg",
+    "generic": "Indacaterol + Glycopyrronium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/20998/indica-g-110-mcg-inhalation-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indicontin",
+    "strength": "1.5 mg",
+    "generic": "Indapamide",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/32725/indicontin-15-mg-tablet",
+    "_source_page": 366
+  },
+  {
+    "name": "Indigo",
+    "strength": "110 mcg+50 mcg",
+    "generic": "Indacaterol + Glycopyrronium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/37934/indigo-110-mcg-inhalation-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indimide SR",
+    "strength": "1.5 mg",
+    "generic": "Indapamide",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/32724/indimide-sr-15-mg-tablet",
+    "_source_page": 366
+  },
+  {
+    "name": "Indo-A",
+    "strength": "100 mg",
+    "generic": "Indomethacin (Rectal)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/11320/indo-a-100-mg-suppository",
+    "_source_page": 366
+  },
+  {
+    "name": "Indocal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14360/indocal-500-mg-tablet",
+    "_source_page": 366
+  },
+  {
+    "name": "Indocap",
+    "strength": "25 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38057/indocap-25-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indocef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25904/indocef-125-mg-suspension",
+    "_source_page": 366
+  },
+  {
+    "name": "Indoflam",
+    "strength": "100 mg/5 ml",
+    "generic": "Ibuprofen",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/11300/indoflam-100-mg-suspension",
+    "_source_page": 366
+  },
+  {
+    "name": "Indomet",
+    "strength": "100 mg",
+    "generic": "Indomethacin (Rectal)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/11323/indomet-100-mg-suppository",
+    "_source_page": 366
+  },
+  {
+    "name": "Indomet",
+    "strength": "25 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/11321/indomet-25-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indomet SR",
+    "strength": "75 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11322/indomet-sr-75-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indomethacin",
+    "strength": "25 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/11325/indomethacin-25-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indomin",
+    "strength": "25 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/11326/indomin-25-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indophyllin",
+    "strength": "100 mg",
+    "generic": "Aminophylline",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/604/indophyllin-100-mg-tablet",
+    "_source_page": 366
+  },
+  {
+    "name": "Indoplex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13887/indoplex-5-mg-syrup",
+    "_source_page": 366
+  },
+  {
+    "name": "Indoplex B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13888/indoplex-b-5-mg-tablet",
+    "_source_page": 366
+  },
+  {
+    "name": "Indoprox",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11517/indoprox-250-mg-tablet",
+    "_source_page": 366
+  },
+  {
+    "name": "Indoprox",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11518/indoprox-500-mg-tablet",
+    "_source_page": 366
+  },
+  {
+    "name": "Indorex",
+    "strength": "25 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/11327/indorex-25-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indoseem",
+    "strength": "25 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/11343/indoseem-25-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indotetra",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8312/indotetra-250-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indotetra",
+    "strength": "500 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8311/indotetra-500-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indox",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8385/indox-100-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indoxyl",
+    "strength": "25 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/11328/indoxyl-25-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indozith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25626/indozith-500-mg-tablet",
+    "_source_page": 366
+  },
+  {
+    "name": "Indozith",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/25625/indozith-250-mg-capsule",
+    "_source_page": 366
+  },
+  {
+    "name": "Indozith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25627/indozith-200-mg-suspension",
+    "_source_page": 366
+  },
+  {
+    "name": "Inducin",
+    "strength": "10 IU/ml",
+    "generic": "Oxytocin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/23280/inducin-10-iu-injection",
+    "_source_page": 367
+  },
+  {
+    "name": "Indula",
+    "strength": "200 mcg",
+    "generic": "Misoprostol",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15661/indula-200-mcg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Indus",
+    "strength": "50 mg",
+    "generic": "Itopride Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37302/indus-50-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Inf Set",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38653/inf-set-injection",
+    "_source_page": 367
+  },
+  {
+    "name": "Infa-3",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7581/infa-3-200-mg-capsule",
+    "_source_page": 367
+  },
+  {
+    "name": "Infa-3",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7582/infa-3-400-mg-capsule",
+    "_source_page": 367
+  },
+  {
+    "name": "Infa-3",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7583/infa-3-100-mg-suspension",
+    "_source_page": 367
+  },
+  {
+    "name": "Infanil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25824/infanil-125-mg-suspension",
+    "_source_page": 367
+  },
+  {
+    "name": "Infanil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25823/infanil-500-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Infanil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25822/infanil-250-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Infecef",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27880/infecef-1-gm-injection",
+    "_source_page": 367
+  },
+  {
+    "name": "Infecef",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27881/infecef-2-gm-injection",
+    "_source_page": 367
+  },
+  {
+    "name": "Infecef",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27879/infecef-1-gm-injection",
+    "_source_page": 367
+  },
+  {
+    "name": "Infecef",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27878/infecef-500-mg-injection",
+    "_source_page": 367
+  },
+  {
+    "name": "Infecef",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27877/infecef-250-mg-injection",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflacin",
+    "strength": "25 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/11344/inflacin-25-mg-capsule",
+    "_source_page": 367
+  },
+  {
+    "name": "Infladex",
+    "strength": "0.1%",
+    "generic": "Dexamethasone (Ophthalmic)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15780/infladex-01-eye-drop",
+    "_source_page": 367
+  },
+  {
+    "name": "Infladex-TN",
+    "strength": "0.1%+0.3%",
+    "generic": "Dexamethasone + Tobramycin",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15863/infladex-tn-01-03-eye-drop",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflagen",
+    "strength": "0.1%+0.3%",
+    "generic": "Fluorometholone + Gentamicin",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/27136/inflagen-01-03-suspension",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflagic",
+    "strength": "20 mg",
+    "generic": "Prednisolone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5815/inflagic-20-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflam",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11282/inflam-400-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflam",
+    "strength": "100 mg/5 ml",
+    "generic": "Ibuprofen",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/11283/inflam-100-mg-suspension",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflam",
+    "strength": "200 mg",
+    "generic": "Ibuprofen",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11281/inflam-200-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflam-D",
+    "strength": "200 mg",
+    "generic": "Dexibuprofen",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10905/inflam-d-200-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflam-D",
+    "strength": "400 mg",
+    "generic": "Dexibuprofen",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10907/inflam-d-400-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflam-D",
+    "strength": "300 mg",
+    "generic": "Dexibuprofen",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10906/inflam-d-300-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflavis",
+    "strength": "0.1%",
+    "generic": "Dexamethasone (Ophthalmic)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15769/inflavis-01-eye-drop",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflect",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11546/inflect-500-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Inflect",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11545/inflect-375-mg-tablet",
+    "_source_page": 367
+  },
+  {
+    "name": "Influ",
+    "strength": "100 mg",
+    "generic": "Amantadine Hydrochloride",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/527/influ-100-mg-capsule",
+    "_source_page": 367
+  },
+  {
+    "name": "Influ",
+    "strength": "100 mg",
+    "generic": "Amantadine Hydrochloride",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/527/influ-100-mg-capsule",
+    "_source_page": 368
+  },
+  {
+    "name": "Influvax Tetra",
+    "strength": "0.5 ml/pre-filled syringe",
+    "generic": "Inactivated Influenza Vaccine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/15216/influvax-tetra-05-ml-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Info-500",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5402/info-500-500-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Info-850",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5403/info-850-850-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Informet",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5404/informet-500-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Informet",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5405/informet-850-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Informet LA",
+    "strength": "750 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Long Acting Tablet",
+    "source_url": "https://medex.com.bd/brands/22092/informet-la-750-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Informet LA",
+    "strength": "1000 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Long Acting Tablet",
+    "source_url": "https://medex.com.bd/brands/29092/informet-la-1000-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Informet LA",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Long Acting Tablet",
+    "source_url": "https://medex.com.bd/brands/5406/informet-la-500-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Informet XR",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32489/informet-xr-500-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Informet XR",
+    "strength": "750 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32490/informet-xr-750-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Infovir",
+    "strength": "10 mg",
+    "generic": "Adefovir Dipivoxil",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/180/infovir-10-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Infud",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10047/infud-1-cream",
+    "_source_page": 368
+  },
+  {
+    "name": "Infud",
+    "strength": "250 mg",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10034/infud-250-mg-tablet",
+    "_source_page": 368
+  },
+  {
+    "name": "Infudex",
+    "strength": "5%",
+    "generic": "Dextrose",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/19785/infudex-5-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Infudex",
+    "strength": "10%",
+    "generic": "Dextrose",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/19786/infudex-10-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Infusion Set (Hypodermic Needle + YC)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38689/infusion-set-hypodermic-needle-yc-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Infusion Set (Hypodermic Needle)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38687/infusion-set-hypodermic-needle-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Infusion Set (Scalp Vein Set + YC)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38688/infusion-set-scalp-vein-set-yc-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Infusol",
+    "strength": "5%",
+    "generic": "Dextrose",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14851/infusol-5-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Infusol Plus",
+    "strength": "0.9%+5%",
+    "generic": "Sodium Chloride + Dextrose",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/395/infusol-plus-09-5-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Ingovax ACWY",
+    "strength": "50 mcg/0.5 ml",
+    "generic": "Meningococcal Vaccine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/15235/ingovax-acwy-50-mcg-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Ingrow Gone Lotion",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/38310/ingrow-gone-lotion-lotion",
+    "_source_page": 368
+  },
+  {
+    "name": "Inhibita",
+    "strength": "40 mg",
+    "generic": "Omeprazole",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1822/inhibita-40-mg-capsule",
+    "_source_page": 368
+  },
+  {
+    "name": "Inhibita",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1821/inhibita-20-mg-capsule",
+    "_source_page": 368
+  },
+  {
+    "name": "Initer",
+    "strength": "5000 IU",
+    "generic": "Erythropoietin Alfa",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/17297/initer-5000-iu-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Initer",
+    "strength": "10000 IU",
+    "generic": "Erythropoietin Alfa",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/17298/initer-10000-iu-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Initer",
+    "strength": "1000 IU",
+    "generic": "Erythropoietin Alfa",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/37601/initer-1000-iu-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Initer",
+    "strength": "3000 IU",
+    "generic": "Erythropoietin Alfa",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/17296/initer-3000-iu-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Initer",
+    "strength": "2000 IU",
+    "generic": "Erythropoietin Alfa",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/17295/initer-2000-iu-injection",
+    "_source_page": 368
+  },
+  {
+    "name": "Inj. K MM",
+    "strength": "2 mg/0.2 ml",
+    "generic": "Phytomenadione (Injection)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/3302/inj-k-mm-2-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inj. K MM",
+    "strength": "10 mg/ml",
+    "generic": "Phytomenadione (Injection)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/3301/inj-k-mm-10-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Injefer",
+    "strength": "500 mg/10 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/32433/injefer-500-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Injefer",
+    "strength": "1 gm/20 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/32431/injefer-1-gm-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Injefer",
+    "strength": "100 mg/2 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/32432/injefer-100-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inket",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15418/inket-10-mg-tablet",
+    "_source_page": 369
+  },
+  {
+    "name": "Inmit",
+    "strength": "10 mg+10 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/34246/inmit-10-mg-tablet",
+    "_source_page": 369
+  },
+  {
+    "name": "Inmit",
+    "strength": "20 mg+20 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/34245/inmit-20-mg-tablet",
+    "_source_page": 369
+  },
+  {
+    "name": "Innocan",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27611/innocan-50-mg-capsule",
+    "_source_page": 369
+  },
+  {
+    "name": "Innocan",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27612/innocan-150-mg-capsule",
+    "_source_page": 369
+  },
+  {
+    "name": "Inofar",
+    "strength": "100 mg/5 ml",
+    "generic": "Iron Sucrose",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/13141/inofar-100-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inolac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2384/inolac-335-gm-oral-solution",
+    "_source_page": 369
+  },
+  {
+    "name": "Inomet",
+    "strength": "0.1%",
+    "generic": "Fluorometholone Acetate",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/20428/inomet-01-suspension",
+    "_source_page": 369
+  },
+  {
+    "name": "Inophos",
+    "strength": "400 mg",
+    "generic": "Sevelamer Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15646/inophos-400-mg-tablet",
+    "_source_page": 369
+  },
+  {
+    "name": "Inospiron",
+    "strength": "100 mg",
+    "generic": "Spironolactone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24676/inospiron-100-mg-tablet",
+    "_source_page": 369
+  },
+  {
+    "name": "Inospiron",
+    "strength": "25 mg",
+    "generic": "Spironolactone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2857/inospiron-25-mg-tablet",
+    "_source_page": 369
+  },
+  {
+    "name": "Inoten",
+    "strength": "20 mg",
+    "generic": "Tenoxicam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11625/inoten-20-mg-tablet",
+    "_source_page": 369
+  },
+  {
+    "name": "Inoxon",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8007/inoxon-2-gm-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inoxon",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8006/inoxon-1-gm-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inoxon",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8001/inoxon-250-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inoxon",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8002/inoxon-500-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inoxon",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/8003/inoxon-1-gm-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inoxon",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8004/inoxon-250-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inoxon",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8005/inoxon-500-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inpen",
+    "strength": "1 gm/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/28486/inpen-1-gm-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inpen",
+    "strength": "500 mg/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/28487/inpen-500-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inpoza",
+    "strength": "150 mg",
+    "generic": "Olaparib",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29324/inpoza-150-mg-tablet",
+    "_source_page": 369
+  },
+  {
+    "name": "Inpro",
+    "strength": "40 mg",
+    "generic": "Omeprazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1824/inpro-40-mg-capsule",
+    "_source_page": 369
+  },
+  {
+    "name": "Inpro",
+    "strength": "40 mg/vial",
+    "generic": "Omeprazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/1825/inpro-40-mg-injection",
+    "_source_page": 369
+  },
+  {
+    "name": "Inpro",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1823/inpro-20-mg-capsule",
+    "_source_page": 369
+  },
+  {
+    "name": "Insaid",
+    "strength": "25 mg",
+    "generic": "Indomethacin (Oral)",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/11338/insaid-25-mg-capsule",
+    "_source_page": 370
+  },
+  {
+    "name": "Insimet",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5407/insimet-500-mg-tablet",
+    "_source_page": 370
+  },
+  {
+    "name": "Insimet",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5408/insimet-850-mg-tablet",
+    "_source_page": 370
+  },
+  {
+    "name": "Insimet XR",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/22113/insimet-xr-500-mg-tablet",
+    "_source_page": 370
+  },
+  {
+    "name": "Inspra",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4347/inspra-05-mg-tablet",
+    "_source_page": 370
+  },
+  {
+    "name": "Insta",
+    "strength": "100%",
+    "generic": "Glucose",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/19784/insta-100-powder",
+    "_source_page": 370
+  },
+  {
+    "name": "Instacool",
+    "strength": "30%+8%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10859/instacool-30-8-cream",
+    "_source_page": 370
+  },
+  {
+    "name": "Instacool Plus",
+    "strength": "30%+10%+4%",
+    "generic": "Methyl Salicylate + Menthol + Camphor",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/27262/instacool-plus-30-10-cream",
+    "_source_page": 370
+  },
+  {
+    "name": "Instasia",
+    "strength": "14%+2%+2%",
+    "generic": "Benzocaine + Butamben + Tetracaine Hydrochloride",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/26742/instasia-14-2-topical-gel",
+    "_source_page": 370
+  },
+  {
+    "name": "Instavit",
+    "strength": "10 ml/vial",
+    "generic": "Multivitamin [Vitamin B complex + Vitamin C]",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/35182/instavit-10-ml-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Instavit D",
+    "strength": null,
+    "generic": "Multivitamin [water soluble] + 5% Dextrose",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35625/instavit-d-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Instavit N",
+    "strength": null,
+    "generic": "Multivitamin  [water soluble] + Normal Saline",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35624/instavit-n-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insul",
+    "strength": "30%+70% in 100 IU/ml",
+    "generic": "Regular Insulin Human + Isophane Insulin Human",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16814/insul-30-70-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insul",
+    "strength": "30%+70% in 40 IU/ml",
+    "generic": "Regular Insulin Human + Isophane Insulin Human",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16813/insul-30-70-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insul",
+    "strength": "50%+50% in 100 IU/ml",
+    "generic": "Regular Insulin Human + Isophane Insulin Human",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16816/insul-50-50-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insul Glargine",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Glargine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16836/insul-glargine-100-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insul N",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16793/insul-n-100-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insul N",
+    "strength": "40 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16792/insul-n-40-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insul R",
+    "strength": "40 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16765/insul-r-40-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insul R",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16766/insul-r-100-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulatard Flexpen",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16798/insulatard-flexpen-100-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulatard HM",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16797/insulatard-hm-100-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulatard HM",
+    "strength": "40 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16796/insulatard-hm-40-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulatard Penfill",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/26702/insulatard-penfill-100-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulet",
+    "strength": "30%+70% in 100 IU/ml",
+    "generic": "Regular Insulin Human + Isophane Insulin Human",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16818/insulet-30-70-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulet",
+    "strength": "50%+50% in 100 IU/ml",
+    "generic": "Regular Insulin Human + Isophane Insulin Human",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16819/insulet-50-50-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulet ASP",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Aspart [Protamine Crystallised]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/26425/insulet-asp-100-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulet GN",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Glargine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16837/insulet-gn-100-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulet N",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16795/insulet-n-100-iu-injection",
+    "_source_page": 370
+  },
+  {
+    "name": "Insulet R",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Human [rDNA]",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16768/insulet-r-100-iu-injection",
+    "_source_page": 370
+  }
+]

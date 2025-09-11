@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Telfin",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10053/telfin-1-cream",
+    "_source_page": 716
+  },
+  {
+    "name": "Telfin",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Spray",
+    "source_url": "https://medex.com.bd/brands/35748/telfin-1-spray",
+    "_source_page": 716
+  },
+  {
+    "name": "Telfin",
+    "strength": "125 mg/sachet",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Granules",
+    "source_url": "https://medex.com.bd/brands/35988/telfin-125-mg-oral-granules",
+    "_source_page": 716
+  },
+  {
+    "name": "Telide",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25671/telide-500-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telide",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25672/telide-200-mg-suspension",
+    "_source_page": 716
+  },
+  {
+    "name": "Telisa",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30195/telisa-40-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telisa",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30196/telisa-80-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telisa Plus",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36432/telisa-plus-40-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telisa Plus",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36433/telisa-plus-80-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telisa-A",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30515/telisa-a-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telisa-A",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30516/telisa-a-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telma",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24817/telma-80-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telma",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24818/telma-40-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telma",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36984/telma-20-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telma Plus",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24827/telma-plus-40-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmacal",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24828/telmacal-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmacal",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29099/telmacal-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmacal",
+    "strength": "10 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33856/telmacal-10-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmacal",
+    "strength": "10 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33857/telmacal-10-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmi-Z",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32558/telmi-z-80-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmicard",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24820/telmicard-40-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmicard",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36722/telmicard-80-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmicard 5/40",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33858/telmicard-540-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmicard 5/80",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35955/telmicard-580-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmicon",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38296/telmicon-80-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmicon-M",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38580/telmicon-m-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmicon-M",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38717/telmicon-m-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmidip",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24830/telmidip-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmidip",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27644/telmidip-5-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmidip",
+    "strength": "10 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32299/telmidip-10-mg-tablet",
+    "_source_page": 716
+  },
+  {
+    "name": "Telmidip",
+    "strength": "10 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33859/telmidip-10-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmifast",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32973/telmifast-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmifast",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32974/telmifast-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmilok",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30197/telmilok-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmilok",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30198/telmilok-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmilok Plus",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31517/telmilok-plus-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmipres",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26247/telmipres-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmipres",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26248/telmipres-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmipres",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30194/telmipres-20-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmipres Plus",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30192/telmipres-plus-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmipres Plus",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30193/telmipres-plus-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmipres Plus",
+    "strength": "80 mg+25 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33819/telmipres-plus-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmisat",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34051/telmisat-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30199/telmitan-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30200/telmitan-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30400/telmitan-20-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan Max",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29343/telmitan-max-5-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan Max",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29344/telmitan-max-5-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan Max",
+    "strength": "10 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31741/telmitan-max-10-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan Max",
+    "strength": "10 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31742/telmitan-max-10-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan Plus",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29985/telmitan-plus-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan Plus",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29986/telmitan-plus-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmitan Plus",
+    "strength": "80 mg+25 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31988/telmitan-plus-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmivas",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30695/telmivas-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmivas",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33969/telmivas-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmivas",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36749/telmivas-20-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmivas AM",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30696/telmivas-am-5-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmivas AM",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33970/telmivas-am-5-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmivas HZ",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35537/telmivas-hz-40-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telmivas HZ",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35538/telmivas-hz-80-mg-tablet",
+    "_source_page": 717
+  },
+  {
+    "name": "Telnor",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37568/telnor-40-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telnor",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37569/telnor-80-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telpro",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31141/telpro-40-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telpro",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31142/telpro-80-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telpro",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33445/telpro-20-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telpro Max",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31143/telpro-max-5-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telpro Max",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31208/telpro-max-5-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telpro Plus",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34476/telpro-plus-80-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telpro Plus",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34477/telpro-plus-40-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telsan",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30201/telsan-40-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telsar",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33355/telsar-40-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telsar",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33356/telsar-80-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telsar AM",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36398/telsar-am-5-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telsar AM",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36399/telsar-am-5-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Teltab",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34946/teltab-40-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Teltab",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38396/teltab-80-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telukast",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3849/telukast-4-mg-chewable-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telukast",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/3850/telukast-5-mg-chewable-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telukast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26582/telukast-10-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Telukast CT",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/34904/telukast-ct-10-mg-chewable-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Tembrox",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27340/tembrox-15-mg-syrup",
+    "_source_page": 718
+  },
+  {
+    "name": "Temcal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27341/temcal-d-500-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Temcard",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28998/temcard-20-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Temcard",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28999/temcard-40-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Temcard",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29000/temcard-80-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Temcard-A",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33854/temcard-a-5-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Temcard-A",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33855/temcard-a-5-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Temcox",
+    "strength": "60 mg",
+    "generic": "Etoricoxib",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20129/temcox-60-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Temcox",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20130/temcox-90-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Temcox",
+    "strength": "120 mg",
+    "generic": "Etoricoxib",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20131/temcox-120-mg-tablet",
+    "_source_page": 718
+  },
+  {
+    "name": "Temfin",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10625/temfin-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temglip",
+    "strength": "1 mg",
+    "generic": "Glimepiride",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28904/temglip-1-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temglip",
+    "strength": "2 mg",
+    "generic": "Glimepiride",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28905/temglip-2-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temixil",
+    "strength": "10 mg",
+    "generic": "Temazepam",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31419/temixil-10-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temnor",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Centeon Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23440/temnor-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temnor Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Centeon Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23553/temnor-plus-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temoket",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21290/temoket-10-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temoket",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/27342/temoket-30-mg-injection",
+    "_source_page": 719
+  },
+  {
+    "name": "Temol",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/23538/temol-120-mg-suspension",
+    "_source_page": 719
+  },
+  {
+    "name": "Temol",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23539/temol-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temol Extra",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23571/temol-extra-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temol XR",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/37006/temol-xr-665-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temolina",
+    "strength": "5 mg",
+    "generic": "Linagliptin",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28780/temolina-5-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temonix",
+    "strength": "100 mg",
+    "generic": "Temozolomide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/17263/temonix-100-mg-capsule",
+    "_source_page": 719
+  },
+  {
+    "name": "Temonix",
+    "strength": "250 mg",
+    "generic": "Temozolomide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/17264/temonix-250-mg-capsule",
+    "_source_page": 719
+  },
+  {
+    "name": "Temovate",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/19445/temovate-005-cream",
+    "_source_page": 719
+  },
+  {
+    "name": "Temovate",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/26858/temovate-005-ointment",
+    "_source_page": 719
+  },
+  {
+    "name": "Temozar",
+    "strength": "100 mg",
+    "generic": "Temozolomide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28386/temozar-100-mg-capsule",
+    "_source_page": 719
+  },
+  {
+    "name": "Temozar",
+    "strength": "250 mg",
+    "generic": "Temozolomide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31162/temozar-250-mg-capsule",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempa Extra",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35669/tempa-extra-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempac",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10526/tempac-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempac",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10527/tempac-120-mg-suspension",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempanil",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10528/tempanil-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempanil Extra",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10626/tempanil-extra-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempil",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27890/tempil-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempol",
+    "strength": "80 mg/ml",
+    "generic": "Paracetamol",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/38085/tempol-80-mg-pediatric-drop",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempol",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/38086/tempol-120-mg-suspension",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempol",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38087/tempol-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempol Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10627/tempol-plus-500-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Tempol-D",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23575/tempol-d-325-mg-tablet",
+    "_source_page": 719
+  },
+  {
+    "name": "Temrif Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10628/temrif-plus-500-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tems",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33040/tems-40-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tems",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33041/tems-80-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tems",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34176/tems-20-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tems A",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34175/tems-a-5-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tems A",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34295/tems-a-5-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tems Plus",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34177/tems-plus-40-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tems Plus",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34178/tems-plus-80-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Temseas",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27343/temseas-syrup",
+    "_source_page": 720
+  },
+  {
+    "name": "Temtac",
+    "strength": "20 mg",
+    "generic": "Famotidine",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34614/temtac-20-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Temtac",
+    "strength": "40 mg/5 ml",
+    "generic": "Famotidine",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/34615/temtac-40-mg-suspension",
+    "_source_page": 720
+  },
+  {
+    "name": "Temtrix",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27344/temtrix-1-gm-injection",
+    "_source_page": 720
+  },
+  {
+    "name": "Temtrix",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27345/temtrix-1-gm-injection",
+    "_source_page": 720
+  },
+  {
+    "name": "Temtrix",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27346/temtrix-2-gm-injection",
+    "_source_page": 720
+  },
+  {
+    "name": "Temvas",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29214/temvas-10-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Temvit Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27347/temvit-gold-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Temvit-N",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25337/temvit-n-100-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Temzinc",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27348/temzinc-10-mg-syrup",
+    "_source_page": 720
+  },
+  {
+    "name": "Temzinc Plus",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/25305/temzinc-plus-syrup",
+    "_source_page": 720
+  },
+  {
+    "name": "Temzinc Plus",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31929/temzinc-plus-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tenac TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/27349/tenac-tr-100-mg-capsule",
+    "_source_page": 720
+  },
+  {
+    "name": "Tenafin",
+    "strength": "1%",
+    "generic": "Butenafine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/30688/tenafin-1-cream",
+    "_source_page": 720
+  },
+  {
+    "name": "Tenapam",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4267/tenapam-3-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tenaxit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4365/tenaxit-05-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tenbee",
+    "strength": "300 mg",
+    "generic": "Tenofovir Disoproxil",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24832/tenbee-300-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tencef",
+    "strength": "400 mg",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18970/tencef-400-mg-capsule",
+    "_source_page": 720
+  },
+  {
+    "name": "Tendia",
+    "strength": "100 mg/2 ml",
+    "generic": "Tramadol Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/31547/tendia-100-mg-injection",
+    "_source_page": 720
+  },
+  {
+    "name": "Tendonil",
+    "strength": "60 mg",
+    "generic": "Acemetacin",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/225/tendonil-60-mg-capsule",
+    "_source_page": 720
+  },
+  {
+    "name": "Tenicar",
+    "strength": "20 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22972/tenicar-20-mg-tablet",
+    "_source_page": 720
+  },
+  {
+    "name": "Tenicar",
+    "strength": "40 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22973/tenicar-40-mg-tablet",
+    "_source_page": 720
+  }
+]

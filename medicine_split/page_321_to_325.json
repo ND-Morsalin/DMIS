@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Fusidate",
+    "strength": "2%",
+    "generic": "Sodium Fusidate (Topical)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/20581/fusidate-2-ointment",
+    "_source_page": 321
+  },
+  {
+    "name": "Fusidate H",
+    "strength": "2%+1%",
+    "generic": "Fusidic acid + Hydrocortisone",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12670/fusidate-h-2-1-cream",
+    "_source_page": 321
+  },
+  {
+    "name": "Fusidin B",
+    "strength": "2%+0.1%",
+    "generic": "Fusidic acid + Betamethasone",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35508/fusidin-b-2-01-cream",
+    "_source_page": 321
+  },
+  {
+    "name": "Fusidin HC",
+    "strength": "2%+1%",
+    "generic": "Fusidic acid + Hydrocortisone",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35507/fusidin-hc-2-1-cream",
+    "_source_page": 321
+  },
+  {
+    "name": "Fusigal",
+    "strength": "2%+0.1%",
+    "generic": "Fusidic acid + Betamethasone",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/16552/fusigal-2-01-cream",
+    "_source_page": 321
+  },
+  {
+    "name": "Fusimed BT",
+    "strength": "2%+0.1%",
+    "generic": "Fusidic acid + Betamethasone",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/20588/fusimed-bt-2-01-cream",
+    "_source_page": 321
+  },
+  {
+    "name": "Fusithal",
+    "strength": "1%",
+    "generic": "Fusidic acid",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Viscous Eye Drop",
+    "source_url": "https://medex.com.bd/brands/20583/fusithal-1-eye-drop",
+    "_source_page": 321
+  },
+  {
+    "name": "Fusitop-HC",
+    "strength": "2%+1%",
+    "generic": "Fusidic acid + Hydrocortisone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/13041/fusitop-hc-2-1-cream",
+    "_source_page": 321
+  },
+  {
+    "name": "Fusitrim",
+    "strength": "2%+1%",
+    "generic": "Fusidic acid + Hydrocortisone",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38056/fusitrim-2-1-cream",
+    "_source_page": 321
+  },
+  {
+    "name": "Fuso",
+    "strength": "2%",
+    "generic": "Ketoconazole",
+    "company": "Ergon Pharmaceuticals (AY)",
+    "medicine_type": "Medicated Bar",
+    "source_url": "https://medex.com.bd/brands/37704/fuso-2-medicated-bar",
+    "_source_page": 321
+  },
+  {
+    "name": "Fusten",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12394/fusten-1-cream",
+    "_source_page": 321
+  },
+  {
+    "name": "Fuxtil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7262/fuxtil-250-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "Fuxtil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7264/fuxtil-125-mg-suspension",
+    "_source_page": 321
+  },
+  {
+    "name": "Fuxtil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7263/fuxtil-500-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "Fuxtil CV",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7422/fuxtil-cv-125-mg-suspension",
+    "_source_page": 321
+  },
+  {
+    "name": "Fuxtil CV",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7421/fuxtil-cv-500-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "Fuxtil CV",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7420/fuxtil-cv-250-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "Fuze",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Avarox Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38161/fuze-50-mg-capsule",
+    "_source_page": 321
+  },
+  {
+    "name": "FXR",
+    "strength": "10 mg",
+    "generic": "Obeticholic Acid",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27275/fxr-10-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "FXR",
+    "strength": "5 mg",
+    "generic": "Obeticholic Acid",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27276/fxr-5-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "Fybogut",
+    "strength": "3.5 gm/5.4 gm",
+    "generic": "Ispaghula Husk  [Psyllium]",
+    "company": "Total Herbal & Nutraceuticals",
+    "medicine_type": "Effervescent Powder",
+    "source_url": "https://medex.com.bd/brands/33679/fybogut-35-gm-eff-powder",
+    "_source_page": 321
+  },
+  {
+    "name": "Fylox",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26444/fylox-400-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "Fylox",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26443/fylox-200-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "G-Adrenaline",
+    "strength": "1 mg/ml",
+    "generic": "Adrenaline",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/35229/g-adrenaline-1-mg-injection",
+    "_source_page": 321
+  },
+  {
+    "name": "G-Albendazole",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/27114/g-albendazole-400-mg-chewable-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "G-Amlo",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/689/g-amlo-5-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "G-Amlo",
+    "strength": "10 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/690/g-amlo-10-mg-tablet",
+    "_source_page": 321
+  },
+  {
+    "name": "G-Amoxicillin",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6526/g-amoxicillin-250-mg-capsule",
+    "_source_page": 321
+  },
+  {
+    "name": "G-Amoxicillin",
+    "strength": "500 mg/vial",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6530/g-amoxicillin-500-mg-injection",
+    "_source_page": 321
+  },
+  {
+    "name": "G-Amoxicillin",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6527/g-amoxicillin-500-mg-capsule",
+    "_source_page": 321
+  },
+  {
+    "name": "G-Amoxicillin",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6529/g-amoxicillin-125-mg-pediatric-drop",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Amoxicillin",
+    "strength": "500 mg/vial",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6530/g-amoxicillin-500-mg-injection",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Antacid",
+    "strength": "250 mg+500 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/516/g-antacid-250-mg-chewable-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Antacid MH",
+    "strength": "(400 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/27113/g-antacid-mh-400-mg-suspension",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Antacid MH",
+    "strength": "400 mg+400 mg+30 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/17556/g-antacid-mh-400-mg-chewable-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Antihistamine",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11816/g-antihistamine-4-mg-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Antihistamine",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11817/g-antihistamine-2-mg-syrup",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Antiseptic",
+    "strength": "0.3%+3%",
+    "generic": "Chlorhexidine Gluconate + Cetrimide",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/13105/g-antiseptic-03-3-solution",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Aspirin",
+    "strength": "300 mg",
+    "generic": "Aspirin",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/3363/g-aspirin-300-mg-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Atorvast",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1186/g-atorvast-20-mg-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Atorvast",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1185/g-atorvast-10-mg-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Atropine",
+    "strength": "0.6 mg/ml",
+    "generic": "Atropine Sulfate (Injection)",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/1314/g-atropine-06-mg-injection",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Azithromycin",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35223/g-azithromycin-500-mg-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-B Benzoate",
+    "strength": "25% w/v",
+    "generic": "Benzyl Benzoate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Emulsion",
+    "source_url": "https://medex.com.bd/brands/12474/g-b-benzoate-25-w-emulsion",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Benzathine Penicil",
+    "strength": "12 lac units/vial",
+    "generic": "Benzathine Penicillin",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/30635/g-benzathine-penicil-12-lac-injection",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Benzathine Penicil",
+    "strength": "6 lac units/vial",
+    "generic": "Benzathine Penicillin",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/30636/g-benzathine-penicil-6-lac-injection",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Benzosal",
+    "strength": "6%+3%",
+    "generic": "Benzoic Acid + Salicylic Acid",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12458/g-benzosal-6-3-ointment",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Bupivacaine Heavy",
+    "strength": "0.5%+8%",
+    "generic": "Bupivacaine Hydrochloride + Dextrose",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Intraspinal Injection",
+    "source_url": "https://medex.com.bd/brands/15529/g-bupivacaine-heavy-05-8-injection",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Cal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27118/g-cal-d-500-mg-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Calbo",
+    "strength": "500 mg+200 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29611/g-calbo-500-mg-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Calbo DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34451/g-calbo-dx-600-mg-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Calcitriol",
+    "strength": "1 mcg/ml",
+    "generic": "Calcitriol",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/35230/g-calcitriol-1-mcg-injection",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Calcium Gluconate",
+    "strength": "500 mg/5 ml",
+    "generic": "Calcium Gluconate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/14261/g-calcium-gluconate-500-mg-injection",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Calcium Lactate",
+    "strength": "300 mg",
+    "generic": "Calcium Lactate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14260/g-calcium-lactate-300-mg-tablet",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Cefixime",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7574/g-cefixime-200-mg-suspension",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Cefixime",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7573/g-cefixime-200-mg-capsule",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Cefixime",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35224/g-cefixime-400-mg-capsule",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Cefradine",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cephradine",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6898/g-cefradine-125-mg-pediatric-drop",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Cefradine",
+    "strength": "500 mg/vial",
+    "generic": "Cephradine",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6899/g-cefradine-500-mg-injection",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Cefradine",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6897/g-cefradine-125-mg-suspension",
+    "_source_page": 322
+  },
+  {
+    "name": "G-Cefradine",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cephradine",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6898/g-cefradine-125-mg-pediatric-drop",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Ceftriax",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7992/g-ceftriax-250-mg-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Ceftriax",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/7991/g-ceftriax-1-gm-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Ceftriax",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27707/g-ceftriax-2-gm-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Ceftriax",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/7990/g-ceftriax-500-mg-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Ceftriax",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/7989/g-ceftriax-250-mg-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Ceftriax",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7993/g-ceftriax-500-mg-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Ceftriax",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7994/g-ceftriax-1-gm-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cephalexin",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephalexin",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/30795/g-cephalexin-125-mg-suspension",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cephalexin",
+    "strength": "250 mg",
+    "generic": "Cephalexin",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30796/g-cephalexin-250-mg-capsule",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cetrizine",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19146/g-cetrizine-10-mg-tablet",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cetrizine",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/19147/g-cetrizine-5-mg-syrup",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Chloramphenicol",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/8894/g-chloramphenicol-05-eye-drop",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cipro",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15704/g-cipro-03-eye-drop",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cipro",
+    "strength": "200 mg/100 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9282/g-cipro-200-mg-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cipro",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9281/g-cipro-500-mg-tablet",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cloxacillin",
+    "strength": "500 mg/vial",
+    "generic": "Cloxacillin Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6203/g-cloxacillin-500-mg-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Co-Aspirin",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19522/g-co-aspirin-75-mg-tablet",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Con",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16273/g-con-005-nasal-drop",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Con",
+    "strength": "0.025%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16272/g-con-0025-nasal-drop",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cotrimoxazole",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9021/g-cotrimoxazole-200-mg-suspension",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cotrimoxazole",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9020/g-cotrimoxazole-400-mg-tablet",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cox",
+    "strength": "120 mg",
+    "generic": "Etoricoxib",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35511/g-cox-120-mg-tablet",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cox",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35510/g-cox-90-mg-tablet",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Cromo",
+    "strength": "2%",
+    "generic": "Sodium Cromoglicate [2%]",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27119/g-cromo-2-eye-drop",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Daclatasvir",
+    "strength": "60 mg",
+    "generic": "Daclatasvir",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35231/g-daclatasvir-60-mg-tablet",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Dexamethasone",
+    "strength": "4 mg/ml",
+    "generic": "Dexamethasone",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/5767/g-dexamethasone-4-mg-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Dextrose",
+    "strength": "25%",
+    "generic": "Dextrose",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35232/g-dextrose-25-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Diazepam",
+    "strength": "5 mg",
+    "generic": "Diazepam",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4226/g-diazepam-5-mg-tablet",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Diazepam",
+    "strength": "10 mg/2 ml",
+    "generic": "Diazepam",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/4227/g-diazepam-10-mg-injection",
+    "_source_page": 323
+  },
+  {
+    "name": "G-Diclofenac",
+    "strength": "75 mg/3 ml",
+    "generic": "Diclofenac Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/11016/g-diclofenac-75-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Diclofenac",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11015/g-diclofenac-50-mg-tablet",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Ephedrine",
+    "strength": "5 mg/5 ml",
+    "generic": "Ephedrine Hydrochloride",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/3628/g-ephedrine-5-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Ergometrine",
+    "strength": "0.125 mg",
+    "generic": "Ergometrine Maleate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16482/g-ergometrine-0125-mg-tablet",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Ergometrine",
+    "strength": "0.2 mg/ml",
+    "generic": "Ergometrine Maleate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/16483/g-ergometrine-02-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Ferric",
+    "strength": "500 mg/10 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/32429/g-ferric-500-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Fix",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7577/g-fix-200-mg-capsule",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Fix",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7578/g-fix-100-mg-suspension",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Fix",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32934/g-fix-400-mg-capsule",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Flucloxacillin",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6349/g-flucloxacillin-125-mg-suspension",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Flucloxacillin",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6347/g-flucloxacillin-500-mg-capsule",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Flucloxacillin",
+    "strength": "500 mg/vial",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6348/g-flucloxacillin-500-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Fresh",
+    "strength": "0.5%+0.9%",
+    "generic": "Carboxymethylcellulose Sodium + Glycerin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18588/g-fresh-05-09-eye-drop",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Furosemide",
+    "strength": "40 mg",
+    "generic": "Furosemide",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2842/g-furosemide-40-mg-tablet",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Furosemide",
+    "strength": "20 mg/2 ml",
+    "generic": "Furosemide",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/2843/g-furosemide-20-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Furosemide",
+    "strength": "250 mg",
+    "generic": "Furosemide",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35233/g-furosemide-250-mg-tablet",
+    "_source_page": 324
+  },
+  {
+    "name": "G-G Vin",
+    "strength": "500 mg",
+    "generic": "Griseofulvin [Microsize]",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9789/g-g-vin-500-mg-tablet",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Gentamicin",
+    "strength": "0.3%",
+    "generic": "Gentamicin Sulfate (Ophthalmic)",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/8408/g-gentamicin-03-eye-drop",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Gentamicin",
+    "strength": "80 mg/2 ml",
+    "generic": "Gentamicin Sulfate (Injection)",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8397/g-gentamicin-80-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Gentamicin",
+    "strength": "40 mg/2 ml",
+    "generic": "Gentamicin Sulfate (Injection)",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8396/g-gentamicin-40-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Gliclazide",
+    "strength": "80 mg",
+    "generic": "Gliclazide",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20676/g-gliclazide-80-mg-tablet",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Haemodialysis A",
+    "strength": null,
+    "generic": "Acidic component [HCO3 Hemodialysis Solution]",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Dialysis Solution",
+    "source_url": "https://medex.com.bd/brands/35252/g-haemodialysis-a-dialysis-solution",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Haemodialysis B",
+    "strength": null,
+    "generic": "Bicarbonate Component [HCO3 Hemodialysis Solution]",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Dialysis Solution",
+    "source_url": "https://medex.com.bd/brands/15641/g-haemodialysis-b-dialysis-solution",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Haloperidol",
+    "strength": "5 mg",
+    "generic": "Haloperidol",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20837/g-haloperidol-5-mg-tablet",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Heparin",
+    "strength": "25000 IU/5 ml",
+    "generic": "Heparin Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/20844/g-heparin-25000-iu-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Hidrocortisone",
+    "strength": "100 mg/2 ml",
+    "generic": "Hydrocortisone",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/35236/g-hidrocortisone-100-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Hyoscine",
+    "strength": "10 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1361/g-hyoscine-10-mg-tablet",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Hyoscine",
+    "strength": "20 mg/ml",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/1362/g-hyoscine-20-mg-injection",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Hypophos",
+    "strength": "667 mg",
+    "generic": "Calcium Acetate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18454/g-hypophos-667-mg-tablet",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Hypromellose",
+    "strength": "0.3%",
+    "generic": "Hypromellose",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/35235/g-hypromellose-03-eye-drop",
+    "_source_page": 324
+  },
+  {
+    "name": "G-Ibuprofen",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11275/g-ibuprofen-400-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Ipra",
+    "strength": "250 mcg/ml",
+    "generic": "Ipratropium Bromide",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Nebuliser Solution",
+    "source_url": "https://medex.com.bd/brands/3633/g-ipra-250-mcg-respirator-solution",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Iron",
+    "strength": "200 mg/5 ml",
+    "generic": "Ferrous Sulfate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/12902/g-iron-200-mg-syrup",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Iron Folic acid",
+    "strength": "308 mg+350 mcg",
+    "generic": "Ferrous Fumarate + Folic acid",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13172/g-iron-folic-acid-308-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Ketamine",
+    "strength": "50 mg/ml",
+    "generic": "Ketamine Hydrochloride",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15267/g-ketamine-50-mg-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Levamizole",
+    "strength": "40 mg/5 ml",
+    "generic": "Levamisole Hydrochloride",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/35237/g-levamizole-40-mg-syrup",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Levofloxacin",
+    "strength": "500 mg/100 ml",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35238/g-levofloxacin-500-mg-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Lidocaine",
+    "strength": "2%",
+    "generic": "Lidocaine Hydrochloride (Injection)",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/12317/g-lidocaine-2-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Lidocaine & Adrenaline",
+    "strength": "2%+0.0005%",
+    "generic": "Lidocaine + Adrenaline",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/16523/g-lidocaine-adrenaline-2-00005-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Losartan",
+    "strength": "25 mg",
+    "generic": "Losartan Potassium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2711/g-losartan-25-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Losartan",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2712/g-losartan-50-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Mag Sulph",
+    "strength": "4 gm/100 ml",
+    "generic": "Magnesium Sulfate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14544/g-mag-sulph-4-gm-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Mag Sulph",
+    "strength": "2.5 gm/5 ml",
+    "generic": "Magnesium Sulfate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/14543/g-mag-sulph-25-gm-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Meropenem",
+    "strength": "500 mg/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/35225/g-meropenem-500-mg-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Meropenem",
+    "strength": "1 gm/vial",
+    "generic": "Meropenem Trihydrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/35226/g-meropenem-1-gm-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Metformin",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5398/g-metformin-850-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Metformin",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5397/g-metformin-500-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Metoprolol",
+    "strength": "50 mg",
+    "generic": "Metoprolol Tartrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35241/g-metoprolol-50-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Metronidazole",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10113/g-metronidazole-200-mg-suspension",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Metronidazole",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10112/g-metronidazole-400-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Miconazole",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/22470/g-miconazole-2-w-cream",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Misoprostol",
+    "strength": "200 mcg",
+    "generic": "Misoprostol",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15657/g-misoprostol-200-mcg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Montelukast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35240/g-montelukast-10-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Montelukast",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35239/g-montelukast-5-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Morphine",
+    "strength": "15 mg/ml",
+    "generic": "Morphine Sulfate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/35242/g-morphine-15-mg-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Morphine SR",
+    "strength": "15 mg",
+    "generic": "Morphine Sulfate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/35243/g-morphine-sr-15-mg-tablet",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Neobacitracin",
+    "strength": "(5 mg+250 IU)/gm",
+    "generic": "Neomycin Sulfate + Bacitracin Zinc",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Topical Powder",
+    "source_url": "https://medex.com.bd/brands/35244/g-neobacitracin-5-mg-powder",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Neostigmine",
+    "strength": "0.5 mg/ml",
+    "generic": "Neostigmine Methylsulphate",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/15505/g-neostigmine-05-mg-injection",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Normal Saline",
+    "strength": "5%",
+    "generic": "Sodium Chloride (Ophthalmic)",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/35245/g-normal-saline-5-eye-drop",
+    "_source_page": 325
+  },
+  {
+    "name": "G-Omeprazole",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Gonoshasthaya Pharma Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23042/g-omeprazole-20-mg-capsule",
+    "_source_page": 325
+  }
+]

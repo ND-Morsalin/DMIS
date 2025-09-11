@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Relye",
+    "strength": "0.09%",
+    "generic": "Bromfenac Sodium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18350/relye-009-eye-drop",
+    "_source_page": 626
+  },
+  {
+    "name": "Relyto",
+    "strength": "10 mg/ml",
+    "generic": "Rituximab",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17315/relyto-10-mg-injection",
+    "_source_page": 626
+  },
+  {
+    "name": "Rem",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4264/rem-3-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Rema-Zith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25660/rema-zith-500-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Rema-Zith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25661/rema-zith-200-mg-suspension",
+    "_source_page": 626
+  },
+  {
+    "name": "Remac",
+    "strength": "500 mg",
+    "generic": "Clarithromycin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8774/remac-500-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Remac",
+    "strength": "125 mg/5 ml",
+    "generic": "Clarithromycin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/19384/remac-125-mg-suspension",
+    "_source_page": 626
+  },
+  {
+    "name": "Remacid",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/485/remacid-175-mg-suspension",
+    "_source_page": 626
+  },
+  {
+    "name": "Remacid Plus",
+    "strength": "200 mg+200 mg+30 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/514/remacid-plus-200-mg-chewable-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Remacin",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11846/remacin-4-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Remacort N",
+    "strength": "0.5%+0.5%",
+    "generic": "Hydrocortisone Acetate + Neomycin Sulphate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12663/remacort-n-05-05-cream",
+    "_source_page": 626
+  },
+  {
+    "name": "Remadon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1640/remadon-10-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Remagyl",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10221/remagyl-200-mg-suspension",
+    "_source_page": 626
+  },
+  {
+    "name": "Remalgin",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10494/remalgin-500-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Remalgin",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10495/remalgin-120-mg-suspension",
+    "_source_page": 626
+  },
+  {
+    "name": "Remalgin Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10617/remalgin-plus-500-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Remamox",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6625/remamox-250-mg-capsule",
+    "_source_page": 626
+  },
+  {
+    "name": "Remamox",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6626/remamox-500-mg-capsule",
+    "_source_page": 626
+  },
+  {
+    "name": "Remamox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6627/remamox-125-mg-suspension",
+    "_source_page": 626
+  },
+  {
+    "name": "Remap",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4068/remap-15-mg-syrup",
+    "_source_page": 626
+  },
+  {
+    "name": "Remaplex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13824/remaplex-5-mg-capsule",
+    "_source_page": 626
+  },
+  {
+    "name": "Remaplex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13825/remaplex-5-mg-syrup",
+    "_source_page": 626
+  },
+  {
+    "name": "Remaprost",
+    "strength": "0.005%",
+    "generic": "Latanoprost",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16071/remaprost-0005-eye-drop",
+    "_source_page": 626
+  },
+  {
+    "name": "Remathrin",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12504/remathrin-5-w-cream",
+    "_source_page": 626
+  },
+  {
+    "name": "Rematib",
+    "strength": "15 mg",
+    "generic": "Upadacitinib",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/33866/rematib-15-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Remave SR",
+    "strength": "200 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/27208/remave-sr-200-mg-capsule",
+    "_source_page": 626
+  },
+  {
+    "name": "Remavit-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14221/remavit-m-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Remazin",
+    "strength": "50 mg",
+    "generic": "Diethylcarbamazine Citrate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10355/remazin-50-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Rembac",
+    "strength": "10 mg",
+    "generic": "Baclofen",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11754/rembac-10-mg-tablet",
+    "_source_page": 626
+  },
+  {
+    "name": "Remcor",
+    "strength": "5 mg/ml",
+    "generic": "Remdesivir",
+    "company": "ACI Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/31544/remcor-5-mg-injection",
+    "_source_page": 626
+  },
+  {
+    "name": "Remdevir",
+    "strength": "5 mg/ml",
+    "generic": "Remdesivir",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29046/remdevir-5-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remdigen",
+    "strength": "5 mg/ml",
+    "generic": "Remdesivir",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/30376/remdigen-5-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remdinil",
+    "strength": "5 mg/ml",
+    "generic": "Remdesivir",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29033/remdinil-5-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remens",
+    "strength": "5 mg",
+    "generic": "Norethisterone Acetate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5923/remens-5-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Remet",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32551/remet-400-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Remicade",
+    "strength": "100 mg/20 ml",
+    "generic": "Infliximab",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Intravitreal Injection",
+    "source_url": "https://medex.com.bd/brands/28303/remicade-100-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remicov",
+    "strength": "5 mg/ml",
+    "generic": "Remdesivir",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/30294/remicov-5-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remicron MR",
+    "strength": "30 mg",
+    "generic": "Gliclazide",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/35425/remicron-mr-30-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Remicron MR",
+    "strength": "60 mg",
+    "generic": "Gliclazide",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/35426/remicron-mr-60-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Remifen",
+    "strength": "1 mg/vial",
+    "generic": "Remifentanil Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/33807/remifen-1-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remifentanil",
+    "strength": "1 mg/vial",
+    "generic": "Remifentanil Hydrochloride",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/33808/remifentanil-1-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remifentanil",
+    "strength": "2 mg/vial",
+    "generic": "Remifentanil Hydrochloride",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/33809/remifentanil-2-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remino",
+    "strength": "600 mg",
+    "generic": "Amino Acid Ketoanalogues",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36946/remino-600-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Remivir",
+    "strength": "5 mg/ml",
+    "generic": "Remdesivir",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/28387/remivir-5-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "REMMO",
+    "strength": "20 mg",
+    "generic": "Esomeprazole (MUPS preparation)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "MUPS Tablet",
+    "source_url": "https://medex.com.bd/brands/29515/remmo-20-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "REMMO",
+    "strength": "40 mg",
+    "generic": "Esomeprazole (MUPS preparation)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "MUPS Tablet",
+    "source_url": "https://medex.com.bd/brands/29526/remmo-40-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "REMMO",
+    "strength": "40 mg/vial",
+    "generic": "Esomeprazole (MUPS preparation)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/34363/remmo-40-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remood",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4359/remood-05-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Remopain",
+    "strength": "30%+10%+4%",
+    "generic": "Methyl Salicylate + Menthol + Camphor",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/29536/remopain-30-10-cream",
+    "_source_page": 627
+  },
+  {
+    "name": "Remophos",
+    "strength": "667 mg",
+    "generic": "Calcium Acetate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15645/remophos-667-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Remox",
+    "strength": "250 mg",
+    "generic": "Acetazolamide",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/228/remox-250-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Remoxin",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6628/remoxin-500-mg-capsule",
+    "_source_page": 627
+  },
+  {
+    "name": "Remoxin",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6629/remoxin-125-mg-suspension",
+    "_source_page": 627
+  },
+  {
+    "name": "Remsima",
+    "strength": "100 mg/20 ml",
+    "generic": "Infliximab",
+    "company": "ZAS Corporation",
+    "medicine_type": "Intravitreal Injection",
+    "source_url": "https://medex.com.bd/brands/38264/remsima-100-mg-injection",
+    "_source_page": 627
+  },
+  {
+    "name": "Remtin",
+    "strength": "5 mg",
+    "generic": "Memantine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5191/remtin-5-mg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Remtin XR",
+    "strength": "7 mg",
+    "generic": "Memantine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/33813/remtin-xr-7-mg-capsule",
+    "_source_page": 627
+  },
+  {
+    "name": "Remtin XR",
+    "strength": "14 mg",
+    "generic": "Memantine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/33814/remtin-xr-14-mg-capsule",
+    "_source_page": 627
+  },
+  {
+    "name": "Remus",
+    "strength": "0.03%",
+    "generic": "Tacrolimus Monohydrate (Topical)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12757/remus-003-ointment",
+    "_source_page": 627
+  },
+  {
+    "name": "Remus",
+    "strength": "0.1%",
+    "generic": "Tacrolimus Monohydrate (Topical)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12758/remus-01-ointment",
+    "_source_page": 627
+  },
+  {
+    "name": "Remylin",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13450/remylin-500-mcg-tablet",
+    "_source_page": 627
+  },
+  {
+    "name": "Renabec-FG",
+    "strength": "(100 mcg+6 mcg+10 mcg)/puff",
+    "generic": "Beclometasone + Formoterol + Glycopyrronium",
+    "company": "Renata PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/38214/renabec-fg-100-mcg-inhaler",
+    "_source_page": 628
+  },
+  {
+    "name": "Renac TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11077/renac-tr-100-mg-capsule",
+    "_source_page": 628
+  },
+  {
+    "name": "Renacid",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "generic": "Sodium Alginate + Potassium Bicarbonate",
+    "company": "Renata PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/32108/renacid-500-mg-suspension",
+    "_source_page": 628
+  },
+  {
+    "name": "Renafor-B",
+    "strength": "(80 mcg+4.5 mcg)/puff",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/36181/renafor-b-80-mcg-inhaler",
+    "_source_page": 628
+  },
+  {
+    "name": "Renafor-B",
+    "strength": "(160 mcg+4.5 mcg)/puff",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/36182/renafor-b-160-mcg-inhaler",
+    "_source_page": 628
+  },
+  {
+    "name": "Renafor-B",
+    "strength": "100 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/36183/renafor-b-100-mcg-inhalation-capsule",
+    "_source_page": 628
+  },
+  {
+    "name": "Renafor-B",
+    "strength": "200 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/36184/renafor-b-200-mcg-inhalation-capsule",
+    "_source_page": 628
+  },
+  {
+    "name": "Renafor-B",
+    "strength": "400 mcg+12 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/36185/renafor-b-400-mcg-inhalation-capsule",
+    "_source_page": 628
+  },
+  {
+    "name": "Renafor-G",
+    "strength": "(9 mcg+4.8 mcg)/puff",
+    "generic": "Glycopyrronium Bromide + Formoterol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/38389/renafor-g-9-mcg-inhaler",
+    "_source_page": 628
+  },
+  {
+    "name": "Renahaler",
+    "strength": null,
+    "generic": "Inhaler device",
+    "company": "Renata PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/34188/renahaler-inhaler",
+    "_source_page": 628
+  },
+  {
+    "name": "Renal Care A",
+    "strength": null,
+    "generic": "Acidic component [HCO3 Hemodialysis Solution]",
+    "company": "Greenland Pharmaceuticals Ltd.",
+    "medicine_type": "Dialysis Solution",
+    "source_url": "https://medex.com.bd/brands/36846/renal-care-a-dialysis-solution",
+    "_source_page": 628
+  },
+  {
+    "name": "Renal Care B",
+    "strength": null,
+    "generic": "Bicarbonate Component [HCO3 Hemodialysis Solution]",
+    "company": "Greenland Pharmaceuticals Ltd.",
+    "medicine_type": "Dialysis Solution",
+    "source_url": "https://medex.com.bd/brands/36847/renal-care-b-dialysis-solution",
+    "_source_page": 628
+  },
+  {
+    "name": "Renalaid-A",
+    "strength": null,
+    "generic": "Acidic component [HCO3 Hemodialysis Solution]",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Dialysis Solution",
+    "source_url": "https://medex.com.bd/brands/28690/renalaid-a-dialysis-solution",
+    "_source_page": 628
+  },
+  {
+    "name": "Renalaid-B",
+    "strength": null,
+    "generic": "Bicarbonate Component [HCO3 Hemodialysis Solution]",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Dialysis Solution",
+    "source_url": "https://medex.com.bd/brands/28691/renalaid-b-dialysis-solution",
+    "_source_page": 628
+  },
+  {
+    "name": "Renaliv",
+    "strength": "5 mg",
+    "generic": "Linagliptin",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27207/renaliv-5-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renaliv Met",
+    "strength": "2.5 mg+500 mg",
+    "generic": "Linagliptin + Metformin Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27206/renaliv-met-25-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renamycin",
+    "strength": "250 mg",
+    "generic": "Oxytetracycline",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8326/renamycin-250-mg-capsule",
+    "_source_page": 628
+  },
+  {
+    "name": "Renamycin",
+    "strength": "500 mg",
+    "generic": "Oxytetracycline",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37496/renamycin-500-mg-capsule",
+    "_source_page": 628
+  },
+  {
+    "name": "Renamycin",
+    "strength": "50 mg/ml",
+    "generic": "Oxytetracycline",
+    "company": "Renata PLC",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/37986/renamycin-50-mg-injection",
+    "_source_page": 628
+  },
+  {
+    "name": "Renapine",
+    "strength": "100 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31204/renapine-100-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renapine",
+    "strength": "25 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31205/renapine-25-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renapine XR",
+    "strength": "200 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32594/renapine-xr-200-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renapine XR",
+    "strength": "50 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32626/renapine-xr-50-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renapine XR",
+    "strength": "300 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/34285/renapine-xr-300-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renaplat",
+    "strength": "1 mg/ml",
+    "generic": "Cisplatin",
+    "company": "Renata PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38383/renaplat-1-mg-injection",
+    "_source_page": 628
+  },
+  {
+    "name": "Renasone",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Renata PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/32595/renasone-1-01-cream",
+    "_source_page": 628
+  },
+  {
+    "name": "Renep",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13695/renep-100-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renesis",
+    "strength": "20 mg",
+    "generic": "Roxadustat",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32667/renesis-20-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renesis",
+    "strength": "50 mg",
+    "generic": "Roxadustat",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32668/renesis-50-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renesis",
+    "strength": "100 mg",
+    "generic": "Roxadustat",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32669/renesis-100-mg-tablet",
+    "_source_page": 628
+  },
+  {
+    "name": "Renesis",
+    "strength": "70 mg",
+    "generic": "Roxadustat",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35345/renesis-70-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renesis",
+    "strength": "150 mg",
+    "generic": "Roxadustat",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36792/renesis-150-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renexin XR",
+    "strength": "500 mg",
+    "generic": "Ranolazine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/36365/renexin-xr-500-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renfit",
+    "strength": "10 mg",
+    "generic": "Finerenone",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37991/renfit-10-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renfit",
+    "strength": "20 mg",
+    "generic": "Finerenone",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37992/renfit-20-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renib",
+    "strength": "40 mg",
+    "generic": "Regorafenib Monohydrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34804/renib-40-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renisol",
+    "strength": "1%",
+    "generic": "Prednisolone Acetate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15920/renisol-1-suspension",
+    "_source_page": 629
+  },
+  {
+    "name": "RenoAlfa",
+    "strength": "600 mg",
+    "generic": "Amino Acid Ketoanalogues",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36561/renoalfa-600-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renocal Plus",
+    "strength": "435 mg+ 235 mg",
+    "generic": "Calcium acetate +  Magnesium carbonate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33237/renocal-plus-435-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renocarb",
+    "strength": "600 mg",
+    "generic": "Sodium Bicarbonate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37356/renocarb-600-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renocid",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/484/renocid-175-mg-suspension",
+    "_source_page": 629
+  },
+  {
+    "name": "Renofix",
+    "strength": "20 mg",
+    "generic": "Roxadustat",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34311/renofix-20-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renofix",
+    "strength": "50 mg",
+    "generic": "Roxadustat",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34312/renofix-50-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renofix",
+    "strength": "70 mg",
+    "generic": "Roxadustat",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35271/renofix-70-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renofix",
+    "strength": "100 mg",
+    "generic": "Roxadustat",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38103/renofix-100-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renolina",
+    "strength": "5 mg",
+    "generic": "Linagliptin",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33738/renolina-5-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renolina M",
+    "strength": "2.5 mg+500 mg",
+    "generic": "Linagliptin + Metformin Hydrochloride",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35543/renolina-m-25-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renolina M",
+    "strength": "2.5 mg+850 mg",
+    "generic": "Linagliptin + Metformin Hydrochloride",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35544/renolina-m-25-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renolog",
+    "strength": "600 mg",
+    "generic": "Amino Acid Ketoanalogues",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35174/renolog-600-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renon",
+    "strength": "10 mg",
+    "generic": "Finerenone",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36562/renon-10-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renopro",
+    "strength": "10 mg",
+    "generic": "Finerenone",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37045/renopro-10-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renopro",
+    "strength": "20 mg",
+    "generic": "Finerenone",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37046/renopro-20-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renorma",
+    "strength": "2.5 mg",
+    "generic": "Tibolone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5929/renorma-25-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renosart",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21840/renosart-50-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renosart Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21886/renosart-plus-50-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renosev",
+    "strength": "800 mg",
+    "generic": "Sevelamer Carbonate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15648/renosev-800-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renova",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10496/renova-500-mg-tablet",
+    "_source_page": 629
+  },
+  {
+    "name": "Renova",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10499/renova-120-mg-suspension",
+    "_source_page": 629
+  },
+  {
+    "name": "Renova",
+    "strength": "80 mg/ml",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/10500/renova-80-mg-pediatric-drop",
+    "_source_page": 629
+  },
+  {
+    "name": "Renova",
+    "strength": "10 mg/ml",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/10501/renova-10-mg-injection",
+    "_source_page": 629
+  },
+  {
+    "name": "Renova",
+    "strength": "60 mg",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10502/renova-60-mg-suppository",
+    "_source_page": 630
+  },
+  {
+    "name": "Renova",
+    "strength": "125 mg",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10503/renova-125-mg-suppository",
+    "_source_page": 630
+  },
+  {
+    "name": "Renova",
+    "strength": "250 mg",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10504/renova-250-mg-suppository",
+    "_source_page": 630
+  },
+  {
+    "name": "Renova",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10505/renova-500-mg-suppository",
+    "_source_page": 630
+  },
+  {
+    "name": "Renova",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28322/renova-120-mg-syrup",
+    "_source_page": 630
+  },
+  {
+    "name": "Renova Max",
+    "strength": "1000 mg",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31916/renova-max-1000-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renova Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10618/renova-plus-500-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renova T",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10778/renova-t-325-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renova XR",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/10497/renova-xr-665-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renovit",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13696/renovit-100-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renovit",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/13697/renovit-100-mg-injection",
+    "_source_page": 630
+  },
+  {
+    "name": "Renoxtin",
+    "strength": "5 mg/ml",
+    "generic": "Oxaliplatin",
+    "company": "Renata PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36123/renoxtin-5-mg-injection",
+    "_source_page": 630
+  },
+  {
+    "name": "Renustat",
+    "strength": "50 mg",
+    "generic": "Roxadustat",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37511/renustat-50-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renvela",
+    "strength": "800 mg",
+    "generic": "Sevelamer Carbonate",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15649/renvela-800-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renvista",
+    "strength": "20 mg",
+    "generic": "Roxadustat",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36020/renvista-20-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renvista",
+    "strength": "50 mg",
+    "generic": "Roxadustat",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36021/renvista-50-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renvista",
+    "strength": "100 mg",
+    "generic": "Roxadustat",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36022/renvista-100-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renvista",
+    "strength": "70 mg",
+    "generic": "Roxadustat",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37025/renvista-70-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Renxit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4362/renxit-05-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Reocef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6976/reocef-500-mg-capsule",
+    "_source_page": 630
+  },
+  {
+    "name": "Reocef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6977/reocef-125-mg-suspension",
+    "_source_page": 630
+  },
+  {
+    "name": "Reocin K",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23627/reocin-k-250-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Reofen",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "National Drug Co. Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36985/reofen-100-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Reomen",
+    "strength": "50 mg",
+    "generic": "Clomiphene Citrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5963/reomen-50-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Reoplex",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13380/reoplex-syrup",
+    "_source_page": 630
+  },
+  {
+    "name": "Reoplex Forte",
+    "strength": "(100 mg+50 mg+100 mg)/2 ml",
+    "generic": "Vitamin B1, B2 & B6",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/13631/reoplex-forte-100-mg-injection",
+    "_source_page": 630
+  },
+  {
+    "name": "Reoplex Forte",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13826/reoplex-forte-5-mg-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Reoplex Forte",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13827/reoplex-forte-5-mg-syrup",
+    "_source_page": 630
+  },
+  {
+    "name": "Reoplex Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14113/reoplex-gold-tablet",
+    "_source_page": 630
+  },
+  {
+    "name": "Reoplex Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14151/reoplex-silver-tablet",
+    "_source_page": 630
+  }
+]

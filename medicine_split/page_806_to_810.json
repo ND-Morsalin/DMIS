@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Ximetil",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7366/ximetil-750-mg-injection",
+    "_source_page": 806
+  },
+  {
+    "name": "Ximetil",
+    "strength": "1.5 gm/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7367/ximetil-15-gm-injection",
+    "_source_page": 806
+  },
+  {
+    "name": "Ximetil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26670/ximetil-125-mg-suspension",
+    "_source_page": 806
+  },
+  {
+    "name": "Ximocef",
+    "strength": "200 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7839/ximocef-200-mg-capsule",
+    "_source_page": 806
+  },
+  {
+    "name": "Ximocef",
+    "strength": "20 mg/ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/7841/ximocef-20-mg-pediatric-drop",
+    "_source_page": 806
+  },
+  {
+    "name": "Ximocef-40",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7840/ximocef-40-40-mg-suspension",
+    "_source_page": 806
+  },
+  {
+    "name": "Ximorox",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7368/ximorox-250-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Ximorox",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7369/ximorox-500-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Ximorox",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7370/ximorox-125-mg-suspension",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinarox",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7319/xinarox-250-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinarox",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7320/xinarox-500-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinarox",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/17178/xinarox-750-mg-injection",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinarox",
+    "strength": "1.5 gm/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/17179/xinarox-15-gm-injection",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinarox CV",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26004/xinarox-cv-250-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinarox CV",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26005/xinarox-cv-500-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinc",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14590/xinc-20-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinc",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14591/xinc-10-mg-syrup",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinc B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14701/xinc-b-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinc B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14702/xinc-b-syrup",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinc OT",
+    "strength": "60 mg",
+    "generic": "Zinc Orotate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32435/xinc-ot-60-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Xindal",
+    "strength": "150 mg",
+    "generic": "Clindamycin",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8854/xindal-150-mg-capsule",
+    "_source_page": 806
+  },
+  {
+    "name": "Xindal",
+    "strength": "300 mg",
+    "generic": "Clindamycin",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8855/xindal-300-mg-capsule",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinolax DR",
+    "strength": "20 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/4504/xinolax-dr-20-mg-dr-capsule",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinolax DR",
+    "strength": "30 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/4505/xinolax-dr-30-mg-dr-capsule",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinolax DR",
+    "strength": "60 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/4506/xinolax-dr-60-mg-dr-capsule",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinoplex",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14703/xinoplex-syrup",
+    "_source_page": 806
+  },
+  {
+    "name": "Xinoplex I",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13386/xinoplex-i-syrup",
+    "_source_page": 806
+  },
+  {
+    "name": "Xioclin",
+    "strength": "300 mg",
+    "generic": "Clindamycin",
+    "company": "Edruc Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/19398/xioclin-300-mg-capsule",
+    "_source_page": 806
+  },
+  {
+    "name": "Xioclon",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4886/xioclon-05-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Xioclon",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4887/xioclon-1-mg-tablet",
+    "_source_page": 806
+  },
+  {
+    "name": "Xioclon",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4888/xioclon-2-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xiomox",
+    "strength": "400 mg",
+    "generic": "Moxifloxacin Hydrochloride (Tablet)",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31022/xiomox-400-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xionil",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4269/xionil-3-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xiopam",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18326/xiopam-3-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xiotic",
+    "strength": "0.5 mg",
+    "generic": "Alprazolam",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/213/xiotic-05-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xirocip",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9359/xirocip-500-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xirocip",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9361/xirocip-250-mg-suspension",
+    "_source_page": 807
+  },
+  {
+    "name": "Xirocip",
+    "strength": "200 mg/100 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9362/xirocip-200-mg-injection",
+    "_source_page": 807
+  },
+  {
+    "name": "Xirocip XR",
+    "strength": "1000 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/9360/xirocip-xr-1000-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xirofen",
+    "strength": "0.09%",
+    "generic": "Bromfenac Sodium",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/30674/xirofen-009-eye-drop",
+    "_source_page": 807
+  },
+  {
+    "name": "Xiroket",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29267/xiroket-10-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xiroket",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/29268/xiroket-30-mg-injection",
+    "_source_page": 807
+  },
+  {
+    "name": "Xirom",
+    "strength": "0.07%",
+    "generic": "Bromfenac Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/26435/xirom-007-eye-drop",
+    "_source_page": 807
+  },
+  {
+    "name": "Xisol",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/12840/xisol-05-70-hand-rub",
+    "_source_page": 807
+  },
+  {
+    "name": "Xisrol",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Credence Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28159/xisrol-5-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xisrol",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Credence Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34055/xisrol-25-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xitabin",
+    "strength": "500 mg",
+    "generic": "Capecitabine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17268/xitabin-500-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xitabin",
+    "strength": "150 mg",
+    "generic": "Capecitabine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27288/xitabin-150-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xitil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7371/xitil-250-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xitil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7372/xitil-500-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xitil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7373/xitil-125-mg-suspension",
+    "_source_page": 807
+  },
+  {
+    "name": "Xitob",
+    "strength": "0.3%",
+    "generic": "Tobramycin (Ophthalmic)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28921/xitob-03-eye-drop",
+    "_source_page": 807
+  },
+  {
+    "name": "Xiva",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/16461/xiva-100-mg-syrup",
+    "_source_page": 807
+  },
+  {
+    "name": "Xiva",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27178/xiva-400-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xiva",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34056/xiva-200-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xmec",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4644/xmec-25-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xofast",
+    "strength": "60 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12149/xofast-60-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xofast",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12150/xofast-120-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xofast",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/33747/xofast-30-mg-suspension",
+    "_source_page": 807
+  },
+  {
+    "name": "Xofedin",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12151/xofedin-120-mg-tablet",
+    "_source_page": 807
+  },
+  {
+    "name": "Xofedin",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12152/xofedin-180-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xofena",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12943/xofena-120-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xofena",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12944/xofena-180-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xofena",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/12945/xofena-30-mg-suspension",
+    "_source_page": 808
+  },
+  {
+    "name": "Xoferon",
+    "strength": "100 mg/5 ml",
+    "generic": "Iron Sucrose",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/29280/xoferon-100-mg-injection",
+    "_source_page": 808
+  },
+  {
+    "name": "Xofluza",
+    "strength": "40 mg",
+    "generic": "Baloxavir Marboxil",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35515/xofluza-40-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xofyl",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26604/xofyl-200-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xofyl",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26605/xofyl-400-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolair",
+    "strength": "150 mg/vial",
+    "generic": "Omalizumab",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/3964/xolair-150-mg-injection",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolam XR",
+    "strength": "0.5 mg",
+    "generic": "Alprazolam",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/30535/xolam-xr-05-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolam XR",
+    "strength": "1 mg",
+    "generic": "Alprazolam",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/30536/xolam-xr-1-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolamid",
+    "strength": "1%",
+    "generic": "Brinzolamide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/17156/xolamid-1-suspension",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolamid B",
+    "strength": "1%+0.2%",
+    "generic": "Brinzolamide + Brimonidine Tartrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/32028/xolamid-b-1-02-suspension",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolamid OSD",
+    "strength": "1%",
+    "generic": "Brinzolamide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/37826/xolamid-osd-1-suspension",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolamid T",
+    "strength": "1%+0.5%",
+    "generic": "Brinzolamide + Timolol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/17152/xolamid-t-1-05-suspension",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolamid T OSD",
+    "strength": "1%+0.5%",
+    "generic": "Brinzolamide + Timolol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/37827/xolamid-t-osd-1-05-suspension",
+    "_source_page": 808
+  },
+  {
+    "name": "Xoleron",
+    "strength": "4 mg/5 ml",
+    "generic": "Zoledronic Acid [For hypercalcemia]",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17269/xoleron-4-mg-injection",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolitra",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4374/xolitra-05-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xolmel",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36845/xolmel-05-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xonad",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12086/xonad-120-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xonad",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12087/xonad-180-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xonad",
+    "strength": "30 mg/5 ml",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/20385/xonad-30-mg-suspension",
+    "_source_page": 808
+  },
+  {
+    "name": "Xone-3",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/26977/xone-3-1-gm-injection",
+    "_source_page": 808
+  },
+  {
+    "name": "Xone-3",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/26978/xone-3-2-gm-injection",
+    "_source_page": 808
+  },
+  {
+    "name": "Xone-3",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/35900/xone-3-500-mg-injection",
+    "_source_page": 808
+  },
+  {
+    "name": "Xone-3",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/35901/xone-3-500-mg-injection",
+    "_source_page": 808
+  },
+  {
+    "name": "Xonimide ODT",
+    "strength": "50 mg",
+    "generic": "Zonisamide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/27289/xonimide-odt-50-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xorel",
+    "strength": "20 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/24018/xorel-20-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xorel",
+    "strength": "20 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/24019/xorel-20-mg-capsule",
+    "_source_page": 808
+  },
+  {
+    "name": "Xorel",
+    "strength": "10 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/32208/xorel-10-mg-tablet",
+    "_source_page": 808
+  },
+  {
+    "name": "Xorel",
+    "strength": "10 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/34947/xorel-10-mg-capsule",
+    "_source_page": 809
+  },
+  {
+    "name": "Xorel MUPS",
+    "strength": "20 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "MUPS Tablet",
+    "source_url": "https://medex.com.bd/brands/36449/xorel-mups-20-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xorest",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31832/xorest-05-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xorest",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31833/xorest-1-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xoricard",
+    "strength": "20 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28160/xoricard-20-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xorimax",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7374/xorimax-250-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xorimax",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7375/xorimax-500-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xorimax",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7376/xorimax-125-mg-suspension",
+    "_source_page": 809
+  },
+  {
+    "name": "Xorubin",
+    "strength": "2 mg/ml",
+    "generic": "Doxorubicin Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15035/xorubin-2-mg-injection",
+    "_source_page": 809
+  },
+  {
+    "name": "Xorubin Aqua",
+    "strength": "2 mg/ml",
+    "generic": "Doxorubicin Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38515/xorubin-aqua-2-mg-injection",
+    "_source_page": 809
+  },
+  {
+    "name": "Xovir",
+    "strength": "250 mg/vial",
+    "generic": "Acyclovir (Injection)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/138/xovir-250-mg-injection",
+    "_source_page": 809
+  },
+  {
+    "name": "Xovir",
+    "strength": "500 mg/vial",
+    "generic": "Acyclovir (Injection)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/139/xovir-500-mg-injection",
+    "_source_page": 809
+  },
+  {
+    "name": "Xovir",
+    "strength": "200 mg/5 ml",
+    "generic": "Acyclovir (Oral)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/26399/xovir-200-mg-suspension",
+    "_source_page": 809
+  },
+  {
+    "name": "Xovir",
+    "strength": "200 mg",
+    "generic": "Acyclovir (Oral)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26400/xovir-200-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xovir",
+    "strength": "400 mg",
+    "generic": "Acyclovir (Oral)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26401/xovir-400-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xovir",
+    "strength": "5% w/w",
+    "generic": "Acyclovir (Topical)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38714/xovir-5-w-cream",
+    "_source_page": 809
+  },
+  {
+    "name": "Xoviral",
+    "strength": "0.15%",
+    "generic": "Ganciclovir (Ophthalmic)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Gel",
+    "source_url": "https://medex.com.bd/brands/9721/xoviral-015-eye-gel",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpa",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10545/xpa-500-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpa",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10547/xpa-120-mg-suspension",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpa",
+    "strength": "80 mg/ml",
+    "generic": "Paracetamol",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/10548/xpa-80-mg-pediatric-drop",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpa",
+    "strength": "250 mg",
+    "generic": "Paracetamol",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10550/xpa-250-mg-suppository",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpa",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10551/xpa-500-mg-suppository",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpa XR",
+    "strength": "665 mg",
+    "generic": "Paracetamol",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/10546/xpa-xr-665-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpa-C",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10633/xpa-c-500-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpain",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/95/xpain-100-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xperia Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28743/xperia-gold-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpos",
+    "strength": "100 mg",
+    "generic": "Posaconazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/30508/xpos-100-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xpotil",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7842/xpotil-40-mg-suspension",
+    "_source_page": 809
+  },
+  {
+    "name": "Xtabac",
+    "strength": "200 mg+125 mg",
+    "generic": "Cefpodoxime Proxetil + Clavulanic Acid",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16365/xtabac-200-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xtabac",
+    "strength": "100 mg+62.5 mg",
+    "generic": "Cefpodoxime Proxetil + Clavulanic Acid",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16366/xtabac-100-mg-tablet",
+    "_source_page": 809
+  },
+  {
+    "name": "Xten",
+    "strength": "20 mg",
+    "generic": "Tenoxicam",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11633/xten-20-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "MST Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7377/xtil-250-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtracal OT",
+    "strength": "400 mg",
+    "generic": "Calcium Orotate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31528/xtracal-ot-400-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtracal OT",
+    "strength": "740 mg",
+    "generic": "Calcium Orotate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31529/xtracal-ot-740-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtracal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14478/xtracal-d-500-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtracal-M",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28745/xtracal-m-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrafen",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17401/xtrafen-100-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrafen SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/17402/xtrafen-sr-200-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtramox",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6669/xtramox-250-mg-capsule",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtramox",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6670/xtramox-500-mg-capsule",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtramox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6671/xtramox-125-mg-suspension",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrapel",
+    "strength": "50 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/10736/xtrapel-50-mg-capsule",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrapel",
+    "strength": "100 mg/2 ml",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/10751/xtrapel-100-mg-injection",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrapel SR",
+    "strength": "100 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/10737/xtrapel-sr-100-mg-capsule",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrapime",
+    "strength": "500 mg/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/18680/xtrapime-500-mg-injection",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrapime",
+    "strength": "1 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/18681/xtrapime-1-gm-injection",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrapime",
+    "strength": "2 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/18682/xtrapime-2-gm-injection",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtreme 3 in 1",
+    "strength": null,
+    "generic": "Latex condom [Xtreme]",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Condom",
+    "source_url": "https://medex.com.bd/brands/37485/xtreme-3-in-1-condom",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtreme Ultra Thin",
+    "strength": null,
+    "generic": "Latex condom [Xtreme]",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Condom",
+    "source_url": "https://medex.com.bd/brands/37484/xtreme-ultra-thin-condom",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrum Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14134/xtrum-gold-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xtrum Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26671/xtrum-gold-syrup",
+    "_source_page": 810
+  },
+  {
+    "name": "Xvit",
+    "strength": null,
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate + Vitamin B Complex + Vitamin C",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13420/xvit-capsule",
+    "_source_page": 810
+  },
+  {
+    "name": "Xyclon",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30835/xyclon-05-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xyclon",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30836/xyclon-1-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xyclon",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30837/xyclon-2-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xyfen",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/98/xyfen-100-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xyflo",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22638/xyflo-5-mg-chewable-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xyflo",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22639/xyflo-10-mg-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xyflo",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/30026/xyflo-4-mg-chewable-tablet",
+    "_source_page": 810
+  },
+  {
+    "name": "Xylistin",
+    "strength": "4.5 MIU (150 mg)",
+    "generic": "Colistimethate Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/31508/xylistin-45-miu-injection",
+    "_source_page": 810
+  }
+]

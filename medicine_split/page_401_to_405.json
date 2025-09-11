@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Leo",
+    "strength": "750 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9441/leo-750-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leo",
+    "strength": "250 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9439/leo-250-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leo",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9440/leo-500-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leobutol",
+    "strength": "2 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34968/leobutol-2-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leobutol",
+    "strength": "1 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34967/leobutol-1-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leobutol",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/34966/leobutol-1-mg-syrup",
+    "_source_page": 401
+  },
+  {
+    "name": "Leocof",
+    "strength": "10 mg/5 ml",
+    "generic": "Dextromethorphan Hydrobromide",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/19767/leocof-10-mg-syrup",
+    "_source_page": 401
+  },
+  {
+    "name": "Leoflox",
+    "strength": "250 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27860/leoflox-250-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leoflox",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9444/leoflox-500-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leofran",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23156/leofran-8-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leofran",
+    "strength": "4 mg/5 ml",
+    "generic": "Ondansetron",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/23157/leofran-4-mg-oral-solution",
+    "_source_page": 401
+  },
+  {
+    "name": "Leogem",
+    "strength": "320 mg",
+    "generic": "Gemifloxacin",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27186/leogem-320-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leokast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Royal Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32184/leokast-10-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leolac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/21365/leolac-335-gm-oral-solution",
+    "_source_page": 401
+  },
+  {
+    "name": "Leosil",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31478/leosil-500-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leotram",
+    "strength": "50 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/10741/leotram-50-mg-capsule",
+    "_source_page": 401
+  },
+  {
+    "name": "Leozinc",
+    "strength": "4.05 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14648/leozinc-405-mg-syrup",
+    "_source_page": 401
+  },
+  {
+    "name": "Leozinc DS",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14649/leozinc-ds-10-mg-syrup",
+    "_source_page": 401
+  },
+  {
+    "name": "Leozinc-B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14717/leozinc-b-syrup",
+    "_source_page": 401
+  },
+  {
+    "name": "Lepath",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7283/lepath-250-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Lepsytam",
+    "strength": "500 mg/5 ml",
+    "generic": "Levetiracetam",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35534/lepsytam-500-mg-injection",
+    "_source_page": 401
+  },
+  {
+    "name": "Lepsytam",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35169/lepsytam-500-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Lepsytam",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35170/lepsytam-250-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Lepsytam",
+    "strength": "500 mg/5 ml",
+    "generic": "Levetiracetam",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/35535/lepsytam-500-mg-oral-solution",
+    "_source_page": 401
+  },
+  {
+    "name": "Leptal",
+    "strength": "300 mg",
+    "generic": "Oxcarbazepine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23236/leptal-300-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leptal",
+    "strength": "600 mg",
+    "generic": "Oxcarbazepine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23237/leptal-600-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leptic",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4856/leptic-2-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leptic",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26519/leptic-1-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leptic",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4855/leptic-05-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leptic ODT",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/31391/leptic-odt-05-mg-tablet",
+    "_source_page": 401
+  },
+  {
+    "name": "Leptic ODT",
+    "strength": "0.25 mg",
+    "generic": "Clonazepam",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/31392/leptic-odt-025-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Lequin",
+    "strength": "0.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9562/lequin-05-eye-drop",
+    "_source_page": 402
+  },
+  {
+    "name": "Lequin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36499/lequin-500-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Lerex",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12164/lerex-5-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Leride",
+    "strength": "1 mg",
+    "generic": "Glimepiride",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37420/leride-1-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Lerof",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21541/lerof-500-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Leroid",
+    "strength": "25 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33862/leroid-25-mcg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Leroid",
+    "strength": "50 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33861/leroid-50-mcg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Lerozol",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15176/lerozol-25-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Lertal",
+    "strength": null,
+    "generic": "Liposome + Perilla + Sodium Hyaluronate",
+    "company": "ZAS Corporation",
+    "medicine_type": "Ocular Spray",
+    "source_url": "https://medex.com.bd/brands/29190/lertal-spray",
+    "_source_page": 402
+  },
+  {
+    "name": "Lerupa",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24380/lerupa-10-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Lesal",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3569/lesal-1-mg-syrup",
+    "_source_page": 402
+  },
+  {
+    "name": "Lescol XL",
+    "strength": "80 mg",
+    "generic": "Fluvastatin",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34827/lescol-xl-80-mg-capsule",
+    "_source_page": 402
+  },
+  {
+    "name": "Lesero",
+    "strength": "500 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30769/lesero-500-mg-injection",
+    "_source_page": 402
+  },
+  {
+    "name": "Lesero",
+    "strength": "250 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7868/lesero-250-mg-injection",
+    "_source_page": 402
+  },
+  {
+    "name": "Lesero",
+    "strength": "1 gm/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30768/lesero-1-gm-injection",
+    "_source_page": 402
+  },
+  {
+    "name": "Lesovir-C",
+    "strength": "90 mg+400 mg",
+    "generic": "Ledipasvir + Sofosbuvir",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16570/lesovir-c-90-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Lesterol",
+    "strength": "20 mg",
+    "generic": "Fluvastatin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/3379/lesterol-20-mg-capsule",
+    "_source_page": 402
+  },
+  {
+    "name": "Letab",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34562/letab-500-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Lethiquin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9447/lethiquin-500-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Letol",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3571/letol-1-mg-syrup",
+    "_source_page": 402
+  },
+  {
+    "name": "Letol",
+    "strength": "2 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3570/letol-2-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Letrocare",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37090/letrocare-25-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Letrogen",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15182/letrogen-25-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Letrol",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15177/letrol-25-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Letrova",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38541/letrova-25-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Letrozol",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28372/letrozol-25-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Leucita AqVida",
+    "strength": "300 mcg/0.5 ml",
+    "generic": "Filgrastim",
+    "company": "AqVida bangladesh",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/17344/leucita-aqvida-300-mcg-injection",
+    "_source_page": 402
+  },
+  {
+    "name": "Leucodar",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9933/leucodar-50-mg-tablet",
+    "_source_page": 402
+  },
+  {
+    "name": "Leucofil",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/25517/leucofil-15-mg-syrup",
+    "_source_page": 402
+  },
+  {
+    "name": "Leufol",
+    "strength": "10 mg/ml",
+    "generic": "Folinic Acid",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/31247/leufol-10-mg-injection",
+    "_source_page": 403
+  },
+  {
+    "name": "Leukenib",
+    "strength": "400 mg",
+    "generic": "Imatinib Mesylate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32823/leukenib-400-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Leukenib",
+    "strength": "100 mg",
+    "generic": "Imatinib Mesylate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32822/leukenib-100-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Leukeran",
+    "strength": "2 mg",
+    "generic": "Chlorambucil",
+    "company": "Excella, Germany",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16372/leukeran-2-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Leukin",
+    "strength": "50 mg",
+    "generic": "Mercaptopurine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15053/leukin-50-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levagen",
+    "strength": "10 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35857/levagen-10-mg-capsule",
+    "_source_page": 403
+  },
+  {
+    "name": "Levagen",
+    "strength": "4 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35856/levagen-4-mg-capsule",
+    "_source_page": 403
+  },
+  {
+    "name": "Levamdocal",
+    "strength": "1.25 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34359/levamdocal-125-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levamdocal",
+    "strength": "2.5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34360/levamdocal-25-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levamdocal",
+    "strength": "5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34361/levamdocal-5-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levamin",
+    "strength": "40 mg/5 ml",
+    "generic": "Levamisole Hydrochloride",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/10306/levamin-40-mg-syrup",
+    "_source_page": 403
+  },
+  {
+    "name": "Levamin",
+    "strength": "40 mg",
+    "generic": "Levamisole Hydrochloride",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10305/levamin-40-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levamolin",
+    "strength": "5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32421/levamolin-5-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levamolin",
+    "strength": "2.5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32422/levamolin-25-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levant",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12165/levant-5-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levat",
+    "strength": "10 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27014/levat-10-mg-capsule",
+    "_source_page": 403
+  },
+  {
+    "name": "Levat",
+    "strength": "4 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33505/levat-4-mg-capsule",
+    "_source_page": 403
+  },
+  {
+    "name": "Levefix",
+    "strength": "500 mg/5 ml",
+    "generic": "Levetiracetam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/32486/levefix-500-mg-oral-solution",
+    "_source_page": 403
+  },
+  {
+    "name": "Levefix",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32487/levefix-250-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levefix",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32488/levefix-500-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levefix",
+    "strength": "500 mg/5 ml",
+    "generic": "Levetiracetam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38409/levefix-500-mg-injection",
+    "_source_page": 403
+  },
+  {
+    "name": "Level-K",
+    "strength": "150 gm/sachet",
+    "generic": "Sodium Polystyrene Sulfonate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/27626/level-k-150-gm-powder",
+    "_source_page": 403
+  },
+  {
+    "name": "Levemir Flexpen",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Detemir",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16832/levemir-flexpen-100-iu-injection",
+    "_source_page": 403
+  },
+  {
+    "name": "Leventa",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3575/leventa-1-mg-syrup",
+    "_source_page": 403
+  },
+  {
+    "name": "Levepro",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32391/levepro-250-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Levepro",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32390/levepro-500-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Leveron",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4941/leveron-500-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Leveron",
+    "strength": "500 mg/5 ml",
+    "generic": "Levetiracetam",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/26836/leveron-500-mg-oral-solution",
+    "_source_page": 403
+  },
+  {
+    "name": "Leveron",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4940/leveron-250-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Leveron XR",
+    "strength": "750 mg",
+    "generic": "Levetiracetam",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/37075/leveron-xr-750-mg-tablet",
+    "_source_page": 403
+  },
+  {
+    "name": "Leveron XR",
+    "strength": "750 mg",
+    "generic": "Levetiracetam",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/37075/leveron-xr-750-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levetam",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30959/levetam-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levetam",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30958/levetam-250-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levetam XR",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/31057/levetam-xr-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levetira",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31594/levetira-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levetira",
+    "strength": "500 mg/5 ml",
+    "generic": "Levetiracetam",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/31593/levetira-500-mg-oral-solution",
+    "_source_page": 404
+  },
+  {
+    "name": "Leviceta",
+    "strength": "500 mg/5 ml",
+    "generic": "Levetiracetam",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/34902/leviceta-500-mg-oral-solution",
+    "_source_page": 404
+  },
+  {
+    "name": "Leviceta",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32462/leviceta-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Leviceta",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32461/leviceta-250-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9448/levin-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levipil",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26697/levipil-250-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levipil",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4942/levipil-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Leviram",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38179/leviram-250-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Leviram",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38180/leviram-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levista",
+    "strength": "500 mg/5 ml",
+    "generic": "Levetiracetam",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/38291/levista-500-mg-oral-solution",
+    "_source_page": 404
+  },
+  {
+    "name": "Levista",
+    "strength": "250 mg",
+    "generic": "Levetiracetam",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38292/levista-250-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levista",
+    "strength": "500 mg",
+    "generic": "Levetiracetam",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38293/levista-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levo",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21499/levo-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levoair",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/21569/levoair-1-mg-syrup",
+    "_source_page": 404
+  },
+  {
+    "name": "Levobac",
+    "strength": "0.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9563/levobac-05-eye-drop",
+    "_source_page": 404
+  },
+  {
+    "name": "Levobac",
+    "strength": "500 mg/100 ml",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9451/levobac-500-mg-injection",
+    "_source_page": 404
+  },
+  {
+    "name": "Levobac",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9449/levobac-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levobac TS",
+    "strength": "1.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9581/levobac-ts-15-eye-drop",
+    "_source_page": 404
+  },
+  {
+    "name": "Levocar",
+    "strength": "330 mg",
+    "generic": "Levocarnitine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3174/levocar-330-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levocare",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32537/levocare-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levocet",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12166/levocet-5-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levocin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9452/levocin-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levocos",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9453/levocos-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levoday",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9548/levoday-500-mg-tablet",
+    "_source_page": 404
+  },
+  {
+    "name": "Levodis",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/21579/levodis-1-mg-syrup",
+    "_source_page": 404
+  },
+  {
+    "name": "Levodon",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9454/levodon-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levofed",
+    "strength": "2 mg/2 ml",
+    "generic": "Norepinephrine Tartrate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/16638/levofed-2-mg-injection",
+    "_source_page": 405
+  },
+  {
+    "name": "Levofed DS",
+    "strength": "4 mg/4 ml",
+    "generic": "Norepinephrine Tartrate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/33968/levofed-ds-4-mg-injection",
+    "_source_page": 405
+  },
+  {
+    "name": "Levoflox",
+    "strength": "0.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9564/levoflox-05-eye-drop",
+    "_source_page": 405
+  },
+  {
+    "name": "Levoflox",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9455/levoflox-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levoflox",
+    "strength": "750 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9456/levoflox-750-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levofloxacin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35682/levofloxacin-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levoking",
+    "strength": "750 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9462/levoking-750-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levoking",
+    "strength": "125 mg/5 ml",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Renata PLC",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/21530/levoking-125-mg-oral-solution",
+    "_source_page": 405
+  },
+  {
+    "name": "Levoking",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9461/levoking-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levolex",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9463/levolex-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levolo",
+    "strength": "0.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28556/levolo-05-eye-drop",
+    "_source_page": 405
+  },
+  {
+    "name": "Levolo",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9464/levolo-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levolon",
+    "strength": "250 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21524/levolon-250-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levolon",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9465/levolon-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levomax",
+    "strength": "0.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9566/levomax-05-eye-drop",
+    "_source_page": 405
+  },
+  {
+    "name": "Levomax",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9466/levomax-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levomax",
+    "strength": "750 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9467/levomax-750-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levomax TS",
+    "strength": "1.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/21509/levomax-ts-15-eye-drop",
+    "_source_page": 405
+  },
+  {
+    "name": "Levomet",
+    "strength": "250 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9550/levomet-250-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levonal",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "National Drug Co. Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36994/levonal-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levonce",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9468/levonce-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levonix",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9469/levonix-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levonor",
+    "strength": "750 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9471/levonor-750-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levonor",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9470/levonor-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levopa",
+    "strength": "100 mg+10 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5102/levopa-100-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levopa",
+    "strength": "250 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5103/levopa-250-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levoquin TS",
+    "strength": "1.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/21547/levoquin-ts-15-eye-drop",
+    "_source_page": 405
+  },
+  {
+    "name": "Levora",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9474/levora-500-mg-tablet",
+    "_source_page": 405
+  },
+  {
+    "name": "Levosafe",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28095/levosafe-500-mg-tablet",
+    "_source_page": 405
+  }
+]

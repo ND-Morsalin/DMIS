@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Lotepred",
+    "strength": "0.5%",
+    "generic": "Loteprednol Etabonate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15900/lotepred-05-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotepred",
+    "strength": "0.5%",
+    "generic": "Loteprednol Etabonate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Gel",
+    "source_url": "https://medex.com.bd/brands/21901/lotepred-05-eye-gel",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotepred DS",
+    "strength": "1%",
+    "generic": "Loteprednol Etabonate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/32129/lotepred-ds-1-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotepred Plus",
+    "strength": "0.5%+0.3%",
+    "generic": "Loteprednol Etabonate + Tobramycin",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15907/lotepred-plus-05-03-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotepro",
+    "strength": "0.5%",
+    "generic": "Loteprednol Etabonate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15901/lotepro-05-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotepro DS",
+    "strength": "1%",
+    "generic": "Loteprednol Etabonate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/30209/lotepro-ds-1-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotepro G",
+    "strength": "0.5%+0.3%",
+    "generic": "Loteprednol Etabonate + Gatifloxacin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/21918/lotepro-g-05-03-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotepro Plus",
+    "strength": "0.5%+0.3%",
+    "generic": "Loteprednol Etabonate + Tobramycin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15908/lotepro-plus-05-03-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Loterex",
+    "strength": "0.5%",
+    "generic": "Loteprednol Etabonate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/21906/loterex-05-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Loterex",
+    "strength": "0.5%",
+    "generic": "Loteprednol Etabonate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Gel",
+    "source_url": "https://medex.com.bd/brands/34911/loterex-05-eye-gel",
+    "_source_page": 426
+  },
+  {
+    "name": "Loterex-G",
+    "strength": "0.5%+0.3%",
+    "generic": "Loteprednol Etabonate + Gatifloxacin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/32629/loterex-g-05-03-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Loterex-T",
+    "strength": "0.5%+0.3%",
+    "generic": "Loteprednol Etabonate + Tobramycin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/21913/loterex-t-05-03-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotor",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9555/lotor-500-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotrel",
+    "strength": "0.5%",
+    "generic": "Loteprednol Etabonate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15903/lotrel-05-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotrel G",
+    "strength": "0.5%+0.3%",
+    "generic": "Loteprednol Etabonate + Gatifloxacin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/21917/lotrel-g-05-03-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lotrel T",
+    "strength": "0.5%+0.3%",
+    "generic": "Loteprednol Etabonate + Tobramycin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15911/lotrel-t-05-03-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Loval",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1597/loval-10-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Loval",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1598/loval-5-mg-suspension",
+    "_source_page": 426
+  },
+  {
+    "name": "Lovanzo",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/30238/lovanzo-20-mg-capsule",
+    "_source_page": 426
+  },
+  {
+    "name": "Lovapres",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17224/lovapres-5-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Lovapres Plus",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35010/lovapres-plus-5-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Lovapres Plus",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35011/lovapres-plus-5-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Lovask",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/653/lovask-5-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Lovask-A",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/793/lovask-a-5-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Loverin",
+    "strength": "10 mg",
+    "generic": "Dicycloverine Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1332/loverin-10-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Lovicin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9508/lovicin-500-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Lovicin",
+    "strength": "0.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9573/lovicin-05-eye-drop",
+    "_source_page": 426
+  },
+  {
+    "name": "Lowet",
+    "strength": "120 mg",
+    "generic": "Orlistat",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/23206/lowet-120-mg-capsule",
+    "_source_page": 426
+  },
+  {
+    "name": "Lox",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9127/lox-03-eye-drop",
+    "_source_page": 426
+  },
+  {
+    "name": "Lox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Credence Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28153/lox-500-mg-tablet",
+    "_source_page": 426
+  },
+  {
+    "name": "Loxetine",
+    "strength": "20 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/26362/loxetine-20-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Loxetine",
+    "strength": "30 mg",
+    "generic": "Duloxetine Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/26363/loxetine-30-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Loxin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9509/loxin-500-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Loxodol",
+    "strength": "4 mg",
+    "generic": "Lornoxicam",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32688/loxodol-4-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Loxodol",
+    "strength": "8 mg",
+    "generic": "Lornoxicam",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35412/loxodol-8-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Loxyl",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6558/loxyl-500-mg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Loxyl",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38059/loxyl-250-mg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Loxyl",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/38060/loxyl-125-mg-suspension",
+    "_source_page": 427
+  },
+  {
+    "name": "Loxyl",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38061/loxyl-500-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Lozana",
+    "strength": "100 mg",
+    "generic": "Danazol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5985/lozana-100-mg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lozana",
+    "strength": "200 mg",
+    "generic": "Danazol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5986/lozana-200-mg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lozicum",
+    "strength": "1 mg",
+    "generic": "Lorazepam",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4288/lozicum-1-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Lozicum",
+    "strength": "4 mg/ml",
+    "generic": "Lorazepam",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/32386/lozicum-4-mg-injection",
+    "_source_page": 427
+  },
+  {
+    "name": "Lozide",
+    "strength": "80 mg",
+    "generic": "Gliclazide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5252/lozide-80-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Lozin",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12171/lozin-5-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Ltdin",
+    "strength": "10 mg",
+    "generic": "Loratadine",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12217/ltdin-10-mg-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Luban DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/25482/luban-ds-400-mg-chewable-tablet",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubgel",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18585/lubgel-1-eye-drop",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubicon",
+    "strength": "8 mcg",
+    "generic": "Lubiprostone",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27982/lubicon-8-mcg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubicon",
+    "strength": "24 mcg",
+    "generic": "Lubiprostone",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27983/lubicon-24-mcg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubigut",
+    "strength": "8 mcg",
+    "generic": "Lubiprostone",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26730/lubigut-8-mcg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubigut",
+    "strength": "24 mcg",
+    "generic": "Lubiprostone",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26731/lubigut-24-mcg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubilax",
+    "strength": "8 mcg",
+    "generic": "Lubiprostone",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/2411/lubilax-8-mcg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubilax",
+    "strength": "24 mcg",
+    "generic": "Lubiprostone",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/20183/lubilax-24-mcg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubistone",
+    "strength": "24 mcg",
+    "generic": "Lubiprostone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/20184/lubistone-24-mcg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubistone",
+    "strength": "8 mcg",
+    "generic": "Lubiprostone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/20185/lubistone-8-mcg-capsule",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubrex",
+    "strength": "0.2%+0.36%+1%",
+    "generic": "Glycerol + Hypromellose + Polyethylene Glycol 400",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/20948/lubrex-02-036-eye-drop",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubric",
+    "strength": "0.5%",
+    "generic": "Hypromellose",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16145/lubric-05-eye-drop",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubric D",
+    "strength": "0.1%+0.3%",
+    "generic": "Dextran + Hypromellose",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16141/lubric-d-01-03-eye-drop",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubric Extra",
+    "strength": "0.25%+0.3%",
+    "generic": "Carboxymethylcellulose Sodium + Hypromellose",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Gel",
+    "source_url": "https://medex.com.bd/brands/16355/lubric-extra-025-03-eye-gel",
+    "_source_page": 427
+  },
+  {
+    "name": "Lubric Gel",
+    "strength": "2%",
+    "generic": "Hydroxypropyl Methylcellulose",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Viscoelastic Solution",
+    "source_url": "https://medex.com.bd/brands/16150/lubric-gel-2-viscoelastic-solution",
+    "_source_page": 428
+  },
+  {
+    "name": "Lubric Mono",
+    "strength": "0.5%",
+    "generic": "Hypromellose",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/38338/lubric-mono-05-eye-drop",
+    "_source_page": 428
+  },
+  {
+    "name": "Lubrigel",
+    "strength": "0.4%+0.3%",
+    "generic": "Polyethylene Glycol + Propylene Glycol",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27732/lubrigel-04-03-eye-drop",
+    "_source_page": 428
+  },
+  {
+    "name": "Lubrimax",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "ACI Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18575/lubrimax-1-eye-drop",
+    "_source_page": 428
+  },
+  {
+    "name": "Lubtear",
+    "strength": "0.1%+0.3%",
+    "generic": "Dextran + Hypromellose",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16142/lubtear-01-03-eye-drop",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucan-R",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9934/lucan-r-50-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucan-R",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9935/lucan-r-150-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucan-R",
+    "strength": "50 mg/5 ml",
+    "generic": "Fluconazole",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9936/lucan-r-50-mg-suspension",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucan-R",
+    "strength": "200 mg",
+    "generic": "Fluconazole",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26638/lucan-r-200-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucazol",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/29788/lucazol-1-cream",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucent",
+    "strength": "0.25 mcg",
+    "generic": "Calcitriol",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13519/lucent-025-mcg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucentis",
+    "strength": "0.5 mg/0.05 ml",
+    "generic": "Ranibizumab",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "Intravitreal Injection",
+    "source_url": "https://medex.com.bd/brands/16219/lucentis-05-mg-injection",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucetam",
+    "strength": "1200 mg",
+    "generic": "Piracetam",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5150/lucetam-1200-mg-tablet",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucidol",
+    "strength": "50 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/10704/lucidol-50-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucidol",
+    "strength": "100 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10705/lucidol-100-mg-suppository",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucidol",
+    "strength": "100 mg/2 ml",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/25048/lucidol-100-mg-injection",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucon",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9937/lucon-50-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucon",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9938/lucon-150-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucrin Depot",
+    "strength": "3.75 mg",
+    "generic": "Leuprorelin Acetate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IM/SC Injection",
+    "source_url": "https://medex.com.bd/brands/15699/lucrin-depot-375-mg-injection",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucrin Depot",
+    "strength": "11.25 mg",
+    "generic": "Leuprorelin Acetate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IM/SC Injection",
+    "source_url": "https://medex.com.bd/brands/15700/lucrin-depot-1125-mg-injection",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucza",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9967/lucza-50-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Lucza",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26398/lucza-150-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Ludiomil",
+    "strength": "25 mg",
+    "generic": "Maprotiline Hydrochloride",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4457/ludiomil-25-mg-tablet",
+    "_source_page": 428
+  },
+  {
+    "name": "Luf",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6360/luf-250-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Luf",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6361/luf-500-mg-capsule",
+    "_source_page": 428
+  },
+  {
+    "name": "Luf",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6362/luf-125-mg-suspension",
+    "_source_page": 428
+  },
+  {
+    "name": "Luiz",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37012/luiz-1-cream",
+    "_source_page": 428
+  },
+  {
+    "name": "Lukas",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22635/lukas-10-mg-tablet",
+    "_source_page": 428
+  },
+  {
+    "name": "Lulexa",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/30483/lulexa-1-cream",
+    "_source_page": 428
+  },
+  {
+    "name": "Lulicon",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34230/lulicon-1-cream",
+    "_source_page": 428
+  },
+  {
+    "name": "Lulicure",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37204/lulicure-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulider",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/26921/lulider-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulif",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33522/lulif-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulifast",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34259/lulifast-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulifun",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34258/lulifun-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulikill",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36422/lulikill-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulima",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36552/lulima-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulinox",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34190/lulinox-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Luliren",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Renata PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35539/luliren-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulitop",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31234/lulitop-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulizol",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/26814/lulizol-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lulizol",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/34413/lulizol-1-lotion",
+    "_source_page": 429
+  },
+  {
+    "name": "Luly",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35304/luly-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumenta",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3782/lumenta-10-mg-tablet",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumertam",
+    "strength": "20 mg+120 mg",
+    "generic": "Artemether + Lumefantrine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1009/lumertam-20-mg-tablet",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumex",
+    "strength": "0.3%",
+    "generic": "Lomefloxacin",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9597/lumex-03-eye-drop",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumexit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4349/lumexit-05-mg-tablet",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumiface",
+    "strength": "0.005%",
+    "generic": "Trifarotene",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37530/lumiface-0005-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumigan",
+    "strength": "0.03%",
+    "generic": "Bimatoprost",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/26821/lumigan-003-eye-drop",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumilac",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37278/lumilac-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumilast",
+    "strength": "0.3%",
+    "generic": "Roflumilast (Cream)",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35415/lumilast-03-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Luminor",
+    "strength": "0.025%",
+    "generic": "Brimonidine Tartrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28455/luminor-0025-eye-drop",
+    "_source_page": 429
+  },
+  {
+    "name": "Luminus",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32709/luminus-10-mg-tablet",
+    "_source_page": 429
+  },
+  {
+    "name": "Luminus",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/36957/luminus-5-mg-chewable-tablet",
+    "_source_page": 429
+  },
+  {
+    "name": "Luminus",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/36958/luminus-4-mg-chewable-tablet",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumona",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3784/lumona-10-mg-tablet",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumona",
+    "strength": "4 mg/3.5 gm",
+    "generic": "Montelukast Sodium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Granules",
+    "source_url": "https://medex.com.bd/brands/26776/lumona-4-mg-oral-granules",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumona FT",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Flash Tablet",
+    "source_url": "https://medex.com.bd/brands/3785/lumona-ft-4-mg-flash-tablet",
+    "_source_page": 429
+  },
+  {
+    "name": "Lumona FT",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Flash Tablet",
+    "source_url": "https://medex.com.bd/brands/26775/lumona-ft-5-mg-flash-tablet",
+    "_source_page": 429
+  },
+  {
+    "name": "Lunaderm",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36077/lunaderm-1-cream",
+    "_source_page": 429
+  },
+  {
+    "name": "Lunarzin",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20410/lunarzin-10-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lunarzin",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20411/lunarzin-5-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lunox",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "generic": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16197/lunox-60-mg-capsule",
+    "_source_page": 430
+  },
+  {
+    "name": "Lupelac",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15356/lupelac-10-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lupravir",
+    "strength": "200 mg",
+    "generic": "Molnupiravir",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31482/lupravir-200-mg-capsule",
+    "_source_page": 430
+  },
+  {
+    "name": "Lupred",
+    "strength": "0.05%",
+    "generic": "Difluprednate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Emulsion",
+    "source_url": "https://medex.com.bd/brands/30207/lupred-005-eye-drop",
+    "_source_page": 430
+  },
+  {
+    "name": "Lupron",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12172/lupron-5-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lura",
+    "strength": "20 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34735/lura-20-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lura",
+    "strength": "40 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34736/lura-40-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lura",
+    "strength": "60 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34737/lura-60-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lura",
+    "strength": "80 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34738/lura-80-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lura",
+    "strength": "120 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34739/lura-120-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Luradox",
+    "strength": "20 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21920/luradox-20-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Luradox",
+    "strength": "40 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21921/luradox-40-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Luraprex",
+    "strength": "40 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16574/luraprex-40-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Luraprex",
+    "strength": "20 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27518/luraprex-20-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lurasid",
+    "strength": "20 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35820/lurasid-20-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lurasid",
+    "strength": "40 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35821/lurasid-40-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lurbin",
+    "strength": "4 mg/vial",
+    "generic": "Lurbinectedin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/37315/lurbin-4-mg-injection",
+    "_source_page": 430
+  },
+  {
+    "name": "Luretic",
+    "strength": "2.5 mg",
+    "generic": "Torasemide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2852/luretic-25-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Luretic",
+    "strength": "5 mg",
+    "generic": "Torasemide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2853/luretic-5-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Lurex",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4150/lurex-30-mg-syrup",
+    "_source_page": 430
+  },
+  {
+    "name": "Lutin Plus",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "generic": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16198/lutin-plus-60-mg-capsule",
+    "_source_page": 430
+  },
+  {
+    "name": "Lutisone",
+    "strength": "0.005%",
+    "generic": "Fluticasone Propionate (Topical)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12641/lutisone-0005-ointment",
+    "_source_page": 430
+  },
+  {
+    "name": "Lutisone",
+    "strength": "50 mcg/spray",
+    "generic": "Fluticasone Propionate (Nasal Spray)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/13036/lutisone-50-mcg-nasal-spray",
+    "_source_page": 430
+  },
+  {
+    "name": "Lutisone",
+    "strength": "0.5 mg/2 ml",
+    "generic": "Fluticasone Propionate (Nebuliser Suspension)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nebuliser Suspension",
+    "source_url": "https://medex.com.bd/brands/20497/lutisone-05-mg-suspension",
+    "_source_page": 430
+  },
+  {
+    "name": "Lutisone",
+    "strength": "2 mg/2 ml",
+    "generic": "Fluticasone Propionate (Nebuliser Suspension)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nebuliser Suspension",
+    "source_url": "https://medex.com.bd/brands/26220/lutisone-2-mg-suspension",
+    "_source_page": 430
+  },
+  {
+    "name": "Luvio",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "generic": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33657/luvio-60-mg-capsule",
+    "_source_page": 430
+  },
+  {
+    "name": "Luxem",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36616/luxem-10-mg-tablet",
+    "_source_page": 430
+  },
+  {
+    "name": "Luzo",
+    "strength": "1%",
+    "generic": "Luliconazole",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34463/luzo-1-cream",
+    "_source_page": 430
+  }
+]

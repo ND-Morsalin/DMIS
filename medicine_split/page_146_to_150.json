@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Chlormet",
+    "strength": "0.1%+0.5%",
+    "generic": "Dexamethasone + Chloramphenicol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15816/chlormet-01-05-eye-drop",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorodex",
+    "strength": "0.1%+0.5%",
+    "generic": "Dexamethasone + Chloramphenicol",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15796/chlorodex-01-05-eye-drop",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorool",
+    "strength": "125 mg/5 ml",
+    "generic": "Chloramphenicol (Oral)",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/8877/chlorool-125-mg-suspension",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorool",
+    "strength": "250 mg",
+    "generic": "Chloramphenicol (Oral)",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8876/chlorool-250-mg-capsule",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorosol",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28855/chlorosol-05-70-hand-rub",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorovis",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/19185/chlorovis-05-eye-drop",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorphen",
+    "strength": "250 mg",
+    "generic": "Chloramphenicol (Oral)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30806/chlorphen-250-mg-capsule",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorphen",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/19195/chlorphen-05-eye-drop",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorphen",
+    "strength": "5%+1%",
+    "generic": "Chloramphenicol + Lidocaine Hydrochloride",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/8888/chlorphen-5-1-ear-drop",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorphen",
+    "strength": "1%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/8889/chlorphen-1-eye-ointment",
+    "_source_page": 146
+  },
+  {
+    "name": "Chlorpheniramine",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11855/chlorpheniramine-4-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Cholcut",
+    "strength": "20 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31059/cholcut-20-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Cholcut",
+    "strength": "5 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24369/cholcut-5-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Cholcut",
+    "strength": "10 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24368/cholcut-10-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Cholenak",
+    "strength": "0.5%+0.1%+0.393%",
+    "generic": "Sodium Chloride + Potassium Chloride + Sodium Acetate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/26181/cholenak-05-01-injection",
+    "_source_page": 146
+  },
+  {
+    "name": "Cholera Fluid",
+    "strength": null,
+    "generic": "Cholera Saline",
+    "company": "Institute of Public Health (IPH)",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14885/cholera-fluid-injection",
+    "_source_page": 146
+  },
+  {
+    "name": "Cholera Saline",
+    "strength": null,
+    "generic": "Cholera Saline",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14890/cholera-saline-injection",
+    "_source_page": 146
+  },
+  {
+    "name": "Cholera Saline",
+    "strength": null,
+    "generic": "Cholera Saline",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14884/cholera-saline-injection",
+    "_source_page": 146
+  },
+  {
+    "name": "Cholevit",
+    "strength": "200000 IU/ml",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Injectable Solution (Oral & IM)",
+    "source_url": "https://medex.com.bd/brands/33787/cholevit-200000-iu-injectable-solution-oral-im",
+    "_source_page": 146
+  },
+  {
+    "name": "Choliva",
+    "strength": "5 mg",
+    "generic": "Obeticholic Acid",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34076/choliva-5-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Choliva",
+    "strength": "10 mg",
+    "generic": "Obeticholic Acid",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34077/choliva-10-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Cholvax",
+    "strength": "1.5 ml/vial",
+    "generic": "Oral Cholera Vaccine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/30222/cholvax-15-ml-suspension",
+    "_source_page": 146
+  },
+  {
+    "name": "Choriofactor",
+    "strength": "5000 IU/vial",
+    "generic": "Human Chorionic Gonadotrophin",
+    "company": "ZAS Corporation",
+    "medicine_type": "IM/SC Injection",
+    "source_url": "https://medex.com.bd/brands/26162/choriofactor-5000-iu-injection",
+    "_source_page": 146
+  },
+  {
+    "name": "Chrocee",
+    "strength": "200 mg",
+    "generic": "Ribavirin",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/24222/chrocee-200-mg-capsule",
+    "_source_page": 146
+  },
+  {
+    "name": "Chuben DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/303/chuben-ds-400-mg-chewable-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Ciafil",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28475/ciafil-10-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Ciafil",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28476/ciafil-20-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Cialix",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6067/cialix-10-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Ciaton",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6069/ciaton-10-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Ciaton",
+    "strength": "5 mg",
+    "generic": "Tadalafil",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6068/ciaton-5-mg-tablet",
+    "_source_page": 146
+  },
+  {
+    "name": "Ciaton",
+    "strength": "5 mg",
+    "generic": "Tadalafil",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6068/ciaton-5-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cibact",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9158/cibact-500-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cibact",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27226/cibact-250-mg-suspension",
+    "_source_page": 147
+  },
+  {
+    "name": "Cibact",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27225/cibact-750-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cibrate",
+    "strength": "100 mg",
+    "generic": "Ciprofibrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34559/cibrate-100-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cicabio Creme",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36235/cicabio-creme-cream",
+    "_source_page": 147
+  },
+  {
+    "name": "Cicabio Lotion Spray",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/36236/cicabio-lotion-spray-lotion",
+    "_source_page": 147
+  },
+  {
+    "name": "Cicabio Pomade",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36237/cicabio-pomade-cream",
+    "_source_page": 147
+  },
+  {
+    "name": "Ciclex",
+    "strength": "50 mcg/spray",
+    "generic": "Ciclesonide (Nasal Spray)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/19329/ciclex-50-mcg-nasal-spray",
+    "_source_page": 147
+  },
+  {
+    "name": "Cicloderm",
+    "strength": "1%",
+    "generic": "Ciclopirox Olamine (Cream)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/29619/cicloderm-1-cream",
+    "_source_page": 147
+  },
+  {
+    "name": "Ciclorox",
+    "strength": "1%",
+    "generic": "Ciclopirox Olamine (Cream)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34707/ciclorox-1-cream",
+    "_source_page": 147
+  },
+  {
+    "name": "Ciclorox",
+    "strength": "1%",
+    "generic": "Ciclopirox Olamine (Shampoo)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/36879/ciclorox-1-shampoo",
+    "_source_page": 147
+  },
+  {
+    "name": "Cicloson",
+    "strength": "50 mcg/spray",
+    "generic": "Ciclesonide (Nasal Spray)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/19328/cicloson-50-mcg-nasal-spray",
+    "_source_page": 147
+  },
+  {
+    "name": "Cicol-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Save Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37850/cicol-d-500-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cidogrel",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Credence Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28151/cidogrel-75-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cifibet",
+    "strength": "100 mg",
+    "generic": "Ciprofibrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31040/cifibet-100-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cifirate",
+    "strength": "100 mg",
+    "generic": "Ciprofibrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36457/cifirate-100-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Ciflocin",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9159/ciflocin-500-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Ciflodex",
+    "strength": "0.3%+0.1%",
+    "generic": "Ciprofloxacin + Dexamethasone",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15822/ciflodex-03-01-eye-drop",
+    "_source_page": 147
+  },
+  {
+    "name": "Ciflox",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/9111/ciflox-03-eye-ointment",
+    "_source_page": 147
+  },
+  {
+    "name": "Ciflox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9160/ciflox-500-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Ciflox",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9110/ciflox-03-eye-drop",
+    "_source_page": 147
+  },
+  {
+    "name": "Ciko",
+    "strength": "500 mg",
+    "generic": "Citicoline Sodium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35517/ciko-500-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cikolin",
+    "strength": "500 mg/4 ml",
+    "generic": "Citicoline Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/19369/cikolin-500-mg-injection",
+    "_source_page": 147
+  },
+  {
+    "name": "Cikolin",
+    "strength": "500 mg",
+    "generic": "Citicoline Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19368/cikolin-500-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cilanem",
+    "strength": "(500 mg+500 mg)/vial",
+    "generic": "Imipenem + Cilastatin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/30934/cilanem-500-mg-injection",
+    "_source_page": 147
+  },
+  {
+    "name": "Cildip",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25978/cildip-5-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cildip",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25977/cildip-10-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cildocal",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27762/cildocal-10-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cildocal",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27761/cildocal-5-mg-tablet",
+    "_source_page": 147
+  },
+  {
+    "name": "Cilma",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29769/cilma-5-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilma",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29768/cilma-10-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilmedip",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33028/cilmedip-10-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilmedip",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33027/cilmedip-5-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilnical",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25983/cilnical-10-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilnior",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32464/cilnior-5-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilnior",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32465/cilnior-10-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilnipin",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25971/cilnipin-10-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilnipin",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25970/cilnipin-5-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilnivas",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26459/cilnivas-10-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilnivas",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26458/cilnivas-5-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilny",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36941/cilny-10-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilny",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36940/cilny-5-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilocab",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26343/cilocab-5-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilocab",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26342/cilocab-10-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilocin",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28521/cilocin-03-eye-drop",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilocin",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9163/cilocin-250-mg-suspension",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilocin",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9161/cilocin-500-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilosta",
+    "strength": "100 mg",
+    "generic": "Cilostazol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3159/cilosta-100-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Ciltus",
+    "strength": "125 mg/5 ml",
+    "generic": "Citric Acid Monohydrate",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/33330/ciltus-125-mg-syrup",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilvas",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29335/cilvas-5-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cilvas",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29362/cilvas-10-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cinagen",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9624/cinagen-05-eye-drop",
+    "_source_page": 148
+  },
+  {
+    "name": "Cinagen XG",
+    "strength": "0.5%+0.4%",
+    "generic": "Moxifloxacin Hydrochloride + Xanthan Gum",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/22685/cinagen-xg-05-04-eye-drop",
+    "_source_page": 148
+  },
+  {
+    "name": "Cinagen-D",
+    "strength": "0.5%+0.1%",
+    "generic": "Moxifloxacin Hydrochloride + Dexamethasone",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/26905/cinagen-d-05-01-eye-drop",
+    "_source_page": 148
+  },
+  {
+    "name": "Cinalid",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8632/cinalid-500-mg-tablet",
+    "_source_page": 148
+  },
+  {
+    "name": "Cinalid",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8633/cinalid-200-mg-suspension",
+    "_source_page": 148
+  },
+  {
+    "name": "Cinamak",
+    "strength": "250 mg/2 ml",
+    "generic": "Amikacin",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/575/cinamak-250-mg-injection",
+    "_source_page": 148
+  },
+  {
+    "name": "Cinamak",
+    "strength": "500 mg/2 ml",
+    "generic": "Amikacin",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/576/cinamak-500-mg-injection",
+    "_source_page": 148
+  },
+  {
+    "name": "Cinamycin",
+    "strength": "300 mg",
+    "generic": "Clindamycin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8811/cinamycin-300-mg-capsule",
+    "_source_page": 148
+  },
+  {
+    "name": "Cinamycin",
+    "strength": "600 mg/4 ml",
+    "generic": "Clindamycin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/27590/cinamycin-600-mg-injection",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinamycin",
+    "strength": "150 mg",
+    "generic": "Clindamycin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8810/cinamycin-150-mg-capsule",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinamycin",
+    "strength": "300 mg",
+    "generic": "Clindamycin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8811/cinamycin-300-mg-capsule",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinamycin Plus",
+    "strength": "1.2%+0.025%",
+    "generic": "Clindamycin + Tretinoin",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/12786/cinamycin-plus-12-0025-topical-gel",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinarex",
+    "strength": "0.3%",
+    "generic": "Tobramycin (Ophthalmic)",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15720/cinarex-03-eye-drop",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinarex-D",
+    "strength": "0.1%+0.3%",
+    "generic": "Dexamethasone + Tobramycin",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15844/cinarex-d-01-03-eye-drop",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinarin",
+    "strength": "15 mg",
+    "generic": "Cinnarizine",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4595/cinarin-15-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinaron",
+    "strength": "15 mg",
+    "generic": "Cinnarizine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4596/cinaron-15-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinaron Plus",
+    "strength": "20 mg+40 mg",
+    "generic": "Cinnarizine + Dimenhydrinate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4618/cinaron-plus-20-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinaryl",
+    "strength": "15 mg",
+    "generic": "Cinnarizine",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4597/cinaryl-15-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinaryl Plus",
+    "strength": "20 mg+40 mg",
+    "generic": "Cinnarizine + Dimenhydrinate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4623/cinaryl-plus-20-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinarzin",
+    "strength": "15 mg",
+    "generic": "Cinnarizine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4598/cinarzin-15-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinarzin Plus",
+    "strength": "20 mg+40 mg",
+    "generic": "Cinnarizine + Dimenhydrinate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4619/cinarzin-plus-20-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinazin",
+    "strength": "15 mg",
+    "generic": "Cinnarizine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4599/cinazin-15-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinazin Plus",
+    "strength": "20 mg+40 mg",
+    "generic": "Cinnarizine + Dimenhydrinate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4620/cinazin-plus-20-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinekar",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27977/cinekar-10-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinekar",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27976/cinekar-5-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinet",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Belsen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14359/cinet-500-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinnarizine",
+    "strength": "15 mg",
+    "generic": "Cinnarizine",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4600/cinnarizine-15-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinoderm",
+    "strength": "0.025%",
+    "generic": "Fluocinolone Acetonide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12624/cinoderm-0025-cream",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinomyst",
+    "strength": "15 mg",
+    "generic": "Cinnarizine",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4601/cinomyst-15-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cinon",
+    "strength": "0.1%",
+    "generic": "Halcinonide",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/28026/cinon-01-cream",
+    "_source_page": 149
+  },
+  {
+    "name": "Cip",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27103/cip-500-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cip",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9112/cip-03-eye-drop",
+    "_source_page": 149
+  },
+  {
+    "name": "Cip",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27134/cip-750-mg-tablet",
+    "_source_page": 149
+  },
+  {
+    "name": "Cip",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/30827/cip-03-eye-ointment",
+    "_source_page": 149
+  },
+  {
+    "name": "Cip-D",
+    "strength": "0.3%+0.1%",
+    "generic": "Ciprofloxacin + Dexamethasone",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15823/cip-d-03-01-eye-drop",
+    "_source_page": 149
+  },
+  {
+    "name": "Cipcin",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/19345/cipcin-03-eye-drop",
+    "_source_page": 149
+  },
+  {
+    "name": "Cipcin",
+    "strength": "200 mg/100 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Biopharma Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/28889/cipcin-200-mg-injection",
+    "_source_page": 149
+  },
+  {
+    "name": "Cipcin",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9169/cipcin-250-mg-suspension",
+    "_source_page": 149
+  },
+  {
+    "name": "Cipcin",
+    "strength": "250 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9166/cipcin-250-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipcin",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/19345/cipcin-03-eye-drop",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipcin",
+    "strength": "200 mg/100 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Biopharma Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/28889/cipcin-200-mg-injection",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipcin-DX",
+    "strength": "0.3%+0.1%",
+    "generic": "Ciprofloxacin + Dexamethasone",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/19351/cipcin-dx-03-01-eye-drop",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipex",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32331/cipex-750-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipex",
+    "strength": "250 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29244/cipex-250-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipex",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/29246/cipex-250-mg-suspension",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipex",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29245/cipex-500-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Ciplon",
+    "strength": "200 mg/100 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9173/ciplon-200-mg-injection",
+    "_source_page": 150
+  },
+  {
+    "name": "Ciplon DS",
+    "strength": "400 mg/100 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9174/ciplon-ds-400-mg-injection",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipran",
+    "strength": "40 mg",
+    "generic": "Levomilnacipran Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/31020/cipran-40-mg-capsule",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipran",
+    "strength": "80 mg",
+    "generic": "Levomilnacipran Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/31019/cipran-80-mg-capsule",
+    "_source_page": 150
+  },
+  {
+    "name": "Ciprin",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/9115/ciprin-03-eye-ointment",
+    "_source_page": 150
+  },
+  {
+    "name": "Ciprin",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9114/ciprin-03-eye-drop",
+    "_source_page": 150
+  },
+  {
+    "name": "Ciprin",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9177/ciprin-500-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9179/cipro-250-mg-suspension",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9178/cipro-500-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-A",
+    "strength": "200 mg/100 ml",
+    "generic": "Ciprofloxacin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9184/cipro-a-200-mg-injection",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-A",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9183/cipro-a-250-mg-suspension",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-A",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9182/cipro-a-750-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-A",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9181/cipro-a-500-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-A",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9116/cipro-a-03-eye-drop",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-A",
+    "strength": "250 mg",
+    "generic": "Ciprofloxacin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9180/cipro-a-250-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-C",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27564/cipro-c-250-mg-suspension",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-C",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/34543/cipro-c-03-eye-drop",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-C",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9188/cipro-c-500-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-D",
+    "strength": "0.3%+0.1%",
+    "generic": "Ciprofloxacin + Dexamethasone",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15824/cipro-d-03-01-eye-drop",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-M",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9207/cipro-m-750-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-M",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9206/cipro-m-500-mg-tablet",
+    "_source_page": 150
+  },
+  {
+    "name": "Cipro-P",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35664/cipro-p-500-mg-tablet",
+    "_source_page": 150
+  }
+]

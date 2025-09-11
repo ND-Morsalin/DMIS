@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Betaval N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12528/betaval-n-01-05-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betavate-CL",
+    "strength": "0.1%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12543/betavate-cl-01-1-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betavate-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12529/betavate-n-01-05-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betaxol",
+    "strength": "0.5%",
+    "generic": "Betaxolol Hydrochloride",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16054/betaxol-05-eye-drop",
+    "_source_page": 91
+  },
+  {
+    "name": "Bethacol",
+    "strength": "25 mg",
+    "generic": "Bethanechol Chloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35622/bethacol-25-mg-tablet",
+    "_source_page": 91
+  },
+  {
+    "name": "Betmira ER",
+    "strength": "25 mg",
+    "generic": "Mirabegron",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/26092/betmira-er-25-mg-tablet",
+    "_source_page": 91
+  },
+  {
+    "name": "Betmira ER",
+    "strength": "50 mg",
+    "generic": "Mirabegron",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/26093/betmira-er-50-mg-tablet",
+    "_source_page": 91
+  },
+  {
+    "name": "Betno N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "ACI Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33507/betno-n-01-05-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betno-CL",
+    "strength": "0.05%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "ACI Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33508/betno-cl-005-1-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betnoson",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/18205/betnoson-01-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betnova",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31704/betnova-01-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betnova",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/31705/betnova-01-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betnova-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33707/betnova-n-01-05-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betnova-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/33850/betnova-n-01-05-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betnozen-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/35576/betnozen-n-01-05-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betnozen-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35575/betnozen-n-01-05-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betol",
+    "strength": "0.05%+0.005%",
+    "generic": "Betamethasone + Calcipotriol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/28996/betol-005-0005-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betricin",
+    "strength": "0.1%",
+    "generic": "Betamethasone Sodium Phosphate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15750/betricin-01-eye-drop",
+    "_source_page": 91
+  },
+  {
+    "name": "Betricin-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (E/E)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/18252/betricin-n-01-05-eye-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betricin-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (E/E)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/13010/betricin-n-01-05-eye-drop",
+    "_source_page": 91
+  },
+  {
+    "name": "BetriXa",
+    "strength": "40 mg",
+    "generic": "Betrixaban",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28628/betrixa-40-mg-capsule",
+    "_source_page": 91
+  },
+  {
+    "name": "BetriXa",
+    "strength": "80 mg",
+    "generic": "Betrixaban",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28629/betrixa-80-mg-capsule",
+    "_source_page": 91
+  },
+  {
+    "name": "Betson",
+    "strength": "0.05%",
+    "generic": "Betamethasone Dipropionate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/18211/betson-005-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betson",
+    "strength": "0.05%",
+    "generic": "Betamethasone Dipropionate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/18212/betson-005-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betson-CG",
+    "strength": "0.05%+1%+0.1%",
+    "generic": "Betamethasone + Clotrimazole + Gentamicin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33939/betson-cg-005-1-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betson-CL",
+    "strength": "0.05%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12547/betson-cl-005-1-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betson-CL",
+    "strength": "0.1%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12548/betson-cl-01-1-ointment",
+    "_source_page": 91
+  },
+  {
+    "name": "Betson-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (E/E)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/29475/betson-n-01-05-eye-drop",
+    "_source_page": 91
+  },
+  {
+    "name": "Betson-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12532/betson-n-01-05-cream",
+    "_source_page": 91
+  },
+  {
+    "name": "Betson-S",
+    "strength": "0.05%+2%",
+    "generic": "Betamethasone Dipropionate + Salicylic Acid",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Scalp Lotion",
+    "source_url": "https://medex.com.bd/brands/34685/betson-s-005-2-scalp-lotion",
+    "_source_page": 91
+  },
+  {
+    "name": "Beucal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14405/beucal-d-500-mg-tablet",
+    "_source_page": 92
+  },
+  {
+    "name": "Beuflox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9149/beuflox-500-mg-tablet",
+    "_source_page": 92
+  },
+  {
+    "name": "Beuflox",
+    "strength": "200 mg/100 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9153/beuflox-200-mg-injection",
+    "_source_page": 92
+  },
+  {
+    "name": "Beuflox",
+    "strength": "0.3%",
+    "generic": "Ciprofloxacin (Ophthalmic)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9107/beuflox-03-eye-drop",
+    "_source_page": 92
+  },
+  {
+    "name": "Beuflox",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26190/beuflox-250-mg-suspension",
+    "_source_page": 92
+  },
+  {
+    "name": "Beuflox",
+    "strength": "750 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9150/beuflox-750-mg-tablet",
+    "_source_page": 92
+  },
+  {
+    "name": "Beuflox",
+    "strength": "250 mg/sachet",
+    "generic": "Ciprofloxacin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/9151/beuflox-250-mg-powder",
+    "_source_page": 92
+  },
+  {
+    "name": "Beuflox",
+    "strength": "125 mg/sachet",
+    "generic": "Ciprofloxacin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/9152/beuflox-125-mg-powder",
+    "_source_page": 92
+  },
+  {
+    "name": "Beuflox",
+    "strength": "250 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9148/beuflox-250-mg-tablet",
+    "_source_page": 92
+  },
+  {
+    "name": "Beuflox-D",
+    "strength": "0.3%+0.1%",
+    "generic": "Ciprofloxacin + Dexamethasone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15821/beuflox-d-03-01-eye-drop",
+    "_source_page": 92
+  },
+  {
+    "name": "Beurer (BM 28)",
+    "strength": "Digital blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "Beurer GmbH",
+    "medicine_type": "BP Monitor Device",
+    "source_url": "https://medex.com.bd/brands/37758/beurer-bm-28-digital-blood-bp-monitor-device",
+    "_source_page": 92
+  },
+  {
+    "name": "Beurer (BM 58)",
+    "strength": "Digital blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "Beurer GmbH",
+    "medicine_type": "BP Monitor Device",
+    "source_url": "https://medex.com.bd/brands/37773/beurer-bm-58-digital-blood-bp-monitor-device",
+    "_source_page": 92
+  },
+  {
+    "name": "Beurer (BM 85)",
+    "strength": "Digital blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "Beurer GmbH",
+    "medicine_type": "BP Monitor Device",
+    "source_url": "https://medex.com.bd/brands/37772/beurer-bm-85-digital-blood-bp-monitor-device",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevacimab",
+    "strength": "100 mg/4 ml",
+    "generic": "Bevacizumab",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/26094/bevacimab-100-mg-injection",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevacimab",
+    "strength": "400 mg/16 ml",
+    "generic": "Bevacizumab",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/18263/bevacimab-400-mg-injection",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevaris",
+    "strength": "400 mg/16 ml",
+    "generic": "Bevacizumab",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38564/bevaris-400-mg-injection",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevaris",
+    "strength": "100 mg/4 ml",
+    "generic": "Bevacizumab",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38563/bevaris-100-mg-injection",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevastim",
+    "strength": "400 mg/16 ml",
+    "generic": "Bevacizumab",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/27587/bevastim-400-mg-injection",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevastim",
+    "strength": "100 mg/4 ml",
+    "generic": "Bevacizumab",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15090/bevastim-100-mg-injection",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevicort",
+    "strength": "(5.5 mcg+10.4 mcg+182 mcg)/actuation",
+    "generic": "Formoterol Fumarate + Glycopyrrolate + Budesonide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/35974/bevicort-55-mcg-inhaler",
+    "_source_page": 92
+  },
+  {
+    "name": "Beviprex",
+    "strength": "(9 mcg+4.8 mcg)/puff",
+    "generic": "Glycopyrronium Bromide + Formoterol Fumarate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/31145/beviprex-9-mcg-inhaler",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevit",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13759/bevit-5-mg-tablet",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevixa",
+    "strength": "400 mg/16 ml",
+    "generic": "Bevacizumab",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/27586/bevixa-400-mg-injection",
+    "_source_page": 92
+  },
+  {
+    "name": "Bevixa",
+    "strength": "100 mg/4 ml",
+    "generic": "Bevacizumab",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/27585/bevixa-100-mg-injection",
+    "_source_page": 92
+  },
+  {
+    "name": "Bexidal",
+    "strength": "50 mg",
+    "generic": "Mebhydrolin Napadisylate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11892/bexidal-50-mg-tablet",
+    "_source_page": 92
+  },
+  {
+    "name": "Bexihaler",
+    "strength": null,
+    "generic": "Inhaler device",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/33908/bexihaler-inhaler",
+    "_source_page": 92
+  },
+  {
+    "name": "Bexipred",
+    "strength": "1%",
+    "generic": "Prednisolone Acetate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/22268/bexipred-1-suspension",
+    "_source_page": 92
+  },
+  {
+    "name": "Bexitrol F",
+    "strength": "(25 mcg+250 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3934/bexitrol-f-25-mcg-inhaler",
+    "_source_page": 92
+  },
+  {
+    "name": "Bexitrol F",
+    "strength": "50 mcg+100 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Multidose Dry Powder Inhaler (MDPI)",
+    "source_url": "https://medex.com.bd/brands/28865/bexitrol-f-50-mcg-mdpi",
+    "_source_page": 92
+  },
+  {
+    "name": "Bexitrol F",
+    "strength": "50 mcg+100 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3935/bexitrol-f-50-mcg-inhalation-capsule",
+    "_source_page": 92
+  },
+  {
+    "name": "Bexitrol F",
+    "strength": "50 mcg+100 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3935/bexitrol-f-50-mcg-inhalation-capsule",
+    "_source_page": 93
+  },
+  {
+    "name": "Bexitrol F",
+    "strength": "50 mcg+250 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3936/bexitrol-f-50-mcg-inhalation-capsule",
+    "_source_page": 93
+  },
+  {
+    "name": "Bexitrol F",
+    "strength": "50 mcg+500 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3937/bexitrol-f-50-mcg-inhalation-capsule",
+    "_source_page": 93
+  },
+  {
+    "name": "Bexitrol F",
+    "strength": "50 mcg+100 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Multidose Dry Powder Inhaler (MDPI)",
+    "source_url": "https://medex.com.bd/brands/28865/bexitrol-f-50-mcg-mdpi",
+    "_source_page": 93
+  },
+  {
+    "name": "Bexitrol F",
+    "strength": "50 mcg+250 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Multidose Dry Powder Inhaler (MDPI)",
+    "source_url": "https://medex.com.bd/brands/28866/bexitrol-f-50-mcg-mdpi",
+    "_source_page": 93
+  },
+  {
+    "name": "Bexitrol F",
+    "strength": "50 mcg+500 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Multidose Dry Powder Inhaler (MDPI)",
+    "source_url": "https://medex.com.bd/brands/28867/bexitrol-f-50-mcg-mdpi",
+    "_source_page": 93
+  },
+  {
+    "name": "Bexovid",
+    "strength": "150 mg+100 mg",
+    "generic": "Nirmatrelvir + Ritonavir",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31870/bexovid-150-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bexsul",
+    "strength": "6%+3%",
+    "generic": "Benzoic Acid + Salicylic Acid",
+    "company": "Edruc Limited",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12454/bexsul-6-3-ointment",
+    "_source_page": 93
+  },
+  {
+    "name": "Bextram Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14090/bextram-gold-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bextram Kids",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13538/bextram-kids-syrup",
+    "_source_page": 93
+  },
+  {
+    "name": "Bextram Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14140/bextram-silver-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bextram Teen hm",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z teen boys preparation]",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14182/bextram-teen-hm-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bextram Teen hr",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z teen girls preparation]",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14184/bextram-teen-hr-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "BFC",
+    "strength": "0.09%",
+    "generic": "Bromfenac Sodium",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/38724/bfc-009-eye-drop",
+    "_source_page": 93
+  },
+  {
+    "name": "Bfenac",
+    "strength": "0.09%",
+    "generic": "Bromfenac Sodium",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15929/bfenac-009-eye-drop",
+    "_source_page": 93
+  },
+  {
+    "name": "Bfill",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34882/bfill-100-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bic-F",
+    "strength": null,
+    "generic": "Iron + Folic acid + Vitamin B complex + Vitamin C",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13227/bic-f-capsule",
+    "_source_page": 93
+  },
+  {
+    "name": "Bical",
+    "strength": "50 mg",
+    "generic": "Bicalutamide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17246/bical-50-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bicalon",
+    "strength": "50 mg",
+    "generic": "Bicalutamide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18264/bicalon-50-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bicozin",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14683/bicozin-syrup",
+    "_source_page": 93
+  },
+  {
+    "name": "Bicozin",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14682/bicozin-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bicozin-I",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13364/bicozin-i-syrup",
+    "_source_page": 93
+  },
+  {
+    "name": "Bidicod",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27989/bidicod-75-mg-syrup",
+    "_source_page": 93
+  },
+  {
+    "name": "Bidip",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32376/bidip-5-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bidip",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32377/bidip-10-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bidkof",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/34540/bidkof-75-mg-syrup",
+    "_source_page": 93
+  },
+  {
+    "name": "Big B",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13638/big-b-100-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Biganib",
+    "strength": "90 mg",
+    "generic": "Brigatinib",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33122/biganib-90-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Biganib",
+    "strength": "180 mg",
+    "generic": "Brigatinib",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33123/biganib-180-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bigatab",
+    "strength": "90 mg",
+    "generic": "Brigatinib",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35633/bigatab-90-mg-tablet",
+    "_source_page": 93
+  },
+  {
+    "name": "Bigmet",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5357/bigmet-500-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bigmet",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5358/bigmet-850-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bigmet XR",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/29292/bigmet-xr-500-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bihale",
+    "strength": "25 mcg+100 mcg",
+    "generic": "Vilanterol Trifenatate + Fluticasone Furoate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/37198/bihale-25-mcg-inhalation-capsule",
+    "_source_page": 94
+  },
+  {
+    "name": "Bihale",
+    "strength": "25 mcg+200 mcg",
+    "generic": "Vilanterol Trifenatate + Fluticasone Furoate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/37199/bihale-25-mcg-inhalation-capsule",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilaben",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38507/bilaben-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilabil",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37350/bilabil-125-mg-oral-solution",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilabil",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36877/bilabil-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilahist",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34071/bilahist-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilamin",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/36888/bilamin-125-mg-oral-solution",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilamin",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30243/bilamin-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilamin Kids",
+    "strength": "10 mg",
+    "generic": "Bilastine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36887/bilamin-kids-10-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilan",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/32970/bilan-125-mg-oral-solution",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilan",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29302/bilan-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilan Kids",
+    "strength": "10 mg",
+    "generic": "Bilastine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/33197/bilan-kids-10-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilanex",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30244/bilanex-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilanex",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37138/bilanex-125-mg-oral-solution",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilargo",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/31045/bilargo-125-mg-oral-solution",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilargo",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31046/bilargo-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilargo ODT",
+    "strength": "10 mg",
+    "generic": "Bilastine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/31607/bilargo-odt-10-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilasi",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30670/bilasi-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilasi",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37001/bilasi-125-mg-oral-solution",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilastin",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/30006/bilastin-125-mg-oral-solution",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilastin",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26454/bilastin-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilastin Kids",
+    "strength": "10 mg",
+    "generic": "Bilastine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/29366/bilastin-kids-10-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilaten",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37289/bilaten-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilaten",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37290/bilaten-125-mg-oral-solution",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilatis",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34118/bilatis-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilatis",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/34119/bilatis-125-mg-oral-solution",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilaxe",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32601/bilaxe-20-mg-tablet",
+    "_source_page": 94
+  },
+  {
+    "name": "Bilbest",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/35179/bilbest-125-mg-oral-solution",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilbest",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35178/bilbest-20-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilco",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4034/bilco-15-mg-syrup",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilergy",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36380/bilergy-20-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilexa",
+    "strength": "25 mcg+100 mcg",
+    "generic": "Vilanterol Trifenatate + Fluticasone Furoate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/34357/bilexa-25-mcg-inhalation-capsule",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilexa",
+    "strength": "25 mcg+200 mcg",
+    "generic": "Vilanterol Trifenatate + Fluticasone Furoate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/34358/bilexa-25-mcg-inhalation-capsule",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilfast",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28746/bilfast-20-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilfast",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/34000/bilfast-125-mg-oral-solution",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilicir",
+    "strength": "300 mg",
+    "generic": "Ursodeoxycholic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25161/bilicir-300-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilicir",
+    "strength": "150 mg",
+    "generic": "Ursodeoxycholic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25160/bilicir-150-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilista",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29160/bilista-20-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilista Kids",
+    "strength": "10 mg",
+    "generic": "Bilastine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/31196/bilista-kids-10-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Billi",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31005/billi-20-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Billi",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/31004/billi-125-mg-oral-solution",
+    "_source_page": 95
+  },
+  {
+    "name": "Billi Meltab",
+    "strength": "10 mg",
+    "generic": "Bilastine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/31006/billi-meltab-10-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilosen",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35712/bilosen-20-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilovia",
+    "strength": "5 mg",
+    "generic": "Obeticholic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38016/bilovia-5-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilovia",
+    "strength": "10 mg",
+    "generic": "Obeticholic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38017/bilovia-10-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Biltin",
+    "strength": "10 mg",
+    "generic": "Bilastine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/29838/biltin-10-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Biltin",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/30978/biltin-125-mg-oral-solution",
+    "_source_page": 95
+  },
+  {
+    "name": "Biltin",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26457/biltin-20-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilxen",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/34129/bilxen-125-mg-oral-solution",
+    "_source_page": 95
+  },
+  {
+    "name": "Bilxen",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30245/bilxen-20-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bimaprost",
+    "strength": "0.03%",
+    "generic": "Bimatoprost",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16056/bimaprost-003-eye-drop",
+    "_source_page": 95
+  },
+  {
+    "name": "Bimatol",
+    "strength": "0.03%",
+    "generic": "Bimatoprost",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28409/bimatol-003-eye-drop",
+    "_source_page": 95
+  },
+  {
+    "name": "Bimator",
+    "strength": "0.03%+0.5%",
+    "generic": "Bimatoprost + Timolol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18270/bimator-003-05-eye-drop",
+    "_source_page": 95
+  },
+  {
+    "name": "Bimolet",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18306/bimolet-02-05-eye-drop",
+    "_source_page": 95
+  },
+  {
+    "name": "Bimuty",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/14550/bimuty-20-mg-tablet",
+    "_source_page": 95
+  },
+  {
+    "name": "Bimuty DS",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14549/bimuty-ds-10-mg-syrup",
+    "_source_page": 95
+  },
+  {
+    "name": "Binafin",
+    "strength": "1%",
+    "generic": "Terbinafine Hydrochloride",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12469/binafin-1-cream",
+    "_source_page": 95
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Sulfozide",
+    "strength": "80 mg",
+    "generic": "Gliclazide",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20670/sulfozide-80-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulidac",
+    "strength": "100 mg",
+    "generic": "Sulindac",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11619/sulidac-100-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulidac",
+    "strength": "200 mg",
+    "generic": "Sulindac",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11623/sulidac-200-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulin",
+    "strength": "100 mg",
+    "generic": "Sulindac",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33768/sulin-100-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulinzen",
+    "strength": "100 mg",
+    "generic": "Sulindac",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28765/sulinzen-100-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulinzen",
+    "strength": "200 mg",
+    "generic": "Sulindac",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28766/sulinzen-200-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulmetic",
+    "strength": "5 mg/2 ml",
+    "generic": "Amisulpride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/33443/sulmetic-5-mg-injection",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulpralex",
+    "strength": "500 mg",
+    "generic": "Cephalexin",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30804/sulpralex-500-mg-capsule",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulpralex",
+    "strength": "250 mg",
+    "generic": "Cephalexin",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30805/sulpralex-250-mg-capsule",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulprex",
+    "strength": "(100 mcg+20 mcg)/puff",
+    "generic": "Salbutamol + Ipratropium (Inhaler)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3685/sulprex-100-mcg-inhaler",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulprex",
+    "strength": "(2.5 mg+500 mcg)/3 ml",
+    "generic": "Salbutamol + Ipratropium (Solution for inhalation)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Nebuliser Solution",
+    "source_url": "https://medex.com.bd/brands/3687/sulprex-25-mg-respirator-solution",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulpride",
+    "strength": "100 mg",
+    "generic": "Amisulpride",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36737/sulpride-100-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sulpride",
+    "strength": "200 mg",
+    "generic": "Amisulpride",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36738/sulpride-200-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sultolin",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3512/sultolin-2-mg-syrup",
+    "_source_page": 701
+  },
+  {
+    "name": "Sultolin",
+    "strength": "100 mcg/puff",
+    "generic": "Salbutamol (Inhaler)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3513/sultolin-100-mcg-inhaler",
+    "_source_page": 701
+  },
+  {
+    "name": "Sultolin",
+    "strength": "200 mcg",
+    "generic": "Salbutamol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3516/sultolin-200-mcg-inhalation-capsule",
+    "_source_page": 701
+  },
+  {
+    "name": "Sultolin",
+    "strength": "5 mg/ml",
+    "generic": "Salbutamol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Nebuliser Solution",
+    "source_url": "https://medex.com.bd/brands/3518/sultolin-5-mg-respirator-solution",
+    "_source_page": 701
+  },
+  {
+    "name": "Sultolin SR",
+    "strength": "8 mg",
+    "generic": "Salbutamol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3511/sultolin-sr-8-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Suma",
+    "strength": "10 mg/spray",
+    "generic": "Sumatriptan",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/29459/suma-10-mg-nasal-spray",
+    "_source_page": 701
+  },
+  {
+    "name": "Sumatrex",
+    "strength": "10 mg/spray",
+    "generic": "Sumatriptan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/38391/sumatrex-10-mg-nasal-spray",
+    "_source_page": 701
+  },
+  {
+    "name": "Sumetrolim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/33919/sumetrolim-200-mg-suspension",
+    "_source_page": 701
+  },
+  {
+    "name": "Sumin",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Avarox Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22136/sumin-500-mg-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sun D",
+    "strength": "20000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26972/sun-d-20000-iu-capsule",
+    "_source_page": 701
+  },
+  {
+    "name": "Sun D",
+    "strength": "40000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26973/sun-d-40000-iu-capsule",
+    "_source_page": 701
+  },
+  {
+    "name": "Sun D",
+    "strength": "1000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26974/sun-d-1000-iu-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "Sunicent",
+    "strength": "50 mg",
+    "generic": "Sunitinib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28706/sunicent-50-mg-capsule",
+    "_source_page": 701
+  },
+  {
+    "name": "Sunitix",
+    "strength": "50 mg",
+    "generic": "Sunitinib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16704/sunitix-50-mg-capsule",
+    "_source_page": 701
+  },
+  {
+    "name": "Sunitix",
+    "strength": "37.5 mg",
+    "generic": "Sunitinib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34846/sunitix-375-mg-capsule",
+    "_source_page": 701
+  },
+  {
+    "name": "Sunkist",
+    "strength": "250 mg",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Arges Life Science Limited",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/32921/sunkist-250-mg-chewable-tablet",
+    "_source_page": 701
+  },
+  {
+    "name": "SunMask",
+    "strength": null,
+    "generic": "Zinc oxide + Octinoxate + Enzacamene + Avobenzone",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/29555/sunmask-cream",
+    "_source_page": 701
+  },
+  {
+    "name": "Sunrise-D",
+    "strength": "40000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31165/sunrise-d-40000-iu-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "SunVit",
+    "strength": "20000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/36415/sunvit-20000-iu-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "SunVit",
+    "strength": "40000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/36416/sunvit-40000-iu-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "Sunvit-D3 DHA",
+    "strength": "1000 IU/ml",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Walmart pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/38278/sunvit-d3-dha-1000-iu-oral-solution",
+    "_source_page": 702
+  },
+  {
+    "name": "Supadopa TR",
+    "strength": "23.75 mg+95 mg",
+    "generic": "Levodopa + Carbidopa (Extended release)",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/37586/supadopa-tr-2375-mg-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "Supadopa TR",
+    "strength": "36.25 mg+145 mg",
+    "generic": "Levodopa + Carbidopa (Extended release)",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/37587/supadopa-tr-3625-mg-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "Supadopa TR",
+    "strength": "61.25 mg+245 mg",
+    "generic": "Levodopa + Carbidopa (Extended release)",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/37589/supadopa-tr-6125-mg-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "Supadopa TR",
+    "strength": "48.75 mg+195 mg",
+    "generic": "Levodopa + Carbidopa (Extended release)",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/37590/supadopa-tr-4875-mg-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "Super Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14120/super-gold-tablet",
+    "_source_page": 702
+  },
+  {
+    "name": "Super Saline",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/978/super-saline-1025-gm-powder",
+    "_source_page": 702
+  },
+  {
+    "name": "Super Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14157/super-silver-tablet",
+    "_source_page": 702
+  },
+  {
+    "name": "SuperItra",
+    "strength": "65 mg",
+    "generic": "Itraconazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/36794/superitra-65-mg-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "Superpime",
+    "strength": "1 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8197/superpime-1-gm-injection",
+    "_source_page": 702
+  },
+  {
+    "name": "Superpime",
+    "strength": "500 mg/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8199/superpime-500-mg-injection",
+    "_source_page": 702
+  },
+  {
+    "name": "Superseas",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13573/superseas-syrup",
+    "_source_page": 702
+  },
+  {
+    "name": "Supersol",
+    "strength": "75%+0.125%+1.45%",
+    "generic": "Isopropyl Alcohol + Hydrogen Peroxide + Glycerol",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/33298/supersol-75-0125-hand-rub",
+    "_source_page": 702
+  },
+  {
+    "name": "Suplical",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14337/suplical-500-mg-tablet",
+    "_source_page": 702
+  },
+  {
+    "name": "Suplical-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14475/suplical-d-500-mg-tablet",
+    "_source_page": 702
+  },
+  {
+    "name": "Supotaria",
+    "strength": "0.2 mg/ml",
+    "generic": "Glycopyrronium Bromide (Injection)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15298/supotaria-02-mg-injection",
+    "_source_page": 702
+  },
+  {
+    "name": "Supotaria",
+    "strength": "0.6 mg/3 ml",
+    "generic": "Glycopyrronium Bromide (Injection)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26244/supotaria-06-mg-injection",
+    "_source_page": 702
+  },
+  {
+    "name": "Supotaria",
+    "strength": "50 mcg",
+    "generic": "Glycopyrronium Bromide (Inhalation capsule)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/26245/supotaria-50-mcg-inhalation-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "Supotaria",
+    "strength": "1 mg/5 ml",
+    "generic": "Glycopyrronium Bromide (Oral solution)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/30338/supotaria-1-mg-oral-solution",
+    "_source_page": 702
+  },
+  {
+    "name": "Supotaria",
+    "strength": "25 mcg/ml",
+    "generic": "Glycopyrronium Bromide (Respirator Solution)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nebuliser Solution",
+    "source_url": "https://medex.com.bd/brands/33817/supotaria-25-mcg-respirator-solution",
+    "_source_page": 702
+  },
+  {
+    "name": "Supoxim",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18853/supoxim-40-mg-suspension",
+    "_source_page": 702
+  },
+  {
+    "name": "Supra-B",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13700/supra-b-100-mg-tablet",
+    "_source_page": 702
+  },
+  {
+    "name": "Supra-Z",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13382/supra-z-syrup",
+    "_source_page": 702
+  },
+  {
+    "name": "Supracef",
+    "strength": "250 mg",
+    "generic": "Cephradine",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7059/supracef-250-mg-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "Supracef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7060/supracef-500-mg-capsule",
+    "_source_page": 702
+  },
+  {
+    "name": "Supracef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7061/supracef-125-mg-suspension",
+    "_source_page": 702
+  },
+  {
+    "name": "Supracef",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cephradine",
+    "company": "Biopharma Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/7063/supracef-125-mg-pediatric-drop",
+    "_source_page": 702
+  },
+  {
+    "name": "Supracef F",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7062/supracef-f-250-mg-suspension",
+    "_source_page": 703
+  },
+  {
+    "name": "Supracod",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13574/supracod-syrup",
+    "_source_page": 703
+  },
+  {
+    "name": "Suprafol TR",
+    "strength": "200 mg+200 mcg",
+    "generic": "Ferrous Fumarate + Folic acid",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13188/suprafol-tr-200-mg-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Suprafol Z TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13315/suprafol-z-tr-150-mg-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Supraphen",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/8909/supraphen-05-eye-drop",
+    "_source_page": 703
+  },
+  {
+    "name": "Supraphen",
+    "strength": "1%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/8910/supraphen-1-eye-ointment",
+    "_source_page": 703
+  },
+  {
+    "name": "Supraphen",
+    "strength": "10%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28145/supraphen-10-eye-drop",
+    "_source_page": 703
+  },
+  {
+    "name": "Supraphen",
+    "strength": "5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28146/supraphen-5-eye-drop",
+    "_source_page": 703
+  },
+  {
+    "name": "Supraphen plus",
+    "strength": "5%+1%",
+    "generic": "Chloramphenicol + Lidocaine Hydrochloride",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/16238/supraphen-plus-5-1-ear-drop",
+    "_source_page": 703
+  },
+  {
+    "name": "Supraplex",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13841/supraplex-5-mg-syrup",
+    "_source_page": 703
+  },
+  {
+    "name": "Supravit",
+    "strength": null,
+    "generic": "Multivitamin [Adult preparation]",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/14065/supravit-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Supravit-G",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/14121/supravit-g-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Supravit-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/14229/supravit-m-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Supravit-PN",
+    "strength": null,
+    "generic": "Multivitamins & Multiminerals [A-Z prenatal preparation]",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/14742/supravit-pn-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Supravit-S",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26626/supravit-s-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Suprax",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7646/suprax-200-mg-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Suprax",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7648/suprax-100-mg-suspension",
+    "_source_page": 703
+  },
+  {
+    "name": "Suprax DS",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7647/suprax-ds-400-mg-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Supraxim",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7649/supraxim-200-mg-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Supraxim",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7650/supraxim-100-mg-suspension",
+    "_source_page": 703
+  },
+  {
+    "name": "Suprazyme",
+    "strength": "325 mg",
+    "generic": "Pancreatin",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23301/suprazyme-325-mg-tablet",
+    "_source_page": 703
+  },
+  {
+    "name": "Supreno",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/33195/supreno-75-mg-syrup",
+    "_source_page": 703
+  },
+  {
+    "name": "Sural",
+    "strength": "400 mg",
+    "generic": "Ethambutol",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28055/sural-400-mg-tablet",
+    "_source_page": 703
+  },
+  {
+    "name": "Surecal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Eggshell Calcium + Vitamin D3",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35398/surecal-d-500-mg-tablet",
+    "_source_page": 703
+  },
+  {
+    "name": "Surecal-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Eggshell Calcium + Vitamin D3",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35399/surecal-dx-600-mg-tablet",
+    "_source_page": 703
+  },
+  {
+    "name": "Surgeflox",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6407/surgeflox-500-mg-capsule",
+    "_source_page": 703
+  },
+  {
+    "name": "Surgidol",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15438/surgidol-10-mg-tablet",
+    "_source_page": 703
+  },
+  {
+    "name": "Surgidol",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15439/surgidol-30-mg-injection",
+    "_source_page": 703
+  },
+  {
+    "name": "Surgin",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Oyster Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15440/surgin-10-mg-tablet",
+    "_source_page": 703
+  },
+  {
+    "name": "Surliv",
+    "strength": "150 mg",
+    "generic": "Ursodeoxycholic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35284/surliv-150-mg-tablet",
+    "_source_page": 703
+  },
+  {
+    "name": "Surliv",
+    "strength": "300 mg",
+    "generic": "Ursodeoxycholic Acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35285/surliv-300-mg-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpim",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15387/surpim-10-mg-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpim",
+    "strength": "0.5%",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15453/surpim-05-eye-drop",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpim",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/21232/surpim-30-mg-injection",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpim",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/38084/surpim-60-mg-injection",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene  4-0 Cutting body (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38677/surpolene-4-0-cutting-body-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene 0 Taper cutting (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38678/surpolene-0-taper-cutting-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene 0-Round Body (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38679/surpolene-0-round-body-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene 1 Round Body (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38680/surpolene-1-round-body-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene 1-Reverse Cutting (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38681/surpolene-1-reverse-cutting-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene 2-0 Round Body (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38682/surpolene-2-0-round-body-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene 2-0 Taper cutting (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38683/surpolene-2-0-taper-cutting-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene 3-0 Cutting body (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38684/surpolene-3-0-cutting-body-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene 3-0 Round body (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38685/surpolene-3-0-round-body-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Surpolene 4-0 Round body (Polypropelene)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38686/surpolene-4-0-round-body-polypropelene-suture-material",
+    "_source_page": 704
+  },
+  {
+    "name": "Survanta",
+    "strength": "25 mg/ml",
+    "generic": "Phospholipids",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Intratracheal Suspension",
+    "source_url": "https://medex.com.bd/brands/4163/survanta-25-mg-injection",
+    "_source_page": 704
+  },
+  {
+    "name": "Survec",
+    "strength": "10 mg/vial",
+    "generic": "Vecuronium Bromide",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/15480/survec-10-mg-injection",
+    "_source_page": 704
+  },
+  {
+    "name": "Susten",
+    "strength": "30 mg",
+    "generic": "Dapoxetine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16408/susten-30-mg-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Susten",
+    "strength": "60 mg",
+    "generic": "Dapoxetine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16409/susten-60-mg-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Sustogen",
+    "strength": "250 mg/ml",
+    "generic": "Testosterone Decanoate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27357/sustogen-250-mg-injection",
+    "_source_page": 704
+  },
+  {
+    "name": "Sutinib",
+    "strength": "50 mg",
+    "generic": "Sunitinib",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/24730/sutinib-50-mg-capsule",
+    "_source_page": 704
+  },
+  {
+    "name": "Suvic",
+    "strength": "250 mg",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/13936/suvic-250-mg-chewable-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Suvirus",
+    "strength": "400 mg",
+    "generic": "Sofosbuvir",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24649/suvirus-400-mg-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Suvo",
+    "strength": "10 mg",
+    "generic": "Suvorexant",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28428/suvo-10-mg-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Suvorest",
+    "strength": "10 mg",
+    "generic": "Suvorexant",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25952/suvorest-10-mg-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Suvotol",
+    "strength": "10 mg",
+    "generic": "Suvorexant",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25957/suvotol-10-mg-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Suxa",
+    "strength": "100 mg/2 ml",
+    "generic": "Suxamethonium Chloride",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15482/suxa-100-mg-injection",
+    "_source_page": 704
+  },
+  {
+    "name": "Suxen",
+    "strength": "10% w/w",
+    "generic": "Naproxen Sodium",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/11503/suxen-10-w-gel",
+    "_source_page": 704
+  },
+  {
+    "name": "Suxonium",
+    "strength": "100 mg/2 ml",
+    "generic": "Suxamethonium Chloride",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15479/suxonium-100-mg-injection",
+    "_source_page": 704
+  },
+  {
+    "name": "Suzaron",
+    "strength": "15 mg",
+    "generic": "Cinnarizine",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4603/suzaron-15-mg-tablet",
+    "_source_page": 704
+  },
+  {
+    "name": "Suzyme",
+    "strength": "325 mg",
+    "generic": "Pancreatin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2434/suzyme-325-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Sweet Drops",
+    "strength": "25%",
+    "generic": "Sucralose",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Liquid",
+    "source_url": "https://medex.com.bd/brands/29407/sweet-drops-25-liquid",
+    "_source_page": 705
+  },
+  {
+    "name": "Sweet'n Zero",
+    "strength": "8 mg",
+    "generic": "Sucralose",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24696/sweetn-zero-8-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Sweet'n Zero",
+    "strength": "12 mg/sachet",
+    "generic": "Sucralose",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/24697/sweetn-zero-12-mg-powder",
+    "_source_page": 705
+  },
+  {
+    "name": "Syalox Plus",
+    "strength": "300 mg",
+    "generic": "Hyaluronic Acid",
+    "company": "River Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32717/syalox-plus-300-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Sycal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "MST Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14338/sycal-500-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Sycal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "MST Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14476/sycal-d-500-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Syclofen",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "MST Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/86/syclofen-100-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Sydon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "MST Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1647/sydon-10-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Syflu",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "MST Pharma",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6409/syflu-500-mg-capsule",
+    "_source_page": 705
+  },
+  {
+    "name": "Syflu",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "MST Pharma",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6410/syflu-125-mg-suspension",
+    "_source_page": 705
+  },
+  {
+    "name": "Sylvia ODT",
+    "strength": "75 mg",
+    "generic": "Rimegepant",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/35806/sylvia-odt-75-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Symbion",
+    "strength": "100 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3921/symbion-100-mcg-inhalation-capsule",
+    "_source_page": 705
+  },
+  {
+    "name": "Symbion",
+    "strength": "200 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3922/symbion-200-mcg-inhalation-capsule",
+    "_source_page": 705
+  },
+  {
+    "name": "Symbion",
+    "strength": "(80 mcg+4.5 mcg)/puff",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3923/symbion-80-mcg-inhaler",
+    "_source_page": 705
+  },
+  {
+    "name": "Symbion",
+    "strength": "(160 mcg+4.5 mcg)/puff",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3924/symbion-160-mcg-inhaler",
+    "_source_page": 705
+  },
+  {
+    "name": "Symbion",
+    "strength": "400 mcg+12 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/18400/symbion-400-mcg-inhalation-capsule",
+    "_source_page": 705
+  },
+  {
+    "name": "Symbion",
+    "strength": "(200 mcg+6 mcg)/puff",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/29546/symbion-200-mcg-inhaler",
+    "_source_page": 705
+  },
+  {
+    "name": "Symbion",
+    "strength": "(400 mcg+12 mcg)/puff",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/29547/symbion-400-mcg-inhaler",
+    "_source_page": 705
+  },
+  {
+    "name": "Symbiotrin",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Oral Gel",
+    "source_url": "https://medex.com.bd/brands/17231/symbiotrin-2-w-oral-gel",
+    "_source_page": 705
+  },
+  {
+    "name": "Symin",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Syntho Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11863/symin-2-mg-syrup",
+    "_source_page": 705
+  },
+  {
+    "name": "Sympres",
+    "strength": "0.2 mg",
+    "generic": "Moxonidine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36584/sympres-02-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Sympres",
+    "strength": "0.3 mg",
+    "generic": "Moxonidine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36585/sympres-03-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "SYN-Z",
+    "strength": null,
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate + Vitamin B Complex + Vitamin C",
+    "company": "MST Pharma",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13419/syn-z-capsule",
+    "_source_page": 705
+  },
+  {
+    "name": "Synamet",
+    "strength": "100 mg+10 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30068/synamet-100-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Synamet",
+    "strength": "250 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30069/synamet-250-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Synamet",
+    "strength": "100 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30142/synamet-100-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Synamet Plus",
+    "strength": "50 mg+12.5 mg +200 mg",
+    "generic": "Levodopa + Carbidopa + Entacapone",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30070/synamet-plus-50-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Synamet Plus",
+    "strength": "100 mg+25 mg+200 mg",
+    "generic": "Levodopa + Carbidopa + Entacapone",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30071/synamet-plus-100-mg-tablet",
+    "_source_page": 705
+  },
+  {
+    "name": "Syncapone",
+    "strength": "100 mg+25 mg+200 mg",
+    "generic": "Levodopa + Carbidopa + Entacapone",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30705/syncapone-100-mg-tablet",
+    "_source_page": 705
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Thalamia",
+    "strength": "50 mg",
+    "generic": "Thalidomide",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37043/thalamia-50-mg-capsule",
+    "_source_page": 726
+  },
+  {
+    "name": "Thalidon",
+    "strength": "25 mg",
+    "generic": "Chlorthalidone",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2816/thalidon-25-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thalimide",
+    "strength": "50 mg",
+    "generic": "Thalidomide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35203/thalimide-50-mg-capsule",
+    "_source_page": 726
+  },
+  {
+    "name": "Thalimide",
+    "strength": "100 mg",
+    "generic": "Thalidomide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35204/thalimide-100-mg-capsule",
+    "_source_page": 726
+  },
+  {
+    "name": "Thalin",
+    "strength": "25 mg",
+    "generic": "Chlorthalidone",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30819/thalin-25-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thelin",
+    "strength": "15 mg",
+    "generic": "Propantheline Bromide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29779/thelin-15-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thenglate",
+    "strength": "120 mg/5 ml",
+    "generic": "Theophylline",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3662/thenglate-120-mg-syrup",
+    "_source_page": 726
+  },
+  {
+    "name": "Thenxet",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4369/thenxet-05-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Theo-fast",
+    "strength": "120 mg/5 ml",
+    "generic": "Theophylline",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26667/theo-fast-120-mg-syrup",
+    "_source_page": 726
+  },
+  {
+    "name": "Theonate",
+    "strength": "300 mg",
+    "generic": "Theophylline",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3663/theonate-300-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Theovent-SR",
+    "strength": "200 mg",
+    "generic": "Theophylline",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3665/theovent-sr-200-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Theovent-SR",
+    "strength": "300 mg",
+    "generic": "Theophylline",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3666/theovent-sr-300-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Theovent-SR",
+    "strength": "400 mg",
+    "generic": "Theophylline",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3667/theovent-sr-400-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thianomin",
+    "strength": "100 mg/ml",
+    "generic": "Thiamine Hydrochloride",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/24930/thianomin-100-mg-injection",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiason",
+    "strength": "100 mg/ml",
+    "generic": "Thiamine Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/13595/thiason-100-mg-injection",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiason",
+    "strength": "100 mg/ml",
+    "generic": "Thiamine Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/13596/thiason-100-mg-injection",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiatab",
+    "strength": "100 mg",
+    "generic": "Thiamine Hydrochloride",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13597/thiatab-100-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiocard",
+    "strength": "15 mg",
+    "generic": "Chlorthalidone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33169/thiocard-15-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiocard",
+    "strength": "25 mg",
+    "generic": "Chlorthalidone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33170/thiocard-25-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiocil",
+    "strength": "50 mg",
+    "generic": "Propylthiouracil",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33820/thiocil-50-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiontal",
+    "strength": "1 gm/vial",
+    "generic": "Thiopental Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/30502/thiontal-1-gm-injection",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiontal",
+    "strength": "500 mg/vial",
+    "generic": "Thiopental Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/30503/thiontal-500-mg-injection",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiopen",
+    "strength": "500 mg/vial",
+    "generic": "Thiopental Sodium",
+    "company": "ACI Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/15284/thiopen-500-mg-injection",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiopen",
+    "strength": "1 gm/vial",
+    "generic": "Thiopental Sodium",
+    "company": "ACI Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27558/thiopen-1-gm-injection",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiosina",
+    "strength": "100 mg",
+    "generic": "Thiamine Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13598/thiosina-100-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiotab",
+    "strength": "7.5 mg",
+    "generic": "Sodium Thiosulfate",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2353/thiotab-75-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiotab",
+    "strength": "15 mg",
+    "generic": "Sodium Thiosulfate",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2354/thiotab-15-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thioton",
+    "strength": "500 mg/vial",
+    "generic": "Thiopental Sodium",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/15286/thioton-500-mg-injection",
+    "_source_page": 726
+  },
+  {
+    "name": "Thioton",
+    "strength": "1 gm/vial",
+    "generic": "Thiopental Sodium",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27559/thioton-1-gm-injection",
+    "_source_page": 726
+  },
+  {
+    "name": "Thiovit",
+    "strength": "100 mg",
+    "generic": "Thiamine Hydrochloride",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13599/thiovit-100-mg-tablet",
+    "_source_page": 726
+  },
+  {
+    "name": "Thixtra",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17229/thixtra-05-mg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thiza",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8697/thiza-500-mg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thiza",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8698/thiza-200-mg-suspension",
+    "_source_page": 727
+  },
+  {
+    "name": "Thoraz",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29234/thoraz-250-mg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thoraz",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/29236/thoraz-200-mg-suspension",
+    "_source_page": 727
+  },
+  {
+    "name": "Thoraz",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32321/thoraz-500-mg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thormon",
+    "strength": "50 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16715/thormon-50-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Throcin",
+    "strength": "125 mg/5 ml",
+    "generic": "Erythromycin (Oral)",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8513/throcin-125-mg-suspension",
+    "_source_page": 727
+  },
+  {
+    "name": "Throcin",
+    "strength": "500 mg",
+    "generic": "Erythromycin (Oral)",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35931/throcin-500-mg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thromax",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8699/thromax-250-mg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thromax",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8700/thromax-500-mg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thromax",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8701/thromax-200-mg-suspension",
+    "_source_page": 727
+  },
+  {
+    "name": "Thrombocid",
+    "strength": "15 mg/gm",
+    "generic": "Pentosan Polysulfate Sodium",
+    "company": "ZAS Corporation",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/33954/thrombocid-15-mg-topical-gel",
+    "_source_page": 727
+  },
+  {
+    "name": "Thymoglobulin",
+    "strength": "25 mg/10 ml",
+    "generic": "Anti-Thymocyte Globulin",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/28353/thymoglobulin-25-mg-injection",
+    "_source_page": 727
+  },
+  {
+    "name": "Thynor",
+    "strength": "50 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5730/thynor-50-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrin",
+    "strength": "25 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5731/thyrin-25-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrin",
+    "strength": "50 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5732/thyrin-50-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrin",
+    "strength": "75 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36671/thyrin-75-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrolar",
+    "strength": "50 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5733/thyrolar-50-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyronor",
+    "strength": "50 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5734/thyronor-50-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyronor",
+    "strength": "25 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21671/thyronor-25-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyronor",
+    "strength": "12.5 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32990/thyronor-125-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyronor",
+    "strength": "75 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33135/thyronor-75-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyronor",
+    "strength": "100 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33136/thyronor-100-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrotab",
+    "strength": "50 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16717/thyrotab-50-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrox",
+    "strength": "50 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5735/thyrox-50-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrox",
+    "strength": "25 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29304/thyrox-25-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrox",
+    "strength": "100 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29846/thyrox-100-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrox",
+    "strength": "75 mcg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33559/thyrox-75-mcg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyrox",
+    "strength": "12.5 mg",
+    "generic": "Levothyroxine Sodium",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36934/thyrox-125-mg-tablet",
+    "_source_page": 727
+  },
+  {
+    "name": "Thyzol",
+    "strength": "5 mg",
+    "generic": "Methimazole",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36712/thyzol-5-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Thyzol",
+    "strength": "10 mg",
+    "generic": "Methimazole",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36713/thyzol-10-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Thyzol",
+    "strength": "20 mg",
+    "generic": "Methimazole",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36773/thyzol-20-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Ti-ediplex",
+    "strength": "(100 mg+50 mg+100 mg)/2 ml",
+    "generic": "Vitamin B1, B2 & B6",
+    "company": "Edruc Limited",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/13632/ti-ediplex-100-mg-injection",
+    "_source_page": 728
+  },
+  {
+    "name": "Tiagra",
+    "strength": "5 mg",
+    "generic": "Tadalafil",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6092/tiagra-5-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tiagra",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6093/tiagra-10-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tiapine",
+    "strength": "100 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4409/tiapine-100-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tiapine",
+    "strength": "25 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23978/tiapine-25-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tiapine XR",
+    "strength": "50 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/23979/tiapine-xr-50-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tiapine XR",
+    "strength": "200 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/23980/tiapine-xr-200-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tiapine XR",
+    "strength": "400 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/35083/tiapine-xr-400-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tiapine XR",
+    "strength": "300 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/35545/tiapine-xr-300-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibeta",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32559/tibeta-25-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibeta",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32560/tibeta-5-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibilon",
+    "strength": "2.5 mg",
+    "generic": "Tibolone",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5935/tibilon-25-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibo",
+    "strength": "2.5 mg",
+    "generic": "Tibolone",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5930/tibo-25-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibofem",
+    "strength": "2.5 mg",
+    "generic": "Tibolone",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28281/tibofem-25-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibomax",
+    "strength": "2.5 mg",
+    "generic": "Tibolone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35648/tibomax-25-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibone",
+    "strength": "2.5 mg",
+    "generic": "Tibolone",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5936/tibone-25-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibonor",
+    "strength": "2.5 mg",
+    "generic": "Tibolone",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5937/tibonor-25-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibs",
+    "strength": "6 mg",
+    "generic": "Tegaserod",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30033/tibs-6-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibucef",
+    "strength": "400 mg",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18961/tibucef-400-mg-capsule",
+    "_source_page": 728
+  },
+  {
+    "name": "Tibucef",
+    "strength": "90 mg/5 ml",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26668/tibucef-90-mg-suspension",
+    "_source_page": 728
+  },
+  {
+    "name": "Ticacard",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24939/ticacard-90-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Ticaflow",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32255/ticaflow-90-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Ticaflow",
+    "strength": "60 mg",
+    "generic": "Ticagrelor",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32256/ticaflow-60-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Ticalog",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24944/ticalog-90-mg-tablet",
+    "_source_page": 728
+  },
+  {
+    "name": "Ticamet",
+    "strength": "(25 mcg+125 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3960/ticamet-25-mcg-inhaler",
+    "_source_page": 728
+  },
+  {
+    "name": "Ticamet",
+    "strength": "(25 mcg+250 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3961/ticamet-25-mcg-inhaler",
+    "_source_page": 728
+  },
+  {
+    "name": "Ticamet",
+    "strength": "50 mcg+500 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3962/ticamet-50-mcg-inhalation-capsule",
+    "_source_page": 728
+  },
+  {
+    "name": "Ticamet",
+    "strength": "50 mcg+250 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3963/ticamet-50-mcg-inhalation-capsule",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticamet",
+    "strength": "50 mcg+100 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/20512/ticamet-50-mcg-inhalation-capsule",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticard",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32561/ticard-5-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticard Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32562/ticard-plus-5-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticarel",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16720/ticarel-90-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticarel",
+    "strength": "60 mg",
+    "generic": "Ticagrelor",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32258/ticarel-60-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticas",
+    "strength": "0.05%",
+    "generic": "Fluticasone Propionate (Topical)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12642/ticas-005-cream",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticason",
+    "strength": "0.05%",
+    "generic": "Fluticasone Propionate (Topical)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38089/ticason-005-cream",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticason",
+    "strength": "0.005%",
+    "generic": "Fluticasone Propionate (Topical)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/38090/ticason-0005-ointment",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticfree",
+    "strength": "12.5 mg",
+    "generic": "Tetrabenazine",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35809/ticfree-125-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticofen",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/15971/ticofen-1-mg-syrup",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticoma B",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18309/ticoma-b-02-05-eye-drop",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticoma B OSD",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/32962/ticoma-b-osd-02-05-eye-drop",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticoma DS",
+    "strength": "0.5%",
+    "generic": "Timolol Maleate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/24988/ticoma-ds-05-eye-drop",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticoplan",
+    "strength": "200 mg/vial",
+    "generic": "Teicoplanin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28640/ticoplan-200-mg-injection",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticoplan",
+    "strength": "400 mg/vial",
+    "generic": "Teicoplanin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28641/ticoplan-400-mg-injection",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticstop",
+    "strength": "12.5 mg",
+    "generic": "Tetrabenazine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34167/ticstop-125-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Ticstop",
+    "strength": "25 mg",
+    "generic": "Tetrabenazine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34168/ticstop-25-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Tie",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24968/tie-50-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Tiemis",
+    "strength": "10 mg/5 ml",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/36763/tiemis-10-mg-syrup",
+    "_source_page": 729
+  },
+  {
+    "name": "Tiemis",
+    "strength": "5 mg/2 ml",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/36764/tiemis-5-mg-injection",
+    "_source_page": 729
+  },
+  {
+    "name": "Tiemis",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36765/tiemis-50-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Tiemo",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1450/tiemo-50-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Tienum",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1451/tienum-50-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Tienum",
+    "strength": "5 mg/2 ml",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/1452/tienum-5-mg-injection",
+    "_source_page": 729
+  },
+  {
+    "name": "Tifen",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3743/tifen-1-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Tifen",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3744/tifen-1-mg-syrup",
+    "_source_page": 729
+  },
+  {
+    "name": "Tifsi",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31583/tifsi-1-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Tifsi",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/31584/tifsi-1-mg-syrup",
+    "_source_page": 729
+  },
+  {
+    "name": "Tiga",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24941/tiga-90-mg-tablet",
+    "_source_page": 729
+  },
+  {
+    "name": "Tiga",
+    "strength": "60 mg",
+    "generic": "Ticagrelor",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32259/tiga-60-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tigel",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24940/tigel-90-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tigicon",
+    "strength": "200 mg",
+    "generic": "Fenofibrate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/3350/tigicon-200-mg-capsule",
+    "_source_page": 730
+  },
+  {
+    "name": "Tigilow",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1237/tigilow-10-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tigilow",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1238/tigilow-20-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tiginor",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1239/tiginor-10-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tiginor",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1240/tiginor-20-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tiginor",
+    "strength": "40 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1241/tiginor-40-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tiginor EZ",
+    "strength": "10 mg+10 mg",
+    "generic": "Atorvastatin + Ezetimibe",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37092/tiginor-ez-10-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tiginor EZ",
+    "strength": "20 mg+10 mg",
+    "generic": "Atorvastatin + Ezetimibe",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37106/tiginor-ez-20-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tigirate",
+    "strength": "200 mg",
+    "generic": "Fenofibrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/3351/tigirate-200-mg-capsule",
+    "_source_page": 730
+  },
+  {
+    "name": "Tigocin",
+    "strength": "2% w/w",
+    "generic": "Mupirocin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/28610/tigocin-2-w-ointment",
+    "_source_page": 730
+  },
+  {
+    "name": "Tigover",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20414/tigover-5-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tigover",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20415/tigover-10-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Til",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7348/til-250-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Til",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7349/til-500-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Til",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7350/til-125-mg-suspension",
+    "_source_page": 730
+  },
+  {
+    "name": "Tildex",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34340/tildex-90-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tilex Max",
+    "strength": "750 mg+50 mg",
+    "generic": "Glucosamine Sulfate + Diacerein",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15011/tilex-max-750-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Tim-50",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34790/tim-50-50-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Timem",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1453/timem-50-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Timeth",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1454/timeth-50-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Timex",
+    "strength": "25 mg",
+    "generic": "Clomipramine Hydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4448/timex-25-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Timidal",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10534/timidal-120-mg-suspension",
+    "_source_page": 730
+  },
+  {
+    "name": "Timidal Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10629/timidal-plus-500-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Timo-Comod",
+    "strength": "0.5%",
+    "generic": "Timolol Maleate",
+    "company": "ZAS Corporation",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/38253/timo-comod-05-eye-drop",
+    "_source_page": 730
+  },
+  {
+    "name": "Timo-Plus",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16113/timo-plus-02-05-eye-drop",
+    "_source_page": 730
+  },
+  {
+    "name": "Timoben",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24953/timoben-50-mg-tablet",
+    "_source_page": 730
+  },
+  {
+    "name": "Timoben",
+    "strength": "10 mg/5 ml",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27480/timoben-10-mg-syrup",
+    "_source_page": 730
+  },
+  {
+    "name": "Timocare",
+    "strength": "0.5%",
+    "generic": "Timolol Maleate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16091/timocare-05-eye-drop",
+    "_source_page": 730
+  }
+]

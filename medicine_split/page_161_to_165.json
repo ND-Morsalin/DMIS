@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Clodogrel",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38476/clodogrel-75-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clof",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/40/clof-100-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofen TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/10952/clofen-tr-100-mg-capsule",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofenac",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10954/clofenac-50-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofenac",
+    "strength": "12.5 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10958/clofenac-125-mg-suppository",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofenac",
+    "strength": "25 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10959/clofenac-25-mg-suppository",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofenac",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/10960/clofenac-50-mg-suppository",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofenac",
+    "strength": "1% w/w",
+    "generic": "Diclofenac Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/11109/clofenac-1-w-gel",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofenac DT",
+    "strength": "46.5 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/11142/clofenac-dt-465-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofenac Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "generic": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/10957/clofenac-plus-75-mg-injection",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofenac SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/10955/clofenac-sr-100-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clofranil",
+    "strength": "25 mg",
+    "generic": "Clomipramine Hydrochloride",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4447/clofranil-25-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clogfree",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27135/clogfree-75-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clogfree Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30607/clogfree-plus-75-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clognil",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3224/clognil-75-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clognil Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3273/clognil-plus-75-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clogrel",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3225/clogrel-75-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clogrel Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19514/clogrel-plus-75-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Cloles",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1177/cloles-10-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Cloma",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31976/cloma-1-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Cloma",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4822/cloma-05-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Cloma",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4823/cloma-2-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clon",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19482/clon-2-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clon",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4824/clon-05-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clonaben",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19472/clonaben-2-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clonaben",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4874/clonaben-05-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clonaben",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35359/clonaben-1-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clonabest",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38096/clonabest-2-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clonabest",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38095/clonabest-1-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clonabest",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38094/clonabest-05-mg-tablet",
+    "_source_page": 161
+  },
+  {
+    "name": "Clonac TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/27781/clonac-tr-100-mg-capsule",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonafix",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33266/clonafix-2-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonafix",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33265/clonafix-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonapex",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4875/clonapex-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonapex",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4876/clonapex-1-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonapin",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26461/clonapin-1-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonapin",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4825/clonapin-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonapin",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4826/clonapin-2-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonate",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/13018/clonate-005-ointment",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonate-NN",
+    "strength": "(0.5 mg+5 mg+1 Lac IU)/gm",
+    "generic": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/13023/clonate-nn-05-mg-cream",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonatril",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4827/clonatril-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonatril",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4828/clonatril-1-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonatril",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4829/clonatril-2-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonazepam",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37640/clonazepam-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonepam",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31349/clonepam-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonil",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4877/clonil-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonil",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4878/clonil-2-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonipres",
+    "strength": "0.1 mg",
+    "generic": "Clonidine Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2458/clonipres-01-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonipres ER",
+    "strength": "0.1 mg",
+    "generic": "Clonidine Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/36817/clonipres-er-01-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonium",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4830/clonium-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonium",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4831/clonium-1-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonium",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4832/clonium-2-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonium ODT",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "ACI Limited",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/33838/clonium-odt-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clont",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3226/clont-75-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clontas",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3274/clontas-75-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonzy",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32971/clonzy-1-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonzy",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4880/clonzy-2-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clonzy",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4879/clonzy-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clop-AS",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34961/clop-as-75-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clopam",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4833/clopam-05-mg-tablet",
+    "_source_page": 162
+  },
+  {
+    "name": "Clopam",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4834/clopam-2-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopid",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3227/clopid-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopid-AS",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3275/clopid-as-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopidol",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27847/clopidol-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopidol Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3276/clopidol-plus-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopigel",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28516/clopigel-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopigel Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28517/clopigel-plus-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopilet",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3230/clopilet-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopilet A",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3278/clopilet-a-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopirel",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3231/clopirel-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopirox",
+    "strength": "1%",
+    "generic": "Ciclopirox Olamine (Cream)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/16374/clopirox-1-cream",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopirox",
+    "strength": "1%",
+    "generic": "Ciclopirox Olamine (Shampoo)",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/27500/clopirox-1-shampoo",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopixol",
+    "strength": "10 mg",
+    "generic": "Zuclopenthixol",
+    "company": "Lundbeck Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4379/clopixol-10-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopixol Acuphase",
+    "strength": "50 mg/ml",
+    "generic": "Zuclopenthixol",
+    "company": "Lundbeck Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/4377/clopixol-acuphase-50-mg-injection",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopixol Depot",
+    "strength": "200 mg/ml",
+    "generic": "Zuclopenthixol",
+    "company": "Lundbeck Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/4380/clopixol-depot-200-mg-injection",
+    "_source_page": 163
+  },
+  {
+    "name": "Cloplet",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28993/cloplet-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clopramin",
+    "strength": "25 mg",
+    "generic": "Clomipramine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33810/clopramin-25-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Cloradex",
+    "strength": "0.1%+0.5%",
+    "generic": "Dexamethasone + Chloramphenicol",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/30809/cloradex-01-05-eye-drop",
+    "_source_page": 163
+  },
+  {
+    "name": "Cloram",
+    "strength": "1%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/8891/cloram-1-eye-ointment",
+    "_source_page": 163
+  },
+  {
+    "name": "Cloram",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/8890/cloram-05-eye-drop",
+    "_source_page": 163
+  },
+  {
+    "name": "Cloram-D",
+    "strength": "0.1%+0.5%",
+    "generic": "Dexamethasone + Chloramphenicol",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15798/cloram-d-01-05-eye-drop",
+    "_source_page": 163
+  },
+  {
+    "name": "Cloramin",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11806/cloramin-2-mg-syrup",
+    "_source_page": 163
+  },
+  {
+    "name": "Clorel",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3232/clorel-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clorel-A",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3279/clorel-a-75-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Clori HC",
+    "strength": "1%+1%",
+    "generic": "Clotrimazole + Hydrocortisone",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12673/clori-hc-1-1-cream",
+    "_source_page": 163
+  },
+  {
+    "name": "Clorocef",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cefaclor Monohydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/7122/clorocef-125-mg-pediatric-drop",
+    "_source_page": 163
+  },
+  {
+    "name": "Clorocef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefaclor Monohydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7121/clorocef-125-mg-suspension",
+    "_source_page": 163
+  },
+  {
+    "name": "Clorocef",
+    "strength": "500 mg",
+    "generic": "Cefaclor Monohydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7120/clorocef-500-mg-capsule",
+    "_source_page": 163
+  },
+  {
+    "name": "Clorocef",
+    "strength": "250 mg",
+    "generic": "Cefaclor Monohydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7119/clorocef-250-mg-capsule",
+    "_source_page": 163
+  },
+  {
+    "name": "Cloron",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4836/cloron-2-mg-tablet",
+    "_source_page": 163
+  },
+  {
+    "name": "Cloron",
+    "strength": "2.5 mg/ml",
+    "generic": "Clonazepam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/26749/cloron-25-mg-pediatric-drop",
+    "_source_page": 164
+  },
+  {
+    "name": "Cloron",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4835/cloron-05-mg-tablet",
+    "_source_page": 164
+  },
+  {
+    "name": "Cloron",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4836/cloron-2-mg-tablet",
+    "_source_page": 164
+  },
+  {
+    "name": "Clortha",
+    "strength": "15 mg",
+    "generic": "Chlorthalidone",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34509/clortha-15-mg-tablet",
+    "_source_page": 164
+  },
+  {
+    "name": "Clortha",
+    "strength": "25 mg",
+    "generic": "Chlorthalidone",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34508/clortha-25-mg-tablet",
+    "_source_page": 164
+  },
+  {
+    "name": "Closalic",
+    "strength": "0.05%+3%",
+    "generic": "Clobetasol Propionate + Salicylic Acid",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/13020/closalic-005-3-ointment",
+    "_source_page": 164
+  },
+  {
+    "name": "Closid",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36577/closid-2-mg-tablet",
+    "_source_page": 164
+  },
+  {
+    "name": "Closid",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36576/closid-1-mg-tablet",
+    "_source_page": 164
+  },
+  {
+    "name": "Closid",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36575/closid-05-mg-tablet",
+    "_source_page": 164
+  },
+  {
+    "name": "Closon",
+    "strength": "0.05%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12549/closon-005-1-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Closten",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12386/closten-1-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotech",
+    "strength": "500 mg/100 ml",
+    "generic": "Sodium Hypochlorite",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/27751/clotech-500-mg-solution",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotinex",
+    "strength": "4000 Anti-Xa IU/0.4 ml",
+    "generic": "Enoxaparin Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/3201/clotinex-4000-anti-xa-injection",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotinex",
+    "strength": "6000 Anti-Xa IU/0.6 ml",
+    "generic": "Enoxaparin Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/3202/clotinex-6000-anti-xa-injection",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotinil",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19543/clotinil-75-mg-tablet",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotison",
+    "strength": "1%+1%",
+    "generic": "Clotrimazole + Hydrocortisone",
+    "company": "Biopharma Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12674/clotison-1-1-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotrim",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12387/clotrim-1-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotrimazole",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/19552/clotrimazole-1-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotrizen",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36554/clotrizen-1-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotrizole",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12388/clotrizole-1-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clotzol",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12411/clotzol-1-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovate",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "ACI Limited",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12566/clovate-005-ointment",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovate",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "ACI Limited",
+    "medicine_type": "Scalp Solution",
+    "source_url": "https://medex.com.bd/brands/12600/clovate-005-scalp-solution",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovate",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "ACI Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12565/clovate-005-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovate N",
+    "strength": "(0.5 mg+5 mg+1 Lac IU)/gm",
+    "generic": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "company": "ACI Limited",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/13025/clovate-n-05-mg-ointment",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovate N",
+    "strength": "(0.5 mg+5 mg+1 Lac IU)/gm",
+    "generic": "Clobetasol Propionate + Neomycin Sulphate + Nystatin",
+    "company": "ACI Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/13024/clovate-n-05-mg-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovcare",
+    "strength": "3 gm/100 ml",
+    "generic": "Clove oil",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Mouthwash",
+    "source_url": "https://medex.com.bd/brands/29440/clovcare-3-gm-mouthwash",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovir",
+    "strength": "3%",
+    "generic": "Acyclovir (Ophthalmic)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/235/clovir-3-eye-ointment",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovir",
+    "strength": "250 mg/vial",
+    "generic": "Acyclovir (Injection)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34341/clovir-250-mg-injection",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovir",
+    "strength": "5% w/w",
+    "generic": "Acyclovir (Topical)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/17434/clovir-5-w-cream",
+    "_source_page": 164
+  },
+  {
+    "name": "Clovir",
+    "strength": "3%",
+    "generic": "Acyclovir (Ophthalmic)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/235/clovir-3-eye-ointment",
+    "_source_page": 165
+  },
+  {
+    "name": "Clovir",
+    "strength": "200 mg",
+    "generic": "Acyclovir (Oral)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/147/clovir-200-mg-tablet",
+    "_source_page": 165
+  },
+  {
+    "name": "Clovir",
+    "strength": "400 mg",
+    "generic": "Acyclovir (Oral)",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/148/clovir-400-mg-tablet",
+    "_source_page": 165
+  },
+  {
+    "name": "Clox-F",
+    "strength": "125 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6230/clox-f-125-mg-suspension",
+    "_source_page": 165
+  },
+  {
+    "name": "Clox-F",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6229/clox-f-500-mg-capsule",
+    "_source_page": 165
+  },
+  {
+    "name": "Clox-F",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6228/clox-f-250-mg-capsule",
+    "_source_page": 165
+  },
+  {
+    "name": "Clox-F DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6231/clox-f-ds-250-mg-suspension",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxacin",
+    "strength": "500 mg",
+    "generic": "Cloxacillin Sodium",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/19601/cloxacin-500-mg-capsule",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxacin",
+    "strength": "125 mg/5 ml",
+    "generic": "Cloxacillin Sodium",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/19600/cloxacin-125-mg-suspension",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxafu",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6227/cloxafu-500-mg-capsule",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxafu",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6226/cloxafu-250-mg-capsule",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxakil",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29576/cloxakil-500-mg-capsule",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxin",
+    "strength": "500 mg",
+    "generic": "Cloxacillin Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6183/cloxin-500-mg-capsule",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxin",
+    "strength": "125 mg/5 ml",
+    "generic": "Cloxacillin Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6184/cloxin-125-mg-suspension",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxin",
+    "strength": "500 mg/vial",
+    "generic": "Cloxacillin Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6185/cloxin-500-mg-injection",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxmet",
+    "strength": "500 mg",
+    "generic": "Cloxacillin Sodium",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6201/cloxmet-500-mg-capsule",
+    "_source_page": 165
+  },
+  {
+    "name": "Cloxpen",
+    "strength": "500 mg",
+    "generic": "Cloxacillin Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6186/cloxpen-500-mg-capsule",
+    "_source_page": 165
+  },
+  {
+    "name": "Clozam",
+    "strength": "10 mg",
+    "generic": "Clobazam",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30832/clozam-10-mg-tablet",
+    "_source_page": 165
+  },
+  {
+    "name": "Clozema",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/27328/clozema-005-ointment",
+    "_source_page": 165
+  },
+  {
+    "name": "Clozema",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/27329/clozema-005-cream",
+    "_source_page": 165
+  },
+  {
+    "name": "Clozep",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35470/clozep-05-mg-tablet",
+    "_source_page": 165
+  },
+  {
+    "name": "Clozep",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35471/clozep-2-mg-tablet",
+    "_source_page": 165
+  },
+  {
+    "name": "Clozosone",
+    "strength": "0.05%+1%",
+    "generic": "Betamethasone + Clotrimazole",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12550/clozosone-005-1-cream",
+    "_source_page": 165
+  },
+  {
+    "name": "Clozox",
+    "strength": "1%",
+    "generic": "Clotrimazole (Topical)",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12390/clozox-1-cream",
+    "_source_page": 165
+  },
+  {
+    "name": "Clozyl",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30863/clozyl-400-mg-tablet",
+    "_source_page": 165
+  },
+  {
+    "name": "Clozyl",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/30864/clozyl-200-mg-suspension",
+    "_source_page": 165
+  },
+  {
+    "name": "CMC Luvis",
+    "strength": "0.5%",
+    "generic": "Carmellose Sodium",
+    "company": "ZAS Corporation",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/29187/cmc-luvis-05-eye-drop",
+    "_source_page": 165
+  },
+  {
+    "name": "CMC-Gel",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28927/cmc-gel-1-eye-drop",
+    "_source_page": 165
+  },
+  {
+    "name": "CNV",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13539/cnv-syrup",
+    "_source_page": 165
+  },
+  {
+    "name": "Co-Axet",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7414/co-axet-250-mg-tablet",
+    "_source_page": 165
+  }
+]

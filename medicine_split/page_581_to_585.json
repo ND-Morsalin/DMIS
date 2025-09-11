@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Pink Pill",
+    "strength": "100 mg",
+    "generic": "Flibanserin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32526/pink-pill-100-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Pink-Bismol",
+    "strength": "87.5 mg/5 ml",
+    "generic": "Bismuth Subsalicylate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16330/pink-bismol-875-mg-suspension",
+    "_source_page": 581
+  },
+  {
+    "name": "Pinor",
+    "strength": "25 mg",
+    "generic": "Imipramine Hydrochloride",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4454/pinor-25-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Pintus",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26924/pintus-75-mg-syrup",
+    "_source_page": 581
+  },
+  {
+    "name": "Piocin",
+    "strength": "200 mg",
+    "generic": "Sparfloxacin",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9666/piocin-200-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piodar",
+    "strength": "15 mg",
+    "generic": "Pioglitazone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5591/piodar-15-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piolit",
+    "strength": "15 mg",
+    "generic": "Pioglitazone",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5597/piolit-15-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "PioMet",
+    "strength": "15 mg+500 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5647/piomet-15-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "PioMet",
+    "strength": "15 mg+850 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5648/piomet-15-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piomin",
+    "strength": "15 mg+500 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5649/piomin-15-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piomin",
+    "strength": "15 mg+850 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5650/piomin-15-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piozena",
+    "strength": "15 mg",
+    "generic": "Pioglitazone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5598/piozena-15-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piozena",
+    "strength": "30 mg",
+    "generic": "Pioglitazone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5599/piozena-30-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piozena Plus",
+    "strength": "15 mg+500 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5651/piozena-plus-15-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piozena Plus",
+    "strength": "15 mg+850 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5652/piozena-plus-15-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piramil",
+    "strength": "2.5 mg",
+    "generic": "Ramipril",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2637/piramil-25-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piramil",
+    "strength": "5 mg",
+    "generic": "Ramipril",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2638/piramil-5-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piratam",
+    "strength": "800 mg",
+    "generic": "Piracetam",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5156/piratam-800-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piratam",
+    "strength": "500 mg/5 ml",
+    "generic": "Piracetam",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/5157/piratam-500-mg-syrup",
+    "_source_page": 581
+  },
+  {
+    "name": "Piravir",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28724/piravir-200-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piravix",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28698/piravix-200-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Pires-D",
+    "strength": "(14 mg+6.5 mg+2 mg)/5 ml",
+    "generic": "Diphenhydramine + Dextromethorphan + Levomenthol",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26926/pires-d-14-mg-syrup",
+    "_source_page": 581
+  },
+  {
+    "name": "Pires-M",
+    "strength": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "generic": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26925/pires-m-100-mg-syrup",
+    "_source_page": 581
+  },
+  {
+    "name": "Pirfedone",
+    "strength": "267 mg",
+    "generic": "Pirfenidone",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33456/pirfedone-267-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Pirfedone",
+    "strength": "534 mg",
+    "generic": "Pirfenidone",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33457/pirfedone-534-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Pirfedone",
+    "strength": "801 mg",
+    "generic": "Pirfenidone",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33458/pirfedone-801-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Pirfinex",
+    "strength": "267 mg",
+    "generic": "Pirfenidone",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32961/pirfinex-267-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Piroban",
+    "strength": "2% w/w",
+    "generic": "Mupirocin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/22696/piroban-2-w-ointment",
+    "_source_page": 581
+  },
+  {
+    "name": "Pirocin",
+    "strength": "2% w/w",
+    "generic": "Mupirocin",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12965/pirocin-2-w-ointment",
+    "_source_page": 581
+  },
+  {
+    "name": "Pitavas",
+    "strength": "2 mg",
+    "generic": "Pitavastatin Calcium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3382/pitavas-2-mg-tablet",
+    "_source_page": 581
+  },
+  {
+    "name": "Pitocin",
+    "strength": "5 IU/ml",
+    "generic": "Oxytocin",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15667/pitocin-5-iu-injection",
+    "_source_page": 582
+  },
+  {
+    "name": "Pitocin DS",
+    "strength": "10 IU/ml",
+    "generic": "Oxytocin",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15668/pitocin-ds-10-iu-injection",
+    "_source_page": 582
+  },
+  {
+    "name": "Pitofen",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10814/pitofen-05-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pivalo",
+    "strength": "2 mg",
+    "generic": "Pitavastatin Calcium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3383/pivalo-2-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pivasta",
+    "strength": "2 mg",
+    "generic": "Pitavastatin Calcium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23678/pivasta-2-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pivcilin",
+    "strength": "200 mg",
+    "generic": "Pivmecillinam",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27818/pivcilin-200-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pivicil",
+    "strength": "200 mg",
+    "generic": "Pivmecillinam",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6686/pivicil-200-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pixan",
+    "strength": "2.5 mg",
+    "generic": "Apixaban",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26661/pixan-25-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pixan",
+    "strength": "5 mg",
+    "generic": "Apixaban",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26662/pixan-5-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pixorel",
+    "strength": "2.5 mg",
+    "generic": "Apixaban",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26045/pixorel-25-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pixorel",
+    "strength": "5 mg",
+    "generic": "Apixaban",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26046/pixorel-5-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pizide",
+    "strength": "5 mg",
+    "generic": "Glipizide",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5354/pizide-5-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pizo-A",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10815/pizo-a-05-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pizo-A",
+    "strength": "1.5 mg",
+    "generic": "Pizotifen",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10816/pizo-a-15-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pizofen",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10817/pizofen-05-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pizofen TS",
+    "strength": "1.5 mg",
+    "generic": "Pizotifen",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10818/pizofen-ts-15-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pizotin",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10819/pizotin-05-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pizotin",
+    "strength": "1.5 mg",
+    "generic": "Pizotifen",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10820/pizotin-15-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pizzi",
+    "strength": "15 mg",
+    "generic": "Pioglitazone",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27395/pizzi-15-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Placent-B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13818/placent-b-5-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Placent-B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13819/placent-b-5-mg-syrup",
+    "_source_page": 582
+  },
+  {
+    "name": "Placent-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14219/placent-m-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Placid",
+    "strength": "250 mg+400 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/483/placid-250-mg-chewable-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pladex",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3242/pladex-75-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Pladex-A",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3289/pladex-a-75-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Plagrin",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3243/plagrin-75-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Plagrin Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3290/plagrin-plus-75-mg-tablet",
+    "_source_page": 582
+  },
+  {
+    "name": "Plan A",
+    "strength": "1.8%+1%+0.4%",
+    "generic": "Lactic acid + Citric acid + Potassium bitartrate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Vaginal Gel",
+    "source_url": "https://medex.com.bd/brands/32267/plan-a-18-1-vaginal-gel",
+    "_source_page": 582
+  },
+  {
+    "name": "Planex",
+    "strength": "0.005% w/w",
+    "generic": "Calcipotriol Monohydrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/13052/planex-0005-w-ointment",
+    "_source_page": 582
+  },
+  {
+    "name": "Planex Plus",
+    "strength": "0.05%+0.005%",
+    "generic": "Betamethasone + Calcipotriol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/18219/planex-plus-005-0005-ointment",
+    "_source_page": 582
+  },
+  {
+    "name": "Plarit",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30100/plarit-90-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Plasmafil",
+    "strength": "6%+0.9%",
+    "generic": "Hydroxyethyl Starch + Sodium Chloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37147/plasmafil-6-09-injection",
+    "_source_page": 583
+  },
+  {
+    "name": "Plasmasol",
+    "strength": "6%+0.9%",
+    "generic": "Hydroxyethyl Starch + Sodium Chloride",
+    "company": "Orion Infusion Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14915/plasmasol-6-09-injection",
+    "_source_page": 583
+  },
+  {
+    "name": "Plasmex",
+    "strength": "6%+0.9%",
+    "generic": "Hydroxyethyl Starch + Sodium Chloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14916/plasmex-6-09-injection",
+    "_source_page": 583
+  },
+  {
+    "name": "Platinex",
+    "strength": "1 mg/ml",
+    "generic": "Cisplatin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15104/platinex-1-mg-injection",
+    "_source_page": 583
+  },
+  {
+    "name": "Plator",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19532/plator-75-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Plator Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19515/plator-plus-75-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Platosin",
+    "strength": "1 mg/ml",
+    "generic": "Cisplatin",
+    "company": "Pharmachemie BV",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15102/platosin-1-mg-injection",
+    "_source_page": 583
+  },
+  {
+    "name": "Plavas Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19519/plavas-plus-75-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Plexivit",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Syntho Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13891/plexivit-5-mg-syrup",
+    "_source_page": 583
+  },
+  {
+    "name": "Plexivit M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Syntho Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14220/plexivit-m-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Plezer",
+    "strength": "30 mg",
+    "generic": "Dapoxetine Hydrochloride",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16405/plezer-30-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "PM",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10484/pm-120-mg-suspension",
+    "_source_page": 583
+  },
+  {
+    "name": "PM Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10643/pm-plus-500-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "PMB",
+    "strength": "5 lac unit",
+    "generic": "Polymyxin B Sulfate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/33497/pmb-5-lac-injection",
+    "_source_page": 583
+  },
+  {
+    "name": "Pmec",
+    "strength": "1%",
+    "generic": "Pimecrolimus",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/31471/pmec-1-cream",
+    "_source_page": 583
+  },
+  {
+    "name": "Pneumoclar",
+    "strength": "125 mg/5 ml",
+    "generic": "Clarithromycin",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/33079/pneumoclar-125-mg-suspension",
+    "_source_page": 583
+  },
+  {
+    "name": "Pneumoclar",
+    "strength": "500 mg",
+    "generic": "Clarithromycin",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37227/pneumoclar-500-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Pneumovax 23",
+    "strength": "25 mcg/0.5 ml",
+    "generic": "Polysaccharide Pneumococcal Vaccine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IM/SC Injection",
+    "source_url": "https://medex.com.bd/brands/28958/pneumovax-23-25-mcg-injection",
+    "_source_page": 583
+  },
+  {
+    "name": "Podo",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7785/podo-40-mg-suspension",
+    "_source_page": 583
+  },
+  {
+    "name": "Podoxi",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7787/podoxi-40-mg-suspension",
+    "_source_page": 583
+  },
+  {
+    "name": "Pofol",
+    "strength": "200 mg/20 ml",
+    "generic": "Propofol",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Emulsion for infusion",
+    "source_url": "https://medex.com.bd/brands/15276/pofol-200-mg-emulsion-for-infusion",
+    "_source_page": 583
+  },
+  {
+    "name": "Pogo",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13567/pogo-syrup",
+    "_source_page": 583
+  },
+  {
+    "name": "Pol",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10485/pol-500-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Pol",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10486/pol-120-mg-suspension",
+    "_source_page": 583
+  },
+  {
+    "name": "Pol Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10611/pol-plus-500-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Polan",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12175/polan-5-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Polimet",
+    "strength": "15 mg+500 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5653/polimet-15-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Polimet",
+    "strength": "15 mg+850 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5654/polimet-15-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Polimet",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22099/polimet-500-mg-tablet",
+    "_source_page": 583
+  },
+  {
+    "name": "Polimet",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22100/polimet-850-mg-tablet",
+    "_source_page": 584
+  },
+  {
+    "name": "Politrim",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9043/politrim-400-mg-tablet",
+    "_source_page": 584
+  },
+  {
+    "name": "Politrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9046/politrim-200-mg-suspension",
+    "_source_page": 584
+  },
+  {
+    "name": "Politrim DS",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9044/politrim-ds-800-mg-tablet",
+    "_source_page": 584
+  },
+  {
+    "name": "Polivy",
+    "strength": "30 mg/vial",
+    "generic": "Polatuzumab Vedotin",
+    "company": "Roche Bangladesh Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37526/polivy-30-mg-injection",
+    "_source_page": 584
+  },
+  {
+    "name": "Pollival",
+    "strength": "0.05%",
+    "generic": "Azelastine Hydrochloride",
+    "company": "ZAS Corporation",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/38252/pollival-005-eye-drop",
+    "_source_page": 584
+  },
+  {
+    "name": "Poly-Pred",
+    "strength": "(5 mg+3.5 mg+10000 IU)/ml",
+    "generic": "Prednisolone + Neomycin Sulphate + Polymixin B Sulphate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/26822/poly-pred-5-mg-suspension",
+    "_source_page": 584
+  },
+  {
+    "name": "Polycef",
+    "strength": "250 mg",
+    "generic": "Cephradine",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6955/polycef-250-mg-capsule",
+    "_source_page": 584
+  },
+  {
+    "name": "Polycef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6956/polycef-500-mg-capsule",
+    "_source_page": 584
+  },
+  {
+    "name": "Polycef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6957/polycef-125-mg-suspension",
+    "_source_page": 584
+  },
+  {
+    "name": "Polycef",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cephradine",
+    "company": "Renata PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6958/polycef-125-mg-pediatric-drop",
+    "_source_page": 584
+  },
+  {
+    "name": "Polycef",
+    "strength": "500 mg/vial",
+    "generic": "Cephradine",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6961/polycef-500-mg-injection",
+    "_source_page": 584
+  },
+  {
+    "name": "Polycef",
+    "strength": "1 gm/vial",
+    "generic": "Cephradine",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6962/polycef-1-gm-injection",
+    "_source_page": 584
+  },
+  {
+    "name": "Polycef DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6959/polycef-ds-250-mg-suspension",
+    "_source_page": 584
+  },
+  {
+    "name": "Polydex-N",
+    "strength": "(1 mg+3500 IU+6000 IU)/ml",
+    "generic": "Dexamethasone + Neomycin Sulphate + Polymyxin B Sulphate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15841/polydex-n-1-mg-eye-drop",
+    "_source_page": 584
+  },
+  {
+    "name": "Polydin",
+    "strength": "10% w/v",
+    "generic": "Povidone Iodine",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/12849/polydin-10-w-solution",
+    "_source_page": 584
+  },
+  {
+    "name": "Polyfiz",
+    "strength": "47 mg+0.5 mg+22.5 mg",
+    "generic": "Iron Polymaltose Complex + Folic Acid + Zinc Sulfate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26660/polyfiz-47-mg-tablet",
+    "_source_page": 584
+  },
+  {
+    "name": "Polyforte",
+    "strength": "(5 mg+3.5 mg+10000 IU)/ml",
+    "generic": "Prednisolone + Neomycin Sulphate + Polymixin B Sulphate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/16631/polyforte-5-mg-suspension",
+    "_source_page": 584
+  },
+  {
+    "name": "Polygel",
+    "strength": "0.4%+0.3%",
+    "generic": "Polyethylene Glycol + Propylene Glycol",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16167/polygel-04-03-eye-drop",
+    "_source_page": 584
+  },
+  {
+    "name": "Polylac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/31500/polylac-335-gm-oral-solution",
+    "_source_page": 584
+  },
+  {
+    "name": "Polymax-B",
+    "strength": "5 lac unit",
+    "generic": "Polymyxin B Sulfate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/30181/polymax-b-5-lac-injection",
+    "_source_page": 584
+  },
+  {
+    "name": "Polymix",
+    "strength": "(500 IU+10000 IU)/gm",
+    "generic": "Bacitracin Zinc + Polymyxin B Sulfate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/12970/polymix-500-iu-eye-ointment",
+    "_source_page": 584
+  },
+  {
+    "name": "Polymix G",
+    "strength": "(25 IU+1700 IU+5000 IU)/ml",
+    "generic": "Gramacidin + Neomycin + Polymixin B",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15744/polymix-g-25-iu-eye-drop",
+    "_source_page": 584
+  },
+  {
+    "name": "Polymix H",
+    "strength": "(10 mg+3400 Units+10000 Units)/ml",
+    "generic": "Hydrocortisone + Neomycin Sulphate + Polymixin B",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/15897/polymix-h-10-mg-ear-drop",
+    "_source_page": 584
+  },
+  {
+    "name": "Polymyxin B",
+    "strength": "5 lac unit",
+    "generic": "Polymyxin B Sulfate",
+    "company": "ZAS Corporation",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/36927/polymyxin-b-5-lac-injection",
+    "_source_page": 584
+  },
+  {
+    "name": "Polynac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17385/polynac-100-mg-tablet",
+    "_source_page": 584
+  },
+  {
+    "name": "Polypro",
+    "strength": "0.4%+0.3%",
+    "generic": "Polyethylene Glycol + Propylene Glycol",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28583/polypro-04-03-eye-drop",
+    "_source_page": 584
+  },
+  {
+    "name": "Polyron",
+    "strength": "50 mg/5 ml",
+    "generic": "Iron Polymaltose Complex",
+    "company": "ACI Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13130/polyron-50-mg-syrup",
+    "_source_page": 584
+  },
+  {
+    "name": "Polysoft 0-Reverse Cutting (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38654/polysoft-0-reverse-cutting-polyglactin-suture-material",
+    "_source_page": 584
+  },
+  {
+    "name": "Polysoft 0-Round Body (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38655/polysoft-0-round-body-polyglactin-suture-material",
+    "_source_page": 584
+  },
+  {
+    "name": "Polysoft 1 Round body (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38656/polysoft-1-round-body-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft 2-0 Cutting body (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38657/polysoft-2-0-cutting-body-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft 2-0 Reverse cutting (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38658/polysoft-2-0-reverse-cutting-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft 2-0 Round Body (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38659/polysoft-2-0-round-body-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft 3-0 Cutting Body (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38660/polysoft-3-0-cutting-body-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft 3-0 Round Body (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38661/polysoft-3-0-round-body-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft Anti B (0-Round Body) (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38662/polysoft-anti-b-0-round-body-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft Anti B (3-0 Round Body) (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38663/polysoft-anti-b-3-0-round-body-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft Anti-B (0-Reverse Cutting) (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38664/polysoft-anti-b-0-reverse-cutting-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft PN0R40H75SUTURE USP0 (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38665/polysoft-pn0r40h75suture-usp0-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft PN0V40H75SUTURE USP0 (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38666/polysoft-pn0v40h75suture-usp0-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft RA 0 Round Body (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38667/polysoft-ra-0-round-body-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysoft RA1 Reverse cutting (Polyglactin)",
+    "strength": null,
+    "generic": "Infusion set & surgical item",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Suture Material",
+    "source_url": "https://medex.com.bd/brands/38668/polysoft-ra1-reverse-cutting-polyglactin-suture-material",
+    "_source_page": 585
+  },
+  {
+    "name": "Polysol",
+    "strength": "0.4%+0.3%",
+    "generic": "Polyethylene Glycol + Propylene Glycol",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16168/polysol-04-03-eye-drop",
+    "_source_page": 585
+  },
+  {
+    "name": "Polytamin",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13379/polytamin-syrup",
+    "_source_page": 585
+  },
+  {
+    "name": "Polytar",
+    "strength": null,
+    "generic": "Coal Tar Solution",
+    "company": "Life Cell Corporation",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/16649/polytar-shampoo",
+    "_source_page": 585
+  },
+  {
+    "name": "PolyTear",
+    "strength": "0.4%+0.3%",
+    "generic": "Polyethylene Glycol + Propylene Glycol",
+    "company": "UNIDO Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36599/polytear-04-03-eye-drop",
+    "_source_page": 585
+  },
+  {
+    "name": "Polytetra",
+    "strength": "3%+0.013%",
+    "generic": "Oxytetracycline + Polymixin B Sulphate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12955/polytetra-3-0013-ointment",
+    "_source_page": 585
+  },
+  {
+    "name": "Polytracin",
+    "strength": "(500 IU+10000 IU)/gm",
+    "generic": "Bacitracin Zinc + Polymyxin B Sulfate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/12971/polytracin-500-iu-eye-ointment",
+    "_source_page": 585
+  },
+  {
+    "name": "Polyxim",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18759/polyxim-200-mg-capsule",
+    "_source_page": 585
+  },
+  {
+    "name": "Polyxim",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18760/polyxim-400-mg-capsule",
+    "_source_page": 585
+  },
+  {
+    "name": "Polyxim",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18761/polyxim-100-mg-suspension",
+    "_source_page": 585
+  },
+  {
+    "name": "Polyxim DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18762/polyxim-ds-200-mg-suspension",
+    "_source_page": 585
+  },
+  {
+    "name": "Pomide",
+    "strength": "2 mg",
+    "generic": "Pomalidomide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38535/pomide-2-mg-capsule",
+    "_source_page": 585
+  },
+  {
+    "name": "Pomide",
+    "strength": "4 mg",
+    "generic": "Pomalidomide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38542/pomide-4-mg-capsule",
+    "_source_page": 585
+  },
+  {
+    "name": "Ponatigen",
+    "strength": "15 mg",
+    "generic": "Ponatinib Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35858/ponatigen-15-mg-tablet",
+    "_source_page": 585
+  },
+  {
+    "name": "Ponatigen",
+    "strength": "45 mg",
+    "generic": "Ponatinib Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35859/ponatigen-45-mg-tablet",
+    "_source_page": 585
+  },
+  {
+    "name": "Ponatinix",
+    "strength": "15 mg",
+    "generic": "Ponatinib Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27292/ponatinix-15-mg-tablet",
+    "_source_page": 585
+  },
+  {
+    "name": "Ponatinix",
+    "strength": "45 mg",
+    "generic": "Ponatinib Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27293/ponatinix-45-mg-tablet",
+    "_source_page": 585
+  },
+  {
+    "name": "Ponaxen",
+    "strength": "15 mg",
+    "generic": "Ponatinib Hydrochloride",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34681/ponaxen-15-mg-tablet",
+    "_source_page": 585
+  }
+]

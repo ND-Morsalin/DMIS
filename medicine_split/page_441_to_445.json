@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "MB 12",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13433/mb-12-500-mcg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "MB 12",
+    "strength": "500 mcg/ml",
+    "generic": "Mecobalamin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/13434/mb-12-500-mcg-injection",
+    "_source_page": 441
+  },
+  {
+    "name": "Mbroxol",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/25505/mbroxol-15-mg-syrup",
+    "_source_page": 441
+  },
+  {
+    "name": "MDF (MDF808M)",
+    "strength": "Manual blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "MDF Instruments",
+    "medicine_type": "BP Monitor Device",
+    "source_url": "https://medex.com.bd/brands/37766/mdf-mdf808m-manual-blood-bp-monitor-device",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebalon",
+    "strength": "(5 mg+250 IU)/gm",
+    "generic": "Neomycin Sulfate + Bacitracin Zinc",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Powder",
+    "source_url": "https://medex.com.bd/brands/12338/mebalon-5-mg-powder",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebalon",
+    "strength": "(5 mg+500 IU)/gm",
+    "generic": "Neomycin Sulfate + Bacitracin Zinc",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/35764/mebalon-5-mg-ointment",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebantrin",
+    "strength": "100 mg",
+    "generic": "Mebendazole",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/10327/mebantrin-100-mg-chewable-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebantrin",
+    "strength": "100 mg/5 ml",
+    "generic": "Mebendazole",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10328/mebantrin-100-mg-suspension",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebastin",
+    "strength": "50 mg",
+    "generic": "Mebhydrolin Napadisylate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11894/mebastin-50-mg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebel",
+    "strength": "200 mg/5 ml",
+    "generic": "Albendazole",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/324/mebel-200-mg-suspension",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebel DS",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/325/mebel-ds-400-mg-chewable-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebendox",
+    "strength": "100 mg/5 ml",
+    "generic": "Mebendazole",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21975/mebendox-100-mg-suspension",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebendox",
+    "strength": "100 mg",
+    "generic": "Mebendazole",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/28141/mebendox-100-mg-chewable-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebevin",
+    "strength": "135 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37924/mebevin-135-mg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebidal",
+    "strength": "50 mg",
+    "generic": "Mebhydrolin Napadisylate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11895/mebidal-50-mg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebiz SR",
+    "strength": "200 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/1415/mebiz-sr-200-mg-capsule",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebo S",
+    "strength": "70%+15%+15%",
+    "generic": "Sesame oil + Cactus extract + Beeswax",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/30423/mebo-s-70-15-ointment",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebolin",
+    "strength": "50 mg",
+    "generic": "Mebhydrolin Napadisylate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11896/mebolin-50-mg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebolos",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/21367/mebolos-335-gm-oral-solution",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebrex",
+    "strength": "100 mg",
+    "generic": "Mebendazole",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/10331/mebrex-100-mg-chewable-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mebrex",
+    "strength": "100 mg/5 ml",
+    "generic": "Mebendazole",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10332/mebrex-100-mg-suspension",
+    "_source_page": 441
+  },
+  {
+    "name": "Mecab",
+    "strength": "500 mg",
+    "generic": "Methocarbamol",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37096/mecab-500-mg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mecab",
+    "strength": "750 mg",
+    "generic": "Methocarbamol",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37246/mecab-750-mg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mecabis",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38062/mecabis-5-w-cream",
+    "_source_page": 441
+  },
+  {
+    "name": "Meclid",
+    "strength": "10 mg/2 ml",
+    "generic": "Metoclopramide Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/4699/meclid-10-mg-injection",
+    "_source_page": 441
+  },
+  {
+    "name": "Mecliz Plus",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4649/mecliz-plus-25-mg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mecobal",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13435/mecobal-500-mcg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mecobal",
+    "strength": "500 mcg/ml",
+    "generic": "Mecobalamin",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/13436/mecobal-500-mcg-injection",
+    "_source_page": 441
+  },
+  {
+    "name": "Mecol",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13437/mecol-500-mcg-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mecolagin",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/13438/mecolagin-500-mcg-chewable-tablet",
+    "_source_page": 441
+  },
+  {
+    "name": "Mecolagin",
+    "strength": "500 mcg/ml",
+    "generic": "Mecobalamin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/13439/mecolagin-500-mcg-injection",
+    "_source_page": 442
+  },
+  {
+    "name": "Mecolin",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13440/mecolin-500-mcg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Mecomin",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13441/mecomin-500-mcg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Mecopen",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13442/mecopen-500-mcg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Mecozol",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10127/mecozol-400-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Mecozol",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10128/mecozol-200-mg-suspension",
+    "_source_page": 442
+  },
+  {
+    "name": "Mectin",
+    "strength": "12 mg",
+    "generic": "Ivermectin (Tablet)",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30366/mectin-12-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Mectin",
+    "strength": "6 mg",
+    "generic": "Ivermectin (Tablet)",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30367/mectin-6-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Meczin",
+    "strength": "50 mg",
+    "generic": "Meclizine Hydrochloride",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4614/meczin-50-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Med Cal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14311/med-cal-500-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Medcal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38022/medcal-d-500-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Mederma (Advanced)",
+    "strength": "10 gm",
+    "generic": "Cepalin + Allantoin",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/33244/mederma-advanced-10-gm-gel",
+    "_source_page": 442
+  },
+  {
+    "name": "Mederma (Skin care for scars)",
+    "strength": "20 gm",
+    "generic": "Cepalin + Allantoin",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/13095/mederma-skin-care-for-scars-20-gm-gel",
+    "_source_page": 442
+  },
+  {
+    "name": "Mederma (Stretch marks therapy)",
+    "strength": "25 gm",
+    "generic": "Cepalin + Allantoin",
+    "company": "Mundipharma (BD) Pvt. Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/33245/mederma-stretch-marks-therapy-25-gm-gel",
+    "_source_page": 442
+  },
+  {
+    "name": "Medi Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14102/medi-gold-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Medi Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/35765/medi-gold-syrup",
+    "_source_page": 442
+  },
+  {
+    "name": "Medibion",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13650/medibion-100-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Medica (Advanced)",
+    "strength": "Digital blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "Medica Tech Limited",
+    "medicine_type": "BP Monitor Device",
+    "source_url": "https://medex.com.bd/brands/37782/medica-advanced-digital-blood-bp-monitor-device",
+    "_source_page": 442
+  },
+  {
+    "name": "Medica (Smart)",
+    "strength": "Digital blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "Medica Tech Limited",
+    "medicine_type": "BP Monitor Device",
+    "source_url": "https://medex.com.bd/brands/37763/medica-smart-digital-blood-bp-monitor-device",
+    "_source_page": 442
+  },
+  {
+    "name": "Medicef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6931/medicef-500-mg-capsule",
+    "_source_page": 442
+  },
+  {
+    "name": "Medicef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6932/medicef-125-mg-suspension",
+    "_source_page": 442
+  },
+  {
+    "name": "Medicon Oral Saline",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/977/medicon-oral-saline-1025-gm-powder",
+    "_source_page": 442
+  },
+  {
+    "name": "Medifen",
+    "strength": "1% w/w",
+    "generic": "Diclofenac Sodium",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/11032/medifen-1-w-gel",
+    "_source_page": 442
+  },
+  {
+    "name": "Medigra",
+    "strength": "50 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "MedRx Life Science Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24456/medigra-50-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Medigra",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "MedRx Life Science Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24457/medigra-100-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Medikast",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22613/medikast-4-mg-chewable-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Medikast",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/22614/medikast-5-mg-chewable-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Medikast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22615/medikast-10-mg-tablet",
+    "_source_page": 442
+  },
+  {
+    "name": "Medimet's ORS",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/14805/medimets-ors-1025-gm-powder",
+    "_source_page": 442
+  },
+  {
+    "name": "Medisign",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "EMPECS Medical Device Co., Ltd.",
+    "medicine_type": "Test strip",
+    "source_url": "https://medex.com.bd/brands/36027/medisign-test-strip",
+    "_source_page": 442
+  },
+  {
+    "name": "Medisun",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36295/medisun-cream",
+    "_source_page": 443
+  },
+  {
+    "name": "Medisun",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Spray",
+    "source_url": "https://medex.com.bd/brands/36296/medisun-spray",
+    "_source_page": 443
+  },
+  {
+    "name": "Medisun Mattifying Gel",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/36297/medisun-mattifying-gel-gel",
+    "_source_page": 443
+  },
+  {
+    "name": "Meditrim",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9026/meditrim-400-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Meditrim",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9027/meditrim-800-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Meditrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9028/meditrim-200-mg-suspension",
+    "_source_page": 443
+  },
+  {
+    "name": "Medivit",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13798/medivit-5-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medizol",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10129/medizol-400-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medizol",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10130/medizol-200-mg-suspension",
+    "_source_page": 443
+  },
+  {
+    "name": "Medogen",
+    "strength": "10 mg",
+    "generic": "Medroxyprogesterone Acetate (Tablet)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5914/medogen-10-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medogen",
+    "strength": "150 mg/ml",
+    "generic": "Medroxyprogesterone Acetate (Injection)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/5915/medogen-150-mg-injection",
+    "_source_page": 443
+  },
+  {
+    "name": "Medozil",
+    "strength": "14 mg+10 mg",
+    "generic": "Memantine + Donepezil",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/35656/medozil-14-mg-capsule",
+    "_source_page": 443
+  },
+  {
+    "name": "Medozil",
+    "strength": "21 mg+10 mg",
+    "generic": "Memantine + Donepezil",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/35657/medozil-21-mg-capsule",
+    "_source_page": 443
+  },
+  {
+    "name": "Medricox",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "MedRx Life Science Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20116/medricox-90-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medricox",
+    "strength": "120 mg",
+    "generic": "Etoricoxib",
+    "company": "MedRx Life Science Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20117/medricox-120-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medrina",
+    "strength": "5 mg",
+    "generic": "Medroxyprogesterone Acetate (Tablet)",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5902/medrina-5-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medrogest",
+    "strength": "5 mg",
+    "generic": "Medroxyprogesterone Acetate (Tablet)",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5903/medrogest-5-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medrogest",
+    "strength": "10 mg",
+    "generic": "Medroxyprogesterone Acetate (Tablet)",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5904/medrogest-10-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medrol",
+    "strength": "40 mg/ml",
+    "generic": "Methylprednisolone Acetate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/22230/medrol-40-mg-injection",
+    "_source_page": 443
+  },
+  {
+    "name": "Medrol",
+    "strength": "80 mg/2 ml",
+    "generic": "Methylprednisolone Acetate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/22231/medrol-80-mg-injection",
+    "_source_page": 443
+  },
+  {
+    "name": "Medrol",
+    "strength": "4 mg",
+    "generic": "Methylprednisolone",
+    "company": "Janata Traders",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28931/medrol-4-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medrol",
+    "strength": "16 mg",
+    "generic": "Methylprednisolone",
+    "company": "Janata Traders",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28932/medrol-16-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medrolin",
+    "strength": "50 mg",
+    "generic": "Mebhydrolin Napadisylate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11897/medrolin-50-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medroxy",
+    "strength": "5 mg",
+    "generic": "Medroxyprogesterone Acetate (Tablet)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5905/medroxy-5-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medroxy",
+    "strength": "10 mg",
+    "generic": "Medroxyprogesterone Acetate (Tablet)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5906/medroxy-10-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medroxy",
+    "strength": "150 mg/ml",
+    "generic": "Medroxyprogesterone Acetate (Injection)",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/28459/medroxy-150-mg-injection",
+    "_source_page": 443
+  },
+  {
+    "name": "Medulax",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/33247/medulax-75-mg-syrup",
+    "_source_page": 443
+  },
+  {
+    "name": "Medulax",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/33248/medulax-50-mg-tablet",
+    "_source_page": 443
+  },
+  {
+    "name": "Medzith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "MedRx Life Science Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25635/medzith-200-mg-suspension",
+    "_source_page": 443
+  },
+  {
+    "name": "Meera",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27775/meera-75-mg-syrup",
+    "_source_page": 443
+  },
+  {
+    "name": "Meera SR",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/18417/meera-sr-50-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mef-Q",
+    "strength": "250 mg",
+    "generic": "Mefloquine",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33638/mef-q-250-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefa",
+    "strength": "50 mg/5 ml",
+    "generic": "Mefenamic acid",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/11404/mefa-50-mg-suspension",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefa",
+    "strength": "250 mg",
+    "generic": "Mefenamic acid",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11406/mefa-250-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefalgin",
+    "strength": "250 mg",
+    "generic": "Mefenamic acid",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11397/mefalgin-250-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefalgin",
+    "strength": "50 mg/5 ml",
+    "generic": "Mefenamic acid",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/11399/mefalgin-50-mg-suspension",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefalgin",
+    "strength": "500 mg",
+    "generic": "Mefenamic acid",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29531/mefalgin-500-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefin",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27389/mefin-500-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefin",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27390/mefin-850-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Meflocin",
+    "strength": "0.3%",
+    "generic": "Lomefloxacin",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9599/meflocin-03-eye-drop",
+    "_source_page": 444
+  },
+  {
+    "name": "Meflon",
+    "strength": "250 mg",
+    "generic": "Mefloquine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31539/meflon-250-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefoglip",
+    "strength": "2.5 mg+250 mg",
+    "generic": "Glipizide + Metformin Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30172/mefoglip-25-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefoglip",
+    "strength": "2.5 mg+500 mg",
+    "generic": "Glipizide + Metformin Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30173/mefoglip-25-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefoglip DS",
+    "strength": "5 mg+500 mg",
+    "generic": "Glipizide + Metformin Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30174/mefoglip-ds-5-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Meforex",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5412/meforex-500-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Meforex",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5413/meforex-850-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Meforin",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5414/meforin-500-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Meforin",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5415/meforin-850-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Meformin",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5417/meformin-500-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Meformin",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5418/meformin-850-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefotrix DS",
+    "strength": "500 mg",
+    "generic": "Mefenamic acid",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27929/mefotrix-ds-500-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefrad",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6933/mefrad-500-mg-capsule",
+    "_source_page": 444
+  },
+  {
+    "name": "Mefrad",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25916/mefrad-250-mg-suspension",
+    "_source_page": 444
+  },
+  {
+    "name": "Mega Cef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6936/mega-cef-500-mg-capsule",
+    "_source_page": 444
+  },
+  {
+    "name": "Mega Cef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6937/mega-cef-125-mg-suspension",
+    "_source_page": 444
+  },
+  {
+    "name": "Mega Flox",
+    "strength": "200 mg",
+    "generic": "Sparfloxacin",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9662/mega-flox-200-mg-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mega-C",
+    "strength": "250 mg",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Edruc Limited",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/13930/mega-c-250-mg-chewable-tablet",
+    "_source_page": 444
+  },
+  {
+    "name": "Mega-C",
+    "strength": "500 mg/5 ml",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Edruc Limited",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/13931/mega-c-500-mg-injection",
+    "_source_page": 444
+  },
+  {
+    "name": "Megabac",
+    "strength": "4.5 MIU (150 mg)",
+    "generic": "Colistimethate Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26229/megabac-45-miu-injection",
+    "_source_page": 444
+  },
+  {
+    "name": "Megabac",
+    "strength": "1 MIU (34 mg)",
+    "generic": "Colistimethate Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28806/megabac-1-miu-injection",
+    "_source_page": 444
+  },
+  {
+    "name": "Megabac",
+    "strength": "2 MIU (68 mg)",
+    "generic": "Colistimethate Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28807/megabac-2-miu-injection",
+    "_source_page": 445
+  },
+  {
+    "name": "Megacilin",
+    "strength": "(4 gm+0.5 gm)/vial",
+    "generic": "Piperacillin + Tazobactam",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/6675/megacilin-4-gm-injection",
+    "_source_page": 445
+  },
+  {
+    "name": "Megadox",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8361/megadox-100-mg-capsule",
+    "_source_page": 445
+  },
+  {
+    "name": "Megafen",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11034/megafen-50-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megafen",
+    "strength": "75 mg/3 ml",
+    "generic": "Diclofenac Sodium",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/11036/megafen-75-mg-injection",
+    "_source_page": 445
+  },
+  {
+    "name": "Megafen Plus",
+    "strength": "(75 mg+20 mg)/2 ml",
+    "generic": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/11037/megafen-plus-75-mg-injection",
+    "_source_page": 445
+  },
+  {
+    "name": "Megafen-SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11035/megafen-sr-100-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megafil",
+    "strength": "10 mg",
+    "generic": "Tadalafil",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6080/megafil-10-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megafil",
+    "strength": "20 mg",
+    "generic": "Tadalafil",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6081/megafil-20-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "MegaMag",
+    "strength": "365 mg",
+    "generic": "Magnesium Oxide",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33427/megamag-365-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Meganor",
+    "strength": "160 mg",
+    "generic": "Megestrol Acetate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29805/meganor-160-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megapime",
+    "strength": "500 mg/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8173/megapime-500-mg-injection",
+    "_source_page": 445
+  },
+  {
+    "name": "Megapime",
+    "strength": "1 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8174/megapime-1-gm-injection",
+    "_source_page": 445
+  },
+  {
+    "name": "Megapime",
+    "strength": "2 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8175/megapime-2-gm-injection",
+    "_source_page": 445
+  },
+  {
+    "name": "Megasim",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16604/megasim-480-mg-suspension",
+    "_source_page": 445
+  },
+  {
+    "name": "Megatrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9031/megatrim-200-mg-suspension",
+    "_source_page": 445
+  },
+  {
+    "name": "Megatrim DS",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9030/megatrim-ds-800-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megatrol",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12174/megatrol-5-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megecare",
+    "strength": "160 mg",
+    "generic": "Megestrol Acetate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37089/megecare-160-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megenox",
+    "strength": "200 mg/5 ml",
+    "generic": "Megestrol Acetate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/30976/megenox-200-mg-suspension",
+    "_source_page": 445
+  },
+  {
+    "name": "Megenox",
+    "strength": "160 mg",
+    "generic": "Megestrol Acetate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34381/megenox-160-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megestol",
+    "strength": "160 mg",
+    "generic": "Megestrol Acetate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22044/megestol-160-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megestol",
+    "strength": "200 mg/5 ml",
+    "generic": "Megestrol Acetate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/22045/megestol-200-mg-suspension",
+    "_source_page": 445
+  },
+  {
+    "name": "Meget",
+    "strength": "160 mg",
+    "generic": "Megestrol Acetate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34452/meget-160-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Megexia",
+    "strength": "160 mg",
+    "generic": "Megestrol Acetate",
+    "company": "ZAS Corporation",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33961/megexia-160-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Meglu",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5419/meglu-500-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Meglu",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5420/meglu-850-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Meglu ER",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/5421/meglu-er-500-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Meglu ER",
+    "strength": "750 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/22164/meglu-er-750-mg-tablet",
+    "_source_page": 445
+  },
+  {
+    "name": "Meglu ER",
+    "strength": "1000 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/22165/meglu-er-1000-mg-tablet",
+    "_source_page": 445
+  }
+]

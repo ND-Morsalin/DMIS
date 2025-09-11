@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Roxilab Plus",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19002/roxilab-plus-500-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxilab Plus",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19003/roxilab-plus-250-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxilab Plus",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/26966/roxilab-plus-125-mg-suspension",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxim",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7630/roxim-200-mg-capsule",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxim",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7631/roxim-400-mg-capsule",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxim",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7632/roxim-100-mg-suspension",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxim",
+    "strength": "25 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/18732/roxim-25-mg-pediatric-drop",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxim XL",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7633/roxim-xl-200-mg-suspension",
+    "_source_page": 651
+  },
+  {
+    "name": "Roximax",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25847/roximax-250-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roximax",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25848/roximax-500-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roximax Plus",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34624/roximax-plus-500-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roximax Plus",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34625/roximax-plus-250-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxinat",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/33753/roxinat-750-mg-injection",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxiquin",
+    "strength": "200 mg",
+    "generic": "Hydroxychloroquine Sulphate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29522/roxiquin-200-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxolyte",
+    "strength": "10 mg",
+    "generic": "Rivaroxaban",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29845/roxolyte-10-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxtal XP",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28820/roxtal-xp-250-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxtal XP",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28821/roxtal-xp-500-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxyzin",
+    "strength": "10 mg",
+    "generic": "Hydroxyzine  Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20886/roxyzin-10-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxyzin",
+    "strength": "25 mg",
+    "generic": "Hydroxyzine  Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20887/roxyzin-25-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Roxyzin",
+    "strength": "10 mg/5 ml",
+    "generic": "Hydroxyzine  Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/20888/roxyzin-10-mg-syrup",
+    "_source_page": 651
+  },
+  {
+    "name": "Rozavas",
+    "strength": "10 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24321/rozavas-10-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Rozavas",
+    "strength": "5 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24322/rozavas-5-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Rozavel",
+    "strength": "10 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3410/rozavel-10-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Rozavel",
+    "strength": "5 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24361/rozavel-5-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Rozavel",
+    "strength": "20 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31951/rozavel-20-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "RoZenon",
+    "strength": "10 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33155/rozenon-10-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "RoZenon",
+    "strength": "5 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33156/rozenon-5-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "RoZenon",
+    "strength": "20 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37357/rozenon-20-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Rozith",
+    "strength": "250 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8687/rozith-250-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Rozith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8688/rozith-500-mg-tablet",
+    "_source_page": 651
+  },
+  {
+    "name": "Rozith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8689/rozith-200-mg-suspension",
+    "_source_page": 652
+  },
+  {
+    "name": "Rozith",
+    "strength": "500 mg/vial",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/8691/rozith-500-mg-injection",
+    "_source_page": 652
+  },
+  {
+    "name": "Rozy",
+    "strength": "0.5 mg+0.25 mg",
+    "generic": "Drospirenone + Estradiol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27527/rozy-05-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rozy DS",
+    "strength": "1 mg+0.5 mg",
+    "generic": "Drospirenone + Estradiol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27526/rozy-ds-1-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "RP-20",
+    "strength": "20 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/24017/rp-20-20-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rsudil plus",
+    "strength": "0.02% + 0.005%",
+    "generic": "Netarsudil + Latanoprost",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/37828/rsudil-plus-002-eye-drop",
+    "_source_page": 652
+  },
+  {
+    "name": "Rtnor",
+    "strength": "320 mg",
+    "generic": "Gemifloxacin",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9415/rtnor-320-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "RTV",
+    "strength": "5 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24336/rtv-5-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "RTV",
+    "strength": "10 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24337/rtv-10-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "RTV",
+    "strength": "20 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31928/rtv-20-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "RTV",
+    "strength": "40 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37211/rtv-40-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rubaiya",
+    "strength": "20 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/34784/rubaiya-20-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rubalon",
+    "strength": "0.1%",
+    "generic": "Fluorometholone Acetate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/15882/rubalon-01-suspension",
+    "_source_page": 652
+  },
+  {
+    "name": "Rubavax-M",
+    "strength": "0.5 ml",
+    "generic": "Measles and Rubella",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/SC Injection",
+    "source_url": "https://medex.com.bd/brands/1143/rubavax-m-05-ml-injection",
+    "_source_page": 652
+  },
+  {
+    "name": "Rubee",
+    "strength": "20 mg",
+    "generic": "Rabeprazole Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/24022/rubee-20-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rubest",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24383/rubest-10-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rubicin",
+    "strength": "20 mg/4 ml",
+    "generic": "Daunorubicin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/16886/rubicin-20-mg-injection",
+    "_source_page": 652
+  },
+  {
+    "name": "Rubitor",
+    "strength": "2 mg/ml",
+    "generic": "Epirubicin Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29808/rubitor-2-mg-injection",
+    "_source_page": 652
+  },
+  {
+    "name": "Ruclon",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17394/ruclon-100-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rudine",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33964/rudine-10-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rufast",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12910/rufast-10-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rufast",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/24397/rufast-5-mg-oral-solution",
+    "_source_page": 652
+  },
+  {
+    "name": "Rufecta",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12911/rufecta-10-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rufecta",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/28914/rufecta-5-mg-oral-solution",
+    "_source_page": 652
+  },
+  {
+    "name": "Rulicent",
+    "strength": "5 mg",
+    "generic": "Ruxolitinib (Oral)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32281/rulicent-5-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rulicent",
+    "strength": "10 mg",
+    "generic": "Ruxolitinib (Oral)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32282/rulicent-10-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Rulifast",
+    "strength": "1.5%",
+    "generic": "Ruxolitinib (Topical)",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/37279/rulifast-15-cream",
+    "_source_page": 652
+  },
+  {
+    "name": "Rumar",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34333/rumar-10-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Runar",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12912/runar-10-mg-tablet",
+    "_source_page": 652
+  },
+  {
+    "name": "Runeed",
+    "strength": null,
+    "generic": "Iron + Folic acid + Vitamin B complex + Vitamin C",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13245/runeed-capsule",
+    "_source_page": 652
+  },
+  {
+    "name": "Rupa",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12282/rupa-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupa",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/24381/rupa-5-mg-oral-solution",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupa-Aid",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24394/rupa-aid-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupa-Aid",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/28693/rupa-aid-5-mg-oral-solution",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupaday",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12913/rupaday-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupaday",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/24385/rupaday-5-mg-oral-solution",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupadin",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12283/rupadin-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupadin",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/24382/rupadin-5-mg-oral-solution",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupafen",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12284/rupafen-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupahist",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29163/rupahist-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupaler",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12914/rupaler-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupali",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/33905/rupali-5-mg-oral-solution",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupali",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33906/rupali-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupamax",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38170/rupamax-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupamax",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/38614/rupamax-5-mg-oral-solution",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupamine",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12915/rupamine-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupamine",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/28728/rupamine-5-mg-oral-solution",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupana",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/24389/rupana-5-mg-oral-solution",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupana",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24390/rupana-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupanex",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12285/rupanex-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupanil",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27829/rupanil-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupaqure",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35692/rupaqure-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupaset",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35887/rupaset-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupastar",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12916/rupastar-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupastin",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12917/rupastin-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupatan",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24396/rupatan-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupatid",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12286/rupatid-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupatrol",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12287/rupatrol-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupaver",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31599/rupaver-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupaxen",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34473/rupaxen-10-mg-tablet",
+    "_source_page": 653
+  },
+  {
+    "name": "Rupenta",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12918/rupenta-10-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rupex",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12919/rupex-10-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rupex",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/24393/rupex-5-mg-oral-solution",
+    "_source_page": 654
+  },
+  {
+    "name": "Rupin",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12288/rupin-10-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rupin",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/12920/rupin-5-mg-oral-solution",
+    "_source_page": 654
+  },
+  {
+    "name": "Rupita",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27245/rupita-10-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rupoma",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24387/rupoma-10-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rupoma",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/24388/rupoma-5-mg-oral-solution",
+    "_source_page": 654
+  },
+  {
+    "name": "Rupsol",
+    "strength": "5%",
+    "generic": "Amlexanox",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Oral Paste",
+    "source_url": "https://medex.com.bd/brands/33107/rupsol-5-oral-paste",
+    "_source_page": 654
+  },
+  {
+    "name": "Rutinib",
+    "strength": "10 mg",
+    "generic": "Ruxolitinib (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33109/rutinib-10-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rutinib",
+    "strength": "5 mg",
+    "generic": "Ruxolitinib (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33110/rutinib-5-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rutinib",
+    "strength": "1.5%",
+    "generic": "Ruxolitinib (Topical)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34805/rutinib-15-cream",
+    "_source_page": 654
+  },
+  {
+    "name": "Rutix",
+    "strength": "200 mg",
+    "generic": "Ofloxacin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9654/rutix-200-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rutix",
+    "strength": "400 mg",
+    "generic": "Ofloxacin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9655/rutix-400-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Ruvastin",
+    "strength": "5 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3411/ruvastin-5-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Ruvastin",
+    "strength": "10 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3412/ruvastin-10-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Ruvastin",
+    "strength": "20 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26430/ruvastin-20-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Ruxonib",
+    "strength": "1.5%",
+    "generic": "Ruxolitinib (Topical)",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36193/ruxonib-15-cream",
+    "_source_page": 654
+  },
+  {
+    "name": "Ruzmet",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5471/ruzmet-500-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "RVN",
+    "strength": "5 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36304/rvn-5-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "RVN",
+    "strength": "10 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36305/rvn-10-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "RVN",
+    "strength": "20 mg",
+    "generic": "Rosuvastatin Calcium",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36306/rvn-20-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rymin",
+    "strength": "10 mg/5 ml",
+    "generic": "Diphenhydramine Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11880/rymin-10-mg-syrup",
+    "_source_page": 654
+  },
+  {
+    "name": "Rynex",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16282/rynex-005-nasal-drop",
+    "_source_page": 654
+  },
+  {
+    "name": "Rynex",
+    "strength": "0.025%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16283/rynex-0025-nasal-drop",
+    "_source_page": 654
+  },
+  {
+    "name": "Rynex",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/16284/rynex-005-nasal-spray",
+    "_source_page": 654
+  },
+  {
+    "name": "Rynofex",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29261/rynofex-120-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rynofex",
+    "strength": "180 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29262/rynofex-180-mg-tablet",
+    "_source_page": 654
+  },
+  {
+    "name": "Rytary",
+    "strength": "23.75 mg+95 mg",
+    "generic": "Levodopa + Carbidopa (Extended release)",
+    "company": "ZAS Corporation",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/38324/rytary-2375-mg-capsule",
+    "_source_page": 654
+  },
+  {
+    "name": "Rytary",
+    "strength": "36.25 mg+145 mg",
+    "generic": "Levodopa + Carbidopa (Extended release)",
+    "company": "ZAS Corporation",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/38325/rytary-3625-mg-capsule",
+    "_source_page": 654
+  },
+  {
+    "name": "Rytary",
+    "strength": "48.75 mg+195 mg",
+    "generic": "Levodopa + Carbidopa (Extended release)",
+    "company": "ZAS Corporation",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/38326/rytary-4875-mg-capsule",
+    "_source_page": 655
+  },
+  {
+    "name": "Rytary",
+    "strength": "61.25 mg+245 mg",
+    "generic": "Levodopa + Carbidopa (Extended release)",
+    "company": "ZAS Corporation",
+    "medicine_type": "Capsule (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/38327/rytary-6125-mg-capsule",
+    "_source_page": 655
+  },
+  {
+    "name": "Ryth",
+    "strength": "150 mg",
+    "generic": "Roxithromycin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8801/ryth-150-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Ryth",
+    "strength": "300 mg",
+    "generic": "Roxithromycin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8802/ryth-300-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Ryth",
+    "strength": "50 mg/5 ml",
+    "generic": "Roxithromycin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8803/ryth-50-mg-suspension",
+    "_source_page": 655
+  },
+  {
+    "name": "Rythmosin",
+    "strength": "150 mg",
+    "generic": "Propafenone Hydrochloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2451/rythmosin-150-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Ryzodeg",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Degludec + Insulin Aspart Premixed",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/26705/ryzodeg-100-iu-injection",
+    "_source_page": 655
+  },
+  {
+    "name": "S-32 Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14116/s-32-gold-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Citapram",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4480/s-citapram-5-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Citapram",
+    "strength": "10 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4481/s-citapram-10-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Fenac TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11082/s-fenac-tr-100-mg-capsule",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Fenac TR",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/32175/s-fenac-tr-50-mg-capsule",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Fluclox",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6382/s-fluclox-250-mg-capsule",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Fluclox",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6383/s-fluclox-500-mg-capsule",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Kinase",
+    "strength": "1.5 million unit/vial",
+    "generic": "Streptokinase",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Injection",
+    "source_url": "https://medex.com.bd/brands/3297/s-kinase-15-million-injection",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Kit",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3739/s-kit-1-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Kit",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3740/s-kit-1-mg-syrup",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Ome",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1965/s-ome-20-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Ome",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1967/s-ome-40-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Ome",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/26141/s-ome-20-mg-capsule",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Ome",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/33397/s-ome-40-mg-capsule",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Pirin",
+    "strength": "100 mg",
+    "generic": "Aspirin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/30606/s-pirin-100-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "S-Vom",
+    "strength": "25 mg+50 mg",
+    "generic": "Meclizine + Pyridoxine",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4640/s-vom-25-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Sabicard",
+    "strength": "24 mg+26 mg",
+    "generic": "Sacubitril + Valsartan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36412/sabicard-24-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Sabicard",
+    "strength": "49 mg+51 mg",
+    "generic": "Sacubitril + Valsartan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36413/sabicard-49-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Sabicard",
+    "strength": "97 mg+103 mg",
+    "generic": "Sacubitril + Valsartan",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36414/sabicard-97-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Sabitar",
+    "strength": "97 mg+103 mg",
+    "generic": "Sacubitril + Valsartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25208/sabitar-97-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Sabitar",
+    "strength": "24 mg+26 mg",
+    "generic": "Sacubitril + Valsartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25209/sabitar-24-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Sabitar",
+    "strength": "49 mg+51 mg",
+    "generic": "Sacubitril + Valsartan",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25210/sabitar-49-mg-tablet",
+    "_source_page": 655
+  },
+  {
+    "name": "Sabul Plus",
+    "strength": "(2.5 mg+500 mcg)/ml",
+    "generic": "Salbutamol + Ipratropium (Solution for inhalation)",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Nebuliser Solution",
+    "source_url": "https://medex.com.bd/brands/34574/sabul-plus-25-mg-respirator-solution",
+    "_source_page": 655
+  }
+]

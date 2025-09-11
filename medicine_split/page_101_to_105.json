@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Blast",
+    "strength": "12.5 mg/5 ml",
+    "generic": "Bilastine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/36466/blast-125-mg-oral-solution",
+    "_source_page": 101
+  },
+  {
+    "name": "Blast",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32854/blast-20-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bleocin",
+    "strength": "15 unit/vial",
+    "generic": "Bleomycin Sulfate",
+    "company": "Nippon Kayaku Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/15027/bleocin-15-unit-injection",
+    "_source_page": 101
+  },
+  {
+    "name": "Bleonix",
+    "strength": "15 unit/vial",
+    "generic": "Bleomycin Sulfate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/27310/bleonix-15-unit-injection",
+    "_source_page": 101
+  },
+  {
+    "name": "Blextin",
+    "strength": "10 mg",
+    "generic": "Bilastine",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/33770/blextin-10-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Blextin",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32622/blextin-20-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Blix",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "C2C Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37100/blix-20-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bloatnil",
+    "strength": "67 mg/ml",
+    "generic": "Simethicone",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/28474/bloatnil-67-mg-pediatric-drop",
+    "_source_page": 101
+  },
+  {
+    "name": "Blocid",
+    "strength": "500 mg+100 mg",
+    "generic": "Sodium Alginate + Potassium Bicarbonate",
+    "company": "ACI Limited",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/32210/blocid-500-mg-chewable-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Blocid",
+    "strength": "(500 mg+100 mg)/5 ml",
+    "generic": "Sodium Alginate + Potassium Bicarbonate",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/24549/blocid-500-mg-suspension",
+    "_source_page": 101
+  },
+  {
+    "name": "Block-T",
+    "strength": "500 mg",
+    "generic": "Tranexamic Acid",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25080/block-t-500-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Block-T",
+    "strength": "500 mg/5 ml",
+    "generic": "Tranexamic Acid",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/25081/block-t-500-mg-injection",
+    "_source_page": 101
+  },
+  {
+    "name": "Blood Plus",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/37674/blood-plus-50-mg-capsule",
+    "_source_page": 101
+  },
+  {
+    "name": "Bludrop",
+    "strength": "5% v/v",
+    "generic": "Povidone Iodine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16175/bludrop-5-v-eye-drop",
+    "_source_page": 101
+  },
+  {
+    "name": "BNZ",
+    "strength": "1%",
+    "generic": "Brinzolamide",
+    "company": "UNIDO Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/38465/bnz-1-suspension",
+    "_source_page": 101
+  },
+  {
+    "name": "Body Firmer Body Lotion",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/38309/body-firmer-body-lotion-lotion",
+    "_source_page": 101
+  },
+  {
+    "name": "Bolt",
+    "strength": "0.2%+2%",
+    "generic": "Mucopolysaccharide Polysulphate + Salicylic Acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/35207/bolt-02-2-topical-gel",
+    "_source_page": 101
+  },
+  {
+    "name": "Bomaz",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27954/bomaz-3-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bonacal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Marksman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14346/bonacal-500-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bonacerin",
+    "strength": "750 mg+50 mg",
+    "generic": "Glucosamine Sulfate + Diacerein",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26903/bonacerin-750-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bonaid",
+    "strength": "150 mg",
+    "generic": "Ibandronic Acid",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14924/bonaid-150-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Boncare",
+    "strength": "150 mg",
+    "generic": "Ibandronic Acid",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14925/boncare-150-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Boncoral",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34391/boncoral-500-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Boncoral-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34392/boncoral-dx-600-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bondrix",
+    "strength": "150 mg",
+    "generic": "Ibandronic Acid",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20955/bondrix-150-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bondro",
+    "strength": "750 mg+600 mg",
+    "generic": "Glucosamine Sulfate + Chondroitin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33712/bondro-750-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bondrova",
+    "strength": "150 mg",
+    "generic": "Ibandronic Acid",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14921/bondrova-150-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bondrova",
+    "strength": "3 mg/3 ml",
+    "generic": "Ibandronic Acid",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/20954/bondrova-3-mg-injection",
+    "_source_page": 101
+  },
+  {
+    "name": "Bondrova Pro",
+    "strength": "150 mg+600 mg+400 IU",
+    "generic": "Ibandronic Acid + Coral Calcium + Vitamin D3",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36591/bondrova-pro-150-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bone-Guard",
+    "strength": "150 mg",
+    "generic": "Ibandronic Acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14929/bone-guard-150-mg-tablet",
+    "_source_page": 101
+  },
+  {
+    "name": "Bonemass D",
+    "strength": "70 mg+2800 IU",
+    "generic": "Alendronic Acid + Vitamin D3",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/419/bonemass-d-70-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "BoneStar Kit",
+    "strength": "150 mg+400 mg",
+    "generic": "Ibandronic Acid & Calcium Orotate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33178/bonestar-kit-150-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonex-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Cosmo Pharma Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35559/bonex-d-500-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonfix",
+    "strength": "150 mg",
+    "generic": "Ibandronic Acid",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14930/bonfix-150-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonflex",
+    "strength": "250 mg+200 mg",
+    "generic": "Glucosamine Sulfate + Chondroitin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14969/bonflex-250-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bongel",
+    "strength": "0.01%+8.714%",
+    "generic": "Cetalkonium Chloride + Choline Salicylate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Gel",
+    "source_url": "https://medex.com.bd/brands/10849/bongel-001-8714-oral-gel",
+    "_source_page": 102
+  },
+  {
+    "name": "Boni D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14406/boni-d-500-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Boni Gold",
+    "strength": "400 mg",
+    "generic": "Calcium Orotate",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18492/boni-gold-400-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Boni LG",
+    "strength": "500 mg+200 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32635/boni-lg-500-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Boni LGX",
+    "strength": "600 mg+400 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32475/boni-lgx-600-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Boni M",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27760/boni-m-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonigen",
+    "strength": "20 mg+750 mg+50 mg+0.75 mg",
+    "generic": "Undenatured Type II Collagen + Glucosamine sulfate + Boswellia serrata + Boron",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37044/bonigen-20-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonizol",
+    "strength": "5 mg/100 ml",
+    "generic": "Zoledronic Acid [For osteoporosis]",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/25438/bonizol-5-mg-injection",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonmax",
+    "strength": "150 mg",
+    "generic": "Ibandronic Acid",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20953/bonmax-150-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonmax D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14407/bonmax-d-500-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonmax M",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14513/bonmax-m-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonova",
+    "strength": "150 mg",
+    "generic": "Ibandronic Acid",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14931/bonova-150-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bontiv",
+    "strength": "750 mg+50 mg",
+    "generic": "Glucosamine Sulfate + Diacerein",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19793/bontiv-750-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bontonic",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14539/bontonic-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bonwell-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29242/bonwell-d-500-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bopam",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4246/bopam-3-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Bortez",
+    "strength": "2 mg/vial",
+    "generic": "Bortezomib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/27270/bortez-2-mg-injection",
+    "_source_page": 102
+  },
+  {
+    "name": "Bortez",
+    "strength": "1 mg/vial",
+    "generic": "Bortezomib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/26010/bortez-1-mg-injection",
+    "_source_page": 102
+  },
+  {
+    "name": "Bortezomib Ever Pharma",
+    "strength": "3.5 mg/vial",
+    "generic": "Bortezomib",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV/SC Injection",
+    "source_url": "https://medex.com.bd/brands/35219/bortezomib-ever-pharma-35-mg-injection",
+    "_source_page": 102
+  },
+  {
+    "name": "Bost",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/13641/bost-100-mg-injection",
+    "_source_page": 102
+  },
+  {
+    "name": "Bost",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13640/bost-100-mg-tablet",
+    "_source_page": 102
+  },
+  {
+    "name": "Botox",
+    "strength": "100 unit",
+    "generic": "Clostridium Botulinum Toxin Type A Neurotoxin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/11706/botox-100-unit-injection",
+    "_source_page": 102
+  },
+  {
+    "name": "Boxol",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4036/boxol-15-mg-syrup",
+    "_source_page": 102
+  },
+  {
+    "name": "Boxol",
+    "strength": "6 mg/ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/4037/boxol-6-mg-pediatric-drop",
+    "_source_page": 102
+  },
+  {
+    "name": "Boxol SR",
+    "strength": "75 mg",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/25525/boxol-sr-75-mg-capsule",
+    "_source_page": 102
+  },
+  {
+    "name": "BP Zinc",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/14552/bp-zinc-20-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "BP-Z",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8629/bp-z-500-mg-capsule",
+    "_source_page": 103
+  },
+  {
+    "name": "BP-Z",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8630/bp-z-500-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "BP-Z",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/8631/bp-z-200-mg-suspension",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpcal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14270/bpcal-500-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpcal D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14408/bpcal-d-500-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpcal M",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14514/bpcal-m-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpcare",
+    "strength": "80 mg",
+    "generic": "Valsartan",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25182/bpcare-80-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpcare",
+    "strength": "160 mg",
+    "generic": "Valsartan",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25183/bpcare-160-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpclox",
+    "strength": "500 mg",
+    "generic": "Cloxacillin Sodium",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6176/bpclox-500-mg-capsule",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpclox",
+    "strength": "125 mg/5 ml",
+    "generic": "Cloxacillin Sodium",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6177/bpclox-125-mg-suspension",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpdon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1521/bpdon-10-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpdox",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8334/bpdox-100-mg-capsule",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpfort",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13762/bpfort-5-mg-capsule",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpfort-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14194/bpfort-m-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpmox",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6495/bpmox-125-mg-pediatric-drop",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpmox",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6494/bpmox-125-mg-suspension",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpnol Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/812/bpnol-plus-5-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bptetra",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8278/bptetra-250-mg-capsule",
+    "_source_page": 103
+  },
+  {
+    "name": "Bptrol",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11930/bptrol-10-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpxen",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11415/bpxen-500-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bpxen",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11414/bpxen-250-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Brace",
+    "strength": "250 mg",
+    "generic": "Cephradine",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6812/brace-250-mg-capsule",
+    "_source_page": 103
+  },
+  {
+    "name": "Brace",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6813/brace-500-mg-capsule",
+    "_source_page": 103
+  },
+  {
+    "name": "Brace",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6814/brace-125-mg-suspension",
+    "_source_page": 103
+  },
+  {
+    "name": "Breasy",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29527/breasy-5-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Breasy",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22596/breasy-10-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Breathair",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4248/breathair-10-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Breathlin SR",
+    "strength": "200 mg",
+    "generic": "Theophylline",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/24901/breathlin-sr-200-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bredicon",
+    "strength": "0.075 mg",
+    "generic": "Desogestrel",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6096/bredicon-0075-mg-tablet",
+    "_source_page": 103
+  },
+  {
+    "name": "Bredox",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26654/bredox-400-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Bredox",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26653/bredox-200-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Breon",
+    "strength": "25 mcg+200 mcg",
+    "generic": "Vilanterol Trifenatate + Fluticasone Furoate",
+    "company": "ACI Limited",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/31606/breon-25-mcg-inhalation-capsule",
+    "_source_page": 104
+  },
+  {
+    "name": "Breon",
+    "strength": "25 mcg+100 mcg",
+    "generic": "Vilanterol Trifenatate + Fluticasone Furoate",
+    "company": "ACI Limited",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/31605/breon-25-mcg-inhalation-capsule",
+    "_source_page": 104
+  },
+  {
+    "name": "Breton",
+    "strength": "2 mg",
+    "generic": "Tulobuterol Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3617/breton-2-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Breton",
+    "strength": "1 mg/5 ml",
+    "generic": "Tulobuterol Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3618/breton-1-mg-syrup",
+    "_source_page": 104
+  },
+  {
+    "name": "Brevipil",
+    "strength": "50 mg",
+    "generic": "Brivaracetam",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38376/brevipil-50-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brevipil",
+    "strength": "25 mg",
+    "generic": "Brivaracetam",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38377/brevipil-25-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brexi",
+    "strength": "0.5 mg",
+    "generic": "Brexpiprazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28399/brexi-05-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brexi",
+    "strength": "1 mg",
+    "generic": "Brexpiprazole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28400/brexi-1-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brexpa",
+    "strength": "0.5 mg",
+    "generic": "Brexpiprazole",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33438/brexpa-05-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brexpa",
+    "strength": "1 mg",
+    "generic": "Brexpiprazole",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33437/brexpa-1-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brezofil",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/17464/brezofil-100-mg-syrup",
+    "_source_page": 104
+  },
+  {
+    "name": "Brezofil",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16445/brezofil-200-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brezofil",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16544/brezofil-400-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brezofil SR",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/26634/brezofil-sr-400-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Bricet",
+    "strength": "100 mg",
+    "generic": "Brivaracetam",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33051/bricet-100-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Bricet",
+    "strength": "75 mg",
+    "generic": "Brivaracetam",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33050/bricet-75-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Bricet",
+    "strength": "50 mg",
+    "generic": "Brivaracetam",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33049/bricet-50-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Bricet",
+    "strength": "25 mg",
+    "generic": "Brivaracetam",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33048/bricet-25-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Bricoma",
+    "strength": "0.2%",
+    "generic": "Brimonidine Tartrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16065/bricoma-02-eye-drop",
+    "_source_page": 104
+  },
+  {
+    "name": "Bricoma OSD",
+    "strength": "0.2%",
+    "generic": "Brimonidine Tartrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/32965/bricoma-osd-02-eye-drop",
+    "_source_page": 104
+  },
+  {
+    "name": "Brigacent",
+    "strength": "90 mg",
+    "generic": "Brigatinib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33125/brigacent-90-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brigacent",
+    "strength": "180 mg",
+    "generic": "Brigatinib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33124/brigacent-180-mg-tablet",
+    "_source_page": 104
+  },
+  {
+    "name": "Brimo",
+    "strength": "0.2%",
+    "generic": "Brimonidine Tartrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16060/brimo-02-eye-drop",
+    "_source_page": 104
+  },
+  {
+    "name": "Brimodin",
+    "strength": "0.2%",
+    "generic": "Brimonidine Tartrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16061/brimodin-02-eye-drop",
+    "_source_page": 104
+  },
+  {
+    "name": "Brimodin Plus",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16114/brimodin-plus-02-05-eye-drop",
+    "_source_page": 104
+  },
+  {
+    "name": "Brimolol",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16109/brimolol-02-05-eye-drop",
+    "_source_page": 104
+  },
+  {
+    "name": "BrimoPres",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16110/brimopres-02-05-eye-drop",
+    "_source_page": 104
+  },
+  {
+    "name": "Brindin",
+    "strength": "1%+0.2%",
+    "generic": "Brinzolamide + Brimonidine Tartrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/26488/brindin-1-02-suspension",
+    "_source_page": 104
+  },
+  {
+    "name": "Brinop",
+    "strength": "1%",
+    "generic": "Brinzolamide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/17155/brinop-1-suspension",
+    "_source_page": 105
+  },
+  {
+    "name": "Brinz",
+    "strength": "1%",
+    "generic": "Brinzolamide",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/27702/brinz-1-suspension",
+    "_source_page": 105
+  },
+  {
+    "name": "Brinz T",
+    "strength": "1%+0.5%",
+    "generic": "Brinzolamide + Timolol",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/27703/brinz-t-1-05-suspension",
+    "_source_page": 105
+  },
+  {
+    "name": "Brinzopt",
+    "strength": "1%",
+    "generic": "Brinzolamide",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/16068/brinzopt-1-suspension",
+    "_source_page": 105
+  },
+  {
+    "name": "Brirel",
+    "strength": "90 mg",
+    "generic": "Ticagrelor",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33198/brirel-90-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brirel",
+    "strength": "60 mg",
+    "generic": "Ticagrelor",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36530/brirel-60-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Bristol Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14747/bristol-gold-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brite",
+    "strength": "0.01%+4%+0.05%",
+    "generic": "Fluocinolone Acetonide + Hydroquinone + Tretinoin",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/27267/brite-001-4-cream",
+    "_source_page": 105
+  },
+  {
+    "name": "Briva",
+    "strength": "50 mg/5 ml",
+    "generic": "Brivaracetam",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/28423/briva-50-mg-oral-solution",
+    "_source_page": 105
+  },
+  {
+    "name": "Briva",
+    "strength": "25 mg",
+    "generic": "Brivaracetam",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28421/briva-25-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Briva",
+    "strength": "50 mg",
+    "generic": "Brivaracetam",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28422/briva-50-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brizy",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3553/brizy-1-mg-syrup",
+    "_source_page": 105
+  },
+  {
+    "name": "Brizy",
+    "strength": "2 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3552/brizy-2-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brizy",
+    "strength": "1 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3551/brizy-1-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brocast",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/31816/brocast-5-mg-chewable-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brocast",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22595/brocast-10-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brocef",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25791/brocef-250-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brocef",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25792/brocef-500-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brocef CV",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32931/brocef-cv-250-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brocef CV",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32932/brocef-cv-500-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Broculyt",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4038/broculyt-15-mg-syrup",
+    "_source_page": 105
+  },
+  {
+    "name": "Brodactam",
+    "strength": "(4 gm+0.5 gm)/vial",
+    "generic": "Piperacillin + Tazobactam",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/6676/brodactam-4-gm-injection",
+    "_source_page": 105
+  },
+  {
+    "name": "Brodactam",
+    "strength": "(2 gm+0.25 gm)/vial",
+    "generic": "Piperacillin + Tazobactam",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34675/brodactam-2-gm-injection",
+    "_source_page": 105
+  },
+  {
+    "name": "Brodamox DS",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6497/brodamox-ds-500-mg-capsule",
+    "_source_page": 105
+  },
+  {
+    "name": "Brodil",
+    "strength": "200 mcg",
+    "generic": "Salbutamol",
+    "company": "ACI Limited",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3456/brodil-200-mcg-inhalation-capsule",
+    "_source_page": 105
+  },
+  {
+    "name": "Brodil",
+    "strength": "2 mg",
+    "generic": "Salbutamol",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3452/brodil-2-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brodil",
+    "strength": "4 mg",
+    "generic": "Salbutamol",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3453/brodil-4-mg-tablet",
+    "_source_page": 105
+  },
+  {
+    "name": "Brodil",
+    "strength": "5 mg/ml",
+    "generic": "Salbutamol",
+    "company": "ACI Limited",
+    "medicine_type": "Nebuliser Solution",
+    "source_url": "https://medex.com.bd/brands/3459/brodil-5-mg-respirator-solution",
+    "_source_page": 105
+  },
+  {
+    "name": "Brodil",
+    "strength": "100 mcg/puff",
+    "generic": "Salbutamol (Inhaler)",
+    "company": "ACI Limited",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3458/brodil-100-mcg-inhaler",
+    "_source_page": 105
+  },
+  {
+    "name": "Brodil",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "ACI Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3455/brodil-2-mg-syrup",
+    "_source_page": 105
+  }
+]

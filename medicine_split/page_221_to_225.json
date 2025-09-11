@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Dolorex",
+    "strength": "50 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/10697/dolorex-50-mg-capsule",
+    "_source_page": 221
+  },
+  {
+    "name": "Doltro",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15417/doltro-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Doltro",
+    "strength": "60 mg/2 ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/35737/doltro-60-mg-injection",
+    "_source_page": 221
+  },
+  {
+    "name": "Doltro",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/35736/doltro-30-mg-injection",
+    "_source_page": 221
+  },
+  {
+    "name": "Dolwin",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28111/dolwin-500-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Domaid",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26960/domaid-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Domaid",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/28688/domaid-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Domar",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1532/domar-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Domar",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1533/domar-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Domerin",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Royal Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32183/domerin-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Dometic",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27992/dometic-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Dometic",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/27993/dometic-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Domfix",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/30346/domfix-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Domfix",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/33881/domfix-5-mg-pediatric-drop",
+    "_source_page": 221
+  },
+  {
+    "name": "Domfix",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27719/domfix-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Domidon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1534/domidon-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Domidon",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1535/domidon-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Domilin",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1536/domilin-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Domilin",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1537/domilin-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Domilux",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/30480/domilux-5-mg-pediatric-drop",
+    "_source_page": 221
+  },
+  {
+    "name": "Domilux",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1539/domilux-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Domilux",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1538/domilux-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Domin",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1540/domin-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Domin",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1541/domin-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Domin",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1542/domin-5-mg-pediatric-drop",
+    "_source_page": 221
+  },
+  {
+    "name": "Dominaaf",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/28786/dominaaf-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Dominaaf",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28787/dominaaf-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Dominat",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1545/dominat-5-mg-suspension",
+    "_source_page": 221
+  },
+  {
+    "name": "Dominat",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1544/dominat-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Dominol",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1546/dominol-10-mg-tablet",
+    "_source_page": 221
+  },
+  {
+    "name": "Domiren",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "Renata PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1549/domiren-5-mg-pediatric-drop",
+    "_source_page": 222
+  },
+  {
+    "name": "Domiren",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Renata PLC",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1548/domiren-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Domiren",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1547/domiren-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Domixon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Centeon Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27258/domixon-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Domp",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33336/domp-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Domp",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/33335/domp-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Dompa",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1550/dompa-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Dompa-S",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31037/dompa-s-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Dompa-S",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1551/dompa-s-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Dompen",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1552/dompen-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Domperid",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27403/domperid-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Domperidon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30322/domperidon-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Domperon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1634/domperon-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Domperon",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Astra Biopharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/35478/domperon-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Dompi",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1554/dompi-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Dompi",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1553/dompi-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Domsil",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1557/domsil-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Domsil",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1555/domsil-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Domstal",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1559/domstal-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Domstal",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1558/domstal-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Don-A",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/26505/don-a-5-mg-pediatric-drop",
+    "_source_page": 222
+  },
+  {
+    "name": "Don-A",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/26504/don-a-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Don-A",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26501/don-a-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Donadin",
+    "strength": "6% w/w",
+    "generic": "Povidone Iodine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12859/donadin-6-w-cream",
+    "_source_page": 222
+  },
+  {
+    "name": "Donor",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14021/donor-6-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Dopac",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8336/dopac-100-mg-capsule",
+    "_source_page": 222
+  },
+  {
+    "name": "Dopadon",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/26596/dopadon-5-mg-pediatric-drop",
+    "_source_page": 222
+  },
+  {
+    "name": "Dopadon",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1561/dopadon-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Dopadon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1560/dopadon-10-mg-tablet",
+    "_source_page": 222
+  },
+  {
+    "name": "Dopagut",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1563/dopagut-5-mg-suspension",
+    "_source_page": 222
+  },
+  {
+    "name": "Dopagut",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1563/dopagut-5-mg-suspension",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopair",
+    "strength": "250 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37430/dopair-250-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopair",
+    "strength": "100 mg+10 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37429/dopair-100-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopamet",
+    "strength": "250 mg",
+    "generic": "Methyldopa",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2459/dopamet-250-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopamine-Rotex",
+    "strength": "200 mg/5 ml",
+    "generic": "Dopamine Hydrochloride",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/3182/dopamine-rotex-200-mg-injection",
+    "_source_page": 223
+  },
+  {
+    "name": "Doparkin",
+    "strength": "250 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32754/doparkin-250-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Doparkin",
+    "strength": "100 mg+10 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32755/doparkin-100-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopatic",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/36959/dopatic-5-mg-suspension",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopatic",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34598/dopatic-10-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopegyt",
+    "strength": "250 mg",
+    "generic": "Methyldopa",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28028/dopegyt-250-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopen",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6513/dopen-500-mg-capsule",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopen",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6514/dopen-125-mg-suspension",
+    "_source_page": 223
+  },
+  {
+    "name": "Doperon",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/27383/doperon-5-mg-suspension",
+    "_source_page": 223
+  },
+  {
+    "name": "Doperon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27382/doperon-10-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dophylin",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26508/dophylin-400-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dophylin",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26507/dophylin-200-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dophylin",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/32418/dophylin-100-mg-syrup",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopin",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/686/dopin-5-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dopon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Marker Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1564/dopon-10-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Doquin",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9253/doquin-500-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dora",
+    "strength": "2.5 mg/5 ml",
+    "generic": "Desloratadine",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/12260/dora-25-mg-syrup",
+    "_source_page": 223
+  },
+  {
+    "name": "Dora",
+    "strength": "5 mg",
+    "generic": "Desloratadine",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12259/dora-5-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dorakid",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26388/dorakid-syrup",
+    "_source_page": 223
+  },
+  {
+    "name": "Doralin",
+    "strength": "5 mg",
+    "generic": "Desloratadine",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30851/doralin-5-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dorel",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3235/dorel-75-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dorel Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3281/dorel-plus-75-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Dorenta",
+    "strength": "10 mg/5 ml",
+    "generic": "Diphenhydramine Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11875/dorenta-10-mg-syrup",
+    "_source_page": 223
+  },
+  {
+    "name": "Dorenta",
+    "strength": "50 mg",
+    "generic": "Diphenhydramine Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29938/dorenta-50-mg-tablet",
+    "_source_page": 223
+  },
+  {
+    "name": "Doribac",
+    "strength": "250 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31817/doribac-250-mg-capsule",
+    "_source_page": 223
+  },
+  {
+    "name": "Doribac",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31818/doribac-500-mg-capsule",
+    "_source_page": 223
+  },
+  {
+    "name": "Doribac",
+    "strength": "500 mg",
+    "generic": "Flucloxacillin Sodium",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31818/doribac-500-mg-capsule",
+    "_source_page": 224
+  },
+  {
+    "name": "Doridon",
+    "strength": "5 mg/ml",
+    "generic": "Domperidone Maleate",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1566/doridon-5-mg-pediatric-drop",
+    "_source_page": 224
+  },
+  {
+    "name": "Doridon",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1565/doridon-10-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Doriject",
+    "strength": "500 mg/vial",
+    "generic": "Doripenem",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17945/doriject-500-mg-injection",
+    "_source_page": 224
+  },
+  {
+    "name": "Dorinem",
+    "strength": "500 mg/vial",
+    "generic": "Doripenem",
+    "company": "ACI Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/8268/dorinem-500-mg-injection",
+    "_source_page": 224
+  },
+  {
+    "name": "Doripen",
+    "strength": "500 mg/vial",
+    "generic": "Doripenem",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/26816/doripen-500-mg-injection",
+    "_source_page": 224
+  },
+  {
+    "name": "Doripen",
+    "strength": "250 mg/vial",
+    "generic": "Doripenem",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29939/doripen-250-mg-injection",
+    "_source_page": 224
+  },
+  {
+    "name": "Dormax",
+    "strength": "15 mg/3 ml",
+    "generic": "Midazolam",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/4173/dormax-15-mg-injection",
+    "_source_page": 224
+  },
+  {
+    "name": "Dormicum",
+    "strength": "7.5 mg",
+    "generic": "Midazolam",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27607/dormicum-75-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dormir",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4336/dormir-05-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dormitol",
+    "strength": "7.5 mg",
+    "generic": "Midazolam",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22527/dormitol-75-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dormitol",
+    "strength": "15 mg/3 ml",
+    "generic": "Midazolam",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/4180/dormitol-15-mg-injection",
+    "_source_page": 224
+  },
+  {
+    "name": "Dorubin",
+    "strength": "20 mg/4 ml",
+    "generic": "Daunorubicin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/31179/dorubin-20-mg-injection",
+    "_source_page": 224
+  },
+  {
+    "name": "Dos",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14440/dos-500-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Doset",
+    "strength": "100 mg",
+    "generic": "Docusate Sodium (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/36704/doset-100-mg-capsule",
+    "_source_page": 224
+  },
+  {
+    "name": "Dosical",
+    "strength": "40000 IU",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34773/dosical-40000-iu-capsule",
+    "_source_page": 224
+  },
+  {
+    "name": "Dostimid",
+    "strength": "60 mg",
+    "generic": "Pyridostigmine Bromide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11704/dostimid-60-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dot",
+    "strength": "40 mg",
+    "generic": "Drotaverine Hydrochloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1383/dot-40-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dotfix",
+    "strength": "2 mg",
+    "generic": "Dotinurad",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37285/dotfix-2-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dotfix",
+    "strength": "1 mg",
+    "generic": "Dotinurad",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37284/dotfix-1-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dotin",
+    "strength": "0.5 mg",
+    "generic": "Dotinurad",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35277/dotin-05-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dotin",
+    "strength": "1 mg",
+    "generic": "Dotinurad",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35278/dotin-1-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dotin",
+    "strength": "2 mg",
+    "generic": "Dotinurad",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35279/dotin-2-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dotinor",
+    "strength": "0.5 mg",
+    "generic": "Dotinurad",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36190/dotinor-05-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dotinor",
+    "strength": "1 mg",
+    "generic": "Dotinurad",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36191/dotinor-1-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dotiric",
+    "strength": "0.5 mg",
+    "generic": "Dotinurad",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35416/dotiric-05-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dover",
+    "strength": "40 mg",
+    "generic": "Drotaverine Hydrochloride",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1385/dover-40-mg-tablet",
+    "_source_page": 224
+  },
+  {
+    "name": "Dovonex",
+    "strength": "0.005% w/w",
+    "generic": "Calcipotriol Monohydrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/34730/dovonex-0005-w-ointment",
+    "_source_page": 224
+  },
+  {
+    "name": "Doxacil",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29026/doxacil-100-mg-capsule",
+    "_source_page": 224
+  },
+  {
+    "name": "Doxacin",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8338/doxacin-100-mg-capsule",
+    "_source_page": 224
+  },
+  {
+    "name": "Doxair",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16382/doxair-200-mg-tablet",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxair",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/33500/doxair-100-mg-syrup",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxavit",
+    "strength": "10 mg+10 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/28994/doxavit-10-mg-tablet",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxcline",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29050/doxcline-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxecure",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33082/doxecure-200-mg-tablet",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxerol",
+    "strength": "2 mcg/ml",
+    "generic": "Doxercalciferol",
+    "company": "ACI Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/37213/doxerol-2-mcg-injection",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxerol",
+    "strength": "4 mcg/2 ml",
+    "generic": "Doxercalciferol",
+    "company": "ACI Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/37214/doxerol-4-mcg-injection",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxibac",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28718/doxibac-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxicap",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8341/doxicap-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxicap",
+    "strength": "50 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/36013/doxicap-50-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxicline",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29051/doxicline-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxico",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8344/doxico-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxicon",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8345/doxicon-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxiderm",
+    "strength": "5%",
+    "generic": "Doxepin (Topical)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/4452/doxiderm-5-cream",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxiflo",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26865/doxiflo-200-mg-tablet",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxiflo",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26866/doxiflo-400-mg-tablet",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxigen",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8374/doxigen-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxilin",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28029/doxilin-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doximar",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "ACI Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26351/doximar-100-mg-syrup",
+    "_source_page": 225
+  },
+  {
+    "name": "Doximar",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16450/doximar-400-mg-tablet",
+    "_source_page": 225
+  },
+  {
+    "name": "Doximar",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26350/doximar-200-mg-tablet",
+    "_source_page": 225
+  },
+  {
+    "name": "Doximet",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8348/doximet-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxin",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8350/doxin-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxin",
+    "strength": "50 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8349/doxin-50-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxipan",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8376/doxipan-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxirem",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32506/doxirem-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxisyn",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Syntho Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8377/doxisyn-100-mg-capsule",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxiva",
+    "strength": "100 mg/5 ml",
+    "generic": "Doxophylline",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/16453/doxiva-100-mg-syrup",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxiva",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16452/doxiva-400-mg-tablet",
+    "_source_page": 225
+  },
+  {
+    "name": "Doxiva",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16451/doxiva-200-mg-tablet",
+    "_source_page": 225
+  }
+]

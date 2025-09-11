@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Cefazone",
+    "strength": "1 gm/vial",
+    "generic": "Cefoperazone Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30137/cefazone-1-gm-injection",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefazone",
+    "strength": "2 gm/vial",
+    "generic": "Cefoperazone Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30138/cefazone-2-gm-injection",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefcare",
+    "strength": "500 mg",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30740/cefcare-500-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefcare",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/30741/cefcare-125-mg-pediatric-drop",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefcare",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/30742/cefcare-125-mg-suspension",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefdiren",
+    "strength": "400 mg",
+    "generic": "Cefditoren",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29359/cefdiren-400-mg-tablet",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefdiren",
+    "strength": "200 mg",
+    "generic": "Cefditoren",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29358/cefdiren-200-mg-tablet",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefditor",
+    "strength": "400 mg",
+    "generic": "Cefditoren",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33187/cefditor-400-mg-tablet",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefditor",
+    "strength": "200 mg",
+    "generic": "Cefditoren",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7453/cefditor-200-mg-tablet",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefdox",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7734/cefdox-40-mg-suspension",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefdox",
+    "strength": "200 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7849/cefdox-200-mg-tablet",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefdox",
+    "strength": "20 mg/ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "ACI Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/32239/cefdox-20-mg-pediatric-drop",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefdox",
+    "strength": "100 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32237/cefdox-100-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefdox DS",
+    "strength": "80 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/32238/cefdox-ds-80-mg-suspension",
+    "_source_page": 131
+  },
+  {
+    "name": "Ceferon",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7498/ceferon-100-mg-suspension",
+    "_source_page": 131
+  },
+  {
+    "name": "Ceferon",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7497/ceferon-200-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefesta",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7500/cefesta-100-mg-suspension",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefesta",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7499/cefesta-200-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefexta",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefdinir",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7440/cefexta-125-mg-suspension",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefexta",
+    "strength": "300 mg",
+    "generic": "Cefdinir",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7439/cefexta-300-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Ceficap",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7501/ceficap-200-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Ceficap",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7502/ceficap-400-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Ceficap",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7503/ceficap-100-mg-suspension",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefida",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefdinir",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/30743/cefida-125-mg-suspension",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefida",
+    "strength": "300 mg",
+    "generic": "Cefdinir",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30744/cefida-300-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefiget",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Get Well Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18740/cefiget-400-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefiget",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Get Well Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18739/cefiget-200-mg-capsule",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefiget",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Get Well Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18742/cefiget-100-mg-suspension",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefiget",
+    "strength": "25 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Get Well Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/18741/cefiget-25-mg-pediatric-drop",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefim-3",
+    "strength": "25 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/18709/cefim-3-25-mg-pediatric-drop",
+    "_source_page": 131
+  },
+  {
+    "name": "Cefim-3",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7506/cefim-3-100-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefim-3",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7504/cefim-3-200-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefim-3",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26337/cefim-3-200-mg-tablet",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefim-3 DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7507/cefim-3-ds-200-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefim-3 DS",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26338/cefim-3-ds-400-mg-tablet",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefim-3 DS",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7505/cefim-3-ds-400-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefimax",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/37403/cefimax-100-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefimax",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37402/cefimax-400-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefimax",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37401/cefimax-200-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefinaaf",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28796/cefinaaf-100-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefinaaf",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28795/cefinaaf-400-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefinaaf",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28794/cefinaaf-200-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefipod",
+    "strength": "100 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38047/cefipod-100-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefipod",
+    "strength": "200 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38048/cefipod-200-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefipod",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7737/cefipod-40-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefipod",
+    "strength": "20 mg/ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/7739/cefipod-20-mg-pediatric-drop",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefipod DS",
+    "strength": "80 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/38049/cefipod-ds-80-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefivic",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33590/cefivic-400-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefivic",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18745/cefivic-100-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefivic",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33589/cefivic-200-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefivic DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/33591/cefivic-ds-200-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefix",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/33784/cefix-100-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefix",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33785/cefix-200-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefix",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33786/cefix-400-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefix DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/33783/cefix-ds-200-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefixic",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Physic pharmaceuticals ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/37791/cefixic-100-mg-suspension",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefixic",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Physic pharmaceuticals ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37792/cefixic-200-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefixic",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Physic pharmaceuticals ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37793/cefixic-400-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefixim",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18750/cefixim-400-mg-capsule",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefixim",
+    "strength": "25 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/18753/cefixim-25-mg-pediatric-drop",
+    "_source_page": 132
+  },
+  {
+    "name": "Cefixim",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18751/cefixim-100-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefixim",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18750/cefixim-400-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefixim DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18752/cefixim-ds-200-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefixime-A",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7515/cefixime-a-100-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefixime-A",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7514/cefixime-a-200-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefixime-A",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/36546/cefixime-a-400-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefixon",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7942/cefixon-1-gm-injection",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefixon",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7943/cefixon-2-gm-injection",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefixon",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7941/cefixon-500-mg-injection",
+    "_source_page": 133
+  },
+  {
+    "name": "Ceflin",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6824/ceflin-500-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Ceflin",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6825/ceflin-125-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Ceflon",
+    "strength": "500 mg",
+    "generic": "Cefaclor Monohydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29923/ceflon-500-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Ceflon",
+    "strength": "250 mg",
+    "generic": "Cefaclor Monohydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29922/ceflon-250-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Ceflon",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefaclor Monohydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7106/ceflon-125-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Ceflon",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cefaclor Monohydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/7107/ceflon-125-mg-pediatric-drop",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefmix",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7516/cefmix-200-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefmix",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7518/cefmix-100-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefmix",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7517/cefmix-400-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefobac",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7187/cefobac-500-mg-tablet",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefobac",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/37268/cefobac-750-mg-injection",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefobac",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7186/cefobac-250-mg-tablet",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefobac",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/37267/cefobac-125-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefobid",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7740/cefobid-40-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefobid",
+    "strength": "200 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18890/cefobid-200-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefocef",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7521/cefocef-100-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefocef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7519/cefocef-200-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefocef DS",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7520/cefocef-ds-400-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefodim",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/28515/cefodim-40-mg-suspension",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefodim",
+    "strength": "200 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28514/cefodim-200-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefodim",
+    "strength": "100 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28513/cefodim-100-mg-capsule",
+    "_source_page": 133
+  },
+  {
+    "name": "Cefodox",
+    "strength": "100 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7744/cefodox-100-mg-capsule",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefodox",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Bristol Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7745/cefodox-40-mg-suspension",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefoject",
+    "strength": "1 gm/vial",
+    "generic": "Cefoperazone Sodium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/29003/cefoject-1-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefokid",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7851/cefokid-40-mg-suspension",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefokid DS",
+    "strength": "80 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7852/cefokid-ds-80-mg-suspension",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefomin",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7748/cefomin-40-mg-suspension",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefone",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27958/cefone-2-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefone",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27957/cefone-1-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefone",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27956/cefone-500-mg-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefone",
+    "strength": "250 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27955/cefone-250-mg-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefopar",
+    "strength": "2 gm/vial",
+    "generic": "Cefoperazone Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/29822/cefopar-2-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefopar",
+    "strength": "1 gm/vial",
+    "generic": "Cefoperazone Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/29821/cefopar-1-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefopar",
+    "strength": "500 mg/vial",
+    "generic": "Cefoperazone Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/35851/cefopar-500-mg-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefopen",
+    "strength": "2 gm/vial",
+    "generic": "Cefoperazone Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26069/cefopen-2-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefopen",
+    "strength": "1 gm/vial",
+    "generic": "Cefoperazone Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/26068/cefopen-1-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefoprox",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7853/cefoprox-40-mg-suspension",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefoprox DS",
+    "strength": "80 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18862/cefoprox-ds-80-mg-suspension",
+    "_source_page": 134
+  },
+  {
+    "name": "Ceforan",
+    "strength": "100 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26607/ceforan-100-mg-tablet",
+    "_source_page": 134
+  },
+  {
+    "name": "Ceforan",
+    "strength": "200 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26608/ceforan-200-mg-tablet",
+    "_source_page": 134
+  },
+  {
+    "name": "Ceforan",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7751/ceforan-40-mg-suspension",
+    "_source_page": 134
+  },
+  {
+    "name": "Ceforan DS",
+    "strength": "80 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7752/ceforan-ds-80-mg-suspension",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefot",
+    "strength": "2 gm/10 ml",
+    "generic": "Cefotaxime",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/38141/cefot-2-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefot",
+    "strength": "1 gm/10 ml",
+    "generic": "Cefotaxime",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7704/cefot-1-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefot",
+    "strength": "500 mg/10 ml",
+    "generic": "Cefotaxime",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7703/cefot-500-mg-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefot",
+    "strength": "250 mg/5 ml",
+    "generic": "Cefotaxime",
+    "company": "ACI Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7702/cefot-250-mg-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefotax",
+    "strength": "1 gm/10 ml",
+    "generic": "Cefotaxime",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7708/cefotax-1-gm-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefotax",
+    "strength": "500 mg/10 ml",
+    "generic": "Cefotaxime",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7707/cefotax-500-mg-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefotax",
+    "strength": "250 mg/5 ml",
+    "generic": "Cefotaxime",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7706/cefotax-250-mg-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefotil",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7195/cefotil-750-mg-injection",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefotil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7194/cefotil-125-mg-suspension",
+    "_source_page": 134
+  },
+  {
+    "name": "Cefotil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7194/cefotil-125-mg-suspension",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefotil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7193/cefotil-500-mg-tablet",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefotil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7192/cefotil-250-mg-tablet",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefotil Plus",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7403/cefotil-plus-500-mg-tablet",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefotil Plus",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/19026/cefotil-plus-125-mg-suspension",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefotil Plus",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7402/cefotil-plus-250-mg-tablet",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefotime",
+    "strength": "1 gm/10 ml",
+    "generic": "Cefotaxime",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7711/cefotime-1-gm-injection",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefotime",
+    "strength": "250 mg/5 ml",
+    "generic": "Cefotaxime",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7709/cefotime-250-mg-injection",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefotime",
+    "strength": "500 mg/10 ml",
+    "generic": "Cefotaxime",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7710/cefotime-500-mg-injection",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefoxguard",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Guardian Healthcare Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/28203/cefoxguard-500-mg-injection",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefoxguard",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Guardian Healthcare Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/28204/cefoxguard-2-gm-injection",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefoxil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7157/cefoxil-125-mg-suspension",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefoxil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7156/cefoxil-500-mg-tablet",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefoxil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7155/cefoxil-250-mg-tablet",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefpod",
+    "strength": "100 mg",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18895/cefpod-100-mg-tablet",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefracef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6829/cefracef-125-mg-suspension",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefracef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6828/cefracef-500-mg-capsule",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefracef",
+    "strength": "250 mg",
+    "generic": "Cephradine",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6827/cefracef-250-mg-capsule",
+    "_source_page": 135
+  },
+  {
+    "name": "Ceframax",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37405/ceframax-500-mg-capsule",
+    "_source_page": 135
+  },
+  {
+    "name": "Ceframed",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cephradine",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6833/ceframed-125-mg-pediatric-drop",
+    "_source_page": 135
+  },
+  {
+    "name": "Ceframed",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6832/ceframed-125-mg-suspension",
+    "_source_page": 135
+  },
+  {
+    "name": "Ceframed",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6831/ceframed-500-mg-capsule",
+    "_source_page": 135
+  },
+  {
+    "name": "Ceframed",
+    "strength": "250 mg",
+    "generic": "Cephradine",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6830/ceframed-250-mg-capsule",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefranov",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6835/cefranov-125-mg-suspension",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefranov",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6834/cefranov-500-mg-capsule",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefrasyn",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "MST Pharma",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6836/cefrasyn-500-mg-capsule",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefrasyn",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "MST Pharma",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6837/cefrasyn-125-mg-suspension",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefroxil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7197/cefroxil-250-mg-tablet",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefroxil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7198/cefroxil-125-mg-suspension",
+    "_source_page": 135
+  },
+  {
+    "name": "Cefstar",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7202/cefstar-125-mg-suspension",
+    "_source_page": 135
+  }
+]

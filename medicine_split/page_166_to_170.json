@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Co-Axet",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7415/co-axet-500-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Axet",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/30775/co-axet-125-mg-suspension",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Clav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/36571/co-clav-125-mg-suspension",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Clav",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36570/co-clav-500-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Diovan",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Valsartan + Hydrochlorothiazide",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3003/co-diovan-80-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Diovan",
+    "strength": "160 mg+12.5 mg",
+    "generic": "Valsartan + Hydrochlorothiazide",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3004/co-diovan-160-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Diovan",
+    "strength": "160 mg+25 mg",
+    "generic": "Valsartan + Hydrochlorothiazide",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25200/co-diovan-160-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Disys",
+    "strength": "5 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3095/co-disys-5-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Disys",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3094/co-disys-5-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Disys",
+    "strength": "10 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35491/co-disys-10-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-dopa",
+    "strength": "250 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5099/co-dopa-250-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-dopa",
+    "strength": "100 mg+10 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5098/co-dopa-100-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-dopa CR",
+    "strength": "200 mg+50 mg",
+    "generic": "Levodopa + Carbidopa (Prolonged release)",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Prolonged Release)",
+    "source_url": "https://medex.com.bd/brands/21496/co-dopa-cr-200-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-dopa CR",
+    "strength": "100 mg+25 mg",
+    "generic": "Levodopa + Carbidopa (Prolonged release)",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Prolonged Release)",
+    "source_url": "https://medex.com.bd/brands/31012/co-dopa-cr-100-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-dopa Plus",
+    "strength": "100 mg+25 mg+200 mg",
+    "generic": "Levodopa + Carbidopa + Entacapone",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33536/co-dopa-plus-100-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Valtin",
+    "strength": "5 mg+160 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17728/co-valtin-5-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Co-Valtin",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Valsartan",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17727/co-valtin-5-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Coavlon",
+    "strength": "20 mg+120 mg",
+    "generic": "Artemether + Lumefantrine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32243/coavlon-20-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Cobesol",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12568/cobesol-005-ointment",
+    "_source_page": 166
+  },
+  {
+    "name": "Cobesol",
+    "strength": "0.05%",
+    "generic": "Clobetasol Propionate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12567/cobesol-005-cream",
+    "_source_page": 166
+  },
+  {
+    "name": "Cocavit D",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34884/cocavit-d-500-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Cocavit Dx",
+    "strength": "600 mg+400 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34885/cocavit-dx-600-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Cod Liver Oil",
+    "strength": "600 IU+85 IU+0.3 IU",
+    "generic": "Cod Liver Oil",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13528/cod-liver-oil-600-iu-capsule",
+    "_source_page": 166
+  },
+  {
+    "name": "Cod Oil",
+    "strength": "600 IU+85 IU+0.3 IU",
+    "generic": "Cod Liver Oil",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13529/cod-oil-600-iu-capsule",
+    "_source_page": 166
+  },
+  {
+    "name": "Cod Plus",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13542/cod-plus-syrup",
+    "_source_page": 166
+  },
+  {
+    "name": "Codcap",
+    "strength": "600 IU+85 IU+0.3 IU",
+    "generic": "Cod Liver Oil",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13530/codcap-600-iu-capsule",
+    "_source_page": 166
+  },
+  {
+    "name": "Coderin",
+    "strength": "10 mg+240 mg",
+    "generic": "Loratadine + Pseudoephedrine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32244/coderin-10-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Coderin",
+    "strength": "5 mg+120 mg",
+    "generic": "Loratadine + Pseudoephedrine",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/32245/coderin-5-mg-tablet",
+    "_source_page": 166
+  },
+  {
+    "name": "Codex",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28024/codex-30-mg-syrup",
+    "_source_page": 166
+  },
+  {
+    "name": "Codliv",
+    "strength": "600 IU+85 IU+0.3 IU",
+    "generic": "Cod Liver Oil",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13527/codliv-600-iu-capsule",
+    "_source_page": 166
+  },
+  {
+    "name": "Codlivit",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13540/codlivit-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Codmin",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14068/codmin-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Codomix",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13541/codomix-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Codvit",
+    "strength": "600 IU+85 IU+0.3 IU",
+    "generic": "Cod Liver Oil",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13531/codvit-600-iu-capsule",
+    "_source_page": 167
+  },
+  {
+    "name": "Codvita",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13543/codvita-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Codyl",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4136/codyl-30-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofcut",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30981/cofcut-75-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofdil",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Central Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4137/cofdil-30-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofexin",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/25512/cofexin-15-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Coflyt",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4094/coflyt-4-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofnil Plus",
+    "strength": "(200 mg+15 mg+15 mg)/5 ml",
+    "generic": "Guaifenesin + Dextromethorphan + Menthol",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4138/cofnil-plus-200-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofno",
+    "strength": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "generic": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/33763/cofno-10-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofof",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3984/cofof-75-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofof",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3985/cofof-50-mg-tablet",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofresh",
+    "strength": "0.2%+0.36%+1%",
+    "generic": "Glycerol + Hypromellose + Polyethylene Glycol 400",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/20946/cofresh-02-036-eye-drop",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofrid",
+    "strength": "(200 mg+15 mg+15 mg)/5 ml",
+    "generic": "Guaifenesin + Dextromethorphan + Menthol",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4139/cofrid-200-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofson",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4140/cofson-30-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cofson plus",
+    "strength": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "generic": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/32983/cofson-plus-100-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Cogniz",
+    "strength": "500 mg",
+    "generic": "Citicoline Sodium",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5180/cogniz-500-mg-tablet",
+    "_source_page": 167
+  },
+  {
+    "name": "Cogniz",
+    "strength": "500 mg/4 ml",
+    "generic": "Citicoline Sodium",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/36630/cogniz-500-mg-injection",
+    "_source_page": 167
+  },
+  {
+    "name": "Colagel",
+    "strength": "15%",
+    "generic": "L-Lysine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/12889/colagel-15-gel",
+    "_source_page": 167
+  },
+  {
+    "name": "Colamin",
+    "strength": "500 mcg",
+    "generic": "Mecobalamin",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13431/colamin-500-mcg-tablet",
+    "_source_page": 167
+  },
+  {
+    "name": "Colasa",
+    "strength": "400 mg",
+    "generic": "Mesalazine [5-aminosalicylic acid]",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/36967/colasa-400-mg-tablet",
+    "_source_page": 167
+  },
+  {
+    "name": "Colasa",
+    "strength": "1 gm",
+    "generic": "Mesalazine [5-aminosalicylic acid]",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/36966/colasa-1-gm-suppository",
+    "_source_page": 167
+  },
+  {
+    "name": "Colasa",
+    "strength": "800 mg",
+    "generic": "Mesalazine [5-aminosalicylic acid]",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/36968/colasa-800-mg-tablet",
+    "_source_page": 167
+  },
+  {
+    "name": "Colax",
+    "strength": "10 mg",
+    "generic": "Clobazam",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4276/colax-10-mg-tablet",
+    "_source_page": 167
+  },
+  {
+    "name": "Colaz",
+    "strength": "400 mg",
+    "generic": "Albendazole",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/305/colaz-400-mg-chewable-tablet",
+    "_source_page": 167
+  },
+  {
+    "name": "Colaz",
+    "strength": "200 mg/5 ml",
+    "generic": "Albendazole",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/304/colaz-200-mg-suspension",
+    "_source_page": 167
+  },
+  {
+    "name": "Cold B",
+    "strength": "4 mg",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18378/cold-b-4-mg-tablet",
+    "_source_page": 167
+  },
+  {
+    "name": "Coldex",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4141/coldex-30-mg-syrup",
+    "_source_page": 167
+  },
+  {
+    "name": "Coldflu",
+    "strength": "10 mg/5 ml",
+    "generic": "Dextromethorphan Hydrobromide",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3990/coldflu-10-mg-syrup",
+    "_source_page": 168
+  },
+  {
+    "name": "Colicon",
+    "strength": "10 mg/5 ml",
+    "generic": "Dicycloverine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/1318/colicon-10-mg-syrup",
+    "_source_page": 168
+  },
+  {
+    "name": "Colicon",
+    "strength": "10 mg",
+    "generic": "Dicycloverine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1317/colicon-10-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Colik",
+    "strength": "20 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34520/colik-20-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Colik",
+    "strength": "20 mg/ml",
+    "generic": "Hyoscine Butylbromide",
+    "company": "ACI Limited",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/34521/colik-20-mg-injection",
+    "_source_page": 168
+  },
+  {
+    "name": "Colik",
+    "strength": "10 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32223/colik-10-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Colimax",
+    "strength": "0.6 mg",
+    "generic": "Colchicine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11678/colimax-06-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Colipan",
+    "strength": "20 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1359/colipan-20-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Colipan",
+    "strength": "10 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1358/colipan-10-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Colipan",
+    "strength": "20 mg/ml",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/1360/colipan-20-mg-injection",
+    "_source_page": 168
+  },
+  {
+    "name": "Colistimethate (CMS)",
+    "strength": "1 MIU (34 mg)",
+    "generic": "Colistimethate Sodium",
+    "company": "ZAS Corporation",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30779/colistimethate-cms-1-miu-injection",
+    "_source_page": 168
+  },
+  {
+    "name": "Colistimethate (CMS)",
+    "strength": "4.5 MIU (150 mg)",
+    "generic": "Colistimethate Sodium",
+    "company": "ZAS Corporation",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/30780/colistimethate-cms-45-miu-injection",
+    "_source_page": 168
+  },
+  {
+    "name": "Colistimethate Sodium Altan",
+    "strength": "1 MIU (34 mg)",
+    "generic": "Colistimethate Sodium",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/34409/colistimethate-sodium-altan-1-miu-injection",
+    "_source_page": 168
+  },
+  {
+    "name": "Colitrol",
+    "strength": "1 mcg/ml",
+    "generic": "Calcitriol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/13515/colitrol-1-mcg-injection",
+    "_source_page": 168
+  },
+  {
+    "name": "Colitrol",
+    "strength": "0.25 mcg",
+    "generic": "Calcitriol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13514/colitrol-025-mcg-capsule",
+    "_source_page": 168
+  },
+  {
+    "name": "Colitrol Plus",
+    "strength": "1200 mg+0.25 mcg",
+    "generic": "Calcium Citrate + Calcitriol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37624/colitrol-plus-1200-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Collagen Boost Face Serum",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Serum",
+    "source_url": "https://medex.com.bd/brands/38305/collagen-boost-face-serum-serum",
+    "_source_page": 168
+  },
+  {
+    "name": "Colomeb",
+    "strength": "135 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26906/colomeb-135-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Colostat",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30246/colostat-20-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Colostat",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1178/colostat-10-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Coluric",
+    "strength": "0.6 mg",
+    "generic": "Colchicine",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11675/coluric-06-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Colut",
+    "strength": "0.6 mg",
+    "generic": "Colchicine",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36752/colut-06-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Comarit",
+    "strength": "20 mg",
+    "generic": "Cabozantinib",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29318/comarit-20-mg-capsule",
+    "_source_page": 168
+  },
+  {
+    "name": "Comarit",
+    "strength": "80 mg",
+    "generic": "Cabozantinib",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29319/comarit-80-mg-capsule",
+    "_source_page": 168
+  },
+  {
+    "name": "Combair",
+    "strength": "(2.5 mg+500 mcg)/ml",
+    "generic": "Salbutamol + Ipratropium (Solution for inhalation)",
+    "company": "ACI Limited",
+    "medicine_type": "Nebuliser Solution",
+    "source_url": "https://medex.com.bd/brands/37115/combair-25-mg-respirator-solution",
+    "_source_page": 168
+  },
+  {
+    "name": "Combair",
+    "strength": "(100 mcg+20 mcg)/puff",
+    "generic": "Salbutamol + Ipratropium (Inhaler)",
+    "company": "ACI Limited",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3680/combair-100-mcg-inhaler",
+    "_source_page": 168
+  },
+  {
+    "name": "Combat",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16111/combat-02-05-eye-drop",
+    "_source_page": 168
+  },
+  {
+    "name": "Combicard",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/827/combicard-5-mg-tablet",
+    "_source_page": 168
+  },
+  {
+    "name": "Combicid",
+    "strength": "0.05%+0.75%+2%+1%",
+    "generic": "Clobetasol Propionate + Ofloxacin + Ornidazole + Terbinafine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/28622/combicid-005-075-cream",
+    "_source_page": 168
+  },
+  {
+    "name": "Combiderm",
+    "strength": "0.05%+1%+0.1%",
+    "generic": "Betamethasone + Clotrimazole + Gentamicin",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/29620/combiderm-005-1-cream",
+    "_source_page": 168
+  },
+  {
+    "name": "Combigan",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/26820/combigan-02-05-eye-drop",
+    "_source_page": 169
+  },
+  {
+    "name": "Combiplat",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19518/combiplat-75-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Combipres",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16112/combipres-02-05-eye-drop",
+    "_source_page": 169
+  },
+  {
+    "name": "Combisol",
+    "strength": "0.3%+3%",
+    "generic": "Chlorhexidine Gluconate + Cetrimide",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/27138/combisol-03-3-solution",
+    "_source_page": 169
+  },
+  {
+    "name": "Combiver",
+    "strength": "(100 mcg+20 mcg)/puff",
+    "generic": "Salbutamol + Ipratropium (Inhaler)",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/21072/combiver-100-mcg-inhaler",
+    "_source_page": 169
+  },
+  {
+    "name": "Combivit",
+    "strength": "(50 mg+5.48 mg+100 mg+5 mg+10 mg)/2 ml",
+    "generic": "Vitamin B complex",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/13768/combivit-50-mg-injection",
+    "_source_page": 169
+  },
+  {
+    "name": "Combo 4",
+    "strength": "0.05%+0.75%+2%+1%",
+    "generic": "Clobetasol Propionate + Ofloxacin + Ornidazole + Terbinafine",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36925/combo-4-005-075-cream",
+    "_source_page": 169
+  },
+  {
+    "name": "Combocef",
+    "strength": "100 mg+62.5 mg",
+    "generic": "Cefpodoxime Proxetil + Clavulanic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16360/combocef-100-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Combocef",
+    "strength": "200 mg+125 mg",
+    "generic": "Cefpodoxime Proxetil + Clavulanic Acid",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16359/combocef-200-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Combofresh",
+    "strength": "0.2%+0.36%+1%+0.05%+0.25%",
+    "generic": "Glycerin + Hypromellose + Polyethylene glycol + Tetrahydrozoline + Zinc Sulfate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/33978/combofresh-02-036-eye-drop",
+    "_source_page": 169
+  },
+  {
+    "name": "Combomax",
+    "strength": "0.4 mg+0.5 mg",
+    "generic": "Tamsulosin Hydrochloride + Dutasteride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16705/combomax-04-mg-capsule",
+    "_source_page": 169
+  },
+  {
+    "name": "Combomin",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13642/combomin-100-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comet",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5361/comet-850-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comet",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5359/comet-500-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comet XR",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/5363/comet-xr-500-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comet XR",
+    "strength": "1000 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/5364/comet-xr-1000-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comfil",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3559/comfil-1-mg-syrup",
+    "_source_page": 169
+  },
+  {
+    "name": "Comfort",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "APC Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2378/comfort-335-gm-oral-solution",
+    "_source_page": 169
+  },
+  {
+    "name": "Comfy",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26957/comfy-1-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comfy",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19489/comfy-2-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comfy",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19488/comfy-05-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Compimet",
+    "strength": "15 mg+500 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5639/compimet-15-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Compimet",
+    "strength": "15 mg+850 mg",
+    "generic": "Pioglitazone + Metformin Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27592/compimet-15-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Compiron",
+    "strength": "50 mg/5 ml",
+    "generic": "Iron Polymaltose Complex",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13125/compiron-50-mg-syrup",
+    "_source_page": 169
+  },
+  {
+    "name": "Compiron",
+    "strength": "50 mg/ml",
+    "generic": "Iron Polymaltose Complex",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/38201/compiron-50-mg-pediatric-drop",
+    "_source_page": 169
+  },
+  {
+    "name": "Comprid",
+    "strength": "80 mg",
+    "generic": "Gliclazide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5216/comprid-80-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comprid XR",
+    "strength": "60 mg",
+    "generic": "Gliclazide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/20701/comprid-xr-60-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comprid XR",
+    "strength": "30 mg",
+    "generic": "Gliclazide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/5217/comprid-xr-30-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Comvit-B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13770/comvit-b-5-mg-syrup",
+    "_source_page": 169
+  },
+  {
+    "name": "Con",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9834/con-50-mg-tablet",
+    "_source_page": 169
+  },
+  {
+    "name": "Conart",
+    "strength": "1 mg",
+    "generic": "Bumetanide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2833/conart-1-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Conasyd",
+    "strength": "1%",
+    "generic": "Tioconazole",
+    "company": "Renata PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12450/conasyd-1-cream",
+    "_source_page": 170
+  },
+  {
+    "name": "Conate D",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Union Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38504/conate-d-500-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Conatrim",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/25109/conatrim-1-01-cream",
+    "_source_page": 170
+  },
+  {
+    "name": "Conaz",
+    "strength": "150 mg",
+    "generic": "Fluconazole",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9836/conaz-150-mg-capsule",
+    "_source_page": 170
+  },
+  {
+    "name": "Conaz",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9835/conaz-50-mg-capsule",
+    "_source_page": 170
+  },
+  {
+    "name": "Conazol-T",
+    "strength": "1%+0.1%",
+    "generic": "Econazole Nitrate + Triamcinolone Acetonide",
+    "company": "Ethical Drugs Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/28085/conazol-t-1-01-cream",
+    "_source_page": 170
+  },
+  {
+    "name": "Conazole",
+    "strength": "50 mg",
+    "generic": "Fluconazole",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/9837/conazole-50-mg-capsule",
+    "_source_page": 170
+  },
+  {
+    "name": "Conbis",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2499/conbis-25-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Conbis",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2500/conbis-5-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Concor",
+    "strength": "10 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Merck",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2501/concor-10-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Condia",
+    "strength": "3 mg",
+    "generic": "Glimepiride",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5282/condia-3-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Condia",
+    "strength": "2 mg",
+    "generic": "Glimepiride",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5281/condia-2-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Condia",
+    "strength": "1 mg",
+    "generic": "Glimepiride",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5280/condia-1-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Confree",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16270/confree-005-nasal-drop",
+    "_source_page": 170
+  },
+  {
+    "name": "Confree",
+    "strength": "0.025%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16271/confree-0025-nasal-drop",
+    "_source_page": 170
+  },
+  {
+    "name": "Congenil",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16285/congenil-005-nasal-drop",
+    "_source_page": 170
+  },
+  {
+    "name": "Congenil",
+    "strength": "0.025%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16291/congenil-0025-nasal-drop",
+    "_source_page": 170
+  },
+  {
+    "name": "Conicol",
+    "strength": "0.5%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27039/conicol-05-eye-drop",
+    "_source_page": 170
+  },
+  {
+    "name": "Conicol",
+    "strength": "1%",
+    "generic": "Chloramphenicol (Ophthalmic)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Ointment",
+    "source_url": "https://medex.com.bd/brands/29482/conicol-1-eye-ointment",
+    "_source_page": 170
+  },
+  {
+    "name": "Conlax",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2379/conlax-335-gm-oral-solution",
+    "_source_page": 170
+  },
+  {
+    "name": "Conloss",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/32374/conloss-335-gm-oral-solution",
+    "_source_page": 170
+  },
+  {
+    "name": "Conpan",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19491/conpan-2-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Conpan",
+    "strength": "1 mg",
+    "generic": "Clonazepam",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26907/conpan-1-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Conpan",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19490/conpan-05-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Conpan ODT",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/33725/conpan-odt-05-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Conrif",
+    "strength": "0.1%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15996/conrif-01-eye-drop",
+    "_source_page": 170
+  },
+  {
+    "name": "Conrif DS",
+    "strength": "0.2%",
+    "generic": "Olopatadine Hydrochloride",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16001/conrif-ds-02-eye-drop",
+    "_source_page": 170
+  },
+  {
+    "name": "Consucon",
+    "strength": "80 mg",
+    "generic": "Gliclazide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5218/consucon-80-mg-tablet",
+    "_source_page": 170
+  },
+  {
+    "name": "Consucon MR",
+    "strength": "60 mg",
+    "generic": "Gliclazide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/20677/consucon-mr-60-mg-tablet",
+    "_source_page": 170
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Brodil Levo",
+    "strength": "1 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3554/brodil-levo-1-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Brodil Levo",
+    "strength": "2 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3555/brodil-levo-2-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Brodil Levo",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "ACI Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3556/brodil-levo-1-mg-syrup",
+    "_source_page": 106
+  },
+  {
+    "name": "Brodil Levo",
+    "strength": "50 mcg/puff",
+    "generic": "Levosalbutamol (Respirator preparation)",
+    "company": "ACI Limited",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/21586/brodil-levo-50-mcg-inhaler",
+    "_source_page": 106
+  },
+  {
+    "name": "Brodil SR",
+    "strength": "8 mg",
+    "generic": "Salbutamol",
+    "company": "ACI Limited",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/32219/brodil-sr-8-mg-capsule",
+    "_source_page": 106
+  },
+  {
+    "name": "Brofen",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Aztec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20963/brofen-400-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Brofex",
+    "strength": "10 mg/5 ml",
+    "generic": "Dextromethorphan Hydrobromide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3989/brofex-10-mg-syrup",
+    "_source_page": 106
+  },
+  {
+    "name": "Brofex TS",
+    "strength": "30 mg/5 ml",
+    "generic": "Dextromethorphan Polistirex",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Extend Release Suspension",
+    "source_url": "https://medex.com.bd/brands/36809/brofex-ts-30-mg-extend-release-suspension",
+    "_source_page": 106
+  },
+  {
+    "name": "Brohexin",
+    "strength": "8 mg",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4078/brohexin-8-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Brohexin",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4079/brohexin-4-mg-syrup",
+    "_source_page": 106
+  },
+  {
+    "name": "Broket",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3717/broket-1-mg-syrup",
+    "_source_page": 106
+  },
+  {
+    "name": "Broket",
+    "strength": "1 mg",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3716/broket-1-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Broklin",
+    "strength": "50 mg",
+    "generic": "Pregabalin",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28941/broklin-50-mg-capsule",
+    "_source_page": 106
+  },
+  {
+    "name": "Broklin",
+    "strength": "75 mg",
+    "generic": "Pregabalin",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28942/broklin-75-mg-capsule",
+    "_source_page": 106
+  },
+  {
+    "name": "Broklin CR",
+    "strength": "82.5 mg",
+    "generic": "Pregabalin",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/34101/broklin-cr-825-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Broklin CR",
+    "strength": "165 mg",
+    "generic": "Pregabalin",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/34102/broklin-cr-165-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Brokof",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/18363/brokof-4-mg-syrup",
+    "_source_page": 106
+  },
+  {
+    "name": "Brolizum",
+    "strength": "100 mg/4 ml",
+    "generic": "Pembrolizumab",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38200/brolizum-100-mg-injection",
+    "_source_page": 106
+  },
+  {
+    "name": "Brolyt",
+    "strength": "8 mg",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4081/brolyt-8-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Brolyt",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4082/brolyt-4-mg-syrup",
+    "_source_page": 106
+  },
+  {
+    "name": "Brom",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33324/brom-3-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromapam",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35869/bromapam-3-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromazep",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4247/bromazep-3-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromazepam",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37639/bromazepam-3-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromergon",
+    "strength": "2.5 mg",
+    "generic": "Bromocriptine Mesylate",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5108/bromergon-25-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromnac",
+    "strength": "0.09%",
+    "generic": "Bromfenac Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/18355/bromnac-009-eye-drop",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromocriptine",
+    "strength": "2.5 mg",
+    "generic": "Bromocriptine Mesylate",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5109/bromocriptine-25-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromodel",
+    "strength": "2.5 mg",
+    "generic": "Bromocriptine Mesylate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5110/bromodel-25-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromofen",
+    "strength": "0.09%",
+    "generic": "Bromfenac Sodium",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15930/bromofen-009-eye-drop",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromolac",
+    "strength": "2.5 mg",
+    "generic": "Bromocriptine Mesylate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5111/bromolac-25-mg-tablet",
+    "_source_page": 106
+  },
+  {
+    "name": "Bromolit",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4085/bromolit-4-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Bromotex",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4086/bromotex-4-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Bromotine",
+    "strength": "2.5 mg",
+    "generic": "Bromocriptine Mesylate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5112/bromotine-25-mg-tablet",
+    "_source_page": 107
+  },
+  {
+    "name": "Bromoxol",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4087/bromoxol-4-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Bromoxol DS",
+    "strength": "8 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4088/bromoxol-ds-8-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Broncho-Vaxom",
+    "strength": "7 mg",
+    "generic": "Lyophilized Bacterial Lysates",
+    "company": "ZAS Corporation",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35658/broncho-vaxom-7-mg-capsule",
+    "_source_page": 107
+  },
+  {
+    "name": "Broncho-Vaxom",
+    "strength": "3.5 mg",
+    "generic": "Lyophilized Bacterial Lysates",
+    "company": "ZAS Corporation",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37518/broncho-vaxom-35-mg-capsule",
+    "_source_page": 107
+  },
+  {
+    "name": "Bronchodex",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4089/bronchodex-4-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Bronchosil",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Apollo Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4039/bronchosil-15-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Broncomet",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4090/broncomet-4-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Broncotrol",
+    "strength": "4 mg",
+    "generic": "Salbutamol",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28509/broncotrol-4-mg-tablet",
+    "_source_page": 107
+  },
+  {
+    "name": "Broncotrol",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3461/broncotrol-2-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Brondyl",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3462/brondyl-2-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Bronil-S",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3463/bronil-s-2-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Bronkolax",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3464/bronkolax-2-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Bronsol",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/37679/bronsol-15-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Brostin",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4092/brostin-4-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Brostin DS",
+    "strength": "8 mg",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4091/brostin-ds-8-mg-tablet",
+    "_source_page": 107
+  },
+  {
+    "name": "Brox",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4040/brox-15-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Brox",
+    "strength": "6 mg/ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/25520/brox-6-mg-pediatric-drop",
+    "_source_page": 107
+  },
+  {
+    "name": "Broxidil",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4041/broxidil-15-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Broxine",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4093/broxine-4-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Broxolin",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4042/broxolin-15-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Broxolit",
+    "strength": "15 mg/5 ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28511/broxolit-15-mg-syrup",
+    "_source_page": 107
+  },
+  {
+    "name": "Broxolit",
+    "strength": "6 mg/ml",
+    "generic": "Ambroxol Hydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/28510/broxolit-6-mg-pediatric-drop",
+    "_source_page": 107
+  },
+  {
+    "name": "Broze",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4249/broze-3-mg-tablet",
+    "_source_page": 107
+  },
+  {
+    "name": "Brozep",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4250/brozep-3-mg-tablet",
+    "_source_page": 107
+  },
+  {
+    "name": "BS",
+    "strength": "6%+3%",
+    "generic": "Benzoic Acid + Salicylic Acid",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/28241/bs-6-3-ointment",
+    "_source_page": 107
+  },
+  {
+    "name": "BSH",
+    "strength": "0.09%",
+    "generic": "Bromfenac Sodium",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15931/bsh-009-eye-drop",
+    "_source_page": 107
+  },
+  {
+    "name": "BSS GV",
+    "strength": null,
+    "generic": "Balanced Salt Solution",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Irrigation Solution",
+    "source_url": "https://medex.com.bd/brands/16223/bss-gv-solution",
+    "_source_page": 107
+  },
+  {
+    "name": "Bteen",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34224/bteen-20-mg-tablet",
+    "_source_page": 108
+  },
+  {
+    "name": "Btiron TR",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/27490/btiron-tr-150-mg-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Bucod",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30684/bucod-75-mg-syrup",
+    "_source_page": 108
+  },
+  {
+    "name": "Bucod SR",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3969/bucod-sr-50-mg-tablet",
+    "_source_page": 108
+  },
+  {
+    "name": "Budefort",
+    "strength": "100 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/28221/budefort-100-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budefort",
+    "strength": "400 mcg+12 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/26489/budefort-400-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budefort",
+    "strength": "200 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/26490/budefort-200-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budemet",
+    "strength": "400 mcg+12 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3913/budemet-400-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budemet",
+    "strength": "200 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3912/budemet-200-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budemet",
+    "strength": "100 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3911/budemet-100-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budenide",
+    "strength": "100 mcg/spray",
+    "generic": "Budesonide (Nasal Spray)",
+    "company": "ACI Limited",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/32220/budenide-100-mcg-nasal-spray",
+    "_source_page": 108
+  },
+  {
+    "name": "Budetide",
+    "strength": "1 mg/2 ml",
+    "generic": "Budesonide (Nebuliser Suspension)",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Nebuliser Suspension",
+    "source_url": "https://medex.com.bd/brands/29426/budetide-1-mg-suspension",
+    "_source_page": 108
+  },
+  {
+    "name": "Budetide",
+    "strength": "0.5 mg/2 ml",
+    "generic": "Budesonide (Nebuliser Suspension)",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Nebuliser Suspension",
+    "source_url": "https://medex.com.bd/brands/29425/budetide-05-mg-suspension",
+    "_source_page": 108
+  },
+  {
+    "name": "Budetrol",
+    "strength": "200 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/31193/budetrol-200-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budetrol",
+    "strength": "100 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/30396/budetrol-100-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budetrol",
+    "strength": "400 mcg+12 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/31192/budetrol-400-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budicort",
+    "strength": "0.25 mg/2 ml",
+    "generic": "Budesonide (Nebuliser Suspension)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nebuliser Suspension",
+    "source_url": "https://medex.com.bd/brands/31722/budicort-025-mg-suspension",
+    "_source_page": 108
+  },
+  {
+    "name": "Budicort",
+    "strength": "0.5 mg/2 ml",
+    "generic": "Budesonide (Nebuliser Suspension)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nebuliser Suspension",
+    "source_url": "https://medex.com.bd/brands/3877/budicort-05-mg-suspension",
+    "_source_page": 108
+  },
+  {
+    "name": "Budicort",
+    "strength": "100 mcg/spray",
+    "generic": "Budesonide (Nasal Spray)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/16307/budicort-100-mcg-nasal-spray",
+    "_source_page": 108
+  },
+  {
+    "name": "Budicort ER",
+    "strength": "9 mg",
+    "generic": "Budesonide (Tablet)",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/26192/budicort-er-9-mg-tablet",
+    "_source_page": 108
+  },
+  {
+    "name": "Budison",
+    "strength": "0.5 mg/2 ml",
+    "generic": "Budesonide (Nebuliser Suspension)",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Nebuliser Suspension",
+    "source_url": "https://medex.com.bd/brands/32407/budison-05-mg-suspension",
+    "_source_page": 108
+  },
+  {
+    "name": "Budison F",
+    "strength": "(80 mcg+4.5 mcg)/puff",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3914/budison-f-80-mcg-inhaler",
+    "_source_page": 108
+  },
+  {
+    "name": "Budison F",
+    "strength": "(160 mcg+4.5 mcg)/puff",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/3915/budison-f-160-mcg-inhaler",
+    "_source_page": 108
+  },
+  {
+    "name": "Budison F",
+    "strength": "400 mcg+12 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/33004/budison-f-400-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budison F",
+    "strength": "200 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/33003/budison-f-200-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budison F",
+    "strength": "100 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/33002/budison-f-100-mcg-inhalation-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Budison-FG",
+    "strength": "(5.5 mcg+10.4 mcg+182 mcg)/actuation",
+    "generic": "Formoterol Fumarate + Glycopyrrolate + Budesonide",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/33514/budison-fg-55-mcg-inhaler",
+    "_source_page": 108
+  },
+  {
+    "name": "Bufen-SR",
+    "strength": "300 mg",
+    "generic": "Ibuprofen",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11267/bufen-sr-300-mg-capsule",
+    "_source_page": 108
+  },
+  {
+    "name": "Buflex",
+    "strength": "750 mg",
+    "generic": "Nabumetone",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32806/buflex-750-mg-tablet",
+    "_source_page": 108
+  },
+  {
+    "name": "Buflex",
+    "strength": "1000 mg",
+    "generic": "Nabumetone",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36649/buflex-1000-mg-tablet",
+    "_source_page": 108
+  },
+  {
+    "name": "Buflex",
+    "strength": "500 mg",
+    "generic": "Nabumetone",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32807/buflex-500-mg-tablet",
+    "_source_page": 109
+  },
+  {
+    "name": "Bufocort",
+    "strength": "400 mcg+12 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3918/bufocort-400-mcg-inhalation-capsule",
+    "_source_page": 109
+  },
+  {
+    "name": "Bufocort",
+    "strength": "200 mcg+6 mcg",
+    "generic": "Budesonide + Formoterol Fumarate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3917/bufocort-200-mcg-inhalation-capsule",
+    "_source_page": 109
+  },
+  {
+    "name": "Bukof",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3978/bukof-75-mg-syrup",
+    "_source_page": 109
+  },
+  {
+    "name": "Bukof",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3970/bukof-50-mg-tablet",
+    "_source_page": 109
+  },
+  {
+    "name": "Bukof Kids",
+    "strength": "5 mg/ml",
+    "generic": "Butamirate Citrate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/34833/bukof-kids-5-mg-pediatric-drop",
+    "_source_page": 109
+  },
+  {
+    "name": "Bukof-D",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/36648/bukof-d-75-mg-syrup",
+    "_source_page": 109
+  },
+  {
+    "name": "Bulex",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/31915/bulex-75-mg-syrup",
+    "_source_page": 109
+  },
+  {
+    "name": "Bumecard",
+    "strength": "5 mg",
+    "generic": "Bumetanide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2831/bumecard-5-mg-tablet",
+    "_source_page": 109
+  },
+  {
+    "name": "Bumecard",
+    "strength": "1 mg",
+    "generic": "Bumetanide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2830/bumecard-1-mg-tablet",
+    "_source_page": 109
+  },
+  {
+    "name": "Bumecard",
+    "strength": "2 mg/4 ml",
+    "generic": "Bumetanide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/2832/bumecard-2-mg-injection",
+    "_source_page": 109
+  },
+  {
+    "name": "Bupec",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28675/bupec-75-mg-syrup",
+    "_source_page": 109
+  },
+  {
+    "name": "Bupi",
+    "strength": "0.5%",
+    "generic": "Bupivacaine Hydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/15517/bupi-05-injection",
+    "_source_page": 109
+  },
+  {
+    "name": "Bupi Heavy",
+    "strength": "0.5%+8%",
+    "generic": "Bupivacaine Hydrochloride + Dextrose",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Intraspinal Injection",
+    "source_url": "https://medex.com.bd/brands/15527/bupi-heavy-05-8-injection",
+    "_source_page": 109
+  },
+  {
+    "name": "Bupicain Heavy",
+    "strength": "0.5%+8%",
+    "generic": "Bupivacaine Hydrochloride + Dextrose",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Intraspinal Injection",
+    "source_url": "https://medex.com.bd/brands/15526/bupicain-heavy-05-8-injection",
+    "_source_page": 109
+  },
+  {
+    "name": "Buprocaine",
+    "strength": "0.4%",
+    "generic": "Oxybuprocaine Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16226/buprocaine-04-eye-drop",
+    "_source_page": 109
+  },
+  {
+    "name": "Burat CR",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/30686/burat-cr-50-mg-tablet",
+    "_source_page": 109
+  },
+  {
+    "name": "Buratuss",
+    "strength": "5 mg/ml",
+    "generic": "Butamirate Citrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/32581/buratuss-5-mg-pediatric-drop",
+    "_source_page": 109
+  },
+  {
+    "name": "Buratuss",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/32580/buratuss-75-mg-syrup",
+    "_source_page": 109
+  },
+  {
+    "name": "Buratuss SR",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/32579/buratuss-sr-50-mg-tablet",
+    "_source_page": 109
+  },
+  {
+    "name": "Burn Free",
+    "strength": "1%",
+    "generic": "Silver Sulfadiazine",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33325/burn-free-1-cream",
+    "_source_page": 109
+  },
+  {
+    "name": "Burna",
+    "strength": "1%",
+    "generic": "Silver Sulfadiazine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12361/burna-1-cream",
+    "_source_page": 109
+  },
+  {
+    "name": "Burnaid",
+    "strength": "1%",
+    "generic": "Silver Sulfadiazine",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/24486/burnaid-1-cream",
+    "_source_page": 109
+  },
+  {
+    "name": "Burncool",
+    "strength": "1%",
+    "generic": "Silver Sulfadiazine",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38093/burncool-1-cream",
+    "_source_page": 109
+  },
+  {
+    "name": "Burndel",
+    "strength": "1%",
+    "generic": "Silver Sulfadiazine",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/24479/burndel-1-cream",
+    "_source_page": 109
+  },
+  {
+    "name": "Burnless",
+    "strength": "1%",
+    "generic": "Silver Sulfadiazine",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12362/burnless-1-cream",
+    "_source_page": 109
+  },
+  {
+    "name": "Burnrid",
+    "strength": "1%",
+    "generic": "Silver Sulfadiazine",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/24483/burnrid-1-cream",
+    "_source_page": 109
+  },
+  {
+    "name": "Burnsil",
+    "strength": "1%",
+    "generic": "Silver Sulfadiazine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12363/burnsil-1-cream",
+    "_source_page": 109
+  },
+  {
+    "name": "Buta",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "Alkad Laboratories",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/21593/buta-2-mg-syrup",
+    "_source_page": 109
+  },
+  {
+    "name": "Butabrom",
+    "strength": "10 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1349/butabrom-10-mg-tablet",
+    "_source_page": 109
+  },
+  {
+    "name": "Butacit",
+    "strength": "5 mg/ml",
+    "generic": "Butamirate Citrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/28240/butacit-5-mg-pediatric-drop",
+    "_source_page": 110
+  },
+  {
+    "name": "Butacit",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26491/butacit-75-mg-syrup",
+    "_source_page": 110
+  },
+  {
+    "name": "Butacod",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3980/butacod-75-mg-syrup",
+    "_source_page": 110
+  },
+  {
+    "name": "Butafix",
+    "strength": "5 mg/ml",
+    "generic": "Butamirate Citrate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/33878/butafix-5-mg-pediatric-drop",
+    "_source_page": 110
+  },
+  {
+    "name": "Butafix",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/33877/butafix-75-mg-syrup",
+    "_source_page": 110
+  },
+  {
+    "name": "Butakof",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/18420/butakof-75-mg-syrup",
+    "_source_page": 110
+  },
+  {
+    "name": "Butakof",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/18416/butakof-50-mg-tablet",
+    "_source_page": 110
+  },
+  {
+    "name": "Butalin",
+    "strength": "2 mg/5 ml",
+    "generic": "Salbutamol",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/21659/butalin-2-mg-syrup",
+    "_source_page": 110
+  },
+  {
+    "name": "Butalpen",
+    "strength": "10 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20903/butalpen-10-mg-tablet",
+    "_source_page": 110
+  },
+  {
+    "name": "Butapan",
+    "strength": "20 mg/ml",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/20936/butapan-20-mg-injection",
+    "_source_page": 110
+  },
+  {
+    "name": "Butapan",
+    "strength": "20 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1352/butapan-20-mg-tablet",
+    "_source_page": 110
+  },
+  {
+    "name": "Butapan",
+    "strength": "10 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1351/butapan-10-mg-tablet",
+    "_source_page": 110
+  },
+  {
+    "name": "Butaret",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3982/butaret-75-mg-syrup",
+    "_source_page": 110
+  },
+  {
+    "name": "Butaret",
+    "strength": "5 mg/ml",
+    "generic": "Butamirate Citrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/3983/butaret-5-mg-pediatric-drop",
+    "_source_page": 110
+  },
+  {
+    "name": "Butaret SR",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/18427/butaret-sr-50-mg-tablet",
+    "_source_page": 110
+  },
+  {
+    "name": "Butasiv",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/18425/butasiv-75-mg-syrup",
+    "_source_page": 110
+  },
+  {
+    "name": "Butasiv",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/18426/butasiv-50-mg-tablet",
+    "_source_page": 110
+  },
+  {
+    "name": "Butasiv",
+    "strength": "5 mg/ml",
+    "generic": "Butamirate Citrate",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/27975/butasiv-5-mg-pediatric-drop",
+    "_source_page": 110
+  },
+  {
+    "name": "Butason",
+    "strength": "10 mg",
+    "generic": "Hyoscine Butylbromide",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1354/butason-10-mg-tablet",
+    "_source_page": 110
+  },
+  {
+    "name": "Buterol",
+    "strength": "10 mg",
+    "generic": "Bambuterol Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32222/buterol-10-mg-tablet",
+    "_source_page": 110
+  },
+  {
+    "name": "Buterol",
+    "strength": "5 mg/5 ml",
+    "generic": "Bambuterol Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/32221/buterol-5-mg-oral-solution",
+    "_source_page": 110
+  },
+  {
+    "name": "Butibac",
+    "strength": "400 mg",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18957/butibac-400-mg-capsule",
+    "_source_page": 110
+  },
+  {
+    "name": "Butibac",
+    "strength": "90 mg/5 ml",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18956/butibac-90-mg-suspension",
+    "_source_page": 110
+  },
+  {
+    "name": "Buticef",
+    "strength": "90 mg/5 ml",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/18966/buticef-90-mg-suspension",
+    "_source_page": 110
+  },
+  {
+    "name": "Buticef",
+    "strength": "400 mg",
+    "generic": "Ceftibuten Dihydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/18967/buticef-400-mg-capsule",
+    "_source_page": 110
+  },
+  {
+    "name": "Butil",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/18421/butil-75-mg-syrup",
+    "_source_page": 110
+  },
+  {
+    "name": "Butinib",
+    "strength": "140 mg",
+    "generic": "Ibrutinib",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31180/butinib-140-mg-capsule",
+    "_source_page": 110
+  },
+  {
+    "name": "Buva Heavy",
+    "strength": "0.5%+8%",
+    "generic": "Bupivacaine Hydrochloride + Dextrose",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Intraspinal Injection",
+    "source_url": "https://medex.com.bd/brands/38414/buva-heavy-05-8-injection",
+    "_source_page": 110
+  },
+  {
+    "name": "Buviren",
+    "strength": "400 mg",
+    "generic": "Sofosbuvir",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24648/buviren-400-mg-tablet",
+    "_source_page": 110
+  },
+  {
+    "name": "Buzz",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25295/buzz-tablet",
+    "_source_page": 110
+  }
+]

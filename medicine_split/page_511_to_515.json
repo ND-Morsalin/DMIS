@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "NoPlag",
+    "strength": "60 mg",
+    "generic": "Ticagrelor",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36944/noplag-60-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Nor Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10594/nor-plus-500-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Nor Q",
+    "strength": "10 mg/vial",
+    "generic": "Vecuronium Bromide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/15473/nor-q-10-mg-injection",
+    "_source_page": 511
+  },
+  {
+    "name": "Norad SG",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/14030/norad-sg-6-mg-capsule",
+    "_source_page": 511
+  },
+  {
+    "name": "Noradrenaline Aguettant",
+    "strength": "4 mg/4 ml",
+    "generic": "Norepinephrine Tartrate",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/33990/noradrenaline-aguettant-4-mg-injection",
+    "_source_page": 511
+  },
+  {
+    "name": "Norash",
+    "strength": "5%",
+    "generic": "Dexpanthenol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/30212/norash-5-ointment",
+    "_source_page": 511
+  },
+  {
+    "name": "Norcolut",
+    "strength": "5 mg",
+    "generic": "Norethisterone Acetate",
+    "company": "City Overseas Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5920/norcolut-5-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Nordette 28",
+    "strength": "0.03 mg+0.15 mg+75 mg",
+    "generic": "Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27102/nordette-28-003-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Nordette 28",
+    "strength": "0.03 mg+0.15 mg+75 mg",
+    "generic": "Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate",
+    "company": "Janata Traders",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28935/nordette-28-003-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Norditropin SimpleXx",
+    "strength": "5 mg/1.5 ml",
+    "generic": "Somatropin",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/28406/norditropin-simplexx-5-mg-injection",
+    "_source_page": 511
+  },
+  {
+    "name": "Nordol",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10769/nordol-325-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Nordrine",
+    "strength": "25 mg/5 ml",
+    "generic": "Ephedrine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/3632/nordrine-25-mg-injection",
+    "_source_page": 511
+  },
+  {
+    "name": "Norestin",
+    "strength": "5 mg",
+    "generic": "Norethisterone Acetate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5926/norestin-5-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Noret 28",
+    "strength": "0.03 mg+0.15 mg+75 mg",
+    "generic": "Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20084/noret-28-003-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Norfen",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11052/norfen-50-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Norfen-SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11053/norfen-sr-100-mg-capsule",
+    "_source_page": 511
+  },
+  {
+    "name": "Norflu",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Fluphenazine + Nortriptyline",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4589/norflu-05-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Norgest",
+    "strength": "0.03 mg+0.15 mg+75 mg",
+    "generic": "Ethinyl Estradiol + Levonorgestrel + Ferrous Fumarate",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22913/norgest-003-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Norglic",
+    "strength": "80 mg",
+    "generic": "Gliclazide",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20682/norglic-80-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Norium",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10841/norium-5-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Norium",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10842/norium-10-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Norix 1",
+    "strength": "1.5 mg",
+    "generic": "Levonorgestrel [Emergency contraceptive pill]",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29880/norix-1-15-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Noriz",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12021/noriz-10-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Noriz",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Skylab Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/12022/noriz-5-mg-syrup",
+    "_source_page": 511
+  },
+  {
+    "name": "Norline",
+    "strength": "2 mg/2 ml",
+    "generic": "Norepinephrine Tartrate",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/22904/norline-2-mg-injection",
+    "_source_page": 511
+  },
+  {
+    "name": "Normal Saline",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "Institute of Public Health (IPH)",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14867/normal-saline-09-injection",
+    "_source_page": 511
+  },
+  {
+    "name": "Normal Saline",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14868/normal-saline-09-injection",
+    "_source_page": 511
+  },
+  {
+    "name": "Normal Saline",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14874/normal-saline-09-injection",
+    "_source_page": 511
+  },
+  {
+    "name": "Normalin",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14865/normalin-09-injection",
+    "_source_page": 511
+  },
+  {
+    "name": "Normanal",
+    "strength": "450 mg+50 mg",
+    "generic": "Diosmin + Hesperidin",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2422/normanal-450-mg-tablet",
+    "_source_page": 511
+  },
+  {
+    "name": "Normanal DS",
+    "strength": "900 mg+100 mg",
+    "generic": "Diosmin + Hesperidin",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38493/normanal-ds-900-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Normasol",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "Libra Infusions Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/14869/normasol-09-injection",
+    "_source_page": 512
+  },
+  {
+    "name": "Normaten",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30617/normaten-50-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Normens",
+    "strength": "5 mg",
+    "generic": "Norethisterone Acetate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5921/normens-5-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Normo-K",
+    "strength": "15 gm/sachet",
+    "generic": "Sodium Polystyrene Sulfonate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/26278/normo-k-15-gm-powder",
+    "_source_page": 512
+  },
+  {
+    "name": "Normoglobin",
+    "strength": "500 mg/10 ml",
+    "generic": "Human immunoglobulin-G",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/27628/normoglobin-500-mg-injection",
+    "_source_page": 512
+  },
+  {
+    "name": "Normoglobin",
+    "strength": "2.5 gm/50 ml",
+    "generic": "Human immunoglobulin-G",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/30180/normoglobin-25-gm-injection",
+    "_source_page": 512
+  },
+  {
+    "name": "Normogut",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1619/normogut-10-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Normogut",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1620/normogut-5-mg-suspension",
+    "_source_page": 512
+  },
+  {
+    "name": "Norpill 1",
+    "strength": "1.5 mg",
+    "generic": "Levonorgestrel [Emergency contraceptive pill]",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6103/norpill-1-15-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Norpress",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1093/norpress-50-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Norpress",
+    "strength": "100 mg",
+    "generic": "Atenolol",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28877/norpress-100-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Norry",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4261/norry-3-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Norsol",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/14877/norsol-09-nasal-drop",
+    "_source_page": 512
+  },
+  {
+    "name": "Norsol",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/35395/norsol-09-eye-drop",
+    "_source_page": 512
+  },
+  {
+    "name": "Nortin",
+    "strength": "10 mg",
+    "generic": "Nortriptyline",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4458/nortin-10-mg-capsule",
+    "_source_page": 512
+  },
+  {
+    "name": "Nortin",
+    "strength": "25 mg",
+    "generic": "Nortriptyline",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4459/nortin-25-mg-capsule",
+    "_source_page": 512
+  },
+  {
+    "name": "Norvis",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1436/norvis-50-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Norvis",
+    "strength": "10 mg/5 ml",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/1437/norvis-10-mg-syrup",
+    "_source_page": 512
+  },
+  {
+    "name": "Norvis",
+    "strength": "5 mg/2 ml",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/1438/norvis-5-mg-injection",
+    "_source_page": 512
+  },
+  {
+    "name": "Norxit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20438/norxit-05-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Norzim",
+    "strength": "12.5 mg+5 mg",
+    "generic": "Amitriptyline Hydrochloride + Chlordiazepoxide",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34687/norzim-125-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Norzin",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Fluphenazine + Nortriptyline",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4590/norzin-05-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Noscab",
+    "strength": "5% w/w",
+    "generic": "Permethrin",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12494/noscab-5-w-cream",
+    "_source_page": 512
+  },
+  {
+    "name": "Nosedex",
+    "strength": "120 mg",
+    "generic": "Fexofenadine Hydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12130/nosedex-120-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Nosemin",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11973/nosemin-10-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Nosemin",
+    "strength": "5 mg/5 ml",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11974/nosemin-5-mg-syrup",
+    "_source_page": 512
+  },
+  {
+    "name": "Noseral",
+    "strength": "10 mg",
+    "generic": "Loratadine",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12218/noseral-10-mg-tablet",
+    "_source_page": 512
+  },
+  {
+    "name": "Nosoil",
+    "strength": "100%",
+    "generic": "Sesame Seed Oil",
+    "company": "Opsonin Herbal & Nutraceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/37535/nosoil-100-nasal-drop",
+    "_source_page": 512
+  },
+  {
+    "name": "Nosoil",
+    "strength": "100%",
+    "generic": "Sesame Seed Oil",
+    "company": "Opsonin Herbal & Nutraceuticals Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/38649/nosoil-100-nasal-spray",
+    "_source_page": 512
+  },
+  {
+    "name": "Nosomist",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/14876/nosomist-09-nasal-spray",
+    "_source_page": 513
+  },
+  {
+    "name": "Nosomist",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/27057/nosomist-09-nasal-drop",
+    "_source_page": 513
+  },
+  {
+    "name": "Nospot",
+    "strength": "0.01%+4%+0.05%",
+    "generic": "Fluocinolone Acetonide + Hydroquinone + Tretinoin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/13099/nospot-001-4-cream",
+    "_source_page": 513
+  },
+  {
+    "name": "Nostis",
+    "strength": "250 mg+200 mg",
+    "generic": "Glucosamine Sulfate + Chondroitin",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14983/nostis-250-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Nostrin",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/63/nostrin-100-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Notafol",
+    "strength": "140 mg",
+    "generic": "Ibrutinib",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29328/notafol-140-mg-capsule",
+    "_source_page": 513
+  },
+  {
+    "name": "Notens",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4262/notens-3-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Noteron",
+    "strength": "5 mg",
+    "generic": "Norethisterone Acetate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5922/noteron-5-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Nouranz",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Arges Life Science Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32913/nouranz-10-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Nova",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10466/nova-500-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Nova",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10467/nova-120-mg-suspension",
+    "_source_page": 513
+  },
+  {
+    "name": "Nova Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10595/nova-plus-500-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novacal DX",
+    "strength": "500 mg+400 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14495/novacal-dx-500-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novacal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14494/novacal-d-500-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novacef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7605/novacef-200-mg-capsule",
+    "_source_page": 513
+  },
+  {
+    "name": "Novacef",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7606/novacef-100-mg-suspension",
+    "_source_page": 513
+  },
+  {
+    "name": "Novacin",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9316/novacin-500-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novadin",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6946/novadin-500-mg-capsule",
+    "_source_page": 513
+  },
+  {
+    "name": "Novadin",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Aexim Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6947/novadin-125-mg-suspension",
+    "_source_page": 513
+  },
+  {
+    "name": "Novaflox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27189/novaflox-500-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novaflox",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27190/novaflox-250-mg-suspension",
+    "_source_page": 513
+  },
+  {
+    "name": "Novagra",
+    "strength": "25 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Novelta Bestway Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6019/novagra-25-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novapan",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23344/novapan-40-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novarin",
+    "strength": "1% w/w",
+    "generic": "Diclofenac Sodium",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/11055/novarin-1-w-gel",
+    "_source_page": 513
+  },
+  {
+    "name": "Novarin SR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/11054/novarin-sr-100-mg-capsule",
+    "_source_page": 513
+  },
+  {
+    "name": "Novas",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34890/novas-500-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novas E",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Maks Drug Limited",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/34891/novas-e-500-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novastin",
+    "strength": "10 mg",
+    "generic": "Simvastatin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24502/novastin-10-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novatron",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23180/novatron-8-mg-tablet",
+    "_source_page": 513
+  },
+  {
+    "name": "Novatron",
+    "strength": "8 mg/4 ml",
+    "generic": "Ondansetron",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/23181/novatron-8-mg-injection",
+    "_source_page": 513
+  },
+  {
+    "name": "Novavit Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27187/novavit-gold-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novavit Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27188/novavit-silver-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novaxen",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11528/novaxen-500-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novaxen Plus",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11604/novaxen-plus-500-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novaxen Plus",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11605/novaxen-plus-375-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novazith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25629/novazith-500-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novazith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25630/novazith-200-mg-suspension",
+    "_source_page": 514
+  },
+  {
+    "name": "Novea",
+    "strength": "10 mg+10 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/32163/novea-10-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novea",
+    "strength": "20 mg+20 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/34634/novea-20-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novefos",
+    "strength": "3 gm/sachet",
+    "generic": "Fosfomycin Trometamol",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/33134/novefos-3-gm-powder",
+    "_source_page": 514
+  },
+  {
+    "name": "Novelip",
+    "strength": "180 mg",
+    "generic": "Bempedoic acid",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32623/novelip-180-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novelon",
+    "strength": "3 mg+0.03 mg",
+    "generic": "Drospirenone + Ethinyl Estradiol (0.03 mg)",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6107/novelon-3-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novelon Lite",
+    "strength": "3 mg+0.02 mg",
+    "generic": "Drospirenone + Ethinyl Estradiol (0.02 mg)",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20080/novelon-lite-3-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novelta",
+    "strength": "(480 mg+20 mg)/5 ml",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/16590/novelta-480-mg-suspension",
+    "_source_page": 514
+  },
+  {
+    "name": "Novelta",
+    "strength": "480 mg+20 mg",
+    "generic": "Magaldrate + Simethicone",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/16591/novelta-480-mg-chewable-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novelta Power",
+    "strength": "(500 mg+267 mg+160 mg)/10 ml",
+    "generic": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/32359/novelta-power-500-mg-suspension",
+    "_source_page": 514
+  },
+  {
+    "name": "Novetor",
+    "strength": "200 mg",
+    "generic": "Doxophylline",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33282/novetor-200-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novetor",
+    "strength": "400 mg",
+    "generic": "Doxophylline",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33283/novetor-400-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novin",
+    "strength": "0.05%",
+    "generic": "Xylometazoline Hydrochloride",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16259/novin-005-nasal-drop",
+    "_source_page": 514
+  },
+  {
+    "name": "Novin",
+    "strength": "0.1%",
+    "generic": "Xylometazoline Hydrochloride",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16260/novin-01-nasal-drop",
+    "_source_page": 514
+  },
+  {
+    "name": "Novirax",
+    "strength": "5% w/w",
+    "generic": "Acyclovir (Topical)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/122/novirax-5-w-cream",
+    "_source_page": 514
+  },
+  {
+    "name": "Novirax",
+    "strength": "200 mg",
+    "generic": "Acyclovir (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/150/novirax-200-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novirax",
+    "strength": "400 mg",
+    "generic": "Acyclovir (Oral)",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/151/novirax-400-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "Novirax HC",
+    "strength": "5%+1%",
+    "generic": "Acyclovir + Hydrocortisone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/17430/novirax-hc-5-1-cream",
+    "_source_page": 514
+  },
+  {
+    "name": "Novispa",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37395/novispa-50-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "NOVO ORS",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/14803/novo-ors-1025-gm-powder",
+    "_source_page": 514
+  },
+  {
+    "name": "Novocaine",
+    "strength": "0.4%",
+    "generic": "Oxybuprocaine Hydrochloride",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/27735/novocaine-04-eye-drop",
+    "_source_page": 514
+  },
+  {
+    "name": "Novodol",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10770/novodol-325-mg-tablet",
+    "_source_page": 514
+  },
+  {
+    "name": "NovoFine 31G",
+    "strength": "6 mm",
+    "generic": "Insulin device & needle",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "Pen Needle",
+    "source_url": "https://medex.com.bd/brands/34506/novofine-31g-6-mm-pen-needle",
+    "_source_page": 514
+  },
+  {
+    "name": "NovoMix 30",
+    "strength": "30%+70%",
+    "generic": "Biphasic Insulin Aspart",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16829/novomix-30-30-70-injection",
+    "_source_page": 514
+  },
+  {
+    "name": "Novonil",
+    "strength": "10 mg",
+    "generic": "Vonoprazan",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35072/novonil-10-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Novonil",
+    "strength": "20 mg",
+    "generic": "Vonoprazan",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35073/novonil-20-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "NovoPen 4",
+    "strength": null,
+    "generic": "Insulin device & needle",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "Insulin Device",
+    "source_url": "https://medex.com.bd/brands/35985/novopen-4-insulin-device",
+    "_source_page": 515
+  },
+  {
+    "name": "Novophane Energizing",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/36280/novophane-energizing-shampoo",
+    "_source_page": 515
+  },
+  {
+    "name": "Novophane Lotion",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/36281/novophane-lotion-lotion",
+    "_source_page": 515
+  },
+  {
+    "name": "Novophane Nail Cream",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36294/novophane-nail-cream-cream",
+    "_source_page": 515
+  },
+  {
+    "name": "Novophane.DS",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/36278/novophaneds-shampoo",
+    "_source_page": 515
+  },
+  {
+    "name": "Novophane.K",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/36279/novophanek-shampoo",
+    "_source_page": 515
+  },
+  {
+    "name": "NovoRapid",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Aspart [Protamine Crystallised]",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16775/novorapid-100-iu-injection",
+    "_source_page": 515
+  },
+  {
+    "name": "NovoSeven",
+    "strength": "1 mg/vial",
+    "generic": "Coagulation Factor VIIa [Eptacog Alfa]",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/17075/novoseven-1-mg-injection",
+    "_source_page": 515
+  },
+  {
+    "name": "Novotril",
+    "strength": "0.5 mg",
+    "generic": "Clonazepam",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19474/novotril-05-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Novotril",
+    "strength": "2 mg",
+    "generic": "Clonazepam",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19475/novotril-2-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Novoxen",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11569/novoxen-375-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Novoxen",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11570/novoxen-500-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Nox",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27872/nox-6-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Noxarin",
+    "strength": "2000 Anti-Xa IU/0.2 ml",
+    "generic": "Enoxaparin Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/29507/noxarin-2000-anti-xa-injection",
+    "_source_page": 515
+  },
+  {
+    "name": "Noxarin",
+    "strength": "4000 Anti-Xa IU/0.4 ml",
+    "generic": "Enoxaparin Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/29508/noxarin-4000-anti-xa-injection",
+    "_source_page": 515
+  },
+  {
+    "name": "Noxarin",
+    "strength": "6000 Anti-Xa IU/0.6 ml",
+    "generic": "Enoxaparin Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/29509/noxarin-6000-anti-xa-injection",
+    "_source_page": 515
+  },
+  {
+    "name": "Noxarin",
+    "strength": "8000 Anti-Xa IU/0.8 ml",
+    "generic": "Enoxaparin Sodium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/29510/noxarin-8000-anti-xa-injection",
+    "_source_page": 515
+  },
+  {
+    "name": "Noxid",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30651/noxid-6-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Nozee",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "MST Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11473/nozee-500-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Nozee",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Syntho Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11530/nozee-500-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Nozma",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27221/nozma-10-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Nozma ODT",
+    "strength": "4 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/33284/nozma-odt-4-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "Nozma ODT",
+    "strength": "5 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/33285/nozma-odt-5-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "NPH",
+    "strength": "(10 mg+3400 Units+10000 Units)/ml",
+    "generic": "Hydrocortisone + Neomycin Sulphate + Polymixin B",
+    "company": "Reman Drug Laboratories Ltd.",
+    "medicine_type": "Ear Drop",
+    "source_url": "https://medex.com.bd/brands/15894/nph-10-mg-ear-drop",
+    "_source_page": 515
+  },
+  {
+    "name": "NPV",
+    "strength": "10 mg+10 mg",
+    "generic": "Pyridoxine Hydrochloride + Doxylamine Succinate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/26733/npv-10-mg-tablet",
+    "_source_page": 515
+  },
+  {
+    "name": "NRG",
+    "strength": "100%",
+    "generic": "Glucose",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/14857/nrg-100-powder",
+    "_source_page": 515
+  },
+  {
+    "name": "NSB",
+    "strength": "(5 mg+500 IU)/gm",
+    "generic": "Neomycin Sulfate + Bacitracin Zinc",
+    "company": "Mystic Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12356/nsb-5-mg-ointment",
+    "_source_page": 515
+  },
+  {
+    "name": "NSC",
+    "strength": "0.9%",
+    "generic": "Sodium Chloride",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/32378/nsc-09-nasal-drop",
+    "_source_page": 515
+  }
+]

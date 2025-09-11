@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Binoclar",
+    "strength": "500 mg",
+    "generic": "Clarithromycin",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8751/binoclar-500-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Binzotim",
+    "strength": "1%+0.5%",
+    "generic": "Brinzolamide + Timolol",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/17150/binzotim-1-05-suspension",
+    "_source_page": 96
+  },
+  {
+    "name": "Bio Saline Fruity",
+    "strength": "10 gm/sachet",
+    "generic": "Oral rehydration salt [flavore & glucose based]",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/35870/bio-saline-fruity-10-gm-powder",
+    "_source_page": 96
+  },
+  {
+    "name": "Bio-Bright Serum",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Serum",
+    "source_url": "https://medex.com.bd/brands/38306/bio-bright-serum-serum",
+    "_source_page": 96
+  },
+  {
+    "name": "Bio-Kult",
+    "strength": null,
+    "generic": "Probiotic Combination [14 strains]",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31003/bio-kult-capsule",
+    "_source_page": 96
+  },
+  {
+    "name": "Bio-Oral Saline",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/30325/bio-oral-saline-1025-gm-powder",
+    "_source_page": 96
+  },
+  {
+    "name": "BioBran",
+    "strength": "1 gm/sachet",
+    "generic": "Arabinoxylan",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/27315/biobran-1-gm-powder",
+    "_source_page": 96
+  },
+  {
+    "name": "BioBran",
+    "strength": "250 mg",
+    "generic": "Arabinoxylan",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27316/biobran-250-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocal Kit",
+    "strength": "150 mg+600 mg+400 IU",
+    "generic": "Ibandronic Acid + Algae Calcium + Vitamin D3",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33506/biocal-kit-150-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30409/biocal-d-500-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocal-DX",
+    "strength": "600 mg+400 IU",
+    "generic": "Algae Calcium + Vitamin D3",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30410/biocal-dx-600-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocap",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30861/biocap-100-mg-capsule",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocid Plus",
+    "strength": "(200 mg+400 mg+30 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Biopharma Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/26864/biocid-plus-200-mg-suspension",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocid Plus",
+    "strength": "200 mg+200 mg+30 mg",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "company": "Biopharma Limited",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/497/biocid-plus-200-mg-chewable-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocin",
+    "strength": "4 mg",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11803/biocin-4-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocin",
+    "strength": "2 mg/5 ml",
+    "generic": "Chlorpheniramine Maleate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/11804/biocin-2-mg-syrup",
+    "_source_page": 96
+  },
+  {
+    "name": "Bioclavid",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32864/bioclavid-500-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Bioclavid",
+    "strength": "875 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32865/bioclavid-875-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Bioclavid",
+    "strength": "250 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32866/bioclavid-250-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocort",
+    "strength": "1%",
+    "generic": "Prednisolone Acetate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ophthalmic Suspension",
+    "source_url": "https://medex.com.bd/brands/28926/biocort-1-suspension",
+    "_source_page": 96
+  },
+  {
+    "name": "Biocox",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11235/biocox-90-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biodent",
+    "strength": "0.2%",
+    "generic": "Chlorhexidine Gluconate [0.2%]",
+    "company": "Greenland Pharmaceuticals Ltd.",
+    "medicine_type": "Mouthwash",
+    "source_url": "https://medex.com.bd/brands/36849/biodent-02-mouthwash",
+    "_source_page": 96
+  },
+  {
+    "name": "Bioderm",
+    "strength": "(5 mg+500 IU)/gm",
+    "generic": "Neomycin Sulfate + Bacitracin Zinc",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/30629/bioderm-5-mg-ointment",
+    "_source_page": 96
+  },
+  {
+    "name": "Biofavi",
+    "strength": "200 mg",
+    "generic": "Favipiravir",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28667/biofavi-200-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biofenac",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28389/biofenac-100-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biofez",
+    "strength": "50 mg+0.50 mg+61.80 mg",
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13337/biofez-50-mg-capsule",
+    "_source_page": 96
+  },
+  {
+    "name": "Bioflora",
+    "strength": "10 billion",
+    "generic": "Probiotic Combination HN019 [10 Billion]",
+    "company": "Total Herbal & Nutraceuticals",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33686/bioflora-10-billion-capsule",
+    "_source_page": 96
+  },
+  {
+    "name": "Biofol",
+    "strength": "15 mg",
+    "generic": "Folinic Acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15071/biofol-15-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biofol",
+    "strength": "5 mg",
+    "generic": "Folinic Acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18458/biofol-5-mg-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biogold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27562/biogold-tablet",
+    "_source_page": 96
+  },
+  {
+    "name": "Biokof",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/34757/biokof-75-mg-syrup",
+    "_source_page": 97
+  },
+  {
+    "name": "Bioland Easy Blood",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "Bioland",
+    "medicine_type": "Glucometer",
+    "source_url": "https://medex.com.bd/brands/36059/bioland-easy-blood-glucometer",
+    "_source_page": 97
+  },
+  {
+    "name": "Biolina Plus",
+    "strength": "2.5 mg+850 mg",
+    "generic": "Linagliptin + Metformin Hydrochloride",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30992/biolina-plus-25-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Biomec",
+    "strength": "6 mg",
+    "generic": "Ivermectin (Tablet)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28668/biomec-6-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Biomec",
+    "strength": "12 mg",
+    "generic": "Ivermectin (Tablet)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28669/biomec-12-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Biomolipon",
+    "strength": "600 mg/ampoule",
+    "generic": "Alpha Lipoic Acid",
+    "company": "ZAS Corporation",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/33962/biomolipon-600-mg-injection",
+    "_source_page": 97
+  },
+  {
+    "name": "BioMonas",
+    "strength": "10 mg",
+    "generic": "Montelukast Sodium",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30323/biomonas-10-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Bionaprox Plus",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/28391/bionaprox-plus-375-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Bionex",
+    "strength": "500 mg",
+    "generic": "Tranexamic Acid",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/3308/bionex-500-mg-capsule",
+    "_source_page": 97
+  },
+  {
+    "name": "Bionic",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Pharmasia Limited",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/25332/bionic-100-mg-injection",
+    "_source_page": 97
+  },
+  {
+    "name": "Bionic",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13639/bionic-100-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Bionime GM700",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "Technokit Healthcare",
+    "medicine_type": "Glucometer",
+    "source_url": "https://medex.com.bd/brands/36041/bionime-gm700-glucometer",
+    "_source_page": 97
+  },
+  {
+    "name": "Bionime GS100",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "Technokit Healthcare",
+    "medicine_type": "Test strip",
+    "source_url": "https://medex.com.bd/brands/36023/bionime-gs100-test-strip",
+    "_source_page": 97
+  },
+  {
+    "name": "BioPen",
+    "strength": null,
+    "generic": "Insulin device & needle",
+    "company": "ACI Limited",
+    "medicine_type": "Insulin Device",
+    "source_url": "https://medex.com.bd/brands/34500/biopen-insulin-device",
+    "_source_page": 97
+  },
+  {
+    "name": "Biopen VK",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6126/biopen-vk-250-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Biopen VK",
+    "strength": "125 mg/5 ml",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6127/biopen-vk-125-mg-suspension",
+    "_source_page": 97
+  },
+  {
+    "name": "Bioplex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35903/bioplex-5-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Bioplex-B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/35905/bioplex-b-5-mg-syrup",
+    "_source_page": 97
+  },
+  {
+    "name": "Bioquin",
+    "strength": "200 mg",
+    "generic": "Hydroxychloroquine Sulphate",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33322/bioquin-200-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "BioRenal",
+    "strength": "24.5 Billion CFU+100 mg+50 mcg",
+    "generic": "Probiotic + Prebiotic + Vitamin K2-7",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37744/biorenal-245-billion-capsule",
+    "_source_page": 97
+  },
+  {
+    "name": "Bioron",
+    "strength": "200 mg/5 ml",
+    "generic": "Ferrous Sulfate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28925/bioron-200-mg-syrup",
+    "_source_page": 97
+  },
+  {
+    "name": "Biorub",
+    "strength": "0.2%",
+    "generic": "Chlorhexidine Gluconate [0.2%]",
+    "company": "Biopharma Limited",
+    "medicine_type": "Mouthwash",
+    "source_url": "https://medex.com.bd/brands/30810/biorub-02-mouthwash",
+    "_source_page": 97
+  },
+  {
+    "name": "Biorub-I",
+    "strength": "75%+0.125%+1.45%",
+    "generic": "Isopropyl Alcohol + Hydrogen Peroxide + Glycerol",
+    "company": "Biopharma Limited",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/29496/biorub-i-75-0125-hand-rub",
+    "_source_page": 97
+  },
+  {
+    "name": "Biotox Face Serum",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Serum",
+    "source_url": "https://medex.com.bd/brands/38304/biotox-face-serum-serum",
+    "_source_page": 97
+  },
+  {
+    "name": "Biotrex",
+    "strength": "40 mg/5 ml",
+    "generic": "Levamisole Hydrochloride",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/31967/biotrex-40-mg-syrup",
+    "_source_page": 97
+  },
+  {
+    "name": "Biotrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Biopharma Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/28887/biotrim-200-mg-suspension",
+    "_source_page": 97
+  },
+  {
+    "name": "Biotrim",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28885/biotrim-400-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Biotrim DS",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28886/biotrim-ds-800-mg-tablet",
+    "_source_page": 97
+  },
+  {
+    "name": "Biovit",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13761/biovit-5-mg-syrup",
+    "_source_page": 97
+  },
+  {
+    "name": "Biovit",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13760/biovit-5-mg-capsule",
+    "_source_page": 97
+  },
+  {
+    "name": "Biovit",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13761/biovit-5-mg-syrup",
+    "_source_page": 98
+  },
+  {
+    "name": "Biovit Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14091/biovit-gold-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Biovit Plus",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "Biopharma Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13365/biovit-plus-syrup",
+    "_source_page": 98
+  },
+  {
+    "name": "Biovit PN",
+    "strength": null,
+    "generic": "Multivitamins & Multiminerals [A-Z prenatal preparation]",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14737/biovit-pn-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Biovit Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14141/biovit-silver-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Biovit-I",
+    "strength": "60 mg+30 mg+6 mg+2 mg+15 mg",
+    "generic": "Vitamin C + Vitamin E + Lutein + Copper + Zinc",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/25396/biovit-i-60-mg-capsule",
+    "_source_page": 98
+  },
+  {
+    "name": "Biovit-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14193/biovit-m-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Bioxim",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7483/bioxim-100-mg-suspension",
+    "_source_page": 98
+  },
+  {
+    "name": "Bioxim",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7482/bioxim-400-mg-capsule",
+    "_source_page": 98
+  },
+  {
+    "name": "Bioxim",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7481/bioxim-200-mg-capsule",
+    "_source_page": 98
+  },
+  {
+    "name": "Bioxim DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/27953/bioxim-ds-200-mg-suspension",
+    "_source_page": 98
+  },
+  {
+    "name": "Bioxon",
+    "strength": "500 mg/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/27457/bioxon-500-mg-injection",
+    "_source_page": 98
+  },
+  {
+    "name": "Bioxon",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27460/bioxon-2-gm-injection",
+    "_source_page": 98
+  },
+  {
+    "name": "Bioxon",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/27459/bioxon-1-gm-injection",
+    "_source_page": 98
+  },
+  {
+    "name": "Biozinc",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/14551/biozinc-10-mg-syrup",
+    "_source_page": 98
+  },
+  {
+    "name": "Biozinc-B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26591/biozinc-b-syrup",
+    "_source_page": 98
+  },
+  {
+    "name": "Biozinc-I",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13366/biozinc-i-syrup",
+    "_source_page": 98
+  },
+  {
+    "name": "Biozyl",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10082/biozyl-400-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Biozyl",
+    "strength": "500 mg/100 ml",
+    "generic": "Metronidazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/28888/biozyl-500-mg-injection",
+    "_source_page": 98
+  },
+  {
+    "name": "Biozyl",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10083/biozyl-200-mg-suspension",
+    "_source_page": 98
+  },
+  {
+    "name": "Bipinor",
+    "strength": "5 mg",
+    "generic": "Nebivolol Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2583/bipinor-5-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Bipinor",
+    "strength": "2.5 mg",
+    "generic": "Nebivolol Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2582/bipinor-25-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Bipinor Plus",
+    "strength": "5 mg+12.5 mg",
+    "generic": "Nebivolol + Hydrochlorothiazide",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34502/bipinor-plus-5-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Biron Plus",
+    "strength": "150 mg+0.5 mg+61.8 mg",
+    "generic": "Ferrous Sulfate + Folic Acid + Zinc Sulfate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/13324/biron-plus-150-mg-capsule",
+    "_source_page": 98
+  },
+  {
+    "name": "Biscard",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33263/biscard-5-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Biscard",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33262/biscard-25-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Bislol",
+    "strength": "7.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37592/bislol-75-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Bislol",
+    "strength": "10 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2479/bislol-10-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Bislol",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2478/bislol-5-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Bislol",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2477/bislol-25-mg-tablet",
+    "_source_page": 98
+  },
+  {
+    "name": "Bislol",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2477/bislol-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bislol Max",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27035/bislol-max-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bislol Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2910/bislol-plus-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bislol Plus",
+    "strength": "10 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2911/bislol-plus-10-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bislol Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2909/bislol-plus-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bislor",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31443/bislor-20-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bismatol",
+    "strength": "87.5 mg/5 ml",
+    "generic": "Bismuth Subsalicylate",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/36133/bismatol-875-mg-suspension",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisobet",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38451/bisobet-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisobet",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38452/bisobet-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisocam",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26170/bisocam-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisocor",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2480/bisocor-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisocor",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2481/bisocor-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisocor Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2913/bisocor-plus-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisocor Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2912/bisocor-plus-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisofar",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31461/bisofar-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisofar",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31460/bisofar-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisoliv",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27990/bisoliv-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisoliv",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27991/bisoliv-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisoloc",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2483/bisoloc-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisoloc",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2484/bisoloc-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisonat",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27903/bisonat-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopol",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30280/bisopol-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopol",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30279/bisopol-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopol-A",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30281/bisopol-a-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopress",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2486/bisopress-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopress",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2485/bisopress-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopro",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2487/bisopro-25-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopro",
+    "strength": "1.25 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38228/bisopro-125-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopro",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2488/bisopro-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopro Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18292/bisopro-plus-5-mg-tablet",
+    "_source_page": 99
+  },
+  {
+    "name": "Bisopro Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18292/bisopro-plus-5-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisopro-A",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27588/bisopro-a-25-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisoren",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2489/bisoren-25-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisoren",
+    "strength": "1.25 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38567/bisoren-125-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisoren",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2490/bisoren-5-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisoren",
+    "strength": "10 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37543/bisoren-10-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisoren M",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29315/bisoren-m-25-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisoren Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18301/bisoren-plus-5-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisoren Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18300/bisoren-plus-25-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisorif",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27003/bisorif-25-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisorif",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33803/bisorif-5-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisotab",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25734/bisotab-25-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisotab",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25735/bisotab-5-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bispep",
+    "strength": "87.5 mg/5 ml",
+    "generic": "Bismuth Subsalicylate",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/27448/bispep-875-mg-suspension",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisten",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25708/bisten-5-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisten",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25707/bisten-25-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisten",
+    "strength": "10 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25709/bisten-10-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisten Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18284/bisten-plus-25-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisten Plus",
+    "strength": "10 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18286/bisten-plus-10-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bisten Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18285/bisten-plus-5-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Biva",
+    "strength": "250 mg/5 ml",
+    "generic": "Bivalirudin",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/26861/biva-250-mg-injection",
+    "_source_page": 100
+  },
+  {
+    "name": "Bivara",
+    "strength": "50 mg/5 ml",
+    "generic": "Brivaracetam",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/33054/bivara-50-mg-oral-solution",
+    "_source_page": 100
+  },
+  {
+    "name": "Bivara",
+    "strength": "25 mg",
+    "generic": "Brivaracetam",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33052/bivara-25-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bivara",
+    "strength": "50 mg",
+    "generic": "Brivaracetam",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33053/bivara-50-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bizi",
+    "strength": null,
+    "generic": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13367/bizi-syrup",
+    "_source_page": 100
+  },
+  {
+    "name": "Bizoran",
+    "strength": "10 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31027/bizoran-10-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bizoran",
+    "strength": "10 mg+40 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31028/bizoran-10-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bizoran",
+    "strength": "5 mg+20 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3077/bizoran-5-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Bizoran",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17759/bizoran-5-mg-tablet",
+    "_source_page": 100
+  },
+  {
+    "name": "Blast",
+    "strength": "20 mg",
+    "generic": "Bilastine",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32854/blast-20-mg-tablet",
+    "_source_page": 100
+  }
+]

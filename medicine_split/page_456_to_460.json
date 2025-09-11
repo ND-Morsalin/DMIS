@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Metryl",
+    "strength": "500 mg/100 ml",
+    "generic": "Metronidazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/10170/metryl-500-mg-injection",
+    "_source_page": 456
+  },
+  {
+    "name": "Metsa",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5448/metsa-500-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Metsa",
+    "strength": "850 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5449/metsa-850-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Metsa XR",
+    "strength": "500 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/5450/metsa-xr-500-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Metsa XR",
+    "strength": "1000 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/26840/metsa-xr-1000-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Metsa XR",
+    "strength": "750 mg",
+    "generic": "Metformin Hydrochloride",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/36116/metsa-xr-750-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Metsina",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10172/metsina-400-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Metsina",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10173/metsina-200-mg-suspension",
+    "_source_page": 456
+  },
+  {
+    "name": "Metsina",
+    "strength": "500 mg/100 ml",
+    "generic": "Metronidazole",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/22381/metsina-500-mg-injection",
+    "_source_page": 456
+  },
+  {
+    "name": "Meverine",
+    "strength": "135 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1417/meverine-135-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Meverine SR",
+    "strength": "200 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/1418/meverine-sr-200-mg-capsule",
+    "_source_page": 456
+  },
+  {
+    "name": "Mevigut SR",
+    "strength": "200 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/29043/mevigut-sr-200-mg-capsule",
+    "_source_page": 456
+  },
+  {
+    "name": "Mevin",
+    "strength": "135 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1419/mevin-135-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Mevin SR",
+    "strength": "200 mg",
+    "generic": "Mebeverine Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/31202/mevin-sr-200-mg-capsule",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexaton",
+    "strength": "50 mg",
+    "generic": "Tolperisone Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15484/mexaton-50-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexclav",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7426/mexclav-250-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexclav",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7427/mexclav-500-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexclav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/31978/mexclav-125-mg-suspension",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexiderm",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/18191/mexiderm-01-cream",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexiderm",
+    "strength": "0.1%",
+    "generic": "Betamethasone Valerate",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/18192/mexiderm-01-ointment",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexiderm-F",
+    "strength": "2%+0.1%",
+    "generic": "Fusidic acid + Betamethasone",
+    "company": "Biopharma Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/18230/mexiderm-f-2-01-cream",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexiderm-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12535/mexiderm-n-01-05-cream",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexiderm-N",
+    "strength": "0.1%+0.5%",
+    "generic": "Betamethasone + Neomycin Sulphate (Topical)",
+    "company": "Biopharma Limited",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12536/mexiderm-n-01-05-ointment",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexilyt",
+    "strength": "4 mg/5 ml",
+    "generic": "Bromhexine Hydrochloride",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30678/mexilyt-4-mg-syrup",
+    "_source_page": 456
+  },
+  {
+    "name": "Mexlo",
+    "strength": "0.3%",
+    "generic": "Lomefloxacin",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9600/mexlo-03-eye-drop",
+    "_source_page": 456
+  },
+  {
+    "name": "Mextil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7292/mextil-250-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Mextil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7293/mextil-500-mg-tablet",
+    "_source_page": 456
+  },
+  {
+    "name": "Mextil",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7294/mextil-125-mg-suspension",
+    "_source_page": 456
+  },
+  {
+    "name": "Mextil",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Biopharma Limited",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7297/mextil-750-mg-injection",
+    "_source_page": 456
+  },
+  {
+    "name": "Mextil DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Biopharma Limited",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7295/mextil-ds-250-mg-suspension",
+    "_source_page": 456
+  },
+  {
+    "name": "Mez",
+    "strength": "500 mg/100 ml",
+    "generic": "Metronidazole",
+    "company": "Renata PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/10175/mez-500-mg-injection",
+    "_source_page": 457
+  },
+  {
+    "name": "Mezest",
+    "strength": "160 mg",
+    "generic": "Megestrol Acetate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22042/mezest-160-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "Mezest",
+    "strength": "40 mg",
+    "generic": "Megestrol Acetate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22043/mezest-40-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "Mezoxia",
+    "strength": "160 mg",
+    "generic": "Megestrol Acetate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28842/mezoxia-160-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "MFC",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9634/mfc-05-eye-drop",
+    "_source_page": 457
+  },
+  {
+    "name": "Mg",
+    "strength": "365 mg",
+    "generic": "Magnesium Oxide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33425/mg-365-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "MHC",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/27969/mhc-2-1-cream",
+    "_source_page": 457
+  },
+  {
+    "name": "Miaz",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/32336/miaz-2-w-cream",
+    "_source_page": 457
+  },
+  {
+    "name": "MIC",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10028/mic-2-w-cream",
+    "_source_page": 457
+  },
+  {
+    "name": "Mic-HC",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12681/mic-hc-2-1-cream",
+    "_source_page": 457
+  },
+  {
+    "name": "Micac",
+    "strength": "1000 mg+327 mg (Conventional calcium)+500 mg",
+    "generic": "Calcium Lactate Gluconate + Calcium Carbonate + Vitamin C",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/14503/micac-1000-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "Micagin",
+    "strength": "50 mg/vial",
+    "generic": "Micafungin Sodium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/33556/micagin-50-mg-injection",
+    "_source_page": 457
+  },
+  {
+    "name": "Micason",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Oral Gel",
+    "source_url": "https://medex.com.bd/brands/33351/micason-2-w-oral-gel",
+    "_source_page": 457
+  },
+  {
+    "name": "Micason HC",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33350/micason-hc-2-1-cream",
+    "_source_page": 457
+  },
+  {
+    "name": "Micatel",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36651/micatel-80-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "Micatel",
+    "strength": "20 mg",
+    "generic": "Telmisartan",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36652/micatel-20-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "Micatel",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36653/micatel-40-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "Miclo",
+    "strength": "0.05%",
+    "generic": "Clobetasone Butyrate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12609/miclo-005-cream",
+    "_source_page": 457
+  },
+  {
+    "name": "Miclo",
+    "strength": "0.05%",
+    "generic": "Clobetasone Butyrate",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12610/miclo-005-ointment",
+    "_source_page": 457
+  },
+  {
+    "name": "Miclocin",
+    "strength": "500 mg",
+    "generic": "Cloxacillin Sodium",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6195/miclocin-500-mg-capsule",
+    "_source_page": 457
+  },
+  {
+    "name": "Miclocin",
+    "strength": "125 mg/5 ml",
+    "generic": "Cloxacillin Sodium",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6196/miclocin-125-mg-suspension",
+    "_source_page": 457
+  },
+  {
+    "name": "Miclofen",
+    "strength": "50 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11038/miclofen-50-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "Miclofen TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11039/miclofen-tr-100-mg-capsule",
+    "_source_page": 457
+  },
+  {
+    "name": "Miclofenac",
+    "strength": "50 mg+200 mcg",
+    "generic": "Diclofenac Sodium + Misoprostol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11647/miclofenac-50-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "Miclofenac",
+    "strength": "75 mg+200 mcg",
+    "generic": "Diclofenac Sodium + Misoprostol",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11648/miclofenac-75-mg-tablet",
+    "_source_page": 457
+  },
+  {
+    "name": "Micoderm",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Oral Gel",
+    "source_url": "https://medex.com.bd/brands/10011/micoderm-2-w-oral-gel",
+    "_source_page": 457
+  },
+  {
+    "name": "Micoderm",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/22468/micoderm-2-w-cream",
+    "_source_page": 457
+  },
+  {
+    "name": "Micoderm-HC",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/22471/micoderm-hc-2-1-cream",
+    "_source_page": 457
+  },
+  {
+    "name": "Micofun",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Gel",
+    "source_url": "https://medex.com.bd/brands/29405/micofun-2-w-oral-gel",
+    "_source_page": 457
+  },
+  {
+    "name": "Micofun-HC",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/22476/micofun-hc-2-1-cream",
+    "_source_page": 457
+  },
+  {
+    "name": "Micogyl",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10176/micogyl-400-mg-tablet",
+    "_source_page": 458
+  },
+  {
+    "name": "Micogyl",
+    "strength": "200 mg/5 ml",
+    "generic": "Metronidazole",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10177/micogyl-200-mg-suspension",
+    "_source_page": 458
+  },
+  {
+    "name": "Micogyl",
+    "strength": "500 mg/100 ml",
+    "generic": "Metronidazole",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/22373/micogyl-500-mg-injection",
+    "_source_page": 458
+  },
+  {
+    "name": "Micoheal",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/32292/micoheal-2-w-cream",
+    "_source_page": 458
+  },
+  {
+    "name": "Miconex",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "ACI Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10029/miconex-2-w-cream",
+    "_source_page": 458
+  },
+  {
+    "name": "Miconil",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12682/miconil-2-1-cream",
+    "_source_page": 458
+  },
+  {
+    "name": "Micoplex-B",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13799/micoplex-b-5-mg-tablet",
+    "_source_page": 458
+  },
+  {
+    "name": "Micoplex-B",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13800/micoplex-b-5-mg-syrup",
+    "_source_page": 458
+  },
+  {
+    "name": "Micoplex-M",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14209/micoplex-m-tablet",
+    "_source_page": 458
+  },
+  {
+    "name": "Micoral",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Gel",
+    "source_url": "https://medex.com.bd/brands/10012/micoral-2-w-oral-gel",
+    "_source_page": 458
+  },
+  {
+    "name": "Micosina",
+    "strength": "2% w/w",
+    "generic": "Miconazole Nitrate",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Gel",
+    "source_url": "https://medex.com.bd/brands/10022/micosina-2-w-oral-gel",
+    "_source_page": 458
+  },
+  {
+    "name": "Micosone",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "ACI Limited",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12683/micosone-2-1-cream",
+    "_source_page": 458
+  },
+  {
+    "name": "Micosone",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "ACI Limited",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/12684/micosone-2-1-ointment",
+    "_source_page": 458
+  },
+  {
+    "name": "Micro",
+    "strength": "200 mg/5 ml",
+    "generic": "Albendazole",
+    "company": "Alkad Laboratories",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/25451/micro-200-mg-suspension",
+    "_source_page": 458
+  },
+  {
+    "name": "Microcef",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7596/microcef-200-mg-capsule",
+    "_source_page": 458
+  },
+  {
+    "name": "Microcef",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7597/microcef-400-mg-capsule",
+    "_source_page": 458
+  },
+  {
+    "name": "Microcef",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7598/microcef-100-mg-suspension",
+    "_source_page": 458
+  },
+  {
+    "name": "Microcef DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/31822/microcef-ds-200-mg-suspension",
+    "_source_page": 458
+  },
+  {
+    "name": "Microgest",
+    "strength": "100 mg",
+    "generic": "Progesterone Micronized (Capsule)",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5891/microgest-100-mg-capsule",
+    "_source_page": 458
+  },
+  {
+    "name": "Microgest",
+    "strength": "200 mg",
+    "generic": "Progesterone Micronized (Capsule)",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/5892/microgest-200-mg-capsule",
+    "_source_page": 458
+  },
+  {
+    "name": "Microgest",
+    "strength": "400 mg",
+    "generic": "Progesterone Micronised (Vaginal Pessary)",
+    "company": "Renata PLC",
+    "medicine_type": "Vaginal Pessary",
+    "source_url": "https://medex.com.bd/brands/29301/microgest-400-mg-vaginal-pessary",
+    "_source_page": 458
+  },
+  {
+    "name": "Microgest AQ",
+    "strength": "25 mg/1.119 ml",
+    "generic": "Progesterone Micronised (SC injection)",
+    "company": "Renata PLC",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/36574/microgest-aq-25-mg-injection",
+    "_source_page": 458
+  },
+  {
+    "name": "Microlife (AG1-20)",
+    "strength": "Manual blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "Microlife Corporation",
+    "medicine_type": "BP Monitor Device",
+    "source_url": "https://medex.com.bd/brands/37750/microlife-ag1-20-manual-blood-bp-monitor-device",
+    "_source_page": 458
+  },
+  {
+    "name": "Microlife (BP-A2 Classic)",
+    "strength": "Digital blood pressure monitor",
+    "generic": "BP monitoring device",
+    "company": "Microlife Corporation",
+    "medicine_type": "BP Monitor Device",
+    "source_url": "https://medex.com.bd/brands/37757/microlife-bp-a2-classic-digital-blood-bp-monitor-device",
+    "_source_page": 458
+  },
+  {
+    "name": "Microlon",
+    "strength": "0.02 mg+0.15 mg",
+    "generic": "Ethinyl Estradiol + Desogestrel (0.02 mg)",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20076/microlon-002-mg-tablet",
+    "_source_page": 458
+  },
+  {
+    "name": "Mictrol",
+    "strength": "0.4 mg",
+    "generic": "Tamsulosin Hydrochloride",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/26450/mictrol-04-mg-capsule",
+    "_source_page": 458
+  },
+  {
+    "name": "Midalam",
+    "strength": "7.5 mg",
+    "generic": "Midazolam",
+    "company": "Biogen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35882/midalam-75-mg-tablet",
+    "_source_page": 458
+  },
+  {
+    "name": "Midazolam Hameln",
+    "strength": "50 mg/50 ml",
+    "generic": "Midazolam",
+    "company": "ZAS Corporation",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/33952/midazolam-hameln-50-mg-injection",
+    "_source_page": 458
+  },
+  {
+    "name": "Midita",
+    "strength": "50 mg",
+    "generic": "Lasmiditan Hemisuccinate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33181/midita-50-mg-tablet",
+    "_source_page": 458
+  },
+  {
+    "name": "Midita",
+    "strength": "100 mg",
+    "generic": "Lasmiditan Hemisuccinate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33182/midita-100-mg-tablet",
+    "_source_page": 458
+  },
+  {
+    "name": "Midolam",
+    "strength": "7.5 mg",
+    "generic": "Midazolam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4185/midolam-75-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Midolam",
+    "strength": "15 mg",
+    "generic": "Midazolam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4186/midolam-15-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Midolam",
+    "strength": "5 mg/ml",
+    "generic": "Midazolam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/4187/midolam-5-mg-injection",
+    "_source_page": 459
+  },
+  {
+    "name": "Midolam",
+    "strength": "15 mg/3 ml",
+    "generic": "Midazolam",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/4188/midolam-15-mg-injection",
+    "_source_page": 459
+  },
+  {
+    "name": "Midorest",
+    "strength": "15 mg",
+    "generic": "Midazolam",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27486/midorest-15-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Midorest",
+    "strength": "7.5 mg",
+    "generic": "Midazolam",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27487/midorest-75-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Midoria",
+    "strength": "0.02%+0.31%+1%",
+    "generic": "Tropicamide + Phenylephrine + Lidocaine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Intracameral Injection",
+    "source_url": "https://medex.com.bd/brands/32392/midoria-002-031-injection",
+    "_source_page": 459
+  },
+  {
+    "name": "Midothal",
+    "strength": "50 mg",
+    "generic": "Thalidomide",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/16711/midothal-50-mg-capsule",
+    "_source_page": 459
+  },
+  {
+    "name": "Midzo",
+    "strength": "7.5 mg",
+    "generic": "Midazolam",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22523/midzo-75-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Midzo",
+    "strength": "15 mg/3 ml",
+    "generic": "Midazolam",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/22524/midzo-15-mg-injection",
+    "_source_page": 459
+  },
+  {
+    "name": "MIF",
+    "strength": "200 mg",
+    "generic": "Mifepristone",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16623/mif-200-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Mifenac",
+    "strength": "50 mg+200 mcg",
+    "generic": "Diclofenac Sodium + Misoprostol",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11649/mifenac-50-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Mifenac",
+    "strength": "75 mg+200 mcg",
+    "generic": "Diclofenac Sodium + Misoprostol",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11650/mifenac-75-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Mifeston",
+    "strength": "200 mg",
+    "generic": "Mifepristone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16624/mifeston-200-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Mig",
+    "strength": "2.5 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35060/mig-25-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Mig",
+    "strength": "5 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35061/mig-5-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Mig",
+    "strength": "10 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35062/mig-10-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migalin",
+    "strength": "2.5 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36106/migalin-25-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migalin",
+    "strength": "5 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36107/migalin-5-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migalin",
+    "strength": "10 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36141/migalin-10-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migalin",
+    "strength": "15 mg",
+    "generic": "Mirogabalin Besylate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36142/migalin-15-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Miganil",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20408/miganil-5-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Miganil",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20409/miganil-10-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migesic",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29628/migesic-200-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migofen",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10806/migofen-05-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migofen",
+    "strength": "1.5 mg",
+    "generic": "Pizotifen",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10807/migofen-15-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migon",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20406/migon-5-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migon",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20407/migon-10-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migrafix",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38449/migrafix-10-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migrafix",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38450/migrafix-5-mg-tablet",
+    "_source_page": 459
+  },
+  {
+    "name": "Migranex",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10808/migranex-05-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Migranex",
+    "strength": "1.5 mg",
+    "generic": "Pizotifen",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10809/migranex-15-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Migranil",
+    "strength": "0.5 mg",
+    "generic": "Pizotifen",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10810/migranil-05-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Migranil",
+    "strength": "1.5 mg",
+    "generic": "Pizotifen",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10811/migranil-15-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Migratol",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11640/migratol-200-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Migrex",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11641/migrex-200-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Migrium",
+    "strength": "5 mg",
+    "generic": "Flunarizine",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10846/migrium-5-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Migrium",
+    "strength": "10 mg",
+    "generic": "Flunarizine",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10847/migrium-10-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Migron ER",
+    "strength": "25 mg",
+    "generic": "Mirabegron",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/34912/migron-er-25-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Miki-H",
+    "strength": "2%+1%",
+    "generic": "Miconazole Nitrate + Hydrocortisone",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12686/miki-h-2-1-cream",
+    "_source_page": 460
+  },
+  {
+    "name": "Mikocid",
+    "strength": "(175 mg+225 mg)/5 ml",
+    "generic": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/37684/mikocid-175-mg-suspension",
+    "_source_page": 460
+  },
+  {
+    "name": "Mikotrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/17025/mikotrim-200-mg-suspension",
+    "_source_page": 460
+  },
+  {
+    "name": "Milam",
+    "strength": "7.5 mg",
+    "generic": "Midazolam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4189/milam-75-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Milam",
+    "strength": "15 mg",
+    "generic": "Midazolam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4190/milam-15-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Milam",
+    "strength": "15 mg/3 ml",
+    "generic": "Midazolam",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/4191/milam-15-mg-injection",
+    "_source_page": 460
+  },
+  {
+    "name": "Milast-A",
+    "strength": "500 mcg",
+    "generic": "Roflumilast (Tablet)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24309/milast-a-500-mcg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Milcal",
+    "strength": "250 mg+250 IU",
+    "generic": "Calcium Phosphate [Milk source] + Vitamin D3",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33452/milcal-250-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Milium",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30240/milium-10-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Milk of Magnesia",
+    "strength": "400 mg/5 ml",
+    "generic": "Magnesium Hydroxide",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21944/milk-of-magnesia-400-mg-suspension",
+    "_source_page": 460
+  },
+  {
+    "name": "Milk of Magnesia",
+    "strength": "400 mg/5 ml",
+    "generic": "Magnesium Hydroxide",
+    "company": "Alkad Laboratories",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21946/milk-of-magnesia-400-mg-suspension",
+    "_source_page": 460
+  },
+  {
+    "name": "Milk of Magnesia",
+    "strength": "400 mg/5 ml",
+    "generic": "Magnesium Hydroxide",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/21954/milk-of-magnesia-400-mg-suspension",
+    "_source_page": 460
+  },
+  {
+    "name": "Milk of Magnesia",
+    "strength": "400 mg/5 ml",
+    "generic": "Magnesium Hydroxide",
+    "company": "Pharmik Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/37685/milk-of-magnesia-400-mg-suspension",
+    "_source_page": 460
+  },
+  {
+    "name": "Milk of Magnesia Plus",
+    "strength": "(300 mg+1.25 ml)/5 ml",
+    "generic": "Magnesium Hydroxide + Liquid Paraffin",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Emulsion",
+    "source_url": "https://medex.com.bd/brands/26520/milk-of-magnesia-plus-300-mg-emulsion",
+    "_source_page": 460
+  },
+  {
+    "name": "Milkaid",
+    "strength": "9000 IU",
+    "generic": "Lactase",
+    "company": "ACI Limited",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/30215/milkaid-9000-iu-chewable-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Millat malam",
+    "strength": "0.1%+1%+2%",
+    "generic": "Dithranol + Boric Acid + Salicylic Acid",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/28862/millat-malam-01-1-ointment",
+    "_source_page": 460
+  },
+  {
+    "name": "Millat's ORS",
+    "strength": "10.25 gm",
+    "generic": "Oral rehydration salt [glucose based]",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/14801/millats-ors-1025-gm-powder",
+    "_source_page": 460
+  },
+  {
+    "name": "Milran",
+    "strength": "12.5 mg",
+    "generic": "Milnacipran Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16625/milran-125-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Milran",
+    "strength": "50 mg",
+    "generic": "Milnacipran Hydrochloride",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16626/milran-50-mg-tablet",
+    "_source_page": 460
+  },
+  {
+    "name": "Miltefos",
+    "strength": "50 mg",
+    "generic": "Miltefosine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30484/miltefos-50-mg-capsule",
+    "_source_page": 460
+  },
+  {
+    "name": "Mimi Kit",
+    "strength": "200 mg+200 mcg",
+    "generic": "Mifepristone + Misoprostol",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27475/mimi-kit-200-mg-tablet",
+    "_source_page": 460
+  }
+]

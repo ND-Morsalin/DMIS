@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Carbeshot",
+    "strength": "100 mcg/ml",
+    "generic": "Carbetocin",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/28991/carbeshot-100-mcg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbestop",
+    "strength": "250 mcg/ml",
+    "generic": "Carboprost Tromethamine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/26047/carbestop-250-mcg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbiroid",
+    "strength": "5 mg",
+    "generic": "Carbimazole",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5737/carbiroid-5-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbium",
+    "strength": null,
+    "generic": "Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29243/carbium-capsule",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbizol",
+    "strength": "10 mg",
+    "generic": "Carbimazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31197/carbizol-10-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbizol",
+    "strength": "5 mg",
+    "generic": "Carbimazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5738/carbizol-5-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbocal",
+    "strength": "500 mg",
+    "generic": "Calcium Carbonate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14298/carbocal-500-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbocal-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14435/carbocal-d-500-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbocal-M",
+    "strength": null,
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14525/carbocal-m-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbofer",
+    "strength": "500 mg/10 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/34542/carbofer-500-mg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbogel",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36465/carbogel-1-eye-drop",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbolin",
+    "strength": "375 mg",
+    "generic": "Carbocisteine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29919/carbolin-375-mg-capsule",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbolin DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Carbocisteine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4117/carbolin-ds-250-mg-syrup",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbomet",
+    "strength": null,
+    "generic": "Carbonyl Iron + Folic Acid + Zinc Sulfate + Vitamin B Complex + Vitamin C",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/13408/carbomet-capsule",
+    "_source_page": 121
+  },
+  {
+    "name": "Carboplat",
+    "strength": "10 mg/ml",
+    "generic": "Carboplatin",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15096/carboplat-10-mg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carboplatin",
+    "strength": "10 mg/ml",
+    "generic": "Carboplatin",
+    "company": "Janata Traders",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/28936/carboplatin-10-mg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carboplatin  Sindan",
+    "strength": "10 mg/ml",
+    "generic": "Carboplatin",
+    "company": "BOTS Pvt. Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17277/carboplatin-sindan-10-mg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carboplatin Hexal",
+    "strength": "10 mg/ml",
+    "generic": "Carboplatin",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15091/carboplatin-hexal-10-mg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carboplatin PhaRes",
+    "strength": "10 mg/ml",
+    "generic": "Carboplatin",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/33955/carboplatin-phares-10-mg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carboten DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Carbocisteine",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4118/carboten-ds-250-mg-syrup",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbotin",
+    "strength": "10 mg/ml",
+    "generic": "Carboplatin",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15093/carbotin-10-mg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carbotor",
+    "strength": "10 mg/ml",
+    "generic": "Carboplatin",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29794/carbotor-10-mg-injection",
+    "_source_page": 121
+  },
+  {
+    "name": "Carceva",
+    "strength": "75 mg",
+    "generic": "Clopidogrel Bisulphate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26173/carceva-75-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Carceva Plus",
+    "strength": "75 mg+75 mg",
+    "generic": "Clopidogrel + Aspirin",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28773/carceva-plus-75-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Cardex",
+    "strength": "6.25 mg",
+    "generic": "Carvedilol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2512/cardex-625-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Cardex",
+    "strength": "3.125 mg",
+    "generic": "Carvedilol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2511/cardex-3125-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Cardex",
+    "strength": "12.5 mg",
+    "generic": "Carvedilol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2513/cardex-125-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "CardiAmlo",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37326/cardiamlo-25-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Cardiben-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14436/cardiben-d-500-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Cardicam",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Belsen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33800/cardicam-5-mg-tablet",
+    "_source_page": 121
+  },
+  {
+    "name": "Cardicam",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Belsen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33800/cardicam-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardicil",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34657/cardicil-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardicil",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34656/cardicil-10-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardicor",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2496/cardicor-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardicor",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2495/cardicor-25-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardicor Plus",
+    "strength": "2.5 mg+6.5 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37327/cardicor-plus-25-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardicor Plus",
+    "strength": "5 mg+6.5 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37328/cardicor-plus-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardifort",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30562/cardifort-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardifort Plus",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30568/cardifort-plus-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardifort Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30569/cardifort-plus-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardil",
+    "strength": "60 mg",
+    "generic": "Diltiazem Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3051/cardil-60-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardil",
+    "strength": "30 mg",
+    "generic": "Diltiazem Hydrochloride",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3050/cardil-30-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardilock",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1079/cardilock-50-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardimet MR",
+    "strength": "35 mg",
+    "generic": "Trimetazidine Dihydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Modified Release)",
+    "source_url": "https://medex.com.bd/brands/26748/cardimet-mr-35-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardinex",
+    "strength": "8000 Anti-Xa IU/0.8 ml",
+    "generic": "Enoxaparin Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/3190/cardinex-8000-anti-xa-injection",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardinex",
+    "strength": "6000 Anti-Xa IU/0.6 ml",
+    "generic": "Enoxaparin Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/3189/cardinex-6000-anti-xa-injection",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardinex",
+    "strength": "4000 Anti-Xa IU/0.4 ml",
+    "generic": "Enoxaparin Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/3188/cardinex-4000-anti-xa-injection",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardinor",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2498/cardinor-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardinor",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2497/cardinor-25-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardinor Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34138/cardinor-plus-25-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardinor Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34139/cardinor-plus-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardipin",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/679/cardipin-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardipin Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/825/cardipin-plus-5-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardiron",
+    "strength": "200 mg",
+    "generic": "Amiodarone Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/612/cardiron-200-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardisan",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2707/cardisan-50-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardisan",
+    "strength": "25 mg",
+    "generic": "Losartan Potassium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36785/cardisan-25-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardisan",
+    "strength": "100 mg",
+    "generic": "Losartan Potassium",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34834/cardisan-100-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardisan Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2944/cardisan-plus-50-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardisef",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1082/cardisef-50-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardisef",
+    "strength": "100 mg",
+    "generic": "Atenolol",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1083/cardisef-100-mg-tablet",
+    "_source_page": 122
+  },
+  {
+    "name": "Cardival",
+    "strength": "80 mg",
+    "generic": "Valsartan",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2798/cardival-80-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardival Plus",
+    "strength": "160 mg+12.5 mg",
+    "generic": "Valsartan + Hydrochlorothiazide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3002/cardival-plus-160-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardival Plus",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Valsartan + Hydrochlorothiazide",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3001/cardival-plus-80-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardivas",
+    "strength": "6.25 mg",
+    "generic": "Carvedilol",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2514/cardivas-625-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardivas",
+    "strength": "12.5 mg",
+    "generic": "Carvedilol",
+    "company": "Sun Pharmaceutical (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2515/cardivas-125-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardiver",
+    "strength": "2.5 mg",
+    "generic": "Vericiguat",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37993/cardiver-25-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardivit",
+    "strength": "400 mg+400 IU+2 mg",
+    "generic": "Vitamin C + Vitamin D3 + Folic acid",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14004/cardivit-400-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardizem",
+    "strength": "60 mg",
+    "generic": "Diltiazem Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3053/cardizem-60-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardizem",
+    "strength": "30 mg",
+    "generic": "Diltiazem Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3052/cardizem-30-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardizem SR",
+    "strength": "120 mg",
+    "generic": "Diltiazem Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/3055/cardizem-sr-120-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardizem SR",
+    "strength": "90 mg",
+    "generic": "Diltiazem Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/19917/cardizem-sr-90-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardobis",
+    "strength": "1.25 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37352/cardobis-125-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardobis",
+    "strength": "2.5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25710/cardobis-25-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardobis",
+    "strength": "5 mg",
+    "generic": "Bisoprolol Fumarate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25711/cardobis-5-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardobis M",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28401/cardobis-m-25-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardobis Plus",
+    "strength": "2.5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18287/cardobis-plus-25-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardobis Plus",
+    "strength": "5 mg+6.25 mg",
+    "generic": "Bisoprolol Fumarate + Hydrochlorothiazide",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18288/cardobis-plus-5-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardocal",
+    "strength": "5 mg",
+    "generic": "Cilnidipine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33025/cardocal-5-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardocal",
+    "strength": "10 mg",
+    "generic": "Cilnidipine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33026/cardocal-10-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardofix",
+    "strength": "2.5 mg+5 mg",
+    "generic": "Bisoprolol Fumarate + Amlodipine Besilate",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29996/cardofix-25-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardolab",
+    "strength": "5 mg",
+    "generic": "Amlodipine Besilate",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/680/cardolab-5-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardon",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2709/cardon-50-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardon",
+    "strength": "25 mg",
+    "generic": "Losartan Potassium",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2708/cardon-25-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardoneb",
+    "strength": "2.5 mg",
+    "generic": "Nebivolol Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22816/cardoneb-25-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardoneb",
+    "strength": "5 mg",
+    "generic": "Nebivolol Hydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22817/cardoneb-5-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardopa",
+    "strength": "200 mg/5 ml",
+    "generic": "Dopamine Hydrochloride",
+    "company": "ACI Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/3180/cardopa-200-mg-injection",
+    "_source_page": 123
+  },
+  {
+    "name": "CardoPlus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21881/cardoplus-50-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardopril",
+    "strength": "25 mg",
+    "generic": "Captopril",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2598/cardopril-25-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardopril",
+    "strength": "50 mg",
+    "generic": "Captopril",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30700/cardopril-50-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardoprin",
+    "strength": "75 mg",
+    "generic": "Aspirin",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/36573/cardoprin-75-mg-tablet",
+    "_source_page": 123
+  },
+  {
+    "name": "Cardosia Plus",
+    "strength": "5 mg+50 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26987/cardosia-plus-5-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Cardosia Plus",
+    "strength": "5 mg+25 mg",
+    "generic": "Amlodipine Besilate + Atenolol",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/826/cardosia-plus-5-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Cardotel",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17753/cardotel-5-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Cardotel",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/729/cardotel-5-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Cardovan",
+    "strength": "160 mg",
+    "generic": "Valsartan",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25189/cardovan-160-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Cardovan",
+    "strength": "80 mg",
+    "generic": "Valsartan",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25188/cardovan-80-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Cardovan Plus",
+    "strength": "160 mg+12.5 mg",
+    "generic": "Valsartan + Hydrochlorothiazide",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25196/cardovan-plus-160-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Cardovan Plus",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Valsartan + Hydrochlorothiazide",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/25195/cardovan-plus-80-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Cardual",
+    "strength": "5 mg+10 mg",
+    "generic": "Amlodipine Besilate + Atorvastatin",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32230/cardual-5-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Care",
+    "strength": "6 mg+200 mg+50 mg",
+    "generic": "Betacarotene + Vitamin C + Vitamin E",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14015/care-6-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Care-on",
+    "strength": "0.1%+0.5%",
+    "generic": "Chlorhexidine Hydrochloride + Cetrimide",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/29062/care-on-01-05-cream",
+    "_source_page": 124
+  },
+  {
+    "name": "Care-on",
+    "strength": "66%+3.5%",
+    "generic": "Ethanol + Isopropyl alcohol",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/28812/care-on-66-35-hand-rub",
+    "_source_page": 124
+  },
+  {
+    "name": "Care-on",
+    "strength": "0.3%+3%",
+    "generic": "Chlorhexidine Gluconate + Cetrimide",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/29063/care-on-03-3-solution",
+    "_source_page": 124
+  },
+  {
+    "name": "Carepain",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33586/carepain-100-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "CareSens N",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "Connect Healthcare Bangladesh Ltd.",
+    "medicine_type": "Test strip",
+    "source_url": "https://medex.com.bd/brands/36061/caresens-n-test-strip",
+    "_source_page": 124
+  },
+  {
+    "name": "CareSens N",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "Connect Healthcare Bangladesh Ltd.",
+    "medicine_type": "Glucometer",
+    "source_url": "https://medex.com.bd/brands/37740/caresens-n-glucometer",
+    "_source_page": 124
+  },
+  {
+    "name": "Carfilez",
+    "strength": "30 mg/vial",
+    "generic": "Carfilzomib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Powder for Injection",
+    "source_url": "https://medex.com.bd/brands/36080/carfilez-30-mg-injection",
+    "_source_page": 124
+  },
+  {
+    "name": "Carfilez",
+    "strength": "10 mg/vial",
+    "generic": "Carfilzomib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Powder for Injection",
+    "source_url": "https://medex.com.bd/brands/36079/carfilez-10-mg-injection",
+    "_source_page": 124
+  },
+  {
+    "name": "Caridol",
+    "strength": "250 mg",
+    "generic": "Carisoprodol",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30982/caridol-250-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Caridol",
+    "strength": "350 mg",
+    "generic": "Carisoprodol",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36939/caridol-350-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Carilax",
+    "strength": "250 mg",
+    "generic": "Carisoprodol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26193/carilax-250-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Caripran",
+    "strength": "1.5 mg",
+    "generic": "Cariprazine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37379/caripran-15-mg-capsule",
+    "_source_page": 124
+  },
+  {
+    "name": "Caripran",
+    "strength": "3 mg",
+    "generic": "Cariprazine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/37985/caripran-3-mg-capsule",
+    "_source_page": 124
+  },
+  {
+    "name": "Cariso",
+    "strength": "250 mg",
+    "generic": "Carisoprodol",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37551/cariso-250-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Carlev",
+    "strength": "250 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34704/carlev-250-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Carlev",
+    "strength": "100 mg+10 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32772/carlev-100-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Carlev CR",
+    "strength": "200 mg+50 mg",
+    "generic": "Levodopa + Carbidopa (Prolonged release)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/32773/carlev-cr-200-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Carlina",
+    "strength": "5 mg",
+    "generic": "Linagliptin",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29087/carlina-5-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Carlina-M",
+    "strength": "2.5 mg+500 mg",
+    "generic": "Linagliptin + Metformin Hydrochloride",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29088/carlina-m-25-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Carlomed",
+    "strength": "400 mg",
+    "generic": "Calcium Orotate",
+    "company": "MedRx Life Science Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18495/carlomed-400-mg-tablet",
+    "_source_page": 124
+  },
+  {
+    "name": "Carlos",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33743/carlos-50-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmapine",
+    "strength": "200 mg",
+    "generic": "Carbamazepine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30128/carmapine-200-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmapine",
+    "strength": "100 mg/5 ml",
+    "generic": "Carbamazepine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/30129/carmapine-100-mg-suspension",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmapine CR",
+    "strength": "200 mg",
+    "generic": "Carbamazepine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Controlled Release)",
+    "source_url": "https://medex.com.bd/brands/30130/carmapine-cr-200-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmaz",
+    "strength": "200 mg",
+    "generic": "Carbamazepine",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30704/carmaz-200-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmelus",
+    "strength": "1%",
+    "generic": "Carboxymethylcellulose Sodium",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28518/carmelus-1-eye-drop",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmelus-G",
+    "strength": "0.5%+0.9%",
+    "generic": "Carboxymethylcellulose Sodium + Glycerin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/28519/carmelus-g-05-09-eye-drop",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmelus-H",
+    "strength": "0.25%+0.3%",
+    "generic": "Carboxymethylcellulose Sodium + Hypromellose",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Gel",
+    "source_url": "https://medex.com.bd/brands/28520/carmelus-h-025-03-eye-gel",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmin",
+    "strength": "2.5 mg",
+    "generic": "Mavacamten",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38013/carmin-25-mg-capsule",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmin",
+    "strength": "5 mg",
+    "generic": "Mavacamten",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/38014/carmin-5-mg-capsule",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmo D",
+    "strength": "500 mg+200 IU",
+    "generic": "Elemental Calcium + Vitamin D3",
+    "company": "S.N. Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14486/carmo-d-500-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carmustine",
+    "strength": "100 mg/vial",
+    "generic": "Carmustine",
+    "company": "Renata PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/34513/carmustine-100-mg-injection",
+    "_source_page": 125
+  },
+  {
+    "name": "Carnitab",
+    "strength": "330 mg",
+    "generic": "Levocarnitine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3167/carnitab-330-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carnitab",
+    "strength": "500 mg/5 ml",
+    "generic": "Levocarnitine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/30961/carnitab-500-mg-oral-solution",
+    "_source_page": 125
+  },
+  {
+    "name": "Carniten",
+    "strength": "330 mg",
+    "generic": "Levocarnitine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3168/carniten-330-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carnovas",
+    "strength": "5 mg",
+    "generic": "Nebivolol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31032/carnovas-5-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carnovas",
+    "strength": "2.5 mg",
+    "generic": "Nebivolol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31031/carnovas-25-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carnovas",
+    "strength": "10 mg",
+    "generic": "Nebivolol Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31033/carnovas-10-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carnovas HZ",
+    "strength": "5 mg+12.5 mg",
+    "generic": "Nebivolol + Hydrochlorothiazide",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31034/carnovas-hz-5-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carol-D",
+    "strength": "500 mg+200 IU",
+    "generic": "Coral Calcium + Vitamin D3",
+    "company": "Cosmic Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29528/carol-d-500-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carplatin",
+    "strength": "10 mg/ml",
+    "generic": "Carboplatin",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/18573/carplatin-10-mg-injection",
+    "_source_page": 125
+  },
+  {
+    "name": "Carsec",
+    "strength": "100 mg",
+    "generic": "Atenolol",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1084/carsec-100-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carsec",
+    "strength": "50 mg",
+    "generic": "Atenolol",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1085/carsec-50-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Cartibon",
+    "strength": "750 mg+50 mg",
+    "generic": "Glucosamine Sulfate + Diacerein",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19797/cartibon-750-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carticare",
+    "strength": "250 mg+200 mg",
+    "generic": "Glucosamine Sulfate + Chondroitin",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/20754/carticare-250-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carticare Max",
+    "strength": "750 mg+50 mg",
+    "generic": "Glucosamine Sulfate + Diacerein",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19798/carticare-max-750-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carticare TS",
+    "strength": "750 mg+600 mg",
+    "generic": "Glucosamine Sulfate + Chondroitin",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32520/carticare-ts-750-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carticel Plus",
+    "strength": "250 mg+200 mg",
+    "generic": "Glucosamine Sulfate + Chondroitin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14970/carticel-plus-250-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Carticel TS",
+    "strength": "750 mg+600 mg",
+    "generic": "Glucosamine Sulfate + Chondroitin",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29476/carticel-ts-750-mg-tablet",
+    "_source_page": 125
+  },
+  {
+    "name": "Cartidin",
+    "strength": "750 mg+50 mg",
+    "generic": "Glucosamine Sulfate + Diacerein",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27714/cartidin-750-mg-tablet",
+    "_source_page": 125
+  }
+]

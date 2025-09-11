@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "OxyFast",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/30956/oxyfast-005-nasal-spray",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxyfer",
+    "strength": "500 mg/10 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/32426/oxyfer-500-mg-injection",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxyfer",
+    "strength": "750 mg/15 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/32427/oxyfer-750-mg-injection",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxyfer",
+    "strength": "1 gm/20 ml",
+    "generic": "Ferric Carboxymaltose",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection or Infusion",
+    "source_url": "https://medex.com.bd/brands/32428/oxyfer-1-gm-injection",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxymet",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/23249/oxymet-005-nasal-drop",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxymet",
+    "strength": "0.025%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "OSL Pharma Limited",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/23250/oxymet-0025-nasal-drop",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxynex",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16279/oxynex-005-nasal-drop",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxynex",
+    "strength": "0.025%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/16280/oxynex-0025-nasal-drop",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxynex",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Nasal Spray",
+    "source_url": "https://medex.com.bd/brands/16281/oxynex-005-nasal-spray",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxytetracycline",
+    "strength": "250 mg",
+    "generic": "Oxytetracycline",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/8325/oxytetracycline-250-mg-capsule",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxyton",
+    "strength": "5 IU/ml",
+    "generic": "Oxytocin",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15666/oxyton-5-iu-injection",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxyton DS",
+    "strength": "10 IU/ml",
+    "generic": "Oxytocin",
+    "company": "Renata PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/29303/oxyton-ds-10-iu-injection",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxyzolin",
+    "strength": "0.025%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/32951/oxyzolin-0025-nasal-drop",
+    "_source_page": 556
+  },
+  {
+    "name": "Oxyzolin",
+    "strength": "0.05%",
+    "generic": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "company": "Gaco Pharmaceuticals Ltd.",
+    "medicine_type": "Nasal Drop",
+    "source_url": "https://medex.com.bd/brands/32952/oxyzolin-005-nasal-drop",
+    "_source_page": 556
+  },
+  {
+    "name": "Ozempic",
+    "strength": "1.34 mg/ml",
+    "generic": "Semaglutide",
+    "company": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/34292/ozempic-134-mg-injection",
+    "_source_page": 556
+  },
+  {
+    "name": "Ozil",
+    "strength": "5 mg",
+    "generic": "Olanzapine",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33093/ozil-5-mg-tablet",
+    "_source_page": 556
+  },
+  {
+    "name": "Ozil",
+    "strength": "10 mg",
+    "generic": "Olanzapine",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33094/ozil-10-mg-tablet",
+    "_source_page": 556
+  },
+  {
+    "name": "Ozink",
+    "strength": "10 mg/5 ml",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27093/ozink-10-mg-syrup",
+    "_source_page": 556
+  },
+  {
+    "name": "Ozink-B",
+    "strength": null,
+    "generic": "Vitamin B Complex + Zinc",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/25298/ozink-b-syrup",
+    "_source_page": 556
+  },
+  {
+    "name": "Ozole",
+    "strength": "20 mg",
+    "generic": "Omeprazole",
+    "company": "Peoples Pharma Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/1922/ozole-20-mg-capsule",
+    "_source_page": 556
+  },
+  {
+    "name": "P Lac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2401/p-lac-335-gm-oral-solution",
+    "_source_page": 556
+  },
+  {
+    "name": "P Phos",
+    "strength": "15 mg",
+    "generic": "Primaquine Phosphate",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10278/p-phos-15-mg-tablet",
+    "_source_page": 556
+  },
+  {
+    "name": "P-20",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2153/p-20-20-mg-tablet",
+    "_source_page": 556
+  },
+  {
+    "name": "P-40",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2154/p-40-40-mg-tablet",
+    "_source_page": 556
+  },
+  {
+    "name": "P-caine",
+    "strength": "0.5%",
+    "generic": "Proparacaine Hydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16230/p-caine-05-eye-drop",
+    "_source_page": 556
+  },
+  {
+    "name": "P-Cef",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6951/p-cef-500-mg-capsule",
+    "_source_page": 556
+  },
+  {
+    "name": "P-Cef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6952/p-cef-125-mg-suspension",
+    "_source_page": 556
+  },
+  {
+    "name": "P-Cef",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cephradine",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6954/p-cef-125-mg-pediatric-drop",
+    "_source_page": 556
+  },
+  {
+    "name": "P-Cef DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6953/p-cef-ds-250-mg-suspension",
+    "_source_page": 556
+  },
+  {
+    "name": "P-Cool",
+    "strength": "15%+10%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/10860/p-cool-15-10-cream",
+    "_source_page": 556
+  },
+  {
+    "name": "P-Cort",
+    "strength": "5 mg/5 ml",
+    "generic": "Prednisolone",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/5816/p-cort-5-mg-oral-solution",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Cort",
+    "strength": "5 mg",
+    "generic": "Prednisolone",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22284/p-cort-5-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Dol",
+    "strength": "325 mg+37.5 mg",
+    "generic": "Paracetamol + Tramadol Hydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10772/p-dol-325-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Don",
+    "strength": "10 mg",
+    "generic": "Domperidone Maleate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1630/p-don-10-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Don",
+    "strength": "5 mg/5 ml",
+    "generic": "Domperidone Maleate",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/1631/p-don-5-mg-suspension",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Gut",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2144/p-gut-20-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Gut",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2145/p-gut-40-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Gut",
+    "strength": "40 mg/vial",
+    "generic": "Pantoprazole Sodium",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/2146/p-gut-40-mg-injection",
+    "_source_page": 557
+  },
+  {
+    "name": "P-L Jelly",
+    "strength": "(1 gm+1.3 gm)/50 gm",
+    "generic": "Hydroxyethyl Cellulose + Glycerin",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/30099/p-l-jelly-1-gm-topical-gel",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Lock",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23345/p-lock-40-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Lock",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/23346/p-lock-20-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Moxlocin",
+    "strength": "0.5%",
+    "generic": "Moxifloxacin Hydrochloride (Ophthalmic)",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/22687/p-moxlocin-05-eye-drop",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Plex",
+    "strength": "5 mg+2 mg+2 mg+20 mg",
+    "generic": "Vitamin B complex",
+    "company": "Prime Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13890/p-plex-5-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Proton",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Doctor TIMS Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/32550/p-proton-20-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Tetracycline",
+    "strength": "250 mg",
+    "generic": "Tetracycline Hydrochloride",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/35663/p-tetracycline-250-mg-capsule",
+    "_source_page": 557
+  },
+  {
+    "name": "P-Zink",
+    "strength": "20 mg",
+    "generic": "Zinc Sulfate Monohydrate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28761/p-zink-20-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "P+C",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10608/pc-500-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "PAC",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10597/pac-500-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "Pace",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Marksman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10644/pace-500-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "Pacet",
+    "strength": "200 mg",
+    "generic": "Amiodarone Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/615/pacet-200-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "Pacet",
+    "strength": "100 mg",
+    "generic": "Amiodarone Hydrochloride",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/616/pacet-100-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "Pacibion",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/13688/pacibion-100-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "Pacibion",
+    "strength": "(100 mg+100 mg+1 mg)/3 ml",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/28584/pacibion-100-mg-injection",
+    "_source_page": 557
+  },
+  {
+    "name": "Pacin-V",
+    "strength": "250 mg",
+    "generic": "Phenoxymethyl Penicillin [Penicillin V]",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/6142/pacin-v-250-mg-tablet",
+    "_source_page": 557
+  },
+  {
+    "name": "Pacli",
+    "strength": "6 mg/ml",
+    "generic": "Paclitaxel",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/31436/pacli-6-mg-injection",
+    "_source_page": 557
+  },
+  {
+    "name": "Paclitaxel",
+    "strength": "6 mg/ml",
+    "generic": "Paclitaxel",
+    "company": "CuRx",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/35918/paclitaxel-6-mg-injection",
+    "_source_page": 557
+  },
+  {
+    "name": "Paclitaxel Actavis",
+    "strength": "6 mg/ml",
+    "generic": "Paclitaxel",
+    "company": "BOTS Pvt. Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17272/paclitaxel-actavis-6-mg-injection",
+    "_source_page": 557
+  },
+  {
+    "name": "Paclitaxel AqVida",
+    "strength": "6 mg/ml",
+    "generic": "Paclitaxel",
+    "company": "AqVida bangladesh",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17346/paclitaxel-aqvida-6-mg-injection",
+    "_source_page": 557
+  },
+  {
+    "name": "Paclitaxel PhaRes",
+    "strength": "6 mg/ml",
+    "generic": "Paclitaxel",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/17300/paclitaxel-phares-6-mg-injection",
+    "_source_page": 557
+  },
+  {
+    "name": "Paclitaxel Sandoz",
+    "strength": "6 mg/ml",
+    "generic": "Paclitaxel",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15135/paclitaxel-sandoz-6-mg-injection",
+    "_source_page": 557
+  },
+  {
+    "name": "Paclitex",
+    "strength": "6 mg/ml",
+    "generic": "Paclitaxel",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15136/paclitex-6-mg-injection",
+    "_source_page": 558
+  },
+  {
+    "name": "Paclitor",
+    "strength": "6 mg/ml",
+    "generic": "Paclitaxel",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/29807/paclitor-6-mg-injection",
+    "_source_page": 558
+  },
+  {
+    "name": "Pactorin",
+    "strength": "2.6 mg",
+    "generic": "Nitroglycerin",
+    "company": "ACI Limited",
+    "medicine_type": "Retard Tablet",
+    "source_url": "https://medex.com.bd/brands/3033/pactorin-26-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Pactorin",
+    "strength": "400 mcg/spray",
+    "generic": "Nitroglycerin",
+    "company": "ACI Limited",
+    "medicine_type": "Topical Spray",
+    "source_url": "https://medex.com.bd/brands/20770/pactorin-400-mcg-spray",
+    "_source_page": 558
+  },
+  {
+    "name": "Padi-D",
+    "strength": "400 IU/ml",
+    "generic": "Cholecalciferol [Vitamin D3]",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/34803/padi-d-400-iu-oral-solution",
+    "_source_page": 558
+  },
+  {
+    "name": "Paftrol",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12281/paftrol-10-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Paftrol",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/24395/paftrol-5-mg-oral-solution",
+    "_source_page": 558
+  },
+  {
+    "name": "Pagerd",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2155/pagerd-20-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Pagerd",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Novatek Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2156/pagerd-40-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Pain Zero TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11062/pain-zero-tr-100-mg-capsule",
+    "_source_page": 558
+  },
+  {
+    "name": "Painac-TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Royal Pharmaceutical Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/32182/painac-tr-100-mg-capsule",
+    "_source_page": 558
+  },
+  {
+    "name": "PainCare",
+    "strength": "375 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11606/paincare-375-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "PainCare",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Labaid Pharma Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11607/paincare-500-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Painex",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/67/painex-100-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Painfree",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Quality Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21284/painfree-10-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Painil",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10468/painil-500-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Painil",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10469/painil-120-mg-suspension",
+    "_source_page": 558
+  },
+  {
+    "name": "Painil Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Kumudini Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10598/painil-plus-500-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Painkil",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17381/painkil-100-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Painkil SR",
+    "strength": "200 mg",
+    "generic": "Aceclofenac",
+    "company": "Veritas Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/35186/painkil-sr-200-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Painles",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Save Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37856/painles-100-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Painliv",
+    "strength": "30%+10%+4%",
+    "generic": "Methyl Salicylate + Menthol + Camphor",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35726/painliv-30-10-cream",
+    "_source_page": 558
+  },
+  {
+    "name": "Painlok",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Novus Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15436/painlok-10-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Painmove",
+    "strength": "30%+8%",
+    "generic": "Methyl Salicylate + Menthol",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/29166/painmove-30-8-cream",
+    "_source_page": 558
+  },
+  {
+    "name": "Paino",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17382/paino-100-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Pair",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15367/pair-10-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Pair",
+    "strength": "30 mg/ml",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/15368/pair-30-mg-injection",
+    "_source_page": 558
+  },
+  {
+    "name": "Pair",
+    "strength": "0.5%",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/15451/pair-05-eye-drop",
+    "_source_page": 558
+  },
+  {
+    "name": "Pairox",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11478/pairox-250-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Pairox",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11479/pairox-500-mg-tablet",
+    "_source_page": 558
+  },
+  {
+    "name": "Palanomed",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "MedRx Life Science Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23292/palanomed-05-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palbo",
+    "strength": "125 mg",
+    "generic": "Palbociclib",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31178/palbo-125-mg-capsule",
+    "_source_page": 559
+  },
+  {
+    "name": "Palbocent",
+    "strength": "125 mg",
+    "generic": "Palbociclib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26017/palbocent-125-mg-capsule",
+    "_source_page": 559
+  },
+  {
+    "name": "Palbokin",
+    "strength": "125 mg",
+    "generic": "Palbociclib",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33429/palbokin-125-mg-capsule",
+    "_source_page": 559
+  },
+  {
+    "name": "Palbolib",
+    "strength": "125 mg",
+    "generic": "Palbociclib",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/36626/palbolib-125-mg-capsule",
+    "_source_page": 559
+  },
+  {
+    "name": "Palboxen",
+    "strength": "125 mg",
+    "generic": "Palbociclib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33114/palboxen-125-mg-capsule",
+    "_source_page": 559
+  },
+  {
+    "name": "Palcigen",
+    "strength": "125 mg",
+    "generic": "Palbociclib",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32763/palcigen-125-mg-capsule",
+    "_source_page": 559
+  },
+  {
+    "name": "Palimax ER",
+    "strength": "6 mg",
+    "generic": "Paliperidone",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/25945/palimax-er-6-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palimax ER",
+    "strength": "1.5 mg",
+    "generic": "Paliperidone",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/25946/palimax-er-15-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palimax ER",
+    "strength": "3 mg",
+    "generic": "Paliperidone",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/25947/palimax-er-3-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palker",
+    "strength": "125 mg",
+    "generic": "Palbociclib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26016/palker-125-mg-capsule",
+    "_source_page": 559
+  },
+  {
+    "name": "PalmaCheck",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "EcoHealth Plans Limited",
+    "medicine_type": "Glucometer",
+    "source_url": "https://medex.com.bd/brands/36042/palmacheck-glucometer",
+    "_source_page": 559
+  },
+  {
+    "name": "PalmaCheck",
+    "strength": null,
+    "generic": "Blood glucose monitoring device",
+    "company": "EcoHealth Plans Limited",
+    "medicine_type": "Test strip",
+    "source_url": "https://medex.com.bd/brands/36045/palmacheck-test-strip",
+    "_source_page": 559
+  },
+  {
+    "name": "Palmitizer",
+    "strength": "0.5%+70%",
+    "generic": "Chlorhexidine Gluconate + Isopropyl alcohol",
+    "company": "Ad-din Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/33746/palmitizer-05-70-hand-rub",
+    "_source_page": 559
+  },
+  {
+    "name": "Palnox",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4776/palnox-025-mg-injection",
+    "_source_page": 559
+  },
+  {
+    "name": "Palnox",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4778/palnox-05-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palon",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4779/palon-05-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palon",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Pharmasia Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4780/palon-0075-mg-injection",
+    "_source_page": 559
+  },
+  {
+    "name": "Palon",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Pharmasia Limited",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4781/palon-025-mg-injection",
+    "_source_page": 559
+  },
+  {
+    "name": "Palopag",
+    "strength": "200 mg",
+    "generic": "Selexipag",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32276/palopag-200-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palopag",
+    "strength": "400 mg",
+    "generic": "Selexipag",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32277/palopag-400-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palorex",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4782/palorex-05-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palorid",
+    "strength": "1 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34497/palorid-1-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palorid",
+    "strength": "2 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "One Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34498/palorid-2-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Paloron",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4770/paloron-0075-mg-injection",
+    "_source_page": 559
+  },
+  {
+    "name": "Paloron",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4771/paloron-025-mg-injection",
+    "_source_page": 559
+  },
+  {
+    "name": "Paloron",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4772/paloron-05-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Paloron ODT",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/31085/paloron-odt-05-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Paloset",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4783/paloset-0075-mg-injection",
+    "_source_page": 559
+  },
+  {
+    "name": "Paloset",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4785/paloset-05-mg-tablet",
+    "_source_page": 559
+  },
+  {
+    "name": "Palosis",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23288/palosis-05-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Palosis",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/23289/palosis-05-mg-capsule",
+    "_source_page": 560
+  },
+  {
+    "name": "Palosis",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/26786/palosis-0075-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palosis",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/28419/palosis-025-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palostar",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/23293/palostar-0075-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palostar",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23294/palostar-05-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Palostat",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4786/palostat-05-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Palostat",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/23290/palostat-0075-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palostat",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/23291/palostat-025-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palotic",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/26478/palotic-0075-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palotic",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26479/palotic-05-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Palotic",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/29022/palotic-025-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palotron",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/38569/palotron-025-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palotron",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/38570/palotron-0075-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Paloxi",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4774/paloxi-0075-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Paloxi",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4775/paloxi-025-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Paloxi",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26394/paloxi-05-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Paloxi ODT",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Dispersible Tablet",
+    "source_url": "https://medex.com.bd/brands/27281/paloxi-odt-05-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Paloxiron",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4787/paloxiron-0075-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Paloxiron",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4788/paloxiron-025-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Paloxiron",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4789/paloxiron-05-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Palzen",
+    "strength": "0.075 mg/1.5 ml",
+    "generic": "Palonosetron",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4790/palzen-0075-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palzen",
+    "strength": "0.25 mg/5 ml",
+    "generic": "Palonosetron",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/4791/palzen-025-mg-injection",
+    "_source_page": 560
+  },
+  {
+    "name": "Palzen",
+    "strength": "0.5 mg",
+    "generic": "Palonosetron",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4792/palzen-05-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Pamel",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2157/pamel-20-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Pamel",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Medicon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2158/pamel-40-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Pamix",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10477/pamix-500-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Pamix",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10478/pamix-120-mg-suspension",
+    "_source_page": 560
+  },
+  {
+    "name": "Pamix Extra",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26735/pamix-extra-500-mg-tablet",
+    "_source_page": 560
+  },
+  {
+    "name": "Pamulin",
+    "strength": "1%",
+    "generic": "Retapamulin",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Ointment",
+    "source_url": "https://medex.com.bd/brands/28493/pamulin-1-ointment",
+    "_source_page": 560
+  }
+]

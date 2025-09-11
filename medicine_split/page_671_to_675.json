@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Semazic",
+    "strength": "0.25 mg/0.188 ml",
+    "generic": "Semaglutide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/37296/semazic-025-mg-injection",
+    "_source_page": 671
+  },
+  {
+    "name": "Semazic",
+    "strength": "0.5 mg/0.375 ml",
+    "generic": "Semaglutide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/37297/semazic-05-mg-injection",
+    "_source_page": 671
+  },
+  {
+    "name": "Semecon",
+    "strength": "67 mg/ml",
+    "generic": "Simethicone",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1307/semecon-67-mg-pediatric-drop",
+    "_source_page": 671
+  },
+  {
+    "name": "Semglee",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Glargine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/31900/semglee-100-iu-injection",
+    "_source_page": 671
+  },
+  {
+    "name": "Semotrim",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/9051/semotrim-200-mg-suspension",
+    "_source_page": 671
+  },
+  {
+    "name": "Semotrim",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Reliance Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/17035/semotrim-400-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Sencital",
+    "strength": "10 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Belsen Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/19359/sencital-10-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Senegra",
+    "strength": "100 mg",
+    "generic": "Sildenafil Citrate",
+    "company": "Pristine Pharmaceuticals Ltd",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35688/senegra-100-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Seno 3D Firming Breast Cream",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/38320/seno-3d-firming-breast-cream-cream",
+    "_source_page": 671
+  },
+  {
+    "name": "Seno 3D Volumizing Breast Serum",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Serum",
+    "source_url": "https://medex.com.bd/brands/38319/seno-3d-volumizing-breast-serum-serum",
+    "_source_page": 671
+  },
+  {
+    "name": "Senride",
+    "strength": "1 mg",
+    "generic": "Glimepiride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5344/senride-1-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Senride",
+    "strength": "2 mg",
+    "generic": "Glimepiride",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5345/senride-2-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensation Classic",
+    "strength": null,
+    "generic": "Latex condom [Sensation]",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Condom",
+    "source_url": "https://medex.com.bd/brands/37478/sensation-classic-condom",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensation Coffee",
+    "strength": null,
+    "generic": "Latex condom [Sensation]",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Condom",
+    "source_url": "https://medex.com.bd/brands/37480/sensation-coffee-condom",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensation Strawberry",
+    "strength": null,
+    "generic": "Latex condom [Sensation]",
+    "company": "SMC Enterprise Ltd",
+    "medicine_type": "Condom",
+    "source_url": "https://medex.com.bd/brands/37479/sensation-strawberry-condom",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensibio AR",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36247/sensibio-ar-cream",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensibio DS+ Cleansing Gel",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/36250/sensibio-ds-cleansing-gel-gel",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensibio DS+ Creme",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36249/sensibio-ds-creme-cream",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensibio Gel CTR DES Yeux",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/36248/sensibio-gel-ctr-des-yeux-lotion",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensibio H2O",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/36251/sensibio-h2o-cream",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensipin",
+    "strength": "25 mg",
+    "generic": "Clozapine",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30312/sensipin-25-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4363/sensit-05-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensitelial Cleansing",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Gel",
+    "source_url": "https://medex.com.bd/brands/36288/sensitelial-cleansing-gel",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensitelial Dermatological Bar",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Medicated Bar",
+    "source_url": "https://medex.com.bd/brands/36289/sensitelial-dermatological-bar-medicated-bar",
+    "_source_page": 671
+  },
+  {
+    "name": "Sensitelial Emollient Care",
+    "strength": null,
+    "generic": "Miscellaneous Topical Agents",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Lotion",
+    "source_url": "https://medex.com.bd/brands/36287/sensitelial-emollient-care-lotion",
+    "_source_page": 671
+  },
+  {
+    "name": "Sentibac",
+    "strength": "250 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/18929/sentibac-250-mg-injection",
+    "_source_page": 671
+  },
+  {
+    "name": "Sentibac",
+    "strength": "1 gm/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/18930/sentibac-1-gm-injection",
+    "_source_page": 671
+  },
+  {
+    "name": "Sentix",
+    "strength": "0.5 mg",
+    "generic": "Flupentixol Dihydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4318/sentix-05-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Sentix",
+    "strength": "1 mg",
+    "generic": "Flupentixol Dihydrochloride",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4319/sentix-1-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Sentrol",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33624/sentrol-10-mg-tablet",
+    "_source_page": 671
+  },
+  {
+    "name": "Seofol Plus",
+    "strength": "150 mg+0.5 mg",
+    "generic": "Ferrous Sulfate + Folic Acid",
+    "company": "Silco Pharmaceutical Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/31559/seofol-plus-150-mg-capsule",
+    "_source_page": 672
+  },
+  {
+    "name": "Sephar",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7033/sephar-500-mg-capsule",
+    "_source_page": 672
+  },
+  {
+    "name": "Sephar",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7034/sephar-125-mg-suspension",
+    "_source_page": 672
+  },
+  {
+    "name": "Sephar DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7035/sephar-ds-250-mg-suspension",
+    "_source_page": 672
+  },
+  {
+    "name": "Seplon",
+    "strength": "0.3%+3%",
+    "generic": "Chlorhexidine Gluconate + Cetrimide",
+    "company": "Indo Bangla Pharmaceutical",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/13107/seplon-03-3-solution",
+    "_source_page": 672
+  },
+  {
+    "name": "Sepnil",
+    "strength": "0.5%+3%",
+    "generic": "Chlorhexidine Gluconate + Cetrimide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/12837/sepnil-05-3-solution",
+    "_source_page": 672
+  },
+  {
+    "name": "Sepnil",
+    "strength": "1.5%+15%",
+    "generic": "Chlorhexidine Gluconate + Cetrimide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Solution",
+    "source_url": "https://medex.com.bd/brands/12838/sepnil-15-15-solution",
+    "_source_page": 672
+  },
+  {
+    "name": "Sepra-S",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7036/sepra-s-500-mg-capsule",
+    "_source_page": 672
+  },
+  {
+    "name": "Sepra-S",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Seema Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7037/sepra-s-125-mg-suspension",
+    "_source_page": 672
+  },
+  {
+    "name": "Sepsol",
+    "strength": "75%+0.125%+1.45%",
+    "generic": "Isopropyl Alcohol + Hydrogen Peroxide + Glycerol",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Hand Rub",
+    "source_url": "https://medex.com.bd/brands/30210/sepsol-75-0125-hand-rub",
+    "_source_page": 672
+  },
+  {
+    "name": "Septra",
+    "strength": "400 mg+80 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38081/septra-400-mg-tablet",
+    "_source_page": 672
+  },
+  {
+    "name": "Septra",
+    "strength": "(200 mg+40 mg)/5 ml",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/38083/septra-200-mg-suspension",
+    "_source_page": 672
+  },
+  {
+    "name": "Septra DS",
+    "strength": "800 mg+160 mg",
+    "generic": "Sulphamethoxazole + Trimethoprim",
+    "company": "Asiatic Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38082/septra-ds-800-mg-tablet",
+    "_source_page": 672
+  },
+  {
+    "name": "Sera",
+    "strength": "50 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28056/sera-50-mg-tablet",
+    "_source_page": 672
+  },
+  {
+    "name": "Seraflo",
+    "strength": "(25 mcg+250 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/20504/seraflo-25-mcg-inhaler",
+    "_source_page": 672
+  },
+  {
+    "name": "Seraflo",
+    "strength": "(25 mcg+125 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/20505/seraflo-25-mcg-inhaler",
+    "_source_page": 672
+  },
+  {
+    "name": "Seraflo",
+    "strength": "50 mcg+100 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/26624/seraflo-50-mcg-inhalation-capsule",
+    "_source_page": 672
+  },
+  {
+    "name": "Seraflo",
+    "strength": "50 mcg+250 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/26625/seraflo-50-mcg-inhalation-capsule",
+    "_source_page": 672
+  },
+  {
+    "name": "Seravent",
+    "strength": "25 mcg/puff",
+    "generic": "Salmeterol Xinafoate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/24413/seravent-25-mcg-inhaler",
+    "_source_page": 672
+  },
+  {
+    "name": "Sercoza",
+    "strength": "2%",
+    "generic": "Sertaconazole Nitrate [Topical]",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33225/sercoza-2-cream",
+    "_source_page": 672
+  },
+  {
+    "name": "Serelam",
+    "strength": "0.25 mg",
+    "generic": "Alprazolam",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/209/serelam-025-mg-tablet",
+    "_source_page": 672
+  },
+  {
+    "name": "Serelam",
+    "strength": "0.5 mg",
+    "generic": "Alprazolam",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/210/serelam-05-mg-tablet",
+    "_source_page": 672
+  },
+  {
+    "name": "Serelose",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2404/serelose-335-gm-oral-solution",
+    "_source_page": 672
+  },
+  {
+    "name": "Seren",
+    "strength": "20 mg",
+    "generic": "Fluoxetine Hydrochloride",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/4513/seren-20-mg-capsule",
+    "_source_page": 672
+  },
+  {
+    "name": "Seretrol-F",
+    "strength": "50 mcg+250 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Multidose Dry Powder Inhaler (MDPI)",
+    "source_url": "https://medex.com.bd/brands/37181/seretrol-f-50-mcg-mdpi",
+    "_source_page": 672
+  },
+  {
+    "name": "Seretrol-F",
+    "strength": "50 mcg+100 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Multidose Dry Powder Inhaler (MDPI)",
+    "source_url": "https://medex.com.bd/brands/37182/seretrol-f-50-mcg-mdpi",
+    "_source_page": 672
+  },
+  {
+    "name": "Seretrol-F",
+    "strength": "50 mcg+500 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Multidose Dry Powder Inhaler (MDPI)",
+    "source_url": "https://medex.com.bd/brands/37221/seretrol-f-50-mcg-mdpi",
+    "_source_page": 672
+  },
+  {
+    "name": "Sergel",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2103/sergel-20-mg-capsule",
+    "_source_page": 672
+  },
+  {
+    "name": "Sergel",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2104/sergel-40-mg-capsule",
+    "_source_page": 672
+  },
+  {
+    "name": "Sergel",
+    "strength": "40 mg/vial",
+    "generic": "Esomeprazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/2107/sergel-40-mg-injection",
+    "_source_page": 672
+  },
+  {
+    "name": "Sergel",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/26120/sergel-20-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Sergel",
+    "strength": "40 mg",
+    "generic": "Esomeprazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/26857/sergel-40-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Sergel",
+    "strength": "20 mg",
+    "generic": "Esomeprazole",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/29226/sergel-20-mg-powder",
+    "_source_page": 673
+  },
+  {
+    "name": "Sergel MUPS",
+    "strength": "20 mg",
+    "generic": "Esomeprazole (MUPS preparation)",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "MUPS Tablet",
+    "source_url": "https://medex.com.bd/brands/29893/sergel-mups-20-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Sergel MUPS",
+    "strength": "40 mg",
+    "generic": "Esomeprazole (MUPS preparation)",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "MUPS Tablet",
+    "source_url": "https://medex.com.bd/brands/29894/sergel-mups-40-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seridol",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Sonear Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10510/seridol-500-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serifen",
+    "strength": "300 mg",
+    "generic": "Dexibuprofen",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10910/serifen-300-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serifen",
+    "strength": "400 mg",
+    "generic": "Dexibuprofen",
+    "company": "Silva Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10911/serifen-400-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serivan",
+    "strength": "17 mg",
+    "generic": "Pimavanserin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30182/serivan-17-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serivan",
+    "strength": "34 mg",
+    "generic": "Pimavanserin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/32382/serivan-34-mg-capsule",
+    "_source_page": 673
+  },
+  {
+    "name": "Serobion",
+    "strength": "100 mg+200 mg+200 mcg",
+    "generic": "Vitamin B1, B6 & B12",
+    "company": "Leon Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/14001/serobion-100-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serofit",
+    "strength": "25 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32664/serofit-25-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serofit",
+    "strength": "50 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32665/serofit-50-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serolux",
+    "strength": "25 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4538/serolux-25-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serolux",
+    "strength": "50 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4539/serolux-50-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serolux",
+    "strength": "100 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4540/serolux-100-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seronex",
+    "strength": "50 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29926/seronex-50-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seronex",
+    "strength": "25 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29927/seronex-25-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seronex",
+    "strength": "100 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29928/seronex-100-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Serontin",
+    "strength": "250 mg/5 ml",
+    "generic": "Ethosuximide",
+    "company": "ACI Limited",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4889/serontin-250-mg-syrup",
+    "_source_page": 673
+  },
+  {
+    "name": "Seropam",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31896/seropam-5-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seropam",
+    "strength": "10 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/31897/seropam-10-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seropin",
+    "strength": "100 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26795/seropin-100-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seropin",
+    "strength": "25 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26796/seropin-25-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seroquet",
+    "strength": "25 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4412/seroquet-25-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seroquet",
+    "strength": "100 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4413/seroquet-100-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seroquet ER",
+    "strength": "200 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/29765/seroquet-er-200-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seroquet ER",
+    "strength": "50 mg",
+    "generic": "Quetiapine Fumarate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Extended Release)",
+    "source_url": "https://medex.com.bd/brands/30105/seroquet-er-50-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seroset",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/23149/seroset-8-mg-tablet",
+    "_source_page": 673
+  },
+  {
+    "name": "Seroset",
+    "strength": "8 mg/4 ml",
+    "generic": "Ondansetron",
+    "company": "Globex Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/23150/seroset-8-mg-injection",
+    "_source_page": 673
+  },
+  {
+    "name": "Serotal",
+    "strength": "10 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26665/serotal-10-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Serotal",
+    "strength": "5 mg",
+    "generic": "Escitalopram Oxalate",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26666/serotal-5-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Seroxyn",
+    "strength": "50 mcg+100 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "ACI Limited",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3955/seroxyn-50-mcg-inhalation-capsule",
+    "_source_page": 674
+  },
+  {
+    "name": "Seroxyn",
+    "strength": "50 mcg+250 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "ACI Limited",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3956/seroxyn-50-mcg-inhalation-capsule",
+    "_source_page": 674
+  },
+  {
+    "name": "Seroxyn",
+    "strength": "50 mcg+500 mcg",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "ACI Limited",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/3957/seroxyn-50-mcg-inhalation-capsule",
+    "_source_page": 674
+  },
+  {
+    "name": "Seroxyn",
+    "strength": "(25 mcg+50 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "ACI Limited",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/20500/seroxyn-25-mcg-inhaler",
+    "_source_page": 674
+  },
+  {
+    "name": "Seroxyn",
+    "strength": "(25 mcg+125 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "ACI Limited",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/26381/seroxyn-25-mcg-inhaler",
+    "_source_page": 674
+  },
+  {
+    "name": "Seroxyn",
+    "strength": "(25 mcg+250 mcg)/puff",
+    "generic": "Salmeterol + Fluticasone Propionate",
+    "company": "ACI Limited",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/26382/seroxyn-25-mcg-inhaler",
+    "_source_page": 674
+  },
+  {
+    "name": "Serozid",
+    "strength": "250 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7877/serozid-250-mg-injection",
+    "_source_page": 674
+  },
+  {
+    "name": "Serozid",
+    "strength": "500 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7878/serozid-500-mg-injection",
+    "_source_page": 674
+  },
+  {
+    "name": "Serozid",
+    "strength": "1 gm/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7879/serozid-1-gm-injection",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertabet",
+    "strength": "2%",
+    "generic": "Sertaconazole Nitrate [Topical]",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/34855/sertabet-2-cream",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertacon",
+    "strength": "2%",
+    "generic": "Sertaconazole Nitrate [Topical]",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/30476/sertacon-2-cream",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertacon VS",
+    "strength": "300 mg",
+    "generic": "Sertaconazole Nitrate [Vaginal]",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Vaginal Suppository",
+    "source_url": "https://medex.com.bd/brands/35147/sertacon-vs-300-mg-vaginal-suppository",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertagin",
+    "strength": "2%",
+    "generic": "Sertaconazole Nitrate [Topical]",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/35615/sertagin-2-cream",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertal",
+    "strength": "50 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4541/sertal-50-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertal",
+    "strength": "25 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24429/sertal-25-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertal",
+    "strength": "100 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24430/sertal-100-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertazol",
+    "strength": "2%",
+    "generic": "Sertaconazole Nitrate [Topical]",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/33222/sertazol-2-cream",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertlin",
+    "strength": "25 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24425/sertlin-25-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertlin",
+    "strength": "50 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24426/sertlin-50-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Sertlin",
+    "strength": "100 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "Albion Laboratories Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24427/sertlin-100-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Servex",
+    "strength": "100 mg",
+    "generic": "Aceclofenac",
+    "company": "Novo Healthcare and Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/85/servex-100-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Serviflox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9343/serviflox-500-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Servinaprox",
+    "strength": "250 mg",
+    "generic": "Naproxen Sodium",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11486/servinaprox-250-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Servinaprox",
+    "strength": "500 mg",
+    "generic": "Naproxen Sodium",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11487/servinaprox-500-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Servipep",
+    "strength": "20 mg",
+    "generic": "Famotidine",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1670/servipep-20-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Servipep",
+    "strength": "40 mg",
+    "generic": "Famotidine",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1671/servipep-40-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Serviprofen",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11302/serviprofen-400-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Servizol",
+    "strength": "400 mg",
+    "generic": "Metronidazole",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10224/servizol-400-mg-tablet",
+    "_source_page": 674
+  },
+  {
+    "name": "Sesofen",
+    "strength": "1 mg/5 ml",
+    "generic": "Ketotifen Fumarate (Oral)",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4193/sesofen-1-mg-syrup",
+    "_source_page": 675
+  },
+  {
+    "name": "Setfree",
+    "strength": "1.5 mg",
+    "generic": "Levonorgestrel [Emergency contraceptive pill]",
+    "company": "Nuvista Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21555/setfree-15-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Setic",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7639/setic-200-mg-capsule",
+    "_source_page": 675
+  },
+  {
+    "name": "Setic",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7640/setic-400-mg-capsule",
+    "_source_page": 675
+  },
+  {
+    "name": "Setic",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "SANDOZ (A Novartis Division)",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7641/setic-100-mg-suspension",
+    "_source_page": 675
+  },
+  {
+    "name": "Setir",
+    "strength": "10 mg",
+    "generic": "Cetirizine Hydrochloride",
+    "company": "Amulet Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11996/setir-10-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Seton",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Delta Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4761/seton-8-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Setorib",
+    "strength": "60 mg",
+    "generic": "Etoricoxib",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11218/setorib-60-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Setorib",
+    "strength": "90 mg",
+    "generic": "Etoricoxib",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11219/setorib-90-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Setorib",
+    "strength": "120 mg",
+    "generic": "Etoricoxib",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11220/setorib-120-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Setra",
+    "strength": "25 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4542/setra-25-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Setra",
+    "strength": "50 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4543/setra-50-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Setra",
+    "strength": "100 mg",
+    "generic": "Sertraline Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4544/setra-100-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Setronax",
+    "strength": "8 mg",
+    "generic": "Ondansetron",
+    "company": "Monicopharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4762/setronax-8-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevel",
+    "strength": "800 mg",
+    "generic": "Sevelamer Carbonate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24437/sevel-800-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevelax",
+    "strength": "(300 mg+1.25 ml)/5 ml",
+    "generic": "Magnesium Hydroxide + Liquid Paraffin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Emulsion",
+    "source_url": "https://medex.com.bd/brands/21965/sevelax-300-mg-emulsion",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevenvit",
+    "strength": null,
+    "generic": "Multivitamin + Cod Liver Oil",
+    "company": "Pharmadesh Laboratories Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13571/sevenvit-syrup",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevitan",
+    "strength": "20 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22970/sevitan-20-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevitan",
+    "strength": "40 mg",
+    "generic": "Olmesartan Medoxomil",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30880/sevitan-40-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevitan HTZ",
+    "strength": "20 mg+12.5 mg",
+    "generic": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/22978/sevitan-htz-20-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevoflow",
+    "strength": "100% V/V",
+    "generic": "Sevoflurane",
+    "company": "ACI Limited",
+    "medicine_type": "Solution for Inhalation",
+    "source_url": "https://medex.com.bd/brands/36816/sevoflow-100-v-solution-for-inhalation",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevoflurane",
+    "strength": "100% V/V",
+    "generic": "Sevoflurane",
+    "company": "CuRx",
+    "medicine_type": "Solution for Inhalation",
+    "source_url": "https://medex.com.bd/brands/35917/sevoflurane-100-v-solution-for-inhalation",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevoflurane",
+    "strength": "100% V/V",
+    "generic": "Sevoflurane",
+    "company": "DBL Healthcare Ltd.",
+    "medicine_type": "Solution for Inhalation",
+    "source_url": "https://medex.com.bd/brands/38532/sevoflurane-100-v-solution-for-inhalation",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevoflurane USP",
+    "strength": "100% V/V",
+    "generic": "Sevoflurane",
+    "company": "ZAS Corporation",
+    "medicine_type": "Solution for Inhalation",
+    "source_url": "https://medex.com.bd/brands/29602/sevoflurane-usp-100-v-solution-for-inhalation",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevoran",
+    "strength": "100% V/V",
+    "generic": "Sevoflurane",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Solution for Inhalation",
+    "source_url": "https://medex.com.bd/brands/24440/sevoran-100-v-solution-for-inhalation",
+    "_source_page": 675
+  },
+  {
+    "name": "Sevorane",
+    "strength": "100% V/V",
+    "generic": "Sevoflurane",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Solution for Inhalation",
+    "source_url": "https://medex.com.bd/brands/15296/sevorane-100-v-solution-for-inhalation",
+    "_source_page": 675
+  },
+  {
+    "name": "Sezol DS",
+    "strength": "1000 mg",
+    "generic": "Secnidazole",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10249/sezol-ds-1000-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "SG-Plus",
+    "strength": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "generic": "Vitamin B complex",
+    "company": "Salton Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/13897/sg-plus-5-mg-syrup",
+    "_source_page": 675
+  },
+  {
+    "name": "SGN",
+    "strength": "50 mg",
+    "generic": "Sitagliptin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5506/sgn-50-mg-tablet",
+    "_source_page": 675
+  },
+  {
+    "name": "SGN",
+    "strength": "100 mg",
+    "generic": "Sitagliptin",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/5507/sgn-100-mg-tablet",
+    "_source_page": 675
+  }
+]

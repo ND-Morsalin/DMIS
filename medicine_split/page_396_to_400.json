@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Lamogin",
+    "strength": "50 mg",
+    "generic": "Lamotrigine",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21397/lamogin-50-mg-tablet",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanfos",
+    "strength": "250 mg",
+    "generic": "Lanthanum Carbonate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/30446/lanfos-250-mg-chewable-tablet",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanib",
+    "strength": "4 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31174/lanib-4-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanozole",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2119/lanozole-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanozole",
+    "strength": "15 mg",
+    "generic": "Lansoprazole",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2118/lanozole-15-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanplus",
+    "strength": "60 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/30856/lanplus-60-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanplus",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/30855/lanplus-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansec",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2121/lansec-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansec",
+    "strength": "15 mg",
+    "generic": "Lansoprazole",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2120/lansec-15-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansina",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2122/lansina-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanso",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2124/lanso-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanso D",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27516/lanso-d-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanso D",
+    "strength": "60 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/27517/lanso-d-60-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansodex",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/34335/lansodex-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansodex",
+    "strength": "60 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/34336/lansodex-60-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansodin",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2126/lansodin-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansodin",
+    "strength": "15 mg",
+    "generic": "Lansoprazole",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2125/lansodin-15-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansomax",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/36437/lansomax-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansopril",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2127/lansopril-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lansoprol",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/31071/lansoprol-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lantid",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2130/lantid-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lantidex",
+    "strength": "60 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/30297/lantidex-60-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lantidex",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/19754/lantidex-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lantus",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Glargine",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/26835/lantus-100-iu-injection",
+    "_source_page": 396
+  },
+  {
+    "name": "Lantus SoloStar",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Glargine",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/16838/lantus-solostar-100-iu-injection",
+    "_source_page": 396
+  },
+  {
+    "name": "Lanzol",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2131/lanzol-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lap",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/28045/lap-30-mg-capsule",
+    "_source_page": 396
+  },
+  {
+    "name": "Lapacent",
+    "strength": "250 mg",
+    "generic": "Lapatinib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21420/lapacent-250-mg-tablet",
+    "_source_page": 396
+  },
+  {
+    "name": "Laparen",
+    "strength": "250 mg",
+    "generic": "Lapatinib",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30363/laparen-250-mg-tablet",
+    "_source_page": 396
+  },
+  {
+    "name": "Lapen",
+    "strength": "12 lac units/vial",
+    "generic": "Benzathine Penicillin",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/30637/lapen-12-lac-injection",
+    "_source_page": 396
+  },
+  {
+    "name": "Lapen",
+    "strength": "6 lac units/vial",
+    "generic": "Benzathine Penicillin",
+    "company": "Jayson Pharmaceutical Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/30638/lapen-6-lac-injection",
+    "_source_page": 397
+  },
+  {
+    "name": "Lara",
+    "strength": "5 mg",
+    "generic": "Desloratadine",
+    "company": "Hudson Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12261/lara-5-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Larb",
+    "strength": "100 mg",
+    "generic": "Losartan Potassium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2715/larb-100-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Larb",
+    "strength": "50 mg",
+    "generic": "Losartan Potassium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2714/larb-50-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Larb",
+    "strength": "25 mg",
+    "generic": "Losartan Potassium",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2713/larb-25-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Larb Plus",
+    "strength": "50 mg+12.5 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2946/larb-plus-50-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Larb Plus",
+    "strength": "100 mg+25 mg",
+    "generic": "Losartan Potassium + Hydrochlorothiazide",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28319/larb-plus-100-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Larcadip",
+    "strength": "10 mg",
+    "generic": "Lercanidipine Hydrochloride",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21442/larcadip-10-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Lardon TR",
+    "strength": "100 mg",
+    "generic": "Diclofenac Sodium",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Timed Release)",
+    "source_url": "https://medex.com.bd/brands/11030/lardon-tr-100-mg-capsule",
+    "_source_page": 397
+  },
+  {
+    "name": "Largazin",
+    "strength": "25 mg/5 ml",
+    "generic": "Chlorpromazine Hydrochloride",
+    "company": "United Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/19305/largazin-25-mg-syrup",
+    "_source_page": 397
+  },
+  {
+    "name": "Largix",
+    "strength": "10 mg",
+    "generic": "Rupatadine Fumarate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/24378/largix-10-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Largix",
+    "strength": "5 mg/5 ml",
+    "generic": "Rupatadine Fumarate",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/24379/largix-5-mg-oral-solution",
+    "_source_page": 397
+  },
+  {
+    "name": "Larimef",
+    "strength": "250 mg",
+    "generic": "Mefloquine",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33637/larimef-250-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Larocent",
+    "strength": "100 mg",
+    "generic": "Larotrectinib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33554/larocent-100-mg-capsule",
+    "_source_page": 397
+  },
+  {
+    "name": "Larocent",
+    "strength": "25 mg",
+    "generic": "Larotrectinib",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33555/larocent-25-mg-capsule",
+    "_source_page": 397
+  },
+  {
+    "name": "Larsulin",
+    "strength": "100 IU/ml",
+    "generic": "Insulin Glargine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/26265/larsulin-100-iu-injection",
+    "_source_page": 397
+  },
+  {
+    "name": "Lasgrain",
+    "strength": "100 mg",
+    "generic": "Lasmiditan Hemisuccinate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34941/lasgrain-100-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Lasgrain",
+    "strength": "50 mg",
+    "generic": "Lasmiditan Hemisuccinate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34940/lasgrain-50-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Lasilactone",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2886/lasilactone-20-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Lasix",
+    "strength": "20 mg/2 ml",
+    "generic": "Furosemide",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/2845/lasix-20-mg-injection",
+    "_source_page": 397
+  },
+  {
+    "name": "Lasix",
+    "strength": "40 mg",
+    "generic": "Furosemide",
+    "company": "Synovia Pharma PLC.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2844/lasix-40-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Lasmi",
+    "strength": "100 mg",
+    "generic": "Lasmiditan Hemisuccinate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33180/lasmi-100-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Lasmi",
+    "strength": "50 mg",
+    "generic": "Lasmiditan Hemisuccinate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33179/lasmi-50-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Lasocon",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2133/lasocon-30-mg-capsule",
+    "_source_page": 397
+  },
+  {
+    "name": "Lasocon D",
+    "strength": "30 mg",
+    "generic": "Dexlansoprazole",
+    "company": "Biopharma Limited",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/29495/lasocon-d-30-mg-capsule",
+    "_source_page": 397
+  },
+  {
+    "name": "Lastet",
+    "strength": "100 mg/5 ml",
+    "generic": "Etoposide",
+    "company": "Nippon Kayaku Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/15078/lastet-100-mg-injection",
+    "_source_page": 397
+  },
+  {
+    "name": "Laten",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Supreme Pharmaceutical Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4253/laten-3-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Latuda",
+    "strength": "40 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29284/latuda-40-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Latuda",
+    "strength": "20 mg",
+    "generic": "Lurasidone Hydrochloride",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29283/latuda-20-mg-tablet",
+    "_source_page": 397
+  },
+  {
+    "name": "Laxana",
+    "strength": "24 mg",
+    "generic": "Lubiprostone",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34284/laxana-24-mg-capsule",
+    "_source_page": 397
+  },
+  {
+    "name": "Laxana",
+    "strength": "8 mg",
+    "generic": "Lubiprostone",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34283/laxana-8-mg-capsule",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxante",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35720/laxante-10-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxante",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/35721/laxante-5-mg-oral-solution",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxate",
+    "strength": "3.5 gm/sachet",
+    "generic": "Ispaghula Husk  [Psyllium]",
+    "company": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type": "Effervescent Powder",
+    "source_url": "https://medex.com.bd/brands/2366/laxate-35-gm-eff-powder",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxativ",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Rangs Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2391/laxativ-335-gm-oral-solution",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxefin",
+    "strength": "(300 mg+1.25 ml)/5 ml",
+    "generic": "Magnesium Hydroxide + Liquid Paraffin",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Emulsion",
+    "source_url": "https://medex.com.bd/brands/21966/laxefin-300-mg-emulsion",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxibat",
+    "strength": "5 mg",
+    "generic": "Elobixibat",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37453/laxibat-5-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxicarbon",
+    "strength": "500 mg",
+    "generic": "Activated Charcoal",
+    "company": "Total Herbal & Nutraceuticals",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33700/laxicarbon-500-mg-capsule",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxicon",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27923/laxicon-20-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxitab",
+    "strength": "1 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33377/laxitab-1-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxitab",
+    "strength": "2 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "NIPRO JMI Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33378/laxitab-2-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxitol",
+    "strength": "10 gm/sachet",
+    "generic": "Lactitol Monohydrate",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Powder",
+    "source_url": "https://medex.com.bd/brands/26766/laxitol-10-gm-powder",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxjoy",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37505/laxjoy-10-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxjoy",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37506/laxjoy-5-mg-oral-solution",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxocon",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "ACI Limited",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/38028/laxocon-5-mg-oral-solution",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxocon",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38029/laxocon-10-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxod",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Millat Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9434/laxod-500-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxofit",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/37500/laxofit-10-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxofit",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/37501/laxofit-5-mg-oral-solution",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxogol",
+    "strength": "(13.125 gm+350.7 mg+178.5 mg+46.6 mg)/25 ml",
+    "generic": "Polyethylene Glycol 3350 + Electrolytes",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/26518/laxogol-13125-gm-oral-solution",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxol",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Navana Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/21371/laxol-335-gm-oral-solution",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxolac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Globe Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2392/laxolac-335-gm-oral-solution",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxonil",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/18341/laxonil-3-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxopic",
+    "strength": "5 mg/5 ml",
+    "generic": "Sodium Picosulfate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/32380/laxopic-5-mg-oral-solution",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxopic",
+    "strength": "10 mg",
+    "generic": "Sodium Picosulfate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32379/laxopic-10-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxopride",
+    "strength": "1 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29332/laxopride-1-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxopride",
+    "strength": "2 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29333/laxopride-2-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxpru",
+    "strength": "1 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29983/laxpru-1-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxpru",
+    "strength": "2 mg",
+    "generic": "Prucalopride Succinate",
+    "company": "Team Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29984/laxpru-2-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxur",
+    "strength": "20 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/2888/laxur-20-mg-tablet",
+    "_source_page": 398
+  },
+  {
+    "name": "Laxur Plus",
+    "strength": "40 mg+50 mg",
+    "generic": "Furosemide + Spironolactone",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32726/laxur-plus-40-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Laxyl",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4255/laxyl-3-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lazo",
+    "strength": "30 mg",
+    "generic": "Lansoprazole",
+    "company": "Desh Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2134/lazo-30-mg-capsule",
+    "_source_page": 399
+  },
+  {
+    "name": "Lazonil",
+    "strength": "3 mg",
+    "generic": "Bromazepam",
+    "company": "Rephco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4254/lazonil-3-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Leanxit",
+    "strength": "0.5 mg+10 mg",
+    "generic": "Flupentixol + Melitracen",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/4348/leanxit-05-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Leaxe",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2393/leaxe-335-gm-oral-solution",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebac",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6919/lebac-125-mg-suspension",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebac",
+    "strength": "500 mg/vial",
+    "generic": "Cephradine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/6922/lebac-500-mg-injection",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebac",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cephradine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6921/lebac-125-mg-pediatric-drop",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebac",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6918/lebac-500-mg-capsule",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebac",
+    "strength": "250 mg",
+    "generic": "Cephradine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6917/lebac-250-mg-capsule",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebac Forte",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6920/lebac-forte-250-mg-suspension",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebrod",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3563/lebrod-1-mg-syrup",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebrod",
+    "strength": "1 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3561/lebrod-1-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebrod",
+    "strength": "2 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Alco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/3562/lebrod-2-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebutal",
+    "strength": "2 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28548/lebutal-2-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebutal",
+    "strength": "1 mg",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28547/lebutal-1-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lebutal",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/28549/lebutal-1-mg-syrup",
+    "_source_page": 399
+  },
+  {
+    "name": "Lecaren",
+    "strength": "100 mg+25 mg+200 mg",
+    "generic": "Levodopa + Carbidopa + Entacapone",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/29902/lecaren-100-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lecet",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Pacific Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12162/lecet-5-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lecitin",
+    "strength": "5 mg",
+    "generic": "Levocetirizine Dihydrochloride",
+    "company": "Zenith Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/12163/lecitin-5-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lecocin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Prime Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9545/lecocin-500-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Ledomide",
+    "strength": "25 mg",
+    "generic": "Lenalidomide",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30365/ledomide-25-mg-capsule",
+    "_source_page": 399
+  },
+  {
+    "name": "Ledomide",
+    "strength": "10 mg",
+    "generic": "Lenalidomide",
+    "company": "Renata PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/30364/ledomide-10-mg-capsule",
+    "_source_page": 399
+  },
+  {
+    "name": "Leevotin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Syntho Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9547/leevotin-500-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Leevotin",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "MST Pharma",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9435/leevotin-500-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lefabac",
+    "strength": "150 mg/15 ml",
+    "generic": "Lefamulin Acetate",
+    "company": "ACI Limited",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/36815/lefabac-150-mg-injection",
+    "_source_page": 399
+  },
+  {
+    "name": "Lefabac",
+    "strength": "600 mg",
+    "generic": "Lefamulin Acetate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36814/lefabac-600-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lefalin",
+    "strength": "600 mg",
+    "generic": "Lefamulin Acetate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33734/lefalin-600-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lefenta",
+    "strength": "600 mg",
+    "generic": "Lefamulin Acetate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38270/lefenta-600-mg-tablet",
+    "_source_page": 399
+  },
+  {
+    "name": "Lefex",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "Doctor’s Chemical Works Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9436/lefex-500-mg-tablet",
+    "_source_page": 400
+  },
+  {
+    "name": "Leflox",
+    "strength": "0.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "ACI Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9560/leflox-05-eye-drop",
+    "_source_page": 400
+  },
+  {
+    "name": "Leflox",
+    "strength": "500 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9437/leflox-500-mg-tablet",
+    "_source_page": 400
+  },
+  {
+    "name": "Leflox",
+    "strength": "750 mg",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "ACI Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9438/leflox-750-mg-tablet",
+    "_source_page": 400
+  },
+  {
+    "name": "Leflox TS",
+    "strength": "1.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "ACI Limited",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/32253/leflox-ts-15-eye-drop",
+    "_source_page": 400
+  },
+  {
+    "name": "Lefoam",
+    "strength": "67 mg/ml",
+    "generic": "Simethicone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/1301/lefoam-67-mg-pediatric-drop",
+    "_source_page": 400
+  },
+  {
+    "name": "Legaba",
+    "strength": "25 mg",
+    "generic": "Pregabalin",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/34046/legaba-25-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Legaba",
+    "strength": "50 mg",
+    "generic": "Pregabalin",
+    "company": "Apex Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27173/legaba-50-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lemodip",
+    "strength": "5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34123/lemodip-5-mg-tablet",
+    "_source_page": 400
+  },
+  {
+    "name": "Lemodip",
+    "strength": "2.5 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34122/lemodip-25-mg-tablet",
+    "_source_page": 400
+  },
+  {
+    "name": "Lemodip",
+    "strength": "1.25 mg",
+    "generic": "Levamlodipine Maleate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34121/lemodip-125-mg-tablet",
+    "_source_page": 400
+  },
+  {
+    "name": "Lemonika",
+    "strength": "31.25 mg/5 ml",
+    "generic": "Citric Acid Monohydrate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26217/lemonika-3125-mg-syrup",
+    "_source_page": 400
+  },
+  {
+    "name": "Lemovit-C",
+    "strength": "500 mg/5 ml",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Injection",
+    "source_url": "https://medex.com.bd/brands/25387/lemovit-c-500-mg-injection",
+    "_source_page": 400
+  },
+  {
+    "name": "Lemovit-C",
+    "strength": "250 mg",
+    "generic": "Vitamin C [Ascorbic acid]",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Chewable Tablet",
+    "source_url": "https://medex.com.bd/brands/31072/lemovit-c-250-mg-chewable-tablet",
+    "_source_page": 400
+  },
+  {
+    "name": "Lemox",
+    "strength": "40 mg/5 ml",
+    "generic": "Levamisole Hydrochloride",
+    "company": "Bengal drugs Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/10304/lemox-40-mg-syrup",
+    "_source_page": 400
+  },
+  {
+    "name": "Lemulin",
+    "strength": "150 mg/15 ml",
+    "generic": "Lefamulin Acetate",
+    "company": "Renata PLC",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/33732/lemulin-150-mg-injection",
+    "_source_page": 400
+  },
+  {
+    "name": "Lemulin",
+    "strength": "600 mg",
+    "generic": "Lefamulin Acetate",
+    "company": "Renata PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33733/lemulin-600-mg-tablet",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenor",
+    "strength": "2.5 mg",
+    "generic": "Letrozole",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15175/lenor-25-mg-tablet",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenva",
+    "strength": "10 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26013/lenva-10-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenva",
+    "strength": "4 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/26012/lenva-4-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenvacent",
+    "strength": "10 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28708/lenvacent-10-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenvacent",
+    "strength": "4 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28707/lenvacent-4-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenvakin",
+    "strength": "10 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33432/lenvakin-10-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenvakin",
+    "strength": "4 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33431/lenvakin-4-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenvaxen",
+    "strength": "10 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28835/lenvaxen-10-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenvaxen",
+    "strength": "4 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/28834/lenvaxen-4-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenvika",
+    "strength": "4 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29327/lenvika-4-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Lenvika",
+    "strength": "10 mg",
+    "generic": "Lenvatinib Mesylate",
+    "company": "Genvio Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29326/lenvika-10-mg-capsule",
+    "_source_page": 400
+  },
+  {
+    "name": "Leo",
+    "strength": "0.5%",
+    "generic": "Levofloxacin (Ophthalmic)",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/9561/leo-05-eye-drop",
+    "_source_page": 400
+  },
+  {
+    "name": "Leo",
+    "strength": "500 mg/100 ml",
+    "generic": "Levofloxacin Hemihydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/9442/leo-500-mg-injection",
+    "_source_page": 400
+  }
+]

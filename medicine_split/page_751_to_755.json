@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Trizon",
+    "strength": "1 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8130/trizon-1-gm-injection",
+    "_source_page": 751
+  },
+  {
+    "name": "Trizon",
+    "strength": "2 gm/vial",
+    "generic": "Ceftriaxone Sodium",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/8131/trizon-2-gm-injection",
+    "_source_page": 751
+  },
+  {
+    "name": "Trocane",
+    "strength": "0.8%+5%",
+    "generic": "Tropicamide + Phenylephrine Hydrochloride",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/30494/trocane-08-5-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Trocer",
+    "strength": "400 mcg/spray",
+    "generic": "Nitroglycerin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Spray",
+    "source_url": "https://medex.com.bd/brands/20779/trocer-400-mcg-spray",
+    "_source_page": 751
+  },
+  {
+    "name": "Trocer SR",
+    "strength": "2.6 mg",
+    "generic": "Nitroglycerin",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/33849/trocer-sr-26-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Trofurit",
+    "strength": "40 mg",
+    "generic": "Furosemide",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28060/trofurit-40-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Trofurit",
+    "strength": "20 mg/2 ml",
+    "generic": "Furosemide",
+    "company": "Ambee Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/28061/trofurit-20-mg-injection",
+    "_source_page": 751
+  },
+  {
+    "name": "Troket",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Avarox Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/21275/troket-10-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Trolen",
+    "strength": "25 mg",
+    "generic": "Dantrolene Sodium",
+    "company": "Drug International Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/19658/trolen-25-mg-capsule",
+    "_source_page": 751
+  },
+  {
+    "name": "Tromark",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Hallmark Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15402/tromark-10-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Trombola",
+    "strength": "25 mg",
+    "generic": "Eltrombopag Olamine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35191/trombola-25-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Trombola",
+    "strength": "50 mg",
+    "generic": "Eltrombopag Olamine",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35192/trombola-50-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Troniz",
+    "strength": "500 mg",
+    "generic": "Ornidazole",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10241/troniz-500-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Tropex",
+    "strength": "18 mcg",
+    "generic": "Tiotropium",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Dry Powder Inhalation Capsule (DPI)",
+    "source_url": "https://medex.com.bd/brands/26249/tropex-18-mcg-inhalation-capsule",
+    "_source_page": 751
+  },
+  {
+    "name": "Trophen",
+    "strength": "0.8%+5%",
+    "generic": "Tropicamide + Phenylephrine Hydrochloride",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16047/trophen-08-5-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Tropicam",
+    "strength": "0.5%",
+    "generic": "Tropicamide",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16034/tropicam-05-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Tropicam",
+    "strength": "1%",
+    "generic": "Tropicamide",
+    "company": "Aristopharma Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16035/tropicam-1-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Tropicamin",
+    "strength": "0.5%",
+    "generic": "Tropicamide",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16038/tropicamin-05-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Tropicamin",
+    "strength": "1%",
+    "generic": "Tropicamide",
+    "company": "Nipa Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16039/tropicamin-1-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Tropidil",
+    "strength": "1%",
+    "generic": "Tropicamide",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16040/tropidil-1-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Tropidil Plus",
+    "strength": "0.8%+5%",
+    "generic": "Tropicamide + Phenylephrine Hydrochloride",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16049/tropidil-plus-08-5-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Tropigen",
+    "strength": "1%",
+    "generic": "Tropicamide",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16041/tropigen-1-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Tropigen Plus",
+    "strength": "0.8%+5%",
+    "generic": "Tropicamide + Phenylephrine Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/16050/tropigen-plus-08-5-eye-drop",
+    "_source_page": 751
+  },
+  {
+    "name": "Trospi",
+    "strength": "20 mg",
+    "generic": "Trospium Chloride",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30108/trospi-20-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Trova",
+    "strength": "10 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1244/trova-10-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Trova",
+    "strength": "20 mg",
+    "generic": "Atorvastatin Calcium",
+    "company": "Biopharma Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1245/trova-20-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Trovastin",
+    "strength": "5 mg+10 mg",
+    "generic": "Amlodipine Besilate + Atorvastatin",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30598/trovastin-5-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Troy",
+    "strength": "10 mg",
+    "generic": "Ketorolac Tromethamine",
+    "company": "Amico Laboratories Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/15403/troy-10-mg-tablet",
+    "_source_page": 751
+  },
+  {
+    "name": "Trubid",
+    "strength": "500 mg",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6756/trubid-500-mg-capsule",
+    "_source_page": 751
+  },
+  {
+    "name": "Trubid",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6757/trubid-125-mg-suspension",
+    "_source_page": 751
+  },
+  {
+    "name": "Trucal",
+    "strength": "400 mg",
+    "generic": "Calcium Orotate",
+    "company": "Credence Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/28158/trucal-400-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Trucef",
+    "strength": "40 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7818/trucef-40-mg-suspension",
+    "_source_page": 752
+  },
+  {
+    "name": "Trucef",
+    "strength": "20 mg/ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Renata PLC",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/7820/trucef-20-mg-pediatric-drop",
+    "_source_page": 752
+  },
+  {
+    "name": "Trucef DS",
+    "strength": "80 mg/5 ml",
+    "generic": "Cefpodoxime Proxetil",
+    "company": "Renata PLC",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7819/trucef-ds-80-mg-suspension",
+    "_source_page": 752
+  },
+  {
+    "name": "Trufen",
+    "strength": "400 mg",
+    "generic": "Ibuprofen",
+    "company": "Modern Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11294/trufen-400-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Trugain",
+    "strength": "2%",
+    "generic": "Minoxidil",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Scalp Solution",
+    "source_url": "https://medex.com.bd/brands/12815/trugain-2-scalp-solution",
+    "_source_page": 752
+  },
+  {
+    "name": "Trugain",
+    "strength": "5%",
+    "generic": "Minoxidil",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Scalp Solution",
+    "source_url": "https://medex.com.bd/brands/12816/trugain-5-scalp-solution",
+    "_source_page": 752
+  },
+  {
+    "name": "Trulax",
+    "strength": "1 mg/5 ml",
+    "generic": "Levosalbutamol (Oral)",
+    "company": "Renata PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/3598/trulax-1-mg-syrup",
+    "_source_page": 752
+  },
+  {
+    "name": "Trulicity",
+    "strength": "0.75 mg/0.5 ml",
+    "generic": "Dulaglutide",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/28948/trulicity-075-mg-injection",
+    "_source_page": 752
+  },
+  {
+    "name": "Trulicity",
+    "strength": "1.5 mg/0.5 ml",
+    "generic": "Dulaglutide",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type": "SC Injection",
+    "source_url": "https://medex.com.bd/brands/28949/trulicity-15-mg-injection",
+    "_source_page": 752
+  },
+  {
+    "name": "Trum 3",
+    "strength": "250 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7892/trum-3-250-mg-injection",
+    "_source_page": 752
+  },
+  {
+    "name": "Trum 3",
+    "strength": "500 mg/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7893/trum-3-500-mg-injection",
+    "_source_page": 752
+  },
+  {
+    "name": "Trum 3",
+    "strength": "1 gm/vial",
+    "generic": "Ceftazidime Pentahydrate",
+    "company": "Drug International Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7894/trum-3-1-gm-injection",
+    "_source_page": 752
+  },
+  {
+    "name": "Trumega",
+    "strength": "1000 mg",
+    "generic": "Omega-3 Acid Ethyl Esters",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/31036/trumega-1000-mg-capsule",
+    "_source_page": 752
+  },
+  {
+    "name": "Trumen",
+    "strength": "50 mg",
+    "generic": "Tramadol Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/10725/trumen-50-mg-capsule",
+    "_source_page": 752
+  },
+  {
+    "name": "Trumen",
+    "strength": "100 mg/2 ml",
+    "generic": "Tramadol Hydrochloride",
+    "company": "General Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/10726/trumen-100-mg-injection",
+    "_source_page": 752
+  },
+  {
+    "name": "Trunac",
+    "strength": "1.2%+0.025%",
+    "generic": "Clindamycin + Tretinoin",
+    "company": "Pharmasia Limited",
+    "medicine_type": "Topical Gel",
+    "source_url": "https://medex.com.bd/brands/19413/trunac-12-0025-topical-gel",
+    "_source_page": 752
+  },
+  {
+    "name": "Trupan",
+    "strength": "20 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2251/trupan-20-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Trupan",
+    "strength": "40 mg",
+    "generic": "Pantoprazole Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet (Enteric Coated)",
+    "source_url": "https://medex.com.bd/brands/2252/trupan-40-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Trupan",
+    "strength": "40 mg/vial",
+    "generic": "Pantoprazole Sodium",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/2253/trupan-40-mg-injection",
+    "_source_page": 752
+  },
+  {
+    "name": "Trusert",
+    "strength": "40 mg",
+    "generic": "Telmisartan",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35401/trusert-40-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Trusert",
+    "strength": "80 mg",
+    "generic": "Telmisartan",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35402/trusert-80-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Trusert A",
+    "strength": "5 mg+40 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35403/trusert-a-5-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Trusert A",
+    "strength": "5 mg+80 mg",
+    "generic": "Amlodipine Besilate + Telmisartan",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35404/trusert-a-5-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Trusert HZ",
+    "strength": "40 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35405/trusert-hz-40-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Trusert HZ",
+    "strength": "80 mg+12.5 mg",
+    "generic": "Telmisartan + Hydrochlorothiazide",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/35406/trusert-hz-80-mg-tablet",
+    "_source_page": 752
+  },
+  {
+    "name": "Truso",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7674/truso-200-mg-capsule",
+    "_source_page": 752
+  },
+  {
+    "name": "Truso",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7675/truso-400-mg-capsule",
+    "_source_page": 752
+  },
+  {
+    "name": "Truso",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7676/truso-100-mg-suspension",
+    "_source_page": 752
+  },
+  {
+    "name": "Truso DS",
+    "strength": "200 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7677/truso-ds-200-mg-suspension",
+    "_source_page": 752
+  },
+  {
+    "name": "Truso PD",
+    "strength": "25 mg/ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "Orion Pharma Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/18784/truso-pd-25-mg-pediatric-drop",
+    "_source_page": 753
+  },
+  {
+    "name": "Truxil",
+    "strength": "30 mg+10 mg",
+    "generic": "Almitrine Bismesylate + Raubasine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/444/truxil-30-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Truxima",
+    "strength": "10 mg/ml",
+    "generic": "Rituximab",
+    "company": "ZAS Corporation",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/38262/truxima-10-mg-injection",
+    "_source_page": 753
+  },
+  {
+    "name": "Truzith",
+    "strength": "500 mg",
+    "generic": "Azithromycin Dihydrate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/8706/truzith-500-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Truzith",
+    "strength": "200 mg/5 ml",
+    "generic": "Azithromycin Dihydrate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/25679/truzith-200-mg-suspension",
+    "_source_page": 753
+  },
+  {
+    "name": "Tryptin",
+    "strength": "10 mg",
+    "generic": "Amitriptyline Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/628/tryptin-10-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tryptin",
+    "strength": "25 mg",
+    "generic": "Amitriptyline Hydrochloride",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/629/tryptin-25-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tryptin Plus",
+    "strength": "12.5 mg+5 mg",
+    "generic": "Amitriptyline Hydrochloride + Chlordiazepoxide",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34749/tryptin-plus-125-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "TTO Thermal",
+    "strength": null,
+    "generic": "Tea tree oil + Geothermal water (eye)",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "Shampoo",
+    "source_url": "https://medex.com.bd/brands/29888/tto-thermal-shampoo",
+    "_source_page": 753
+  },
+  {
+    "name": "TTvax",
+    "strength": "40 IU/0.5 ml",
+    "generic": "Adsorbed tetanus vaccine",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "medicine_type": "IM Injection",
+    "source_url": "https://medex.com.bd/brands/15253/ttvax-40-iu-injection",
+    "_source_page": 753
+  },
+  {
+    "name": "Tucatin",
+    "strength": "150 mg",
+    "generic": "Tucatinib",
+    "company": "Beacon Pharmaceuticals PLC",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38524/tucatin-150-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tucaxen",
+    "strength": "150 mg",
+    "generic": "Tucatinib",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34159/tucaxen-150-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tufcon",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Concord Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/34225/tufcon-200-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tufexil",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Al-Madina Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32332/tufexil-200-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tufmig",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/30109/tufmig-200-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tufnil",
+    "strength": "200 mg",
+    "generic": "Tolfenamic acid",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/11639/tufnil-200-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tukanic",
+    "strength": "150 mg",
+    "generic": "Tucatinib",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/36143/tukanic-150-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tulac",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2407/tulac-335-gm-oral-solution",
+    "_source_page": 753
+  },
+  {
+    "name": "Tulos",
+    "strength": "3.35 gm/5 ml",
+    "generic": "Lactulose",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Oral Solution",
+    "source_url": "https://medex.com.bd/brands/2408/tulos-335-gm-oral-solution",
+    "_source_page": 753
+  },
+  {
+    "name": "Tulsi",
+    "strength": "125 mg/5 ml",
+    "generic": "Carbocisteine",
+    "company": "Euro Pharma Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30716/tulsi-125-mg-syrup",
+    "_source_page": 753
+  },
+  {
+    "name": "Tumpa",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Naafco Pharma Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/38297/tumpa-50-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Tupime",
+    "strength": "1 gm/vial",
+    "generic": "Cefepime Hydrochloride",
+    "company": "Kemiko Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/8182/tupime-1-gm-injection",
+    "_source_page": 753
+  },
+  {
+    "name": "Turbocef",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7351/turbocef-250-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Turbocef",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/7352/turbocef-500-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Turbocef",
+    "strength": "125 mg/5 ml",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7353/turbocef-125-mg-suspension",
+    "_source_page": 753
+  },
+  {
+    "name": "Turbocef",
+    "strength": "750 mg/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IM/IV Injection",
+    "source_url": "https://medex.com.bd/brands/7354/turbocef-750-mg-injection",
+    "_source_page": 753
+  },
+  {
+    "name": "Turbocef",
+    "strength": "1.5 gm/vial",
+    "generic": "Cefuroxime Axetil",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/7355/turbocef-15-gm-injection",
+    "_source_page": 753
+  },
+  {
+    "name": "Turboclav",
+    "strength": "250 mg+62.5 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26312/turboclav-250-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Turboclav",
+    "strength": "500 mg+125 mg",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26313/turboclav-500-mg-tablet",
+    "_source_page": 753
+  },
+  {
+    "name": "Turboclav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Cefuroxime Axetil + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/38545/turboclav-125-mg-suspension",
+    "_source_page": 753
+  },
+  {
+    "name": "Turbohaler",
+    "strength": null,
+    "generic": "Inhaler device",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Metered-Dose Inhaler (MDI)",
+    "source_url": "https://medex.com.bd/brands/34297/turbohaler-inhaler",
+    "_source_page": 754
+  },
+  {
+    "name": "Tusca",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/4159/tusca-30-mg-syrup",
+    "_source_page": 754
+  },
+  {
+    "name": "Tusca Plus",
+    "strength": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "generic": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26286/tusca-plus-100-mg-syrup",
+    "_source_page": 754
+  },
+  {
+    "name": "Tuscof",
+    "strength": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "generic": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "company": "Eskayef Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26803/tuscof-100-mg-syrup",
+    "_source_page": 754
+  },
+  {
+    "name": "Tushinta",
+    "strength": "(20 mg+10 mg+2.5 mg)/5 ml",
+    "generic": "Dextromethorphan + Phenylephrine + Triprolidine",
+    "company": "DBL Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/31616/tushinta-20-mg-syrup",
+    "_source_page": 754
+  },
+  {
+    "name": "Tuspel",
+    "strength": "(200 mg+15 mg+15 mg)/5 ml",
+    "generic": "Guaifenesin + Dextromethorphan + Menthol",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/26314/tuspel-200-mg-syrup",
+    "_source_page": 754
+  },
+  {
+    "name": "Tussibic",
+    "strength": "7.5 mg/5 ml",
+    "generic": "Butamirate Citrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/18429/tussibic-75-mg-syrup",
+    "_source_page": 754
+  },
+  {
+    "name": "Tussibic",
+    "strength": "50 mg",
+    "generic": "Butamirate Citrate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet (Sustained Release)",
+    "source_url": "https://medex.com.bd/brands/28300/tussibic-50-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Tussilon",
+    "strength": "100 mg",
+    "generic": "Benzonatate",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/33485/tussilon-100-mg-capsule",
+    "_source_page": 754
+  },
+  {
+    "name": "Tussy",
+    "strength": "(30 mg+100 mg+1.25 mg)/5 ml",
+    "generic": "Pseudoephedrine + Guaiphenasine + Triprolidine",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/30926/tussy-30-mg-syrup",
+    "_source_page": 754
+  },
+  {
+    "name": "Tweet Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Syrup",
+    "source_url": "https://medex.com.bd/brands/27481/tweet-gold-syrup",
+    "_source_page": 754
+  },
+  {
+    "name": "Tweet Gold",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z gold preparation]",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27482/tweet-gold-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Tweet Silver",
+    "strength": null,
+    "generic": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "company": "Benham Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/27483/tweet-silver-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Twicef",
+    "strength": "500 mg",
+    "generic": "Cefadroxil Monohydrate",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6759/twicef-500-mg-capsule",
+    "_source_page": 754
+  },
+  {
+    "name": "Twincard",
+    "strength": "50 mg+25 mg",
+    "generic": "Atenolol + Chlorthalidone",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33171/twincard-50-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Twindopa",
+    "strength": "100 mg+10 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32383/twindopa-100-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Twindopa",
+    "strength": "100 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32384/twindopa-100-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Twindopa",
+    "strength": "250 mg+25 mg",
+    "generic": "Levodopa + Carbidopa",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32385/twindopa-250-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Twinor",
+    "strength": "0.2% + 0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "UNIDO Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/36596/twinor-02-eye-drop",
+    "_source_page": 754
+  },
+  {
+    "name": "Twinor SV",
+    "strength": "0.2%+0.5%",
+    "generic": "Brimonidine Tartrate + Timolol Maleate",
+    "company": "UNIDO Pharmaceuticals Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/37317/twinor-sv-02-05-eye-drop",
+    "_source_page": 754
+  },
+  {
+    "name": "Twinvir",
+    "strength": "90 mg+400 mg",
+    "generic": "Ledipasvir + Sofosbuvir",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/16571/twinvir-90-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Twist",
+    "strength": "500 mg+20 mg",
+    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
+    "company": "Chemist Laboratories  Ltd.",
+    "medicine_type": "Tablet (Delayed Release)",
+    "source_url": "https://medex.com.bd/brands/11579/twist-500-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Twotil",
+    "strength": "250 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Arges Life Science Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32925/twotil-250-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Twotil",
+    "strength": "500 mg",
+    "generic": "Cefuroxime Axetil",
+    "company": "Arges Life Science Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/32926/twotil-500-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Ty-Plus",
+    "strength": "500 mg+65 mg",
+    "generic": "Paracetamol + Caffeine",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10631/ty-plus-500-mg-tablet",
+    "_source_page": 754
+  },
+  {
+    "name": "Tybac",
+    "strength": "(5 mg+250 IU)/gm",
+    "generic": "Neomycin Sulfate + Bacitracin Zinc",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Topical Powder",
+    "source_url": "https://medex.com.bd/brands/12359/tybac-5-mg-powder",
+    "_source_page": 754
+  },
+  {
+    "name": "TyBlue",
+    "strength": "0.06%",
+    "generic": "Trypan Blue",
+    "company": "Techno Drugs Ltd.",
+    "medicine_type": "Ophthalmic Solution",
+    "source_url": "https://medex.com.bd/brands/25149/tyblue-006-eye-drop",
+    "_source_page": 754
+  },
+  {
+    "name": "Tycil",
+    "strength": "250 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6653/tycil-250-mg-capsule",
+    "_source_page": 754
+  },
+  {
+    "name": "Tycil",
+    "strength": "500 mg",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/6654/tycil-500-mg-capsule",
+    "_source_page": 754
+  },
+  {
+    "name": "Tycil",
+    "strength": "125 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6655/tycil-125-mg-suspension",
+    "_source_page": 754
+  },
+  {
+    "name": "Tycil",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/6657/tycil-125-mg-pediatric-drop",
+    "_source_page": 755
+  },
+  {
+    "name": "Tycil DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Amoxicillin Trihydrate",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/6656/tycil-ds-250-mg-suspension",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyclav",
+    "strength": "(125 mg+31.25 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/932/tyclav-125-mg-suspension",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyclav",
+    "strength": "(500 mg+100 mg)/10 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/933/tyclav-500-mg-injection",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyclav",
+    "strength": "(1 gm+200 mg)/20 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "IV Injection",
+    "source_url": "https://medex.com.bd/brands/934/tyclav-1-gm-injection",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyclav",
+    "strength": "875 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/935/tyclav-875-mg-tablet",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyclav",
+    "strength": "250 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/936/tyclav-250-mg-tablet",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyclav",
+    "strength": "500 mg+125 mg",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/937/tyclav-500-mg-tablet",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyclav BID",
+    "strength": "(400 mg+57.50 mg)/5 ml",
+    "generic": "Amoxicillin + Clavulanic Acid",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/938/tyclav-bid-400-mg-suspension",
+    "_source_page": 755
+  },
+  {
+    "name": "Tycon",
+    "strength": "1%",
+    "generic": "Tioconazole",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Cream",
+    "source_url": "https://medex.com.bd/brands/12451/tycon-1-cream",
+    "_source_page": 755
+  },
+  {
+    "name": "Tycon",
+    "strength": "300 mg",
+    "generic": "Tioconazole",
+    "company": "ACME Laboratories Ltd.",
+    "medicine_type": "Suppository",
+    "source_url": "https://medex.com.bd/brands/12981/tycon-300-mg-suppository",
+    "_source_page": 755
+  },
+  {
+    "name": "Tydenol",
+    "strength": "500 mg",
+    "generic": "Paracetamol",
+    "company": "Edruc Limited",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/10535/tydenol-500-mg-tablet",
+    "_source_page": 755
+  },
+  {
+    "name": "Tydenol",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Edruc Limited",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10536/tydenol-120-mg-suspension",
+    "_source_page": 755
+  },
+  {
+    "name": "Tydin",
+    "strength": "500 mg",
+    "generic": "Cephradine",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7067/tydin-500-mg-capsule",
+    "_source_page": 755
+  },
+  {
+    "name": "Tydin",
+    "strength": "125 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7068/tydin-125-mg-suspension",
+    "_source_page": 755
+  },
+  {
+    "name": "Tydin",
+    "strength": "125 mg/1.25 ml",
+    "generic": "Cephradine",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Pediatric Drops",
+    "source_url": "https://medex.com.bd/brands/33399/tydin-125-mg-pediatric-drop",
+    "_source_page": 755
+  },
+  {
+    "name": "Tydin DS",
+    "strength": "250 mg/5 ml",
+    "generic": "Cephradine",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7070/tydin-ds-250-mg-suspension",
+    "_source_page": 755
+  },
+  {
+    "name": "Tydox",
+    "strength": "100 mg",
+    "generic": "Doxycycline Hydrochloride",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/29055/tydox-100-mg-capsule",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyfax",
+    "strength": "200 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/7678/tyfax-200-mg-capsule",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyfax",
+    "strength": "100 mg/5 ml",
+    "generic": "Cefixime Trihydrate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/7680/tyfax-100-mg-suspension",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyfax DS",
+    "strength": "400 mg",
+    "generic": "Cefixime Trihydrate",
+    "company": "The White Horse Pharmaceuticals Ltd.",
+    "medicine_type": "Capsule",
+    "source_url": "https://medex.com.bd/brands/27942/tyfax-ds-400-mg-capsule",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyfinor",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Goodman Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/33629/tyfinor-500-mg-tablet",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyflox",
+    "strength": "500 mg",
+    "generic": "Ciprofloxacin",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/9348/tyflox-500-mg-tablet",
+    "_source_page": 755
+  },
+  {
+    "name": "Tyflox",
+    "strength": "250 mg/5 ml",
+    "generic": "Ciprofloxacin",
+    "company": "Somatec Pharmaceuticals Ltd.",
+    "medicine_type": "Powder for Suspension",
+    "source_url": "https://medex.com.bd/brands/9350/tyflox-250-mg-suspension",
+    "_source_page": 755
+  },
+  {
+    "name": "Tygacil",
+    "strength": "50 mg/vial",
+    "generic": "Tigecycline",
+    "company": "Radiant Pharmaceuticals Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/30021/tygacil-50-mg-injection",
+    "_source_page": 755
+  },
+  {
+    "name": "Tygelin",
+    "strength": "50 mg/vial",
+    "generic": "Tigecycline",
+    "company": "Opsonin Pharma Ltd.",
+    "medicine_type": "IV Infusion",
+    "source_url": "https://medex.com.bd/brands/37347/tygelin-50-mg-injection",
+    "_source_page": 755
+  },
+  {
+    "name": "Tygin",
+    "strength": "50 mg",
+    "generic": "Tiemonium Methylsulfate",
+    "company": "Sharif Pharmaceuticals Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/1465/tygin-50-mg-tablet",
+    "_source_page": 755
+  },
+  {
+    "name": "Tykerb",
+    "strength": "250 mg",
+    "generic": "Lapatinib",
+    "company": "Novartis (Bangladesh) Ltd.",
+    "medicine_type": "Tablet",
+    "source_url": "https://medex.com.bd/brands/26675/tykerb-250-mg-tablet",
+    "_source_page": 755
+  },
+  {
+    "name": "Tylace",
+    "strength": "600 mg",
+    "generic": "Acetylcysteine",
+    "company": "Square Pharmaceuticals PLC",
+    "medicine_type": "Effervescent Tablet",
+    "source_url": "https://medex.com.bd/brands/26287/tylace-600-mg-tablet",
+    "_source_page": 755
+  },
+  {
+    "name": "Tylen",
+    "strength": "120 mg/5 ml",
+    "generic": "Paracetamol",
+    "company": "Jenphar Bangladesh Ltd.",
+    "medicine_type": "Oral Suspension",
+    "source_url": "https://medex.com.bd/brands/10538/tylen-120-mg-suspension",
+    "_source_page": 755
+  }
+]
