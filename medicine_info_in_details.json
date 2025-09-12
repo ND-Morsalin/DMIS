@@ -1,0 +1,521 @@
+[
+  {
+    "source_url": "https://medex.com.bd/brands/11673/actemra-80-mg-injection",
+    "name": "Actemra",
+    "dosage_form": "IV Infusion",
+    "generic": "Tocilizumab",
+    "strength": "80 mg/4 ml",
+    "company": "Roche Bangladesh Ltd.",
+    "pack_image": "https://medex.com.bd/data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzUiIGhlaWdodD0iMTE1Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ0cmFuc3BhcmVudCIvPjwvc3ZnPg==",
+    "pricing": {
+      "unit_price": "৳ 10,301.00",
+      "strip_price": null,
+      "pack_size_info": null,
+      "packages": [
+        {
+          "label": "4 ml vial",
+          "price": "৳ 10,301.00",
+          "pack_size_info": null
+        }
+      ]
+    },
+    "flags": [],
+    "also_available": [
+      {
+        "text": "200 mg/10 ml (IV Infusion)",
+        "href": "https://medex.com.bd/brands/11674/actemra-200-mg-injection?ref=1"
+      },
+      {
+        "text": "162 mg/0.9 ml (Injection)",
+        "href": "https://medex.com.bd/brands/26083/actemra-162-mg-injection?ref=1"
+      }
+    ],
+    "alternate_brands_url": "https://medex.com.bd/generics/1091/tocilizumab/brand-names",
+    "indications": [
+      {
+        "title": null,
+        "information": "Actemra is an interleukin-6 (IL-6) receptor antagonist indicated for treatment of: Actemra is an interleukin-6 (IL-6) receptor antagonist indicated for treatment of:",
+        "items": [
+          "Rheumatoid Arthritis (RA): Adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs)",
+          "Rheumatoid Arthritis (RA): Adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response to one or more Disease-Modifying Anti-Rheumatic Drugs (DMARDs)",
+          "Polyarticular Juvenile Idiopathic Arthritis (PJIA): Patients 2 years of age and older with active polyarticular juvenile idiopathic arthritis",
+          "Systemic Juvenile Idiopathic Arthritis (SJIA): Patients 2 years of age and older with active systemic juvenile idiopathic arthritis",
+          "Cytokine Release Syndrome (CRS): Adults and pediatric patients 2 years of age and older with chimeric antigen receptor (CAR) T cell-induced severe or life-threatening cytokine release syndrome",
+          "Giant Cell Arteritis (GCA): Adult patients with giant cell arteritis",
+          "Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD): Slowing the rate of decline in pulmonary function in adult patients with systemic sclerosis-associated interstitial lung disease (SSc-ILD)",
+          "COVID-19: Emergency use of Actemra for the treatment of coronavirus disease 2019 in hospitalized adults and pediatric patients (2 years of age and older) who are receiving systemic corticosteroids and require supplemental oxygen, non-invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO)"
+        ]
+      }
+    ],
+    "mode_of_action": [
+      {
+        "title": null,
+        "information": "Tocilizumab is a recombinant humanized anti-human interleukin 6 (IL-6) receptor monoclonal antibody of the immunoglobulin IgG1K (gamma 1, kappa) subclass. Tocilizumab binds to both soluble and membrane-bound IL-6 receptors, and has been shown to inhibit IL-6-mediated signaling through these receptors. IL-6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell types including T-cells and B-cells, lymphocytes, monocytes, and fibroblasts. IL-6 has been shown to be involved in diverse physiological processes such as T-cell activation, induction of immunoglobulin secretion, initiation of hepatic acute phase protein synthesis, and stimulation of hematopoietic precursor cell proliferation and differentiation. IL-6 is also produced by synovial and endothelial cells leading to local production of IL-6 in joints affected by inflammatory processes such as rheumatoid arthritis.",
+        "items": []
+      }
+    ],
+    "interaction": [
+      {
+        "title": null,
+        "information": "Exercise caution when coadministering Actemra with CYP3A4 substrate drugs where decrease in effectiveness is undesirable, e.g., oral contraceptives, lovastatin, atorvastatin, etc. The effect of Actemra on CYP450 enzyme activity may persist for several weeks after stopping therapy.",
+        "items": []
+      }
+    ],
+    "contraindications": [
+      {
+        "title": null,
+        "information": "Tocilizumab is contraindicated in patients with known hypersensitivity to Tocilizumab.",
+        "items": []
+      }
+    ],
+    "side_effects": [
+      {
+        "title": null,
+        "information": "Most common adverse reactions [incidence of at least 5%): upper respiratory tract infections, nasopharyngitis, headache, hypertension, increased ALT, injection site reactions. Most common adverse reactions in COVID-19 (incidence >3%) are constipation, anxiety, diarrhea, insomnia, hypertension and nausea.",
+        "items": []
+      }
+    ],
+    "pregnancy_cat": [
+      {
+        "title": null,
+        "information": "Based on animal data, may cause fetal harm. In case of COVID-19, Tocilizumab should be used during pregnancy only if the potential benefit justifies the potential risk for the mother and the fetus. Discontinue drug or nursing taking into consideration importance of drug to mother. Breastfeeding individuals with COVID-19 should follow practices according to clinical guidelines to avoid exposing the infant to COVID-19.",
+        "items": []
+      }
+    ],
+    "precautions": [
+      {
+        "title": "Serious Infections",
+        "information": ": Do not administer Actemra during an active infection, including localized infections. If a serious infection develops, interrupt Actemra until the infection is controlled",
+        "items": []
+      },
+      {
+        "title": "Tuberculosis",
+        "information": ": Evaluate patients for tuberculosis risk factors and test for latent infection prior to initiating Actemra",
+        "items": []
+      },
+      {
+        "title": "Gastrointestinal Perforatio",
+        "information": "n: Use with caution in patients who may be at increased risk",
+        "items": []
+      },
+      {
+        "title": "Hepatotoxicity",
+        "information": ": Monitor patients for signs and symptoms of hepatic injury. Modify or discontinue Actemra if abnormal liver tests persist or worsen or if clinical signs and symptoms of liver disease develop",
+        "items": []
+      },
+      {
+        "title": "Laboratory Monitoring",
+        "information": ": Recommended due to potential consequences of treatment-related changes in neutrophils, platelets, lipids, and liver function tests Hypersensitivity reactions, including anaphylaxis and death have occurred",
+        "items": []
+      },
+      {
+        "title": "Live Vaccines",
+        "information": ": Avoid use with Actemra Avoid using Actemra with biological DMARDs. It is recommended that Actemra not be initiated in patients with an absolute neutrophil count (ANC) below 2000 per mm3 , platelet count below 100,000 per mm3 , or who have ALT or AST above 1.5 times the upper limit of normal (ULN)",
+        "items": []
+      }
+    ],
+    "pediatric_uses": [
+      {
+        "title": "Pediatric Use",
+        "information": ": The safety and effectiveness of Actemra in pediatric patients with conditions other than PJIA, SJIA or CRS have not been established. The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA, SJIA, or CRS. Actemra is not authorized or approved for emergency use for the treatment of COVID-19 in pediatric patients less than 2 years of age",
+        "items": []
+      },
+      {
+        "title": "Geriatric Use",
+        "information": ": As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly",
+        "items": []
+      },
+      {
+        "title": "Hepatic Impairment",
+        "information": ": The safety and efficacy of Actemra have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology",
+        "items": []
+      },
+      {
+        "title": "Renal Impairment",
+        "information": ": No dose adjustment is required in patients with mild or moderate renal impairment. Actemra has not been studied in patients with severe renal impairment",
+        "items": []
+      }
+    ],
+    "overdose_effects": [
+      {
+        "title": null,
+        "information": "In case of an overdose, it is recommended that the patient be monitored for signs and symptoms of adverse reactions. Patients who develop adverse reactions should receive appropriate symptomatic treatment.",
+        "items": []
+      }
+    ],
+    "storage_conditions": [
+      {
+        "title": null,
+        "information": "Store at a temperature of 2°C to 8°C in a dry place. Do not freeze.",
+        "items": []
+      }
+    ],
+    "description": [],
+    "administration": [],
+    "compound_summary": {
+      "molecular_formula": null,
+      "chemical_structure": null
+    },
+    "therapeutic_class": "Drugs used for Rheumatoid Arthritis",
+    "dosage": [
+      {
+        "medication_type": null,
+        "information": "Interruption of dosing may be needed for management of dose-related laboratory abnormalities including elevated liver enzymes, neutropenia, and thrombocytopenia.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Rheumatoid Arthritis",
+        "information": ": Tocilizumab may be used as monotherapy or concomitantly with methotrexate or other non-biologic DMARDs as an intravenous infusion. Recommended Intravenous Dosage Regimen:",
+        "instructions": [
+          "The recommended dosage of Tocilizumab for adult patients given as a 60-minute single intravenous drip infusion is 4 mg per kg of body weight every 4 weeks followed by an increase to 8 mg per kg of body weight every 4 weeks based on clinical response.",
+          "Reduction of dose from 8 mg per kg of body weight to 4 mg per kg of body weight is recommended for management of certain dose-related laboratory changes including elevated liver enzymes, neutropenia, and thrombocytopenia",
+          "Doses exceeding 800 mg per infusion are not recommended in RA patients"
+        ]
+      },
+      {
+        "medication_type": "Polyarticular Juvenile Idiopathic Arthritis",
+        "information": ": Tocilizumab may be used as an intravenous infusion or as a subcutaneous injection alone or in combination with methotrexate. Do not change dose based solely on a single body weight measurement, as weight may fluctuate. Recommended Intravenous Dosage Regimen: The recommended dosage of Tocilizumab for PJIA patients given once every 4 weeks as a 60-minute single intravenous drip infusion is:",
+        "instructions": [
+          "Patients less than 30 kg weight: 10 mg per kg of body weight",
+          "Patients at or above 30 kg weight: 8 mg per kg of body weight"
+        ]
+      },
+      {
+        "medication_type": "Systemic Juvenile Idiopathic Arthritis",
+        "information": ": Tocilizumab may be used as an intravenous infusion or as a subcutaneous injection alone or in combination with methotrexate. Do not change a dose based solely on a single body weight measurement, as weight may fluctuate. Recommended Intravenous Dosage Regimen: The recommended dose of Tocilizumab for SJIA patients given once every 2 weeks as a 60-minute single intravenous drip infusion is:",
+        "instructions": [
+          "Patients less than 30 kg weight: 12 mg per kg of body weight",
+          "Patients at or above 30 kg weight: 8 mg per kg of body weight"
+        ]
+      },
+      {
+        "medication_type": "Coronavirus Disease 2019",
+        "information": ": The recommended dosage of Tocilizumab is a single 60-minute intravenous infusion as follows: If clinical signs or symptoms worsen or do not improve after the first dose, one additional infusion of Tocilizumab may be administered at least 8 hours after the initial infusion. Maximum dosage in COVID-19 patients is 800 mg per infusion.",
+        "instructions": [
+          "Patients less than 30 kg weight: 12 mg per kg of body weight",
+          "Patients at or above 30 kg weight: 8 mg per kg of body weight"
+        ]
+      },
+      {
+        "medication_type": "Cytokine Release Syndrome",
+        "information": ": Use only the intravenous route for treatment of CRS. The recommended dose of Tocilizumab for treatment of CRS given as a 60-minute intravenous infusion is: Recommended Intravenous CRS Dosage If no clinical improvement in the signs and symptoms of CRS occurs after the first dose, up to 3 additional doses of Tocilizumab may be administered. The interval between consecutive doses should be at least 8 hours. Doses exceeding 800 mg per infusion are not recommended in CRS patients.",
+        "instructions": [
+          "Patients less than 30 kg weight: 12 mg per kg of body weight Alone or in combination with corticosteroids.",
+          "Patients at or above 30 kg weight: 8 mg per kg of body weight Alone or in combination with corticosteroids."
+        ]
+      },
+      {
+        "medication_type": "Giant Cell Arteritis",
+        "information": ":",
+        "instructions": [
+          "The recommended dosage of Tocilizumab for adult patients given as a 60-minute single intravenous drip infusion is 6 mg per kg of body weight every 4 weeks in combination with a tapering course of glucocorticoids.",
+          "Tocilizumab can be used alone following discontinuation of glucocorticoids",
+          "Doses exceeding 600 mg per infusion are not recommended in GCA patients"
+        ]
+      },
+      {
+        "medication_type": "Systemic Sclerosis-Associated Interstitial Lung Disease",
+        "information": ":",
+        "instructions": [
+          "The recommended dose of Tocilizumab for adult patients with SSc-ILD is 162 mg given once every week as a subcutaneous injection.",
+          "Intravenous administration is not approved for SSc-ILD"
+        ]
+      },
+      {
+        "medication_type": "Administration of Intravenous Formulation",
+        "information": ":",
+        "instructions": [
+          "For adults with RA, GCA, CRS, PJIA and SJIA patients at or above 30 kg, dilute to 100 mL in 0.9% or 0.45% Sodium Chloride Injection, USP for intravenous infusion using aseptic technique",
+          "For PJIA, SJIA and CRS patients less than 30 kg, dilute to 50 mL in 0.9% or 0.45% Sodium Chloride Injection, USP for intravenous infusion using aseptic technique",
+          "Administer as a single intravenous drip infusion over 1 hour; do not administer as bolus or push."
+        ]
+      }
+    ],
+    "common_questions": [],
+    "fetched_at": "2025-09-12T05:18:44.167Z",
+    "original_record": {
+      "input_index": 0,
+      "brand_record": {
+        "name": "3 Bion",
+        "strength": "100 mg+200 mg+200 mcg",
+        "generic": "Vitamin B1, B6 & B12",
+        "company": "Jenphar Bangladesh Ltd.",
+        "source_url": "https://medex.com.bd/brands/11673/actemra-80-mg-injection"
+      }
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/7695/3-c-200-mg-capsule",
+    "name": "3-C",
+    "dosage_form": "Capsule",
+    "generic": "Cefixime Trihydrate",
+    "strength": "200 mg",
+    "company": "Edruc Limited",
+    "pack_image": null,
+    "pricing": {
+      "unit_price": "৳ 35.00",
+      "strip_price": null,
+      "pack_size_info": "(12's pack: ৳ 420.00)",
+      "packages": [
+        {
+          "label": "Unit Price",
+          "price": "৳ 35.00",
+          "pack_size_info": "(12's pack: ৳ 420.00)"
+        }
+      ]
+    },
+    "flags": [],
+    "also_available": [
+      {
+        "text": "100 mg/5 ml (Syrup)",
+        "href": "https://medex.com.bd/brands/7696/3-c-100-mg-suspension?ref=1"
+      },
+      {
+        "text": "400 mg (Capsule)",
+        "href": "https://medex.com.bd/brands/18731/3-c-400-mg-capsule?ref=1"
+      }
+    ],
+    "alternate_brands_url": "https://medex.com.bd/generics/217/cefixime-trihydrate/brand-names",
+    "indications": [
+      {
+        "title": null,
+        "information": "3-C is an orally active cephalosporin antibiotic which has marked in-vitro bactericidal activity against a wide variety of Gram-positive and Gram-negative organism. It is indicated for the treatment of the following acute infections when caused by susceptible microorganisms.",
+        "items": []
+      },
+      {
+        "title": "Upper Respiratory Tract Infections (URTI)",
+        "information": ": e.g. otitis media; and other URTI where the causative organism is known or suspected to be resistant to other commonly used antibiotics, or where treatment failure may carry significant risk. Lower Respiratory Tract Infections-e.g. bronchitis.",
+        "items": []
+      },
+      {
+        "title": "Urinary Tract Infections",
+        "information": ": e.g. cystitis, cystourethritis, pyelonephritis. Clinical efficacy has been demonstrated in infections caused by commonly occurring pathogens including Streptococcus pneumonia, Streptococcus pyogenes, Escherichia coli, Proteus mirabilis, Klebsiella species, Haemophilus influenzae (beta-lactamase positive and negative), Moraxella catarrhalis (beta-lactamase positive and negative) and Enterobacter species. 3-C is highly stable in the presence of beta-lactamase enzymes.",
+        "items": []
+      }
+    ],
+    "mode_of_action": [
+      {
+        "title": null,
+        "information": "Cefixime is a third generation semisynthetic cephalosporin antibiotic for oral administration. It is bactericidal against a broad spectrum of gram positive and gram negative bacteria at easily achievable plasma concentrations. It kills bacteria by interfering in the synthesis of bacterial cell wall. It is highly stable in the presence of Beta-lactamase enzyme. As a result, many organisms resistant to penicillins and some cephalsporins due to the presence of beta-lactamases, may be susceptible to Cefixime. Absorption of it is about 40% to 50% whether administered with or without food.",
+        "items": []
+      }
+    ],
+    "interaction": [
+      {
+        "title": null,
+        "information": "In common with other cephalosporins, increases in prothrombin times have been noted in a few patients. Care should therefore be taken in patients receiving anticoagulant therapy.",
+        "items": []
+      }
+    ],
+    "contraindications": [
+      {
+        "title": null,
+        "information": "Patients with known hypersensitivity to cephalosporin antibiotics.",
+        "items": []
+      }
+    ],
+    "side_effects": [
+      {
+        "title": null,
+        "information": "3-C is generally well tolerated. The majority of adverse reactions observed in clinical trials were mild and self limiting in nature. Gastrointestinal disturbances: The most frequent side-effects seen with 3-C are diarrhoea and stool changes; diarrhoea has been more commonly associated with higher doses. Other gastrointestinal side-effects seen less frequently are nausea, abdominal pain, dyspepsia, vomiting and flatulence. Pseudomembraneous colitis has been reported. Central nervous system: headache and dizziness. Hypersensitivity reactions: allergies in the form of rash, pruritis, urticaria, drug fever and arthralgia have been observed. These reactions usually subsided upon discontinuation of therapy. Hematological and clinical chemistry: thrombocytopenia, leukopenia and eosinophilia have been reported. These reactions were infrequent and reversible. Mild transient change in liver and renal function tests have been observed. Miscellaneous: other possible reactions include genital pruritis and vaginitis.",
+        "items": []
+      }
+    ],
+    "pregnancy_cat": [
+      {
+        "title": null,
+        "information": "There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. It is not known that Cefixime is excreted in human milk. So, caution should be exercised when Cefixime is administered to a nursing woman.",
+        "items": []
+      }
+    ],
+    "precautions": [
+      {
+        "title": null,
+        "information": "3-C should be given with caution to patients who have shown hypersensitivity to other drugs. Cephalosporin should be given with caution to penicillin-sensitive patients, as there is some evidence of partial cross-allergenicity between the penicillins and the cephalosporins. Patients have had severe reactions (including anaphylaxis) to both classes of drugs. If an allergic effect occurs with 3-C, the drug should be discontinued and the patient treated with appropriate agents if necessary. 3-C should be administered with caution in patients with markedly impaired renal function. Treatment with broad spectrum antibiotics alters the normal flora of the colon and may permit overgrowth of clostridia. Studies indicate that a toxin produced by Clostridium difficile is a primary cause of antibiotic-associated diarrhoea. Use in pregnancy and lactation: There are no adequate and well-controlled studies in pregnant women. 3-C should therefore not be used in pregnancy or in nursing mothers unless considered essential by the physician.",
+        "items": []
+      }
+    ],
+    "pediatric_uses": [],
+    "overdose_effects": [
+      {
+        "title": null,
+        "information": "Gastric Lavage may be indicated; otherwise, no specific antidote exists. 3-C is not removed in significant quantities from the circulation by hemodialysis or peritoneal dialysis. Adverse reactions in small numbers of healthy adult volunteers receiving single doses up to 2 g of 3-C did not differ from the profile seen in patients treated at the recommended doses.",
+        "items": []
+      }
+    ],
+    "storage_conditions": [
+      {
+        "title": null,
+        "information": "Keep below 30ºC temperature, protected from light & moisture. Keep out of the reach of children.",
+        "items": []
+      }
+    ],
+    "description": [],
+    "administration": [],
+    "compound_summary": {
+      "molecular_formula": "C16H15N5O7S2",
+      "chemical_structure": "https://medex.com.bd/storage/res/g-res-217-cefixime-trihydrate-chemical-structure-3Mg9h2a2PuSZaJk4Uj0Z.svg"
+    },
+    "therapeutic_class": null,
+    "dosage": [
+      {
+        "medication_type": null,
+        "information": "Absorption of Cefixime is not significantly modified by the presence of food. The usual course of treatment is 7 days. This may be continued for up to 14 days if required.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Adults and children over 10 years",
+        "information": ": The recommended adult dosage is 200-400 mg daily according to the severity of the infection, given either as a single dose or in two divided doses.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Elderly",
+        "information": ": Elderly patients may be given the same dose as recommended for adults. Renal function should be assessed and dosage should be adjusted in severe renal impairment.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Children",
+        "information": ": The recommended dosage for children is 8 mg/kg/day administered as a single dose or in two divided doses. As a general guide for prescribing in children the following daily doses in terms of volume of suspension are suggested:",
+        "instructions": [
+          "6 months up to 1 year: 3.75 ml daily",
+          "Children 1-4 years: 5 ml daily",
+          "Children 5-10 years: 10 ml daily"
+        ]
+      },
+      {
+        "medication_type": "In typhoid",
+        "information": ": the recommended children dose is 5 mg/kg body weight twice daily for 10-14 days.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Children weighing more than 50 kg or older than 10 years",
+        "information": ": Should be treated with the recommended adult dose 200-400 mg daily depending on the severity of infection.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Children aged less than 6 months",
+        "information": ": The safety and efficacy of Cefixime has not been established in children aged less than 6 months.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Dosage in Renal Impairment",
+        "information": ": Cefixime may be administered in the presence of impaired renal function. Normal dose and schedule may be given in patients with creatinine clearances of 20 ml/min or greater. In patients whose creatinine clearance is less than 20 ml/min, it is recommended that a dose of 200 mg once daily should not be exceeded. The dose and regimen for patients who are maintained on chronic ambulatory peritoneal dialysis or haemodialysis should follow the same recommendation as that for patients with creatinine clearances of less than 20 ml/min.",
+        "instructions": []
+      }
+    ],
+    "common_questions": [
+      {
+        "question": "What is 3-C 200 mg Capsule?",
+        "answer": [
+          "3-C 200 mg Capsule is an antibiotic used to treat bacterial infection. This medicine does not work for viral infections like flu. It works by preventing them from forming the bacterial protective covering (cell wall) which is essential for their development."
+        ]
+      },
+      {
+        "question": "What are the uses of 3-C 200 mg Capsule?",
+        "answer": [
+          "3-C 200 mg Capsule is used for the treatment and prevention from conditions such as Urinary Tract Infection, Tonsillitis, Pharyngitis, and Bronchitis. Apart from these, it can also be used to treat conditions of Fungal and Gonococcal Infections."
+        ]
+      },
+      {
+        "question": "What are the Side Effects of 3-C 200 mg Capsule?",
+        "answer": [
+          "3-C 200 mg Capsule has some commonly reported side effects. Some of these side-effects may be serious. These are Diarrhea, Abdominal pain, Dark or clay-colored stools, Swelling of the face, lips, eyelids, tongue, hands, and feet, Dizziness, Acid or sour stomach, excessive gas in the stomach, Heartburn, Indigestion, Redness of the skin, Chest pain, Sore throat, and Unusual tiredness."
+        ]
+      },
+      {
+        "question": "What are the instructions for storage and disposal 3-C 200 mg Capsule?",
+        "answer": [
+          "This medication should be kept in a cool dry place and in its original pack. Make sure 3-C 200 mg Capsule remains unreachable to children and pets. Proper disposal of the expired and unused medications is important to avoid health problems."
+        ]
+      },
+      {
+        "question": "Will 3-C 200 mg Capsule work for treating cold and flu?",
+        "answer": [
+          "This medication belongs to an antibiotic class of drugs, hence 3-C 200 mg Capsule won't work for colds, flu, or other viral infections. If you use antibiotics when they are not needed, it increases your risk of getting an infection later that resists antibiotic treatment."
+        ]
+      },
+      {
+        "question": "Is there any special dietary instruction which I should follow?",
+        "answer": [
+          "Continue your normal diet unless your doctor asks you to change."
+        ]
+      },
+      {
+        "question": "Is 3-C 200 mg Capsule can be used to treat diarrhoea?",
+        "answer": [
+          "No, 3-C 200 mg Capsule is not prescribed to treat diarrhoea."
+        ]
+      },
+      {
+        "question": "Is it safe to give 3-C 200 mg Capsule to infants?",
+        "answer": [
+          "The safety of 3-C 200 mg Capsule, in case of newborns or infants aging less than 6 months, has not been positively established. Thus you need to consult a doctor before administering this medicine to an infant."
+        ]
+      },
+      {
+        "question": "Does 3-C 200 mg Capsule is a penicillin variant?",
+        "answer": [
+          "No, 3-C 200 mg Capsule is not a penicillin variant. This medication belongs to cephalosporin antibiotic and functions in a similar way to that of penicillin. Concurrent use of these two must be discussed with a doctor."
+        ]
+      },
+      {
+        "question": "Does 3-C 200 mg Capsule cause loose-motion?",
+        "answer": [
+          "Diarrhoea is a known side effect of 3-C 200 mg Capsule although it has been associated with higher doses only."
+        ]
+      },
+      {
+        "question": "Is constipation associated with 3-C 200 mg Capsule?",
+        "answer": [
+          "Constipation is an unusual side effect of 3-C 200 mg Capsule. In case, it causes persistent constipation and seems circumstantially related to the ingestion of this medication, must consult a doctor."
+        ]
+      },
+      {
+        "question": "Does 3-C 200 mg Capsule interact with contraception?",
+        "answer": [
+          "No such evidence suggested the effect of 3-C 200 mg Capsule on contraceptive medications."
+        ]
+      },
+      {
+        "question": "Can I take acetaminophen along with 3-C 200 mg Capsule?",
+        "answer": [
+          "No interactions have been clinically proven between 3-C 200 mg Capsule and Acetaminophen (Paracetamol). It is advisable to consult a doctor before concurrent use of these two medicines."
+        ]
+      },
+      {
+        "question": "How long does 3-C 200 mg Capsule take to work?",
+        "answer": [
+          "3-C 200 mg Capsule start working as soon after you ingest it. However, it may take a few days to kill the harmful bacteria and relieve the symptoms completely. It is advised to complete the medication course for the suggested days."
+        ]
+      },
+      {
+        "question": "What if I do not get better after using 3-C 200 mg Capsule?",
+        "answer": [
+          "Inform your doctor if you do not feel better even after finishing the full course of treatment. You must also inform your doctor if the symptoms get worse while using this medicine."
+        ]
+      },
+      {
+        "question": "Quick Tips",
+        "answer": [
+          "Your doctor has prescribed 3-C 200 mg Capsule to cure your infection and improve your symptoms.",
+          "Do not skip any doses and finish the full course of treatment even if you feel better. Stopping it early may make the infection harder to treat.",
+          "Take it with food to avoid an upset stomach.",
+          "Diarrhea may occur as a side effect but should stop when your course is complete. Inform your doctor if it does not stop or if you find blood in your stools.",
+          "Avoid consuming alcohol while taking 3-C 200 mg Capsule as it may cause increased side effects.",
+          "Discontinue 3-C 200 mg Capsule and inform your doctor immediately if you get a rash, itchy skin, swelling of face and mouth, or have difficulty in breathing."
+        ]
+      }
+    ],
+    "fetched_at": "2025-09-12T05:18:45.465Z",
+    "original_record": {
+      "input_index": 1,
+      "brand_record": {
+        "name": "3-C",
+        "strength": "200 mg",
+        "generic": "Cefixime Trihydrate",
+        "company": "Edruc Limited",
+        "source_url": "https://medex.com.bd/brands/7695/3-c-200-mg-capsule"
+      }
+    }
+  }
+]
