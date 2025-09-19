@@ -64093,6 +64093,240 @@
         }
       }
     }
+  }, {
+    "source_url": "https://medex.com.bd/brands/37098/athexim-500-mg-tablet",
+    "name": "Athexim",
+    "dosage_form": "Tablet",
+    "generic": "Cefuroxime Axetil",
+    "strength": "500 mg",
+    "company": "C2C Pharma Ltd.",
+    "pack_image": "https://medex.com.bd/data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzUiIGhlaWdodD0iMTE1Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ0cmFuc3BhcmVudCIvPjwvc3ZnPg==",
+    "pricing": {
+      "unit_price": "৳ 45.00",
+      "strip_price": "৳ 315.00",
+      "pack_size_info": "(2 x 7: ৳ 630.00)",
+      "packages": [
+        {
+          "label": "Unit Price",
+          "price": "৳ 45.00",
+          "pack_size_info": "(2 x 7: ৳ 630.00)"
+        },
+        {
+          "label": "Strip Price",
+          "price": "৳ 315.00",
+          "pack_size_info": null
+        }
+      ]
+    },
+    "flags": [
+      {
+        "label": "Antibiotic",
+        "note": "Do not use without prescription of a registered physician"
+      }
+    ],
+    "also_available": [],
+    "alternate_brands_url": "https://medex.com.bd/generics/226/cefuroxime-axetil/brand-names",
+    "indications": [
+      {
+        "title": null,
+        "information": "It is indicated for the treatment of infections caused by sensitive bacteria. It is indicated for the treatment of infections caused by sensitive bacteria.",
+        "items": [
+          "Pharyngitis/Tonsillitis caused by Streptococcus pyogenes.",
+          "Acute Bacterial Otitis Media caused by Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis (beta-lactamase producing strains) or Streptococcus pyogenes.",
+          "Pharyngitis/Tonsillitis caused by Streptococcus pyogenes.",
+          "Acute Bacterial Otitis Media caused by Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis (beta-lactamase producing strains) or Streptococcus pyogenes.",
+          "Acute bacterial maxillary sinusitis caused by Streptococcus pneumoniae or Haemophilus influenzae (non beta-lactamase producing strains)",
+          "Lower respiratory tract infections including pneumoniae, caused by Streptococcus pneumoniae, Haemophilus influenzae (including beta lactamase-producing strains), Klebsiella spp., Staphylococcus aureus (penicillinase- and non-penicillinase-producing strains), Streptococcus pyogenes, E. coli",
+          "Acute bacterial exacerbation of chronic bronchitis and Secondary bacterial infections of Acute bronchitis caused by Streptococcus pneumoniae, Haemophilus influenzae (beta-lactamase negative strains) or Haemophilus parainfluenzae (beta-lactamase negative strains).",
+          "Skin and skin-structure infections caused by Staphylococcus aureus (including beta-lactamase producing strains) or Streptococcus pyogenes.",
+          "Urinary tract infections caused by E.coli or Klebsiella pneumoniae.",
+          "Bone and Joint Infections caused by Staphylococcus aureus (penicillinase- and non-penicillinase-producing strains).",
+          "Gonorrhoea caused by penicillinase-producing and non-penicillinase producing strains of Neisseria gonorrhoeae.",
+          "Early Lyme Disease (erythema migrans) caused by Borrelia burgdorferi."
+        ]
+      }
+    ],
+    "mode_of_action": [
+      {
+        "title": null,
+        "information": "Cefuroxime is a well-characterized and effective antibacterial agent, which has broad-spectrum bactericidal activity against a wide range of common pathogens, including β-lactamase producing strains. Cefuroxime has good stability to bacterial β-lactamase and consequently, is active against many ampicillin-resistant and amoxycillin-resistant strains.",
+        "items": []
+      }
+    ],
+    "interaction": [
+      {
+        "title": null,
+        "information": "No potentially hazardous interactions have been reported.",
+        "items": []
+      }
+    ],
+    "contraindications": [
+      {
+        "title": null,
+        "information": "Cefuroxime is contraindicated in patients with known allergy to Cephalosporins.",
+        "items": []
+      }
+    ],
+    "side_effects": [
+      {
+        "title": null,
+        "information": "Adverse effects to Athexim have occurred infrequently and have been generally mild and transient in nature. Effects reported include rashes and gastrointestinal disturbances. As with other antibiotics, prolonged use may result in the overgrowth of non susceptible organisms e.g. Candida.",
+        "items": []
+      }
+    ],
+    "pregnancy_cat": [
+      {
+        "title": null,
+        "information": "US FDA pregnancy category of Cefuroxime is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Cefuroxime have been shown to be excreted in human milk. So, caution should be exercised when Cefuroxime is administered to a nursing woman.",
+        "items": []
+      }
+    ],
+    "precautions": [
+      {
+        "title": null,
+        "information": "Athexim should be given with care to patients receiving concurrent treatment with potent diuretics & who has history of colitis. Cephalosporin antibiotics may in general be given safely to patients who are hypersensitive to penicillin although cross reactions have reported. Athexim has shown, that is not likely to be a problem at the recommended to dose levels.",
+        "items": []
+      }
+    ],
+    "pediatric_uses": [],
+    "overdose_effects": [],
+    "storage_conditions": [
+      {
+        "title": null,
+        "information": "Store in a cool, dry place (below 30 o C), away from light & moisture. Keep out of the reach of children.",
+        "items": []
+      }
+    ],
+    "description": [],
+    "administration": [
+      {
+        "title": null,
+        "information": "The use of freshly reconstituted solution is recommended. However, it maintains potency for at least 24 hours at room temperature or 48 hours at 5 o C",
+        "items": []
+      }
+    ],
+    "compound_summary": {
+      "molecular_formula": null,
+      "chemical_structure": null
+    },
+    "therapeutic_class": "Second generation Cephalosporins",
+    "dosage": [
+      {
+        "medication_type": null,
+        "information": "Tablet or Suspension- Adolescents and adults (13 years and older)- Paediatric Patients (3 months to 12 years)- Parenteral-",
+        "instructions": [
+          "Pharyngitis/tonsillitis: 250 mg b.i.d. for 5-10 days",
+          "Acute bacterial maxillary sinusitis: 250 mg b.i.d. for 10 days",
+          "Acute bacterial exacerbation of chronic bronchitis: 250-500 mg b.i.d. for 10 days",
+          "Secondary bacterial infections of acute bronchitis: 250-500 mg b.i.d. for 5-10 days",
+          "Uncomplicated skin and skin structure infections: 250-500 mg b.i.d. for 10 days",
+          "Uncomplicated urinary tract infections: 250 mg b.i.d. for 7-10 days",
+          "Uncomplicated Gonorrhoea: 1000 mg Single dose",
+          "Community acquired pneumonia: 250-500 mg b.i.d. for 5-10 days",
+          "MDR Typhoid Fever: 500 mg b.i.d. for 10-14 days",
+          "Early Lyme disease: 500 mg b.i.d. for 20 days",
+          "Pharyngitis/Tonsillitis: 20 mg/kg/day b.i.d for 5-10 days",
+          "Acute otitis media: 30 mg/kg/day b.i.d for 10 days",
+          "Acute bacterial maxillary sinusitis: 30 mg/kg/day b.i.d for 10 days",
+          "Impetigo: 30 mg/kg/day b.i.d for 10 days"
+        ]
+      },
+      {
+        "medication_type": "Adult",
+        "information": ": 750 mg three times daily by IM or IV injection. In severe infections, dose can be increased upto 1.5 gm three times daily by IV injection. The frequency may be increased to four times daily, if necessary, giving total daily doses of 3 to 6 gms.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Children",
+        "information": "(above 3 months of age): 30 - 100 mg/kg/day given in 3 or 4 equally divided doses. A dose of 60 mg/kg/day is appropriate for most infections.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Neonate",
+        "information": ": 30 - 100 mg/kg/day given in 2 or 3 equally divided doses.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Surgical prophylaxis",
+        "information": ": 1.5 gm by IV injection at induction of anaesthesia; up to 3 further doses of 750 mg may be given by IV/IM injection every 8 hours for high risk procedures.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Pneumonia",
+        "information": ": 1.5 gm IV injection twice daily for 2-3 days, followed by 500 mg twice daily (oral) for 7-10 days.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Acute exacerbations of chronic bronchitis",
+        "information": ": 750 mg twice daily (IM or IV injection) for 2-3 days, followed by 500 mg twice daily (oral) for 5-10 days. (Duration of both parenteral and oral therapy is determined by the severity of the infection and the clinical status of the patient.)",
+        "instructions": []
+      },
+      {
+        "medication_type": "In Gonorrhoea",
+        "information": ": Adult: 1.5 gm as a single dose (as 2 x 750mg injections intramuscularly with different sites, e.g. each buttock).",
+        "instructions": []
+      },
+      {
+        "medication_type": null,
+        "information": "In Meningitis:",
+        "instructions": []
+      },
+      {
+        "medication_type": "Adult",
+        "information": ": 3 gm IV injection three times daily.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Children",
+        "information": "(above 3 months of age): 200-240 mg/kg/day by IV injection in 3 or 4 divided doses reduced to 100 mg/kg/day after 3 days or on clinical improvement.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Neonate",
+        "information": ": 100 mg/kg/day by IV injection at initial dose, reduced to 50 mg/kg/day, When clinically indicated.",
+        "instructions": []
+      },
+      {
+        "medication_type": null,
+        "information": "In bone and joint infections:",
+        "instructions": []
+      },
+      {
+        "medication_type": "Adult",
+        "information": ": 1.5 gm IV injection four times daily.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Children",
+        "information": "(above 3 months of age): 150 mg/kg/day (not to exceed the maximum adult dose) in equally divided doses every 8 hours.",
+        "instructions": []
+      }
+    ],
+    "common_questions": [],
+    "fetched_at": "2025-09-19T06:18:19.273Z",
+    "medicine_id": "68c3c0adef5b8f2b163a92a2",
+    "original_record": {
+      "input_index": 1852,
+      "brand_record": {
+        "_id": {
+          "$oid": "68c3c0adef5b8f2b163a92a2"
+        },
+        "name": "Athexim",
+        "strength": "500 mg",
+        "generic": "Cefuroxime Axetil",
+        "company": "C2C Pharma Ltd.",
+        "medicine_type": "Tablet",
+        "source_url": "https://medex.com.bd/brands/37098/athexim-500-mg-tablet",
+        "_page": 64,
+        "image_uri": null,
+        "createdAt": {
+          "$date": "2025-09-12T06:45:33.175Z"
+        },
+        "updatedAt": {
+          "$date": "2025-09-12T06:45:33.175Z"
+        }
+      }
+    }
   },
   {
     "source_url": "https://medex.com.bd/brands/37098/athexim-500-mg-tablet",
