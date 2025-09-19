@@ -1,216 +1,161 @@
 [
-  {
-    "source_url": "https://medex.com.bd/brands/28391/bionaprox-plus-375-mg-tablet",
-    "name": "Bionaprox Plus",
-    "dosage_form": "Tablet (Delayed Release)",
-    "generic": "Naproxen Sodium + Esomeprazole Magnesium",
-    "strength": "375 mg+20 mg",
-    "company": "Biogen Pharmaceuticals Ltd.",
+ {
+    "source_url": "https://medex.com.bd/brands/3461/broncotrol-2-mg-syrup",
+    "name": "Broncotrol",
+    "dosage_form": "Syrup",
+    "generic": "Salbutamol",
+    "strength": "2 mg/5 ml",
+    "company": "Pacific Pharmaceuticals Ltd.",
     "pack_image": null,
     "pricing": {
-      "unit_price": "৳ 10.00",
-      "strip_price": "৳ 100.00",
-      "pack_size_info": "(3 x 10: ৳ 300.00)",
+      "unit_price": "৳ 0.11",
+      "strip_price": null,
+      "pack_size_info": "(20 x 10: ৳ 22.93)",
       "packages": [
         {
-          "label": "Unit Price",
-          "price": "৳ 10.00",
-          "pack_size_info": "(3 x 10: ৳ 300.00)"
-        },
-        {
-          "label": "Strip Price",
-          "price": "৳ 100.00",
-          "pack_size_info": null
+          "label": "100 ml bottle",
+          "price": "৳ 0.11",
+          "pack_size_info": "(20 x 10: ৳ 22.93)"
         }
       ]
     },
     "flags": [],
-    "also_available": [],
-    "alternate_brands_url": "https://medex.com.bd/generics/432/naproxen-sodium-esomeprazole-magnesium/brand-names",
+    "also_available": [
+      {
+        "text": "4 mg (Tablet)",
+        "href": "https://medex.com.bd/brands/28509/broncotrol-4-mg-tablet?ref=1"
+      }
+    ],
+    "alternate_brands_url": "https://medex.com.bd/generics/1318/salbutamol/brand-names",
     "indications": [
       {
         "title": null,
-        "information": "Bionaprox Plus tablet is indicated for the relief of signs & symptoms of-",
+        "information": "Broncotrol is indicated as a bronchodilator for use in-",
         "items": [
-          "Osteoarthritis",
-          "Rheumatoid arthritis",
-          "Ankylosing spondylitis &",
-          "To decrease the risk of developing gastric ulcers in patients at risk of developing NSAID-associated gastric ulcers."
+          "Asthma",
+          "Chronic Bronchitis",
+          "Emphysema and",
+          "Other conditions associated with airways obstruction."
         ]
       }
     ],
     "mode_of_action": [
       {
         "title": null,
-        "information": "This consists of an immediate release Esomeprazole Magnesium layer & an enteric-coated Naproxen core. As a result, Esomeprazole is released first into the stomach, prior to the dissolution of Naproxen in the small intestine. Naproxen is a NSAID with analgesic & antipyretic properties. The mechanism of action of Naproxen is to inhibit the prostaglandin synthesis. Esomeprazole is a proton pump inhibitor that suppresses gastric acid secretion by specific inhibition of the H + /k + -ATPase in the gastric parietal cell by acting specifically on the proton pump, Esomeprazole blocks the final step in acid production, thus reducing gastric acidity.",
+        "information": "Salbutamol is a synthetic sympathomimetic agent with predominant beta-2 adrenergic activity. Salbutamol produces bronchodilatation through stimulation of beta-2-adrenergic receptors in bronchial smooth muscles, thereby causing relaxation of bronchial muscle fibers. This action is manifested by an improvement in pulmonary function as demonstrated by spirometric measurements.",
         "items": []
       }
     ],
-    "interaction": [
-      {
-        "title": null,
-        "information": "With medicine: With food & others: Administration of Naproxen & Esomeprazole together with high-fat food in healthy volunteers does not affect the extent of absorption of naproxen but significantly prolongs t max by 10 hours and decreases peak plasma concentration (C max ) by about 12%",
-        "items": [
-          "Concomitant use of NSAIDs may reduce the antihypertensive effect of ACE inhibitors, diuretics & beta-blockers",
-          "Concomitant use of this tablet and warfarin may result in an increased risk of a bleeding complication.",
-          "Esomeprazole inhibits gastric acid secretion & may interfere with the absorption of drugs where gastric pH is an important determinant of bioavailability (eg. Ketoconazole, iron salts and digoxin)."
-        ]
-      }
-    ],
-    "contraindications": [
-      {
-        "title": null,
-        "information": null,
-        "items": [
-          "Known hypersensitivity to any component of this tablet or substituted benzimidazoles.",
-          "History of asthmay urticaria or other allergic-type reactions after taking aspirin or other NSAIDs.",
-          "Use during the peri-operative period in the setting of coronary artery bypass graft (CABG) surgery."
-        ]
-      }
-    ],
+    "interaction": [],
+    "contraindications": [],
     "side_effects": [
       {
         "title": null,
-        "information": "Immediate release esomeprazole has been included in the tablet formulation to decrease the incidence of gastrointestinal side effects from Naproxen. Naproxen and Esomeprazole tablet has been shown to significantly decrease the occurrence of gastric ulcers and NSAID associated upper gastrointestinal adverse events compared to Naproxen alone. Naproxen: Clinical trial and epidemiological data suggest that use of coxibs and some NSAIDs (particularly at high doses and in long-term treatment) may be associated with a small increased risk of arterial thrombotic events (for example myocardial infarction or stroke). Although data suggest that the use of Naproxen (1000 mg daily) may be associated with a lower risk, some risk cannot be excluded. Oedema, hypertension and cardiac failure have been reported in association with NSAID treatment. The most commonly observed adverse events are gastrointestinal in nature. Peptic ulcers, perforation or GI bleeding, sometimes fatal, particularly in older people, may occur. Nausea, vomiting, diarrhoea, flatulence, constipation, dyspepsia, abdominal pain, melaena, haematemesis, ulcerative stomatitis, exacerbation of colitis and Crohn’s disease have been reported following administration. Less frequently, gastritis has been observed.",
+        "information": "Broncotrol may cause fine tremor of skeletal muscles (particularly the hands), palpitations and muscle cramps. Tachycardia, tenseness, headaches and peripheral vasodilatation have been reported after large doses.",
         "items": []
       }
     ],
     "pregnancy_cat": [
       {
-        "title": "Pregnancy",
-        "information": ": In women attempting to conceive or during the first and second trimester of pregnancy, Naproxen and Esomeprazole tablet should not be given unless the potential benefit to the patient outweighs the potential risk to the foetus. Naproxen and Esomeprazole tablet is contraindicated during the third trimester of pregnancy.",
-        "items": []
-      },
-      {
-        "title": "Breast-feeding",
-        "information": ": Naproxen is excreted in low quantities in human milk. It is unknown whether esomeprazole is excreted in human milk. Naproxen and Esomeprazole tablet should not be used during breastfeeding.",
-        "items": []
-      },
-      {
-        "title": "Fertility",
-        "information": ": The use of NSAIDs like Naproxen may impair female fertility. The use of Naproxen and Esomeprazole tablet is not recommended in women attempting to conceive.",
+        "title": null,
+        "information": "The drug should be used during pregnancy only if the potential benefit justifies the potential risk of the fetus. It is not known whether this drug is excreted in human milk. Because of the potential of tumorigenecity shown for Salbutamol in some animal studies, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.",
         "items": []
       }
     ],
     "precautions": [
       {
-        "title": "General",
-        "information": ": The combination of Naproxen and Esomeprazole tablet and NSAIDs including cyclooxygenase-2 selective inhibitors should be avoided because of the cumulative risks of inducing serious NSAID-related adverse events. Naproxen and Esomeprazole tablet can be used with low dose acetylsalicylic acid. Undesirable effects may be minimized by using the lowest effective dose for the shortest duration necessary to control symptoms. Risk-factors to develop NSAID related gastro-intestinal complications include high age, concomitant use of anticoagulants, corticosteroids, other NSAIDs including low-dose acetylsalicylic acid, debilitating cardiovascular disease, Helicobacter pylori infection, and a history of gastric and/or duodenal ulcers and upper gastrointestinal bleeding. In patients with the conditions such as Inducible porphyries, Systemic lupus erythematosis and mixed connective tissue disease, Naproxen should only be used after a rigorous benefit-risk ratio. Patients on long-term treatment (particularly those treated for more than a year) should be kept under regular surveillance.",
-        "items": []
-      },
-      {
-        "title": "Older people",
-        "information": ": Naproxen: Older people have an increased frequency of adverse reactions especially gastro-intestinal bleeding, and perforation, which may be fatal. The esomeprazole component of Naproxen and Esomeprazole tablet decreased the incidence of ulcers in older people.",
-        "items": []
-      },
-      {
-        "title": "Gastrointestinal effects",
-        "information": ": Naproxen: GI bleeding, ulceration or perforation, which can be fatal, has been reported with all NSAIDs at anytime during treatment, with or without warning symptoms or a previous history of serious GI events. The risk of GI bleeding, ulceration or perforation with NSAIDs is higher with increasing NSAID doses, in patients with a history of ulcer, particularly if complicated with haemorrhage or perforation, and in older people. These patients should begin treatment on the lowest dose available. Combination therapy with protective agents (e.g. misoprostol or proton pump inhibitors) should be considered for these patients, and also for patients requiring concomitant low dose acetylsalicylic acid, or other drugs likely to increase gastrointestinal risk. Patients with a history of GI toxicity, particularly older people, should report any unusual abdominal symptoms (especially GI bleeding) particularly in the initial stages of treatment. Caution should be advised in patients receiving NSAIDs with concomitant medications which could increase the risk of ulceration or bleeding, such as oral corticosteroids, anticoagulants such as warfarin, selective serotonin-reuptake inhibitors or anti-platelet agents such as acetylsalicylic acid. When GI bleeding or ulceration occurs in patients receiving Naproxen and Esomeprazole Tablet, the treatment should be withdrawn. NSAIDs should be given with care to patients with a history of gastrointestinal disease (ulcerative colitis, Crohn’s disease) as these conditions may be exacerbated. Esomeprazole: Dyspesia could still occur despite the addition of Esomperazole to the combination tablet. Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter. Esomeprazole, as all acid-blocking medicines, might reduce the absorption of vitamin B12 (cyanocobalamin) due to hypo- or achlorhydria. This should be considered in patients with reduced body stores or risk factors of reduced vitamin B12 absorption on long-term therapy.",
-        "items": []
-      },
-      {
-        "title": "Cardiovascular and cerebrovascular effects",
-        "information": ": Naproxen: Appropriate monitoring and advice are required for patients with a history of hypertension and/or mild to moderate congestive heart failure as fluid retention and oedema have been reported in association with NSAID therapy. Patients with uncontrolled hypertension, congestive heart failure, established ischaemic heart disease, peripheral arterial disease, and/or cerebrovascular disease should only be treated with Naproxen after careful consideration. Similar consideration should be made before initiating longer-term treatment of patients with risk factors for cardiovascular events (e.g. hypertension, hyperlipidaemia, diabetes mellitus, smoking).",
-        "items": []
-      },
-      {
-        "title": "Renal effects",
-        "information": ": Naproxen: Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.",
+        "title": null,
+        "information": "Broncotrol should be used with caution in patients with hyperthyroidism, cardiovascular disease, occlusive vascular disorders, hypertension and aneurysms. Hypokalaemia associated with high doses of Broncotrol may result in increased susceptibility to digitalis-induced cardiac arrhythmia. Tachyphylaxis with resistance may occur with prolonged use of high dosage. Care is necessary when treating patients with diabetes mellitus or closed angle glaucoma, and in those receiving antihypertensive therapy.",
         "items": []
       }
     ],
-    "pediatric_uses": [
-      {
-        "title": "Elderly patients",
-        "information": ": Studies indicate that although the total plasma concentration of naproxen is unchanged, the unbound plasma fraction of naproxen is increased in the elderly. Use caution when high doses are required & some adjustment of dosage may be required in elderly patients. As with other drugs used in the elderly use the lowest effective dose.",
-        "items": []
-      },
-      {
-        "title": "Patients with Moderate to Severe Renal impairment",
-        "information": ": Naproxen-containing products are not recommended for use in patients with moderate to severe or severe renal impairment (creatinine clearance <30 ml/min).",
-        "items": []
-      },
-      {
-        "title": "Hepatic insufficiency",
-        "information": ": Monitor patients with mild to moderate hepatic impairment closely & consider a possible dose reduction based on the Naproxen component of this tablet. This is not recommended in patients with severe hepatic impairment because Esomeprazole dosage should not exceed 20 mg daily in these patients.",
-        "items": []
-      }
-    ],
+    "pediatric_uses": [],
     "overdose_effects": [
       {
-        "title": "Symptoms",
-        "information": ": Related to Naproxen overdose- Significant Naproxen overdosage may be characterized by lethargy, dizziness, drowsiness, epigastric pain, abdominal discomfort, heartburn, indigestion, nausea, transient alterations in liver function, hypoprothrombinemia, renal dysfunction, metabolic acidosis, apnea, disorientation or vomiting. Gastrointestinal bleeding can occur. Hypertension, acute renal failure, respiratory depression, and coma may occur, but are rare. Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs, and may occur following an overdose. It is not known what dose of the drug would be life-threatening. Related to esomeprazole overdose- The symptoms described in connection with deliberate esomeprazole overdose (limited experience of doses in excess of 240 mg/day) are transient. Single doses of 80 mg esomeprazole were uneventful.",
-        "items": []
-      },
-      {
-        "title": "Management",
-        "information": ": Related to Naproxen- Patients should be managed by symptomatic and supportive care following a NSAID overdose, particularly with respect to GI effects and renal damage. There are no specific antidotes. Hemodialysis does not decrease the plasma concentration of Naproxen because of the high degree of its protein binding. Emesis and/or activated charcoal (60 to 100 g in adults, 1 to 2 g/kg in children) and/or osmotic cathartic may be indicated in patients seen within 4 hours of ingestion with symptoms or following a large overdose. Forced diuresis, alkalinization of urine or hemoperfusion may not be useful due to high protein binding. Related to Esomeprazole- No specific antidote is known. Esomeprazole is extensively plasma protein bound and is therefore not readily dialyzable. As in any case of overdose, treatment should be symptomatic and general supportive measures should be utilised.",
+        "title": null,
+        "information": "The symptoms with overdosage are angina, headache, nausea, vomiting, tremor etc. The preferred antidote for overdosage with Broncotrol is a cardio-selective beta-blocking agent but beta-blocking drugs should be used with caution in patients with a history of bronchospasm.",
         "items": []
       }
     ],
     "storage_conditions": [
       {
         "title": null,
-        "information": "Store at temperature of below 30°C, protect from light & moisture. Keep out of reach of children.",
+        "information": "Keep below 30°C temperature, away from light & moisture. Keep out of the reach of children.",
         "items": []
       }
     ],
     "description": [],
-    "administration": [
-      {
-        "title": null,
-        "information": "Do not split, chew, crush or dissolve the tablet. This tablet is to be taken at least 30 minutes before meals.",
-        "items": []
-      }
-    ],
+    "administration": [],
     "compound_summary": {
       "molecular_formula": null,
       "chemical_structure": null
     },
-    "therapeutic_class": "Drugs for Osteoarthritis, Drugs used for Rheumatoid Arthritis, Non-steroidal Anti-inflammatory Drugs (NSAIDs)",
+    "therapeutic_class": "Short-acting selective & β2-adrenoceptor stimulants",
     "dosage": [
       {
-        "medication_type": null,
-        "information": "Carefully consider the potential benefits & risks of this tablet & other treatment options before deciding to use this tablet. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals. If a dose of Esomeprazole lower than a total daily dose of 40 mg is more appropriate, a different treatment should be considered. Rheumatoid Arthritis, Osteoarthritis and Ankylosing Spondylitis-",
-        "instructions": []
+        "medication_type": "Salbutamol tablet or syrup-",
+        "information": "Children: Adults: 2-4 mg tablet, 3-4 times daily. Maximum single dose is 8 mg tablet.",
+        "instructions": [
+          "2-6 years: 2.5 ml syrup, 3-4 times daily",
+          "6-12 years: 5 ml syrup, 3-4 times daily",
+          "Over 12 years: 5-10 ml syrup, 3-4 times daily (2-4 mg tablet, 3-4 times daily)"
+        ]
       },
       {
-        "medication_type": "Adults",
-        "information": ": One tablet twice daily of either: 375 mg naproxen/20 mg of esomeprazole; or 500 mg naproxen/20 mg of esomeprazole",
-        "instructions": []
+        "medication_type": "Salbutamol Respirator Solution",
+        "information": ": To be used with a suitable nebulizer device under the direction of a physician. The solution must not be injected or ingested. Method-1 (Intermittent Administration): Method-2 (Continuous administration): 1-2 ml solution is diluted to make up to 100 ml with normal saline solution. The diluted solution is administered by a suitable nebulizer devise. When there is risk of anoxia through hypoventilation, oxygen should be added to the inspired air.",
+        "instructions": [
+          "Adults (and the elderly): 0.5 ml-1.0 ml salbutamol up to four times a day. Up to 40mg per day can be given under strict medical direction in the hospital. 0.5-1 ml solution should be diluted to final volume of 2-4 ml with sterile normal saline solution. It will take time about 10 minutes.",
+          "Salbutamol respiratory solution may be used undiluted for intermittent administration. For this 2.0 ml of the solution is placed in the nebulizer and the patient allowed to inhale until bronchodilation is achieved. This usually takes 3-5 minutes.",
+          "Children under 12 years of age: 0.5 ml of the solution diluted to 2.0-4.0 ml with normal saline. Some children may however require higher doses of up to 1.0 ml of the solution. Intermittent treatment may be repeated four times a day."
+        ]
       },
       {
-        "medication_type": null,
-        "information": "Juvenile Idiopathic Arthritis in Adolescent Patients 12 Years of Age & Older-",
-        "instructions": []
+        "medication_type": "Salbutamol nebulizer solution",
+        "information": ": To be used with a suitable nebulizer device under the direction of a physician. The solution must not be injected or ingested.",
+        "instructions": [
+          "Adults & Elderly: 2.5 mg to 5 mg Salbutamol up to 4 times a day. Up to 40 mg/day may be given under strict medical direction in the hospital.",
+          "Children under 12 years: 2.5 mg up to 4 times a day. A higher dose up to 5 mg four times a day may be used if required."
+        ]
       },
       {
-        "medication_type": "Weight greater than 50 kg",
-        "information": ": 375 mg naproxen/20 mg of esomeprazole; or 500 mg naproxen/20 mg of esomeprazole",
-        "instructions": []
+        "medication_type": "Salbutamol injection",
+        "information": ": Adults: Children and Adolescents (<18 years of age): The dosage of Salbutamol infusion solution in the pediatric age group has not been established. At present, there are insufficient data to recommend a dosage regimen for children.",
+        "instructions": [
+          "Salbutamol I.V. infusion solution is used to prepare a solution for continuous intravenous infusion. It should not be injected undiluted. A suitable solution for infusion may be prepared by diluting 5 mL of Salbutamol I.V. infusion solution (1000 mcg/mL) in 500 mL of a chosen i.v. solution to provide a salbutamol concentration of 10 mcg/mL.",
+          "The only recommended diluents are Sodium Chloride Injection, or Sodium Chloride and Dextrose Injection.",
+          "Infusion rates providing 3 to 20 micrograms salbutamol/minute (0.3 to 2ml/minute of the above infusion solution) are usually adequate. Infusion rates can be started at 5 mcg of salbutamol/min., and can be increased to 10 mcg/min., and 20 mcg/min. at 15 - 30 minute intervals, if necessary.",
+          "As with all parenteral drug products, intravenous admixtures should be inspected visually for clarity, particulate matter, precipitate, discoloration and leakage prior to administration.",
+          "All unused admixtures of Salbutamol infusion solution with infusion fluids should be discarded 24 hours after preparation."
+        ]
       },
       {
-        "medication_type": "Weight 38 kg to less than 50 kg",
-        "information": ": One tablet twice daily of 375 mg naproxen/20 mg of esomeprazole.",
-        "instructions": []
+        "medication_type": "Salbutamol Inhalation Capsule",
+        "information": ": Excercise-induced Asthma:",
+        "instructions": [
+          "Adults: For the relief of bronchospasm and for managing intermittent episodes of asthma, one or two inhalation capsule may be administered as a single dose. The usual recommended dosage of Salbutamol inhalation capsule for inhalation for adults for maintenance or prophylactic therapy is the contents of one 200 microgram capsule every 4 to 6 hours using a device. In some patients, the contents of two 200 microgram capsules inhaled every 4 to 6 hours may be required. Large doses or more frequent administration is not recommended. The use of salbutamol powder for inhalation can be continued as medically indicated to control recurring/intermittent episodes of bronchospasm.",
+          "Children: One Salbutamol inhalation capsule is the recommended dose for relief of acute bronchospasm in the maintenance of episodic asthma or before exercise of children 4 years of age and older. One inhalation should be administered for three or four times a day for routine maintenance or prophylactic therapy. This dosage may be increased to inhalation of two inhalation capsule, if necessary. The bronchodilator effect of each administration of inhaled Salbutamol inhalation capsule lasts for at least four hours. Such patients should be warned not to increase the dose of inhaler, but should seek medical advice immediately.",
+          "Adults: 400 microgram",
+          "Child: 200 microgram, 15-30 minutes prior to any physical exertion."
+        ]
       }
     ],
     "common_questions": [],
-    "fetched_at": "2025-09-19T09:58:36.538Z",
-    "medicine_id": "68c3c0c3ef5b8f2b163a9674",
+    "fetched_at": "2025-09-19T14:27:25.038Z",
+    "medicine_id": "68c3c0d5ef5b8f2b163a97a4",
     "original_record": {
-      "input_index": 2967,
+      "input_index": 3102,
       "brand_record": {
         "_id": {
-          "$oid": "68c3c0c3ef5b8f2b163a9674"
+          "$oid": "68c3c0d5ef5b8f2b163a97a4"
         },
-        "name": "Bionaprox Plus",
-        "strength": "375 mg+20 mg",
-        "generic": "Naproxen Sodium + Esomeprazole Magnesium",
-        "company": "Biogen Pharmaceuticals Ltd.",
-        "medicine_type": "Tablet (Delayed Release)",
-        "source_url": "https://medex.com.bd/brands/28391/bionaprox-plus-375-mg-tablet",
-        "_page": 97,
+        "name": "Broncotrol",
+        "strength": "2 mg/5 ml",
+        "generic": "Salbutamol",
+        "company": "Pacific Pharmaceuticals Ltd.",
+        "medicine_type": "Syrup",
+        "source_url": "https://medex.com.bd/brands/3461/broncotrol-2-mg-syrup",
+        "_page": 107,
         "image_uri": null,
         "createdAt": {
           "$date": "2025-09-12T06:45:33.175Z"
