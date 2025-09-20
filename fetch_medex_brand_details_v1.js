@@ -856,7 +856,7 @@ function alreadyProcessed(outputArr, sourceUrl) {
   // const deeplyClonedPart = input.slice().map(item => ({ ...item }));
   //
 
-  for (let i = last_item_input_index-1; i < input.length; i++) {
+  for (let i = last_item_input_index+1; i < input.length; i++) {
     const item = input[i];
     const src = item.source_url || item.source || item.href || item.link;
     const source_url = src ? normalizeUrl(src) : null;
