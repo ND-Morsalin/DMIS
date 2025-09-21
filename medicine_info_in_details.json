@@ -1,107 +1,141 @@
 [
+
   {
-    "source_url": "https://medex.com.bd/brands/27306/dapawin-5-mg-tablet",
-    "name": "Dapawin",
+    "source_url": "https://medex.com.bd/brands/17655/dipicard-5-mg-tablet",
+    "name": "Dipicard",
     "dosage_form": "Tablet",
-    "generic": "Dapagliflozin Propanediol",
+    "generic": "Amlodipine Besilate",
     "strength": "5 mg",
-    "company": "Beacon Pharmaceuticals PLC",
+    "company": "Leon Pharmaceuticals Ltd.",
     "pack_image": null,
     "pricing": {
-      "unit_price": "৳ 16.00",
-      "strip_price": "৳ 160.00",
-      "pack_size_info": "(3 x 10: ৳ 480.00)",
+      "unit_price": "৳ 5.00",
+      "strip_price": null,
+      "pack_size_info": "(50's pack: ৳ 250.00)",
       "packages": [
         {
           "label": "Unit Price",
-          "price": "৳ 16.00",
-          "pack_size_info": "(3 x 10: ৳ 480.00)"
-        },
-        {
-          "label": "Strip Price",
-          "price": "৳ 160.00",
-          "pack_size_info": null
+          "price": "৳ 5.00",
+          "pack_size_info": "(50's pack: ৳ 250.00)"
         }
       ]
     },
     "flags": [],
-    "also_available": [],
-    "alternate_brands_url": "https://medex.com.bd/generics/339/dapagliflozin-propanediol/brand-names",
+    "also_available": [
+      {
+        "text": "10 mg (Tablet)",
+        "href": "https://medex.com.bd/brands/17656/dipicard-10-mg-tablet?ref=1"
+      }
+    ],
+    "alternate_brands_url": "https://medex.com.bd/generics/62/amlodipine-besilate/brand-names",
     "indications": [
       {
-        "title": null,
-        "information": "Dapawin is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
+        "title": "Essential hypertension",
+        "information": ": Dipicard is efficacious as monotherapy in the treatment of hypertension. It may be used in combination with other antihypertensive agents.",
+        "items": []
+      },
+      {
+        "title": "Angina pectoris",
+        "information": ": Dipicard is indicated for the treatment of chronic stable angina pectoris and is efficacious as monotherapy. It may be used in combination with other antianginal agents.",
+        "items": []
+      },
+      {
+        "title": "Vasospastic angina",
+        "information": ": Dipicard is indicated for the treatment of confirmed or suspected vasospastic angina. It may be used as monotherapy or in combination with other antianginal drugs.",
         "items": []
       }
     ],
     "mode_of_action": [
       {
         "title": null,
-        "information": "Dapagliflozin is an inhibitor of Sodium-glucose co-transporter 2 (SGLT2). Sodium-glucose co-transporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen. By inhibiting SGLT2, Dapagliflozin reduces reabsorption of filtered glucose and lowers the renal threshold for glucose (RTG), and thereby increases urinary glucose excretion.",
+        "information": "Amlodipine is a dihydropyridine calcium-channel blocker, with a long duration of action, used for the treatment of hypertension and angina pectoris. Amlodipine influences the myocardial cells, the cells within the specialized conducting system of the heart, and the cells of vascular smooth muscle. Administration of Amlodipine results primarily in vasodilation, with reduced peripheral resistance, blood pressure and afterload, increased coronary blood flow and a reflex increase in coronary heart rate. This in turn results in an increase in myocardial oxygen supply and cardiac output.",
         "items": []
       }
     ],
     "interaction": [
       {
         "title": null,
-        "information": "Dapawin can interact and may add to the diuretic effect of thiazide and loop diuretics and increase the risk of dehydration and hypotension. Insulin and insulin secretagogues, such as sulphonylureas, cause hypoglycemia. Therefore, a lower dose of insulin or an insulin secretagogue may be required to reduce the risk of hypoglycaemia when used in combination with Dapawin. It may have interaction with antihypertensives, pioglitazone, agents that affect renal function (e.g., ACE inhibitors, angiotensin II antagonists), GLP-1 agonists, valsartan, rifampin, mefenamic acid.",
-        "items": []
+        "information": "Drug Interactions- Other Significant Interactions-",
+        "items": [
+          "Potentially hazardous interactions: Little or no data are available in patients with markedly impaired cardiac left ventricular function; however, as with other calcium antagonist drugs, the combination of Dipicard and p-blockers should be avoided in such patients.",
+          "Digoxin: Absence of any interaction between Dipicard and Digoxin in healthy volunteers has been documented in a controlled clinical study.",
+          "Cimetidine: An unpublished clinical study indicated no interaction between, Dipicard and Cimetidine in healthy volunteers.",
+          "Warfarin: An unpublished clinical study in healthy volunteers indicates that Dipicard did not significantly alter the effect of Warfarin on prothrombin time.",
+          "Food: Food does not alter the rate or extent of absorption of Dipicard."
+        ]
       }
     ],
     "contraindications": [
       {
         "title": null,
-        "information": "This product is contraindicated in patients with known hypersensitivity to Dapagliflozin or to any of the excipients. It is also contraindicated in severe renal impairment, end-stage renal diseases or patients on dialysis.",
+        "information": "Hypersensitivity to dihydropyridine derivatives. Pregnant woman.",
         "items": []
       }
     ],
     "side_effects": [
       {
         "title": null,
-        "information": "The most common side effects of Dapawin includes hypotension, ketoacidosis, acute kidney injury and impairment in renal function, urosepsis and pyelonephritis, hypoglycemia with concomitant use with insulin and insulin secretagogues, genital mycotic infections, increases in low-density lipoprotein cholesterol (LDL-C), nasopharyngitis, urinary tract infection and bladder cancer.",
+        "information": "The most common adverse effects of amlodipine are associated with vasodilatory action, such as dizziness, flushing, headache, hypotension and peripheral edema. Gastrointestinal disturbances, increased micturition frequency, lethargy, eye pain and mental depression may also occur. A paradoxical increase in ischaemic chest pain may occur at the start of the treatment and in a few patients excessive fall in blood pressure has led to cerebral or myocardial ischaemia or transient blindness. Rashes, fever and abnormalities in liver function due to hypersensitivity reaction of Dipicard may occur.",
         "items": []
       }
     ],
     "pregnancy_cat": [
       {
         "title": null,
-        "information": "Dapagliflozin is pregnancy category C. There are no adequate data and well controlled studies on the use of Dapagliflozin in pregnant women. It should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether Dapagliflozin is excreted in human milk. However, Dapagliflozin should not be used during lactation.",
+        "information": "Pregnancy Category C. There are no adequate and well-controlled studies of Amlodipine in pregnant women. Amlodipine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus. It is not known whether Amlodipine is excreted in human milk. In the absence of this information, it is recommended that nursing be discontinued while Amlodipine is administered.",
         "items": []
       }
     ],
     "precautions": [
       {
-        "title": "Hypotension",
-        "information": ": Before initiating Dapawin, assess volume status and correct hypovolemia in the elderly, in patients with renal impairment or low systolic blood pressure, and in patients on diuretics. Monitor for signs and symptoms during therapy.",
-        "items": []
-      },
-      {
-        "title": "Impairment in renal function",
-        "information": ": Monitor renal function during therapy.",
-        "items": []
-      },
-      {
-        "title": "Hypoglycemia",
-        "information": ": In patients taking insulin or an insulin secretagogue with Dapawin, consider a lower dose of insulin or the insulin secretagogue to reduce the risk of hypoglycemia.",
-        "items": []
-      },
-      {
-        "title": "Bladder Cancer",
-        "information": ": An imbalance in bladder cancers was observed in clinical trials. Dapawin should not be used in patients with active bladder cancer and should be used with caution in patients with a prior history of bladder cancer.",
-        "items": []
-      },
-      {
-        "title": "Macrovascular outcomes",
-        "information": ": There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with Dapawin or any other antidiabetic drug.",
+        "title": null,
+        "information": "Precaution should be taken in patients with hepatic impairment and during pregnancy and breast feeding.",
         "items": []
       }
     ],
-    "pediatric_uses": [],
-    "overdose_effects": [],
+    "pediatric_uses": [
+      {
+        "title": "Children with hypertension from 6 years to 17 years of age",
+        "information": ": 2.5 mg once daily as a starting dose, up-titrated to 5 mg once daily if blood pressure goal is not achieved after 4 weeks. Doses in excess of 5 mg daily have not been studied in pediatric patients.",
+        "items": []
+      },
+      {
+        "title": "Children under 6 years old",
+        "information": ": The effect of amlodipine on blood pressure in patients less than 6 years of age is not known.",
+        "items": []
+      },
+      {
+        "title": "Elderly",
+        "information": ": Dipicard used at similar doses in elderly or younger patients is equally well tolerated. Normal dosage regimens are recommended in the elderly, but increase of the dosage should take place with care.",
+        "items": []
+      },
+      {
+        "title": "Renal impairment",
+        "information": ": Changes in amlodipine plasma concentrations are not correlated with degree of renal impairment, therefore the normal dosage is recommended. Dipicard is not dialysable.",
+        "items": []
+      },
+      {
+        "title": "Hepatic impairment",
+        "information": ": Dosage recommendations have not been established in patients with mild to moderate hepatic impairment; therefore dose selection should be cautions and should start at the lower end of the dosing range. The pharmacokinetics of Dipicard have not been studied in severe hepatic impairment. Dipicard should be initiated at the lowest dose (2.5 mg once daily) and titrated slowly in patients with severe hepatic impairment.",
+        "items": []
+      }
+    ],
+    "overdose_effects": [
+      {
+        "title": "Symptoms",
+        "information": ": Available data suggest that large overdosage could result in excessive peripheral vasodilatation and possibly reflex tachycardia. Marked and probably prolonged systemic hypotension up to and including shock with fatal outcome have been reported.",
+        "items": []
+      },
+      {
+        "title": "Management",
+        "information": ": Clinically significant hypotension due to amlodipine overdosage calls for active cardiovascular support including frequent monitoring of cardiac and respiratory function, elevation of extremities, and attention to circulating fluid volume and urine output. A vasoconstrictor may be helpful in restoring vascular tone and blood pressure, provided that there is no contraindication to its use. Intravenous calcium gluconate may be beneficial in reversing the effects of calcium channel blockade. Gastric lavage may be worthwhile in some cases. In healthy volunteers the use of charcoal up to 2 hours after administration of amlodipine 10 mg has been shown to reduce the absorption rate of amlodipine. Since amlodipine is highly protein-bound, dialysis is not likely to be of benefit.",
+        "items": []
+      }
+    ],
     "storage_conditions": [
       {
         "title": null,
-        "information": "Store in a cool (below 30°C) & dry place protected from light. Keep away from the reach of children.",
+        "information": "Keep all medicines out of reach of children. Store in a cool & dry place, protected from light.",
         "items": []
       }
     ],
@@ -111,35 +145,35 @@
       "molecular_formula": null,
       "chemical_structure": null
     },
-    "therapeutic_class": "Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors",
+    "therapeutic_class": "Calcium-channel blockers",
     "dosage": [
       {
-        "medication_type": "Adults",
-        "information": ": The recommended starting dose of Dapagliflozin is 5 mg once daily, taken in the morning, with or without food. In patients tolerating Dapagliflozin 5 mg once daily who require additional glycemic control, the dose can be increased to 10 mg once daily. Patients with Renal Impairment: Assessment of renal function is recommended prior to initiation of Dapagliflozin therapy and periodically thereafter. Dapagliflozin should not be initiated in patients with an eGFR less than 60 mL/min/1.73 m 2 . No dose adjustment is needed in patients with mild renal impairment (eGFR of 60 mL/min/1.73 m 2 or greater). Dapagliflozin should be discontinued when eGFR is persistently less than 60 mL/min/1.73 m 2 .",
+        "medication_type": "Hypertension",
+        "information": ": Usual dose is 5 mg once daily. The maximum dose is 10 mg once daily. Elderly patients with hepatic insufficiency may be started on 2.5 mg once daily; this dose may also be used when adding Amlodipine to other antihypertensive therapy.",
         "instructions": []
       },
       {
-        "medication_type": "Children",
-        "information": ": The safety and efficacy of Dapagliflozin in children and adolescents (<18 years) have not been established.",
+        "medication_type": "Angina (Chronic stable or Vasospastic)",
+        "information": ": 5 to 10 mg, using the lower dose for elderly and in patients with hepatic insufficiency. Most patients require 10 mg. Administrations: May be taken without regard to meals.",
         "instructions": []
       }
     ],
     "common_questions": [],
-    "fetched_at": "2025-09-21T08:08:10.000Z",
-    "medicine_id": "68c3c0d7ef5b8f2b163aa12a",
+    "fetched_at": "2025-09-21T10:52:11.169Z",
+    "medicine_id": "68c3c0d8ef5b8f2b163aa46c",
     "original_record": {
-      "input_index": 5774,
+      "input_index": 6489,
       "brand_record": {
         "_id": {
-          "$oid": "68c3c0d7ef5b8f2b163aa12a"
+          "$oid": "68c3c0d8ef5b8f2b163aa46c"
         },
-        "name": "Dapawin",
+        "name": "Dipicard",
         "strength": "5 mg",
-        "generic": "Dapagliflozin Propanediol",
-        "company": "Beacon Pharmaceuticals PLC",
+        "generic": "Amlodipine Besilate",
+        "company": "Leon Pharmaceuticals Ltd.",
         "medicine_type": "Tablet",
-        "source_url": "https://medex.com.bd/brands/27306/dapawin-5-mg-tablet",
-        "_page": 188,
+        "source_url": "https://medex.com.bd/brands/17655/dipicard-5-mg-tablet",
+        "_page": 216,
         "image_uri": null,
         "createdAt": {
           "$date": "2025-09-12T06:45:33.175Z"
