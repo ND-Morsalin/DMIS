@@ -12,7 +12,7 @@ const OUTPUT_FILE = path.resolve(
 );
 const ORIGIN = "https://medex.com.bd";
 const USER_AGENT = "Mozilla/5.0 (compatible; MedExDetailFetcher/1.0)";
-const REQUEST_DELAY_MS = 500; // delay between requests (ms) — tune if needed
+const REQUEST_DELAY_MS = 2000; // delay between requests (ms) — tune if needed
 
 function sleep(ms) {
   return new Promise((res) => setTimeout(res, ms));
@@ -850,13 +850,14 @@ function alreadyProcessed(outputArr, sourceUrl) {
   console.log(
     `Input items: ${input.length}. Already in output: ${outputArr.length}. Starting fetch from first unprocessed entry...`
   );
-  const last_item_input_index = outputArr[outputArr.length-1].original_record.input_index;
+  const last_item_input_index =
+    outputArr[outputArr.length - 1].original_record.input_index;
   //
   console.log({ last_item_input_index });
   // const deeplyClonedPart = input.slice().map(item => ({ ...item }));
   //
 
-  for (let i = last_item_input_index+1; i < input.length; i++) {
+  for (let i = last_item_input_index + 1; i < input.length; i++) {
     const item = input[i];
     const src = item.source_url || item.source || item.href || item.link;
     const source_url = src ? normalizeUrl(src) : null;
