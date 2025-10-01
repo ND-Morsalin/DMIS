@@ -1,97 +1,91 @@
 [
   {
-    "source_url": "https://medex.com.bd/brands/16459/pulmodox-400-mg-tablet",
-    "name": "Pulmodox",
+    "source_url": "https://medex.com.bd/brands/14536/protebon-m-tablet",
+    "name": "Protebon-M",
     "dosage_form": "Tablet",
-    "generic": "Doxophylline",
-    "strength": "400 mg",
-    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "generic": "Calcium + Vitamin D3 + Multimineral",
+    "strength": null,
+    "company": "Beacon Pharmaceuticals PLC",
     "pack_image": "https://medex.com.bd/data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzUiIGhlaWdodD0iMTE1Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ0cmFuc3BhcmVudCIvPjwvc3ZnPg==",
     "pricing": {
-      "unit_price": "৳ 10.00",
-      "strip_price": "৳ 100.00",
-      "pack_size_info": "(3 x 10: ৳ 300.00)",
+      "unit_price": "৳ 5.03",
+      "strip_price": "৳ 150.90",
+      "pack_size_info": "(1 x 30: ৳ 150.90)",
       "packages": [
         {
           "label": "Unit Price",
-          "price": "৳ 10.00",
-          "pack_size_info": "(3 x 10: ৳ 300.00)"
+          "price": "৳ 5.03",
+          "pack_size_info": "(1 x 30: ৳ 150.90)"
         },
         {
           "label": "Strip Price",
-          "price": "৳ 100.00",
+          "price": "৳ 150.90",
           "pack_size_info": null
         }
       ]
     },
-    "flags": [],
-    "also_available": [
+    "flags": [
       {
-        "text": "100 mg/5 ml (Syrup)",
-        "href": "https://medex.com.bd/brands/16460/pulmodox-100-mg-syrup?ref=1"
-      },
-      {
-        "text": "200 mg (Tablet)",
-        "href": "https://medex.com.bd/brands/16545/pulmodox-200-mg-tablet?ref=1"
+        "label": null,
+        "note": null
       }
     ],
-    "alternate_brands_url": "https://medex.com.bd/generics/392/doxophylline/brand-names",
+    "also_available": [],
+    "alternate_brands_url": "https://medex.com.bd/generics/168/calcium-vitamin-d3-multimineral/brand-names",
     "indications": [
       {
         "title": null,
-        "information": "Pulmodox is used to treat in following indications:",
+        "information": "Protebon-M is indicated in-",
         "items": [
-          "Bronchial asthma,",
-          "Bronchospasm,",
-          "Chronic obstructive pulmonary disease (COPD),",
-          "Pulmonary disease with spastic bronchial component."
+          "Prevention and treatment of osteoporosis",
+          "To maintain strong bone growth",
+          "For proper functioning of heart, muscle and nerves",
+          "As nutritional supplement",
+          "For bone development and regeneration of bone",
+          "Pregnancy & lactation",
+          "Deficiency state of Calcium, Vitamin D3, Magnesium, Zinc, Copper, Manganese & Boron"
         ]
       }
     ],
     "mode_of_action": [
       {
         "title": null,
-        "information": "Doxophylline is a novel bronchodilator. It structurally differs from Theophylline due to the presence of a dioxolane group in position 7. Doxophylline selectively inhibits phosphodiesterase 4 thereby relaxes bronchial smooth muscle. However, differently from Theophylline, Doxophylline appears to have decreased affinities toward adenosine A1 and A2 receptors, which may account for the better safety profile of the drug. Doxophylline is reported to inhibit platelet activating factor (PAF) and generation of leukotriene production.",
+        "information": "Nutrition is the most important to prevent osteoporosis and other bone related diseases. Calcium, Magnesium & Vitamin D3 are the macronutrients for bone. Without Vitamin D3 very little Calcium is absorbed. Like Calcium, Magnesium increases bone strength and rigidity. Recent epidemiological studies showed that some micronutrients like Copper, Manganese, Zinc & Boron play an important role in bone health. Deficiency of the micronutrients is noticed in patients with osteoporosis.",
         "items": []
       }
     ],
     "interaction": [
       {
         "title": null,
-        "information": "Pulmodox should not be administered with other xanthine preparations. It is recommended to limit consumption of beverages and food containing caffeine. Caution should be exercised in administering Pulmodox together with ephedrine or other sympathomimetic drugs. The concurrent administration of many drugs such as erythromycin, TAO, lincomycin, clindamycin, allopurinol, cimetidine, influenza vaccine and propanolol may reduce the hepatic clearance of xanthine derivatives with an increase in the plasmatic levels of the drug. Phenytoin, other anticonvulsants and cigarette smoking may increase the clearance of xanthine derivatives with a reduction of plasmatic half-life. In these cases, it may be necessary to increase the dosage of the drug.",
+        "information": "The risk of hypercalcemia should be considered in patients taking thiazide diuretics since these drugs can reduce urinary calcium excretion. Hypocalcaemia must be avoided in digitalized patients. Certain foods (e.g. those containing oxalic acid, phosphate or phytinic acid) may reduce the absorption of calcium. Concomitant treatment with phenytoin or barbiturates can decrease the effect of Vitamin-D 3 because of metabolic activation. Concomitant use of glucocorticoids can decrease the effect of Vitamin D3. The effects of digitalis and other cardiac glycosides may be attenuated with the oral administration of calcium combined with Vitamin-D 3 . Strict medical supervision is needed and, if necessary monitoring of ECG and calcium. Calcium salts may reduce the absorption of thyroxin, bisphosphonates, sodium fluoride, quinolone or tetracycline antibiotics or iron. It is advisable to allow a minimum period of four hours before taking the calcium.",
         "items": []
       }
     ],
     "contraindications": [
       {
         "title": null,
-        "information": "Doxophylline is contraindicated in individuals with known hypersensitivity to the drug or other xanthine derivatives. It is also contraindicated in patients with acute myocardial infarction, hypotension and during lactation.",
+        "information": "Absolute contraindications are hypercalcaemia resulting from myeloma, bone metastasis or other malignant bone disease, sarcoidosis; primary hyperparathyroidism and Vitamin-D 3 overdosage, Severe renal failure. Hypersensitivity to any of the tablet ingredients. Relative contraindications are osteoporosis due to prolonged immobilisation, renal stones, severe hypercalciuria.",
         "items": []
       }
     ],
     "side_effects": [
       {
         "title": null,
-        "information": "Patients treated with xanthine derivatives may suffer nausea, vomiting, epigastric pain, headache, irritability, insomnia, tachycardia, extrasystoles, tachypnea and in rare cases hyperglycemia or albuminuria. In case of overdose severe cardiac arrhythmias and tonic-clonic seizure may occur. These effects may represent the first signs of intoxication. The appearance of side effects may require discontinuation of the treatment which, if necessary, at the physician's discretion, may be resumed at lower doses after all signs and symptoms of toxicity have subsided.",
+        "information": "The use of calcium supplements has rarely given rise to mild gastro-intestinal disturbances such as constipation, flatulence, nausea, gastric pain, diarrhea. Following administration of vitamin-D3 supplements occasional skin rash has been reported. Hypercalciuria and in rare cases hypercalcaemia have been seen with long term treatment at high doses.",
         "items": []
       }
     ],
     "pregnancy_cat": [
       {
-        "title": "Pregnancy and Lactation",
-        "information": ": Animal tests have shown that the active ingredient of Doxophylline does not interfere with pre and postnatal growth. However, as there is not sufficient clinical evidence about the effects of the drug during pregnancy, use of the drug during pregnancy should be evaluated carefully case by case on the basis of the risk-benefit ratio. The drug is contraindicated during lactation.",
-        "items": []
-      },
-      {
-        "title": "Effects on ability to drive and use machines",
-        "information": ": The product does not affect the patient's alertness and therefore does not interfere with his/her ability to drive and use machines.",
+        "title": null,
+        "information": "During pregnancy and lactation treatment should always be under the direction of a physician. During pregnancy and lactation, requirements for calcium and vitamin-D 3 are increased but in deciding on the required supplementation allowances should be made for availability of these agents from other sources. If calcium and iron supplements are both required to be administered to the patient, they should be taken at different times. Overdoses of vitamin-D 3 have shown teratogenic effects in pregnant animals. In humans long term hypercalcaemia can lead to physical and mental retardation, aortic stenosis and retinopathy in a new born child. Vitamin-D 3 and its metabolites pass into the breast milk.",
         "items": []
       }
     ],
     "precautions": [
       {
         "title": null,
-        "information": "Numerous factors may reduce the hepatic clearance of xanthine derivatives with increased plasma levels of the drug. These factors include age, congestive cardiac decompensation, chronic obstructive pulmonary disease, severe liver disease, concomitant infections, and the concurrent administration of several drugs such as: erythromycin, TAO, lincomycin, clindamycin, allopurinol, cimetidine, influenza vaccine and propanolol. In these cases, it may be necessary to reduce the dosage of the drug. In case of factors that may influence the clearance of xanthine derivatives, monitoring of the concentration of the blood levels of the drug is recommended for the control of the therapeutic range. Caution should be taken in administering the product to patients with cardiac disease, hypertension, in the elderly, in patients with severe hypoxemia, hyperthyroidism, chronic corpulmonale, congestive heart failure, liver disease, peptic ulcer and in those with renal impairment. In particular, it is to be used with caution in patients with congestive heart failure, since the clearance of the drug is considerably slower in these patients in which high blood levels may persist for long periods even after discontinuation of the treatment. There is no risk of addiction or any other form of dependence.",
+        "information": "Patients with mild to moderate renal failure or mild hypercalciuria should be supervised carefully. Periodic checks of plasma calcium levels and urinary calcium excretion should be made in patients with mild to moderate renal failure or mild hypercalciuria. Urinary calcium excretion should also be measured. In patients with a history of renal stones urinary calcium excretion should be measured to exclude hypercalciuria. With long term treatment it is advisable to monitor serum and urinary calcium levels and kidney function, and reduce and stop treatment temporarily if urinary calcium exceeds 7.5 mmol/24 hours. Allowances should be made for calcium and vitamin D3 supplements from other sources.",
         "items": []
       }
     ],
@@ -99,14 +93,14 @@
     "overdose_effects": [
       {
         "title": null,
-        "information": "In case of overdose severe cardiac arrhythmias and tonic-clonic seizure may occur. These effects may represent the first signs of intoxication. The appearance of side effects may require discontinuation of the treatment which, if necessary, at the physician’s discretion, may be resumed at lower doses after all signs and symptoms of toxicity have subsided. As there is no specific antidote, in case of overdose a symptomatic treatment of cardiovascular collapse should be instituted.",
+        "information": "Symptoms of overdosage may include nausea and vomiting, severe drowsiness, dry mouth, loss of appetite, metallic taste, stomach cramps, diarrhea, headache & constipation.",
         "items": []
       }
     ],
     "storage_conditions": [
       {
         "title": null,
-        "information": "Keep in a dry place away from light and heat. Keep out of the reach of children. Pulmodox should be used only on prescription of specialist physician.",
+        "information": "Keep in a dry place away from light and heat. Keep out of the reach of children.",
         "items": []
       }
     ],
@@ -116,50 +110,40 @@
       "molecular_formula": null,
       "chemical_structure": null
     },
-    "therapeutic_class": "Bronchodilator, Methyl xanthine derivatives",
+    "therapeutic_class": "Specific mineral & vitamin combined preparations",
     "dosage": [
       {
-        "medication_type": "Elderly",
-        "information": ": 200 mg tablet two or three times daily.",
+        "medication_type": "Adult",
+        "information": ": 1 film-coated tablet twice daily, preferably 1 tablet in the morning and 1 tablet in the evening or as directed by physician. It is best taken with or just after main meals with a full glass of water.",
         "instructions": []
       },
       {
-        "medication_type": "Adults",
-        "information": ": 400 mg tablet two or three times daily or as prescribed by the physician. Children:",
+        "medication_type": "Children 3-7 years",
+        "information": ": 1 effervescent tablet daily.",
         "instructions": []
       },
       {
-        "medication_type": ">12 years of age",
-        "information": ": 10 ml syrup or 200 mg tablet two or three times daily.",
-        "instructions": []
-      },
-      {
-        "medication_type": "6-12 years of age",
-        "information": ": 6-9 mg/kg body weight two times daily, i.e. if body weight is 10 kg, 3 ml (60 mg) two times daily or as prescribed by the physician.",
-        "instructions": []
-      },
-      {
-        "medication_type": null,
-        "information": "If required daily dose of Doxophylline is 400 mg then Doxophylline SR tablet to be taken once daily or as prescribed by the physician",
+        "medication_type": "7 years to older",
+        "information": ": 1 to 2 effervescent tablet daily.",
         "instructions": []
       }
     ],
     "common_questions": [],
-    "fetched_at": "2025-09-28T16:24:52.446Z",
-    "medicine_id": "68c3c0e4ef5b8f2b163ad244",
+    "fetched_at": "2025-10-01T08:29:50.273Z",
+    "medicine_id": "68c3c0e4ef5b8f2b163ad1d7",
     "original_record": {
-      "input_index": 18282,
+      "input_index": 18390,
       "brand_record": {
         "_id": {
-          "$oid": "68c3c0e4ef5b8f2b163ad244"
+          "$oid": "68c3c0e4ef5b8f2b163ad1d7"
         },
-        "name": "Pulmodox",
-        "strength": "400 mg",
-        "generic": "Doxophylline",
-        "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+        "name": "Protebon-M",
+        "strength": null,
+        "generic": "Calcium + Vitamin D3 + Multimineral",
+        "company": "Beacon Pharmaceuticals PLC",
         "medicine_type": "Tablet",
-        "source_url": "https://medex.com.bd/brands/16459/pulmodox-400-mg-tablet",
-        "_page": 607,
+        "source_url": "https://medex.com.bd/brands/14536/protebon-m-tablet",
+        "_page": 604,
         "image_uri": null,
         "createdAt": {
           "$date": "2025-09-12T06:45:33.175Z"
