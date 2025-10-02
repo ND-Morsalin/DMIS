@@ -1,94 +1,47 @@
 [
   {
-    "source_url": "https://medex.com.bd/brands/31656/rebio-4-billion-capsule",
-    "name": "Rebio",
-    "dosage_form": "Capsule",
-    "generic": "Probiotic Combination [4 Billion]",
-    "strength": "4 billion",
-    "company": "Ibn Sina Pharmaceuticals Ltd.",
-    "pack_image": "https://medex.com.bd/data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzUiIGhlaWdodD0iMTE1Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ0cmFuc3BhcmVudCIvPjwvc3ZnPg==",
+    "source_url": "https://medex.com.bd/brands/38672/silkin-2-0-reverse-cutting-silk-suture-material",
+    "name": "Silkin 2-0 Reverse Cutting (Silk)",
+    "dosage_form": "Suture Material",
+    "generic": "Infusion set & surgical device",
+    "strength": null,
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "pack_image": null,
     "pricing": {
-      "unit_price": "৳ 28.00",
-      "strip_price": "৳ 168.00",
-      "pack_size_info": "(5 x 6: ৳ 840.00)",
+      "unit_price": "৳ 143.75",
+      "strip_price": null,
+      "pack_size_info": "(12's pack: ৳ 1,725.00)",
       "packages": [
         {
           "label": "Unit Price",
-          "price": "৳ 28.00",
-          "pack_size_info": "(5 x 6: ৳ 840.00)"
-        },
-        {
-          "label": "Strip Price",
-          "price": "৳ 168.00",
-          "pack_size_info": null
+          "price": "৳ 143.75",
+          "pack_size_info": "(12's pack: ৳ 1,725.00)"
         }
       ]
     },
     "flags": [],
     "also_available": [],
-    "alternate_brands_url": "https://medex.com.bd/generics/1498/probiotic-combination-4-billion/brand-names",
+    "alternate_brands_url": "https://medex.com.bd/generics/2477/infusion-set-surgical-device/brand-names",
     "indications": [
       {
         "title": null,
-        "information": "This is indicated in the following indications-",
-        "items": [
-          "Diarrhea",
-          "Digestive discomfort",
-          "Lactose intolerance",
-          "Vaginal infection",
-          "Antibiotic associated diarrhea"
-        ]
-      }
-    ],
-    "mode_of_action": [
-      {
-        "title": null,
-        "information": "Studies of probiotic activity in recent years provide evidence that probiotics counter experimental and human gastrointestinal inflammation (human inflammatory bowel disease) by their effects on epithelial cell function, including epithelial cell barrier function, epithelial cytokine secretion and their antibacterial effects relating to colonization of the epithelial layer. It reduces gastrointestinal pH through stimulation of lactic-acid-producing bacteria; provide a direct antagonistic action on gastrointestinal pathogens. Moreover it competes with pathogens for binding and receptor sites. In addition, there is emerging evidence that probiotics induce regulatory T cells that act as a break on the effector T cells that would otherwise cause inflammation. Lactobacillus acidophilus and Bifidobacterium bifidum appear to enhance the nonspecific immune phagocytic activity of circulating blood granulocytes. This effect may account, in part, for the stimulation of IgA responses in infants infected with rotavirus. Lactic acid bacteria, like strains of Lactobacillus acidophilus, Lactobacillus bulgaricus have also demonstrated antioxidant ability. Mechanisms include chelation of metal ions (iron, copper), scavenging of reactive oxygen species and reducing activity.",
+        "information": "Surgical items are essential tools and devices that surgeons use to perform procedures by cutting, grasping, retracting, and closing tissues, controlling bleeding, and visualizing the surgical field. Common examples include scalpels for cutting, forceps for grasping, scissors for dissection ... Read moreSurgical items are essential tools and devices that surgeons use to perform procedures by cutting, grasping, retracting, and closing tissues, controlling bleeding, and visualizing the surgical field. Common examples include scalpels for cutting, forceps for grasping, scissors for dissection, retractors for holding tissue, and hemostats for controlling blood flow. These specialized instruments are crucial for ensuring surgical precision, patient safety, and the overall success of operations.",
         "items": []
       }
     ],
-    "interaction": [
-      {
-        "title": null,
-        "information": "None well documented.",
-        "items": []
-      }
-    ],
-    "contraindications": [
-      {
-        "title": null,
-        "information": "The use of probiotics is not advised in patients at risk of opportunistic infections and in those with badly damaged GI tracts.",
-        "items": []
-      }
-    ],
-    "side_effects": [
-      {
-        "title": null,
-        "information": "No known toxicity or side-effects.",
-        "items": []
-      }
-    ],
-    "pregnancy_cat": [
-      {
-        "title": null,
-        "information": "Probiotics are unlikely to reach the systemic circulation of the fetus & therefore are unlikely to cause harm. Probiotics are unlikely to be transferred into breast milk.",
-        "items": []
-      }
-    ],
+    "mode_of_action": [],
+    "interaction": [],
+    "contraindications": [],
+    "side_effects": [],
+    "pregnancy_cat": [],
     "precautions": [],
     "pediatric_uses": [],
     "overdose_effects": [],
-    "storage_conditions": [
-      {
-        "title": null,
-        "information": "Store below 25ºC, dry place and away from direct sunlight. Keep out of reach of children.",
-        "items": []
-      }
-    ],
+    "storage_conditions": [],
     "description": [
       {
         "title": null,
-        "information": "Rebios are defined as live microorganisms, including Lactobacillus species, Bifidobacterium species and yeasts, which may beneficially affect the host upon ingestion by improving the balance of the intestinal microflora. Lactobacillus acidophilus is one of the several bacteria in the genus Lactobacillus. It gets its name from lacto-meaning milk, bacillus-meaning rod-like in shape and acidophilus-meaning acid-loving. L. acidophilus occurs naturally in a variety of foods, including dairy, grain, meat and fish. It is also present in human (and animal) intestines, mouths and vaginas. These types of healthy bacteria inhabit in the intestines and vaginas and protect against some unhealthy organisms. Lactobacillus bulgaricus is one of several bacteria used for the production of yogurt. First identified in 1905 by the Bulgarian doctor Stamen Grigorov, it is named after Bulgaria. Morphologically, it is a gram-positive rod that may appear long and filamentous. It is also non-motile and it does not form spores. The bacterium feeds on milk and produces lactic acid which also helps to preserve the milk. It breaks down lactose and is often helpful to sufferers of lactose intolerance, whose digestive systems lack the enzymes to break down lactose to simpler sugars. While fermenting milk, Lactobacillus bulgaricus produces acetaldehyde, which perfumes yogurt. Bifidobacteria are normal inhabitants of the human and animal colon. Newborns, especially those that are breast-fed, are colonized with bifidobacteria within days after birth. Bifidobacteria were first isolated from the feces of breast-fed infants. They are gram-positive anaerobes, non-motile, non spore forming and catalase-negative. Their name is derived from the observation that they often exist in a 'Y'-shaped or bifid form. To date 30 species of bifidobacteria have been isolated.",
+        "information": "A surgical instrument is a medical device used during surgery to perform specific actions, such as cutting, modifying tissue, or providing access for viewing. Over time, a broad spectrum of tools has been developed-some for general surgical use, others tailored to specialized procedures. Classification systems help surgeons understand an instrument's function and appropriate usage. Innovation continues to drive the development of more precise, safer, and more effective instruments for modern surgery. Surgical instruments have evolved alongside advances in medical science and surgical technique. Early tools were often adapted from everyday implements but were later refined for better precision and safety. Two key milestones shaped modern surgical tools: In the early 20th century, the advancement from antiseptic to aseptic surgery led to widespread adoption of sterilizers, sterile gauze, and cotton. Instrument handles transitioned from wood or ivory to metal, enabling effective sterilization. Simpler, one-piece designs improved safety and usability. During World War II, hand surgery emerged as a subspecialty. Many of the tools developed for this purpose are still in use today, often named after their innovators. Individual tools have diverse history development. Below is a brief history of the inventors and tools created for five commonly used surgical tools.",
         "items": []
       }
     ],
@@ -97,30 +50,24 @@
       "molecular_formula": null,
       "chemical_structure": null
     },
-    "therapeutic_class": "Probiotic",
-    "dosage": [
-      {
-        "medication_type": null,
-        "information": "1 or 2 probiotics capsules 3 times daily or as directed by the physician.",
-        "instructions": []
-      }
-    ],
+    "therapeutic_class": null,
+    "dosage": [],
     "common_questions": [],
-    "fetched_at": "2025-10-02T03:36:30.717Z",
-    "medicine_id": "68c3c0e4ef5b8f2b163ad3c4",
+    "fetched_at": "2025-10-02T15:48:07.196Z",
+    "medicine_id": "68c3c0e5ef5b8f2b163ada8a",
     "original_record": {
-      "input_index": 18641,
+      "input_index": 20252,
       "brand_record": {
         "_id": {
-          "$oid": "68c3c0e4ef5b8f2b163ad3c4"
+          "$oid": "68c3c0e5ef5b8f2b163ada8a"
         },
-        "name": "Rebio",
-        "strength": "4 billion",
-        "generic": "Probiotic Combination [4 Billion]",
-        "company": "Ibn Sina Pharmaceuticals Ltd.",
-        "medicine_type": "Capsule",
-        "source_url": "https://medex.com.bd/brands/31656/rebio-4-billion-capsule",
-        "_page": 620,
+        "name": "Silkin 2-0 Reverse Cutting (Silk)",
+        "strength": null,
+        "generic": "Infusion set & surgical item",
+        "company": "Incepta Pharmaceuticals Ltd.",
+        "medicine_type": "Suture Material",
+        "source_url": "https://medex.com.bd/brands/38672/silkin-2-0-reverse-cutting-silk-suture-material",
+        "_page": 678,
         "image_uri": null,
         "createdAt": {
           "$date": "2025-09-12T06:45:33.175Z"
