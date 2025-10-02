@@ -1,55 +1,169 @@
 [
   {
-    "source_url": "https://medex.com.bd/captcha-challenge",
-    "name": null,
-    "dosage_form": null,
-    "generic": null,
-    "strength": null,
-    "company": null,
-    "pack_image": null,
+    "source_url": "https://medex.com.bd/brands/16156/refresh-liquigel-1-eye-drop",
+    "name": "Refresh Liquigel",
+    "dosage_form": "Ophthalmic Solution",
+    "generic": "Carboxymethylcellulose Sodium",
+    "strength": "1%",
+    "company": "Allergan Pharmaceuticals International Ltd.",
+    "pack_image": "https://medex.com.bd/data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzUiIGhlaWdodD0iMTE1Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ0cmFuc3BhcmVudCIvPjwvc3ZnPg==",
     "pricing": {
-      "unit_price": null,
+      "unit_price": "৳ 593.00",
       "strip_price": null,
       "pack_size_info": null,
-      "packages": []
+      "packages": [
+        {
+          "label": "15 ml drop",
+          "price": "৳ 593.00",
+          "pack_size_info": null
+        }
+      ]
     },
-    "flags": [],
-    "also_available": [],
-    "alternate_brands_url": null,
-    "indications": [],
-    "mode_of_action": [],
-    "interaction": [],
-    "contraindications": [],
-    "side_effects": [],
-    "pregnancy_cat": [],
-    "precautions": [],
+    "flags": [
+      {
+        "label": null,
+        "note": null
+      }
+    ],
+    "also_available": [
+      {
+        "text": "0.5% (Eye Drop)",
+        "href": "https://medex.com.bd/brands/26824/refresh-tears-05-eye-drop?ref=1"
+      },
+      {
+        "text": "0.5% (Eye Drop)",
+        "href": "https://medex.com.bd/brands/35603/retears-05-eye-drop?ref=1"
+      },
+      {
+        "text": "1% (Eye Drop)",
+        "href": "https://medex.com.bd/brands/35604/retears-liquigel-1-eye-drop?ref=1"
+      }
+    ],
+    "alternate_brands_url": "https://medex.com.bd/generics/205/carboxymethylcellulose-sodium/brand-names",
+    "indications": [
+      {
+        "title": null,
+        "information": "Refresh Liquigel ophthalmic solution is used as a lubricant to relieve irritation and discomfort due to dryness of the eye or due to exposure to wind or sun.",
+        "items": []
+      }
+    ],
+    "mode_of_action": [
+      {
+        "title": null,
+        "information": "Carboxymethylcellulose Sodium is an ocular lubricant, contributing to an alleviation of subjected symptoms seen in moderate to severe dry eye syndromes (DES) and long lasting protection against dryness and irritation of the affected eyes. This is a lubricating formulation similar to normal tears. The pharmacological effect of the active substance, Carboxymethylcellulose Sodium is not receptor-mediated, but is due to its property as viscosity enhancer resulting in increasing the retention time of this eye drop.",
+        "items": []
+      }
+    ],
+    "interaction": [
+      {
+        "title": null,
+        "information": "If several medicines are to be administered to the eye, there should be an interval of at least 5 minutes between each application.",
+        "items": []
+      }
+    ],
+    "contraindications": [
+      {
+        "title": null,
+        "information": "This eye drop is contraindicated in patients with known hypersensitivity to any ingredient of the product.",
+        "items": []
+      }
+    ],
+    "side_effects": [
+      {
+        "title": null,
+        "information": "Burning, Eye Irritation or Pruritus, Visual disturbance, Ocular discharge were reported with this eye drop.",
+        "items": []
+      }
+    ],
+    "pregnancy_cat": [
+      {
+        "title": null,
+        "information": "Safe use during pregnancy and lactation has not been established. If pregnant or breast-feeding, ask your doctor before use.",
+        "items": []
+      }
+    ],
+    "precautions": [
+      {
+        "title": null,
+        "information": "Concomitant ocular medication should be administered 15 minutes prior to the instillation of this eye drop. Remove contact lenses before using Refresh Liquigel. Do not use if this solution changes color & becomes cloudy. Don't touch tip of container to any surface to avoid contamination and replace cap after each use.",
+        "items": []
+      }
+    ],
     "pediatric_uses": [],
     "overdose_effects": [],
-    "storage_conditions": [],
+    "storage_conditions": [
+      {
+        "title": null,
+        "information": "Store at temperature not exceeding 30°C in a dry place. Protect from light. The bottle is to be closed strongly immediately after use. Keep away from the reach of children. Generally all products are to be used within 30 days after the first opening. Only the preservative free liquigel of popular pharma (Aquafresh PF Liquigel) can be used up to 60 days after opening.",
+        "items": []
+      }
+    ],
     "description": [],
-    "administration": [],
+    "administration": [
+      {
+        "title": null,
+        "information": "Instructions for Drop Instillation-",
+        "items": []
+      },
+      {
+        "title": "Step-1",
+        "information": ": Hold the bottle directly below the cap and turn the cap to open the bottle.",
+        "items": []
+      },
+      {
+        "title": "Step-2",
+        "information": ": Tilt your head backwards and hold the bottle above your eye. Pull the lower eyelid down and look up the blue tip. Squeeze the bottle gently in the middle and let a drop fall into your eye. Do not squeeze too hard.",
+        "items": []
+      },
+      {
+        "title": "Step-3",
+        "information": ": Close your eye and press the inner corner of the eye with your finger for about two minutes. This helps to stop the medicine from getting into the rest of the body.",
+        "items": []
+      },
+      {
+        "title": "Step-4",
+        "information": ": After each use you may shake the bottle once in a downwards direction or recap.",
+        "items": []
+      }
+    ],
     "compound_summary": {
       "molecular_formula": null,
       "chemical_structure": null
     },
     "therapeutic_class": null,
-    "dosage": [],
+    "dosage": [
+      {
+        "medication_type": "Adult use",
+        "information": ": Instill 1 drop in the affected eye(s) 4 times a day or as needed.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Pediatric use",
+        "information": ": This eye drop should not be used in infants and small children under 3 years.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Geriatric use",
+        "information": ": No overall differences in safety or effectiveness have been observed between elderly and other adult patients.",
+        "instructions": []
+      }
+    ],
     "common_questions": [],
-    "fetched_at": "2025-10-01T10:21:03.235Z",
-    "medicine_id": "68c3c0e4ef5b8f2b163ad450",
+    "fetched_at": "2025-10-01T09:58:44.209Z",
+    "medicine_id": "68c3c0e4ef5b8f2b163ad416",
     "original_record": {
-      "input_index": 18670,
+      "input_index": 18532,
       "brand_record": {
         "_id": {
-          "$oid": "68c3c0e4ef5b8f2b163ad450"
+          "$oid": "68c3c0e4ef5b8f2b163ad416"
         },
-        "name": "Releve",
-        "strength": "500 mg",
-        "generic": "Naproxen Sodium",
-        "company": "General Pharmaceuticals Ltd.",
-        "medicine_type": "Tablet",
-        "source_url": "https://medex.com.bd/brands/11531/releve-500-mg-tablet",
-        "_page": 625,
+        "name": "Refresh Liquigel",
+        "strength": "1%",
+        "generic": "Carboxymethylcellulose Sodium",
+        "company": "Eskayef Pharmaceuticals Ltd.",
+        "medicine_type": "Ophthalmic Solution",
+        "source_url": "https://medex.com.bd/brands/16156/refresh-liquigel-1-eye-drop",
+        "_page": 623,
         "image_uri": null,
         "createdAt": {
           "$date": "2025-09-12T06:45:33.175Z"
