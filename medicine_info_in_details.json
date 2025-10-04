@@ -1,106 +1,114 @@
 [
+
   {
-    "source_url": "https://medex.com.bd/brands/34985/umox-500-mg-capsule",
-    "name": "Umox",
-    "dosage_form": "Capsule",
-    "generic": "Amoxicillin Trihydrate",
-    "strength": "500 mg",
-    "company": "Union Pharmaceuticals Ltd",
+    "source_url": "https://medex.com.bd/brands/36945/voltagel-ds-2-w-gel",
+    "name": "Voltagel DS",
+    "dosage_form": "Gel",
+    "generic": "Diclofenac Sodium",
+    "strength": "2% w/w",
+    "company": "Eskayef Pharmaceuticals Ltd.",
     "pack_image": null,
     "pricing": {
-      "unit_price": "৳ 6.00",
-      "strip_price": "৳ 60.00",
-      "pack_size_info": "(5 x 10: ৳ 300.00)",
+      "unit_price": "৳ 70.00",
+      "strip_price": null,
+      "pack_size_info": null,
       "packages": [
         {
-          "label": "Unit Price",
-          "price": "৳ 6.00",
-          "pack_size_info": "(5 x 10: ৳ 300.00)"
-        },
-        {
-          "label": "Strip Price",
-          "price": "৳ 60.00",
+          "label": "20 gm tube",
+          "price": "৳ 70.00",
           "pack_size_info": null
         }
       ]
     },
-    "flags": [
-      {
-        "label": "Antibiotic",
-        "note": "Do not use without prescription of a registered physician"
-      }
-    ],
+    "flags": [],
     "also_available": [
       {
-        "text": "250 mg (Capsule)",
-        "href": "https://medex.com.bd/brands/34984/umox-250-mg-capsule?ref=1"
-      },
-      {
-        "text": "125 mg/1.25 ml (Drops)",
-        "href": "https://medex.com.bd/brands/34986/umox-125-mg-pediatric-drop?ref=1"
-      },
-      {
-        "text": "125 mg/5 ml (Syrup)",
-        "href": "https://medex.com.bd/brands/34987/umox-125-mg-suspension?ref=1"
+        "text": "1% w/w (Gel)",
+        "href": "https://medex.com.bd/brands/30947/voltagel-1-w-gel?ref=1"
       }
     ],
-    "alternate_brands_url": "https://medex.com.bd/generics/69/amoxicillin-trihydrate/brand-names",
+    "alternate_brands_url": "https://medex.com.bd/generics/357/diclofenac-sodium/brand-names",
     "indications": [
       {
         "title": null,
-        "information": "Umox is indicated in the treatment of infections due to susceptible ß-lactamase negative strains of microorganisms. These infections include Umox is indicated in the treatment of infections due to susceptible ß-lactamase negative strains of microorganisms. These infections include",
-        "items": [
-          "Ear, nose and throat infections (i.e. otitis media, sinusitis, tonsillitis, pharyngitis, laryngitis)",
-          "Lower respiratory tract infections (i.e. pneumonia, acute and chronic bronchitis lung abscess, empyema, bronchiectasis)",
-          "Ear, nose and throat infections (i.e. otitis media, sinusitis, tonsillitis, pharyngitis, laryngitis)",
-          "Lower respiratory tract infections (i.e. pneumonia, acute and chronic bronchitis lung abscess, empyema, bronchiectasis)",
-          "Skin and soft tissue infections (i.e. cellulitis, carbuncles, furunculosis, infected wounds, abscess)",
-          "Genito-urinary tract infections (i.e. pyelonephritis, cystitis and urethritis)",
-          "Venereal disease (i.e. acute uncomplicated gonorrhoea)",
-          "In dental abscess, it is used as short-term therapy.",
-          "It is also indicated in combination with Clarithromycin and Lansoprazole (as triple therapy), for the treatment of patients with H. pylori infection and duodenal ulcer disease and to reduce the risk of duodenal ulcer recurrence."
-        ]
+        "information": "Voltagel DS is indicated in-Rheumatology: Inflammatory and degenerative forms of rheumatism, chronic involutive, polyarthritis, ankylosing spondylarthritis, osteoarthritis, spondylarthroses, acute gout, peri-articular rheumatic disorders.Surgery and Traumatology ... Read moreVoltagel DS is indicated in-Rheumatology: Inflammatory and degenerative forms of rheumatism, chronic involutive, polyarthritis, ankylosing spondylarthritis, osteoarthritis, spondylarthroses, acute gout, peri-articular rheumatic disorders.Surgery and Traumatology: Sprain, bruises, dislocations, fractures, softtissue injuries, surgical interventions.Obstetrics and Gynecology: Primary dysmenorrhoea, episiotomy, adnexitis, endometritis, parametritis, salpingitis, and mastitis.Otorhinolaryngology: As pre-operative medication for the prevention of pain, inflammation, and swelling.Dentistry: Post-operative and post-traumatic pain, inflammation, and swelling.Other indications: For the prevention of pain and treatment of inflammation and swelling of patients operated in the urogenital tract, renal and biliary colic.",
+        "items": []
       }
     ],
     "mode_of_action": [
       {
         "title": null,
-        "information": "Amoxicillin is a broad spectrum penicillin. It is effective against a wide range of Gram-positive and Gram-negative bacteria. It acts through the inhibition of biosynthesis of cell wall. Amoxicillin is stable in the presence of gastric acid and is rapidly absorbed after oral administration. After an oral dose, peak plasma concentration of Amoxicillin is reached within 1 to 2 hours. Amoxicillin is widely distributed at varying concentration in body tissues and fluids.",
+        "information": "Dilofenac Sodium is a potent non-steroidal anti-inflammatory drug (NSAID) with pronounced anti-rheumatic, anti-inflammatory, analgesic and antipyretic properties. It has also some uricosuric effect. Diclofenac exerts its effect by inhibiting prostaglandin biosynthesis which plays a major role in causing inflammation, pain and fever. Diclofenac is rapidly and completely absorbed from the gastro-intestinal tract when taken with or after meal. Peak plasma concentrations are reached within an average of 2 hours after ingestion of it. At therapeutic concentrations, it is 99.7% bound to plasma proteins. Diclofenac is metabolized in the liver and undergoes first pass metabolism.",
         "items": []
       }
     ],
     "interaction": [
       {
         "title": null,
-        "information": "Concurrent use of Umox and Probenecid may result in increased and prolonged blood levels of Umox. Umox may affect the gut flora, leading to lower estrogen reabsorption and reduced efficacy of combined oral estrogen/progesterone contraceptives.",
+        "information": "Voltagel DS may have the following drug interactions:",
+        "items": []
+      },
+      {
+        "title": "Lithium and digoxin",
+        "information": ": Voltagel DS may increase plasma concentrations of lithium and digoxin.",
+        "items": []
+      },
+      {
+        "title": "Anticoagulants",
+        "information": ": There are isolated reports of an increased risk of haemorrhage with the combined use of diclofenac and anticoagulant therapy, although clinical investigations do not appear to indicate any influence on anticoagulant effect.",
+        "items": []
+      },
+      {
+        "title": "Antidiabetic agents",
+        "information": ": Clinical studies have shown that diclofenac can be given together with oral antidiabetic agents without influencing their clinical effect.",
+        "items": []
+      },
+      {
+        "title": "Cyclosporin",
+        "information": ": Cases of nephrotoxicity have been reported in patients receiving cyclosporin and diclofenac concomitantly.",
+        "items": []
+      },
+      {
+        "title": "Methotrexate",
+        "information": ": Cases of serious toxicity have been reported when methotrexate and NSAIDs are given within 24 hours of each other.",
+        "items": []
+      },
+      {
+        "title": "Quinolone antimicrobials",
+        "information": ": Convulsions may occur due to an interaction between quinolones and NSAIDs. Therefore, caution should be exercised when considering concomitant therapy of NSAID and quinolones.",
+        "items": []
+      },
+      {
+        "title": "Other NSAIDs and steroids",
+        "information": ": Co-administration of diclofenac with other systemic NSAIDs and steroids may increase the frequency of unwanted effects. With aspirin, the plasma levels of each is lowered, although no clinical significance is known.",
         "items": []
       }
     ],
     "contraindications": [
       {
         "title": null,
-        "information": "Amoxicillin is contraindicated in penicillin hypersensitive patients.",
+        "information": "Contraindicated to the patients hypersensitive to any ingredient of the products. Peptic ulcer, hypersensitivity to Diclofenac like other non-steroid anti-inflammatory agents, Diclofenac is also contra-indicated in asthmatic patient in whom attack with asthma, urticaria or acute rhinitis are precipitated by acetylsalicylic acid or by other drugs with prostaglandin synthetase inhibitor. This Gel should not be used under occlusive airtight dressings.",
         "items": []
       }
     ],
     "side_effects": [
       {
         "title": null,
-        "information": "Side effects are mild and transient in nature. This may include diarrhoea, indigestion or occasionally rash. Pseudo-membranous colitis has been reported rarely.",
+        "information": "Voltagel DS is generally well tolerated. Adverse effects are mild, rare and transient. At the starting of the treatment, however, patients may be sometimes complaining of epigastric pain, eructation, nausea and diarrhea or dizziness or headache. These effects are usually mild in nature. Peripheral edema and skin reactions, such as rash and eczema have also been encountered. Voltagel DS Gel may cause local irritation and reddening of the skin and skin rash.",
         "items": []
       }
     ],
     "pregnancy_cat": [
       {
         "title": null,
-        "information": "US FDA pregnancy category of Amoxicillin is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Amoxicillin has been shown to be excreted in human milk. So, caution should be exercised when Amoxicillin is administered to a lactating mother.",
+        "information": "During pregnancy, Diclofenac should be employed only for compelling reasons. The lowest effective dose should be used. These types of drugs are not recommended during the first trimester of pregnancy. In view of insufficient clinical data, Diclofenac Sodium Gel is not recommended during pregnancy. A very insignificant quantity of Diclofenac may be detected in breast milk but no undesirable effects on the infant to be expected.",
         "items": []
       }
     ],
     "precautions": [
       {
         "title": null,
-        "information": "The possibility of superinfections with mycotic or bacterial pathogens should be kept in mind during therapy. If superinfections occur, Umox should be discontinued and appropriate therapy should be instituted.",
+        "information": "In rare instances where peptic ulceration or gastrointestinal bleeding occurs in patients under treatment with Voltagel DS. In patients with advanced age should be kept under close observation. Voltagel DS Gel should not be allowed to come in contact with the eyes or mucus membranes, after application the hands should be washed properly and not to be taken by mouth.",
         "items": []
       }
     ],
@@ -109,86 +117,95 @@
     "storage_conditions": [
       {
         "title": null,
-        "information": "Keep in a dry place away from light and heat. Keep out of the reach of children.",
+        "information": "Store in a cool and dry place, protected from light. Store below 30°C. Keep out of the reach of children.",
         "items": []
       }
     ],
     "description": [],
-    "administration": [
-      {
-        "title": null,
-        "information": "Reconstituted suspension can be administered by adding the required amount of suspension to milk, fruit juice, water. These preparations should then be taken immediately.",
-        "items": []
-      }
-    ],
+    "administration": [],
     "compound_summary": {
       "molecular_formula": null,
       "chemical_structure": null
     },
-    "therapeutic_class": "Broad spectrum penicillins",
+    "therapeutic_class": "Drugs for Osteoarthritis, Drugs used for Rheumatoid Arthritis, Non-steroidal Anti-inflammatory Drugs (NSAIDs)",
     "dosage": [
       {
+        "medication_type": "Diclofenac FC Tablet",
+        "information": ": Adults: 75-150 mg daily in 2 to 3 divided doses, preferably after food. Dose should be reduced in long term use.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Diclofenac SR Tablet",
+        "information": ":",
+        "instructions": []
+      },
+      {
         "medication_type": "Adult",
-        "information": ": 250 mg three times daily, increasing up to 500 mg three times daily for severe infections.",
+        "information": ": 1 tablet daily, taken whole with liquid, preferably at meal times. If necessary, the daily dose can be increased to 150 mg by supplementation with conventional tablets.",
         "instructions": []
       },
       {
         "medication_type": "Children",
-        "information": "(up to 10 years of age) : 125 mg three times daily, increasing up to 250 mg three times daily for severe infections.",
+        "information": ": 1-3 mg of diclofenac/kg body wt. daily in divided doses.",
         "instructions": []
       },
       {
-        "medication_type": "Severe or recurrent purulent respiratory infection",
-        "information": ": 3 gm every 12 hours.",
+        "medication_type": "Elderly patients",
+        "information": ": In elderly or debilitated patients, the lowest effective dosage is recommended, although the pharmacokinetics of diclofenac sodium is not impaired to any clinically relevant extent in elderly patients.",
         "instructions": []
       },
       {
-        "medication_type": "Otitis media",
-        "information": ": Recommended dose is 1 g three times daily for adult and 40 mg/kg body weight daily in 3 divided doses for children (max. 3 g daily).",
+        "medication_type": "Diclofenac Dispersible Tablet",
+        "information": ":",
         "instructions": []
       },
       {
-        "medication_type": "Pneumonia",
-        "information": ": Recommended dose is 500-1000 mg three times daily.",
+        "medication_type": "Adults",
+        "information": ": The recommended daily dosage is 2-3 tablets and the maximum daily dose is 150 mg. In milder cases, 2 tablets of Diclofenac DT per day are sufficient. Diclofenac DT should preferably be taken before meals.",
         "instructions": []
       },
       {
-        "medication_type": "Dental abscess",
-        "information": ": Recommended dose is 3 gm, repeated after 10-12 hours.",
+        "medication_type": "Children",
+        "information": ": Diclofenac is not recommended in children for other indications except juvenile rheumatoid arthritis where the recommended dose is 1-3 mg/kg body weight. Diclofenac DT is to be dropped into a half-glass of water and the liquid is to be stirred to aid dispersion before swallowing. There is no information on the use of Diclofenac DT for more than 03 months.",
         "instructions": []
       },
       {
-        "medication_type": "Urinary tract infections",
-        "information": ": Recommended dose is 3 gm, repeated after 10-12 hours.",
+        "medication_type": "Diclofenac TR Capsule",
+        "information": ": One capsule daily. Diclofenac TR should be taken preferably after mealtimes.",
         "instructions": []
       },
       {
-        "medication_type": "Gonorrhoea",
-        "information": ": Single dose of 2-3 gm with Probenecid 1 gm is recommended (Probenecid is contraindicated in children under 2 years).",
+        "medication_type": "Diclofenac Suppository",
+        "information": ": For adults: 50 mg suppository 2-3 times daily. Maximum daily dose is 150 mg.",
         "instructions": []
       },
       {
-        "medication_type": "In renal impairment",
-        "information": ": it may be necessary to reduce the total daily dosage.",
+        "medication_type": "Diclofenac injection",
+        "information": ": For adults the usual dose is 1 ampoule daily. In serious cases this dose may be increased up to 2 ampoules daily.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Diclofenac Gel",
+        "information": ": For external use only. Depending on the size of area to be treated, 2-4 g of Diclofenac gel should be applied to the skin 3-4 times daily. To the affected area gel should be rubbed in lightly. This gel may also be given in addition to further treatment with other dosage forms of Diclofenac.",
         "instructions": []
       }
     ],
     "common_questions": [],
-    "fetched_at": "2025-10-03T14:39:05.927Z",
-    "medicine_id": "68c3c0e7ef5b8f2b163ae418",
+    "fetched_at": "2025-10-04T06:28:48.780Z",
+    "medicine_id": "68c3c0e8ef5b8f2b163ae7b7",
     "original_record": {
-      "input_index": 22704,
+      "input_index": 23801,
       "brand_record": {
         "_id": {
-          "$oid": "68c3c0e7ef5b8f2b163ae418"
+          "$oid": "68c3c0e8ef5b8f2b163ae7b7"
         },
-        "name": "Umox",
-        "strength": "500 mg",
-        "generic": "Amoxicillin Trihydrate",
-        "company": "Union Pharmaceuticals Ltd",
-        "medicine_type": "Capsule",
-        "source_url": "https://medex.com.bd/brands/34985/umox-500-mg-capsule",
-        "_page": 759,
+        "name": "Voltagel DS",
+        "strength": "2% w/w",
+        "generic": "Diclofenac Sodium",
+        "company": "Eskayef Pharmaceuticals Ltd.",
+        "medicine_type": "Gel",
+        "source_url": "https://medex.com.bd/brands/36945/voltagel-ds-2-w-gel",
+        "_page": 790,
         "image_uri": null,
         "createdAt": {
           "$date": "2025-09-12T06:45:33.175Z"
