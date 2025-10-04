@@ -1,119 +1,115 @@
 [
   {
-    "source_url": "https://medex.com.bd/brands/10032/topicazole-2-w-cream",
-    "name": "Topicazole",
-    "dosage_form": "Cream",
-    "generic": "Miconazole Nitrate",
-    "strength": "2% w/w",
-    "company": "Incepta Pharmaceuticals Ltd.",
-    "pack_image": "https://medex.com.bd/data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNzUiIGhlaWdodD0iMTE1Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ0cmFuc3BhcmVudCIvPjwvc3ZnPg==",
+    "source_url": "https://medex.com.bd/brands/34985/umox-500-mg-capsule",
+    "name": "Umox",
+    "dosage_form": "Capsule",
+    "generic": "Amoxicillin Trihydrate",
+    "strength": "500 mg",
+    "company": "Union Pharmaceuticals Ltd",
+    "pack_image": null,
     "pricing": {
-      "unit_price": "৳ 35.00",
-      "strip_price": null,
-      "pack_size_info": null,
+      "unit_price": "৳ 6.00",
+      "strip_price": "৳ 60.00",
+      "pack_size_info": "(5 x 10: ৳ 300.00)",
       "packages": [
         {
-          "label": "10 gm tube",
-          "price": "৳ 35.00",
+          "label": "Unit Price",
+          "price": "৳ 6.00",
+          "pack_size_info": "(5 x 10: ৳ 300.00)"
+        },
+        {
+          "label": "Strip Price",
+          "price": "৳ 60.00",
           "pack_size_info": null
         }
       ]
     },
-    "flags": [],
-    "also_available": [
+    "flags": [
       {
-        "text": "2% w/w (Oral Gel)",
-        "href": "https://medex.com.bd/brands/10019/oroconazol-2-w-oral-gel?ref=1"
+        "label": "Antibiotic",
+        "note": "Do not use without prescription of a registered physician"
       }
     ],
-    "alternate_brands_url": "https://medex.com.bd/generics/754/miconazole-nitrate/brand-names",
+    "also_available": [
+      {
+        "text": "250 mg (Capsule)",
+        "href": "https://medex.com.bd/brands/34984/umox-250-mg-capsule?ref=1"
+      },
+      {
+        "text": "125 mg/1.25 ml (Drops)",
+        "href": "https://medex.com.bd/brands/34986/umox-125-mg-pediatric-drop?ref=1"
+      },
+      {
+        "text": "125 mg/5 ml (Syrup)",
+        "href": "https://medex.com.bd/brands/34987/umox-125-mg-suspension?ref=1"
+      }
+    ],
+    "alternate_brands_url": "https://medex.com.bd/generics/69/amoxicillin-trihydrate/brand-names",
     "indications": [
       {
         "title": null,
-        "information": "Topicazole oral gel is indicated- Topicazole ... Read moreTopicazole oral gel is indicated- Topicazole cream is indicated in dermatomycoses, e.g.: In addition miconazole cream has a very rapid alleviating effect on the pruritis which frequently accompanies infection.",
+        "information": "Umox is indicated in the treatment of infections due to susceptible ß-lactamase negative strains of microorganisms. These infections include Umox is indicated in the treatment of infections due to susceptible ß-lactamase negative strains of microorganisms. These infections include",
         "items": [
-          "For the treatment of oral and gastrointestinal candidiasis.",
-          "For eradication of fungal colonization in the mouth and gastrointestinal tract.",
-          "For the treatment of super infections due to gram-positive bacteria.",
-          "For the treatment of oral and gastrointestinal candidiasis.",
-          "For eradication of fungal colonization in the mouth and gastrointestinal tract.",
-          "For the treatment of super infections due to gram-positive bacteria.",
-          "Tinea pedis (Athlete's foot)",
-          "Tinea corporis (Tinea circinata)",
-          "Tinea manuum",
-          "Tinea cruris due to: Trichophyton mentagrophytes, Trichophyton rubrum, Microsporum audouinii, Epidermophyton floccosum",
-          "Candidial infections",
-          "Tinea versicolor.",
-          "Infections of the skin (e.g. intertrigo)",
-          "Perianal infections",
-          "Stomatitis angularis (cheilitis)",
-          "Balanoposthitis",
-          "Otitis externa"
+          "Ear, nose and throat infections (i.e. otitis media, sinusitis, tonsillitis, pharyngitis, laryngitis)",
+          "Lower respiratory tract infections (i.e. pneumonia, acute and chronic bronchitis lung abscess, empyema, bronchiectasis)",
+          "Ear, nose and throat infections (i.e. otitis media, sinusitis, tonsillitis, pharyngitis, laryngitis)",
+          "Lower respiratory tract infections (i.e. pneumonia, acute and chronic bronchitis lung abscess, empyema, bronchiectasis)",
+          "Skin and soft tissue infections (i.e. cellulitis, carbuncles, furunculosis, infected wounds, abscess)",
+          "Genito-urinary tract infections (i.e. pyelonephritis, cystitis and urethritis)",
+          "Venereal disease (i.e. acute uncomplicated gonorrhoea)",
+          "In dental abscess, it is used as short-term therapy.",
+          "It is also indicated in combination with Clarithromycin and Lansoprazole (as triple therapy), for the treatment of patients with H. pylori infection and duodenal ulcer disease and to reduce the risk of duodenal ulcer recurrence."
         ]
       }
     ],
     "mode_of_action": [
       {
-        "title": "Pharmacodynamics",
-        "information": ": Miconazole possesses an antifungal activity against the common dermatophytes and yeasts as well as an antibacterial activity against certain gram-positive bacilli and cocci. Its activity is based on the inhibition of a demethylation step in the ergosterol biosynthesis. Ergosterol, the end-product of the biosynthetic pathway and the main sterol in yeast and fungi. The disruption in production of ergosterol disrupts the fungal cell membrane, causing holes to appear in it. These holes allow the essential constituents of the fungal cells to leak out and ultimately the fungal cells die.",
-        "items": []
-      },
-      {
-        "title": "Pharmacokinetics",
-        "information": ": The oral bioavailability of Miconazole is low (25-30%) because there is little absorption of Miconazole from the intestinal tract. Miconazole is systemically absorbed after administration as the oral gel. Absorbed Miconazole is bound to plasma proteins (88.2%), primarily to serum albumin and red blood cells (10.6%). The absorbed portion of Miconazole oral gel is largely metabolized; less than 1% of the administered dose is excreted unchanged in the urine. The terminal plasma half-life is 20-25 hours in most patients. The elimination half-life of Miconazole is similar in any renal impaired patient.",
+        "title": null,
+        "information": "Amoxicillin is a broad spectrum penicillin. It is effective against a wide range of Gram-positive and Gram-negative bacteria. It acts through the inhibition of biosynthesis of cell wall. Amoxicillin is stable in the presence of gastric acid and is rapidly absorbed after oral administration. After an oral dose, peak plasma concentration of Amoxicillin is reached within 1 to 2 hours. Amoxicillin is widely distributed at varying concentration in body tissues and fluids.",
         "items": []
       }
     ],
     "interaction": [
       {
         "title": null,
-        "information": null,
-        "items": [
-          "Concomitant treatment with Terfenadine, Astemizole and Cisapride should be avoided because in vitro studies suggest that Topicazole may inhibit their metabolism, so these products miqht precipitated.",
-          "Topicazole may delay Phenytoin and Cyclosporine metabolism and this might precipitate Phenytoin and Cyclosporine toxicity, respectively."
-        ]
+        "information": "Concurrent use of Umox and Probenecid may result in increased and prolonged blood levels of Umox. Umox may affect the gut flora, leading to lower estrogen reabsorption and reduced efficacy of combined oral estrogen/progesterone contraceptives.",
+        "items": []
       }
     ],
     "contraindications": [
       {
         "title": null,
-        "information": "Miconazole is contraindicated in patients with known hypersensitivity to the active ingredient.",
+        "information": "Amoxicillin is contraindicated in penicillin hypersensitive patients.",
         "items": []
       }
     ],
     "side_effects": [
       {
         "title": null,
-        "information": "Occasionally nausea and vomiting, diarrhea with long term use and rarely allergic reactions.",
+        "information": "Side effects are mild and transient in nature. This may include diarrhoea, indigestion or occasionally rash. Pseudo-membranous colitis has been reported rarely.",
         "items": []
       }
     ],
     "pregnancy_cat": [
       {
         "title": null,
-        "information": "There is no information regarding the safety of Miconazole oral gel during pregnancy. So Miconazole oral gel should be avoided in pregnant women if possible or the potential hazards should be balanced against the possible benefits. As many drugs are excreted in human milk, caution should be exercised when Miconazole is administered to a nursing woman.",
+        "information": "US FDA pregnancy category of Amoxicillin is B. There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed. Amoxicillin has been shown to be excreted in human milk. So, caution should be exercised when Amoxicillin is administered to a lactating mother.",
         "items": []
       }
     ],
     "precautions": [
       {
         "title": null,
-        "information": "If the concomitant use of Topicazole and anticoagulant is considered, the anti-coagulant effect should be monitored and titrated. Topicazole and phenytoin plasma level should also be monitored when used concomitantly. In infants and young children, caution must be taken to ensure that the gel does not obstruct the throat.",
+        "information": "The possibility of superinfections with mycotic or bacterial pathogens should be kept in mind during therapy. If superinfections occur, Umox should be discontinued and appropriate therapy should be instituted.",
         "items": []
       }
     ],
     "pediatric_uses": [],
-    "overdose_effects": [
-      {
-        "title": null,
-        "information": "Accidental overdosage may cause vomiting and diarrhea. Treatment is symptomatic and supportive. A specific antidote is not available.",
-        "items": []
-      }
-    ],
+    "overdose_effects": [],
     "storage_conditions": [
       {
         "title": null,
-        "information": "keep in a dry place away from light and heat. Keep out of the reach of children.",
+        "information": "Keep in a dry place away from light and heat. Keep out of the reach of children.",
         "items": []
       }
     ],
@@ -121,7 +117,7 @@
     "administration": [
       {
         "title": null,
-        "information": "In case of localized lesions of the mouth, a small amount of gel may be applied 2-4 times a day directly to the affected area with a clean finger. For best results, Miconazole oral gel should be kept in contact with the affected area as long as possible. The treatment should be continued for at least a week after symptoms have disappeared. For oral candidosis, dental prosthesis should be removed at night and brushed with the gel.",
+        "information": "Reconstituted suspension can be administered by adding the required amount of suspension to milk, fruit juice, water. These preparations should then be taken immediately.",
         "items": []
       }
     ],
@@ -129,60 +125,70 @@
       "molecular_formula": null,
       "chemical_structure": null
     },
-    "therapeutic_class": "Aural Anti-fungal preparations",
+    "therapeutic_class": "Broad spectrum penicillins",
     "dosage": [
       {
-        "medication_type": "Miconazole Oral Gel",
-        "information": "- Oropharyngeal candidosis-",
+        "medication_type": "Adult",
+        "information": ": 250 mg three times daily, increasing up to 500 mg three times daily for severe infections.",
         "instructions": []
       },
       {
-        "medication_type": "Infants 4-24 months",
-        "information": ": 1.25 ml (1⁄4 measuring spoon) of gel, applied 4 times day after meals.",
+        "medication_type": "Children",
+        "information": "(up to 10 years of age) : 125 mg three times daily, increasing up to 250 mg three times daily for severe infections.",
         "instructions": []
       },
       {
-        "medication_type": "Adult and children 2 years of age and older",
-        "information": ": 2.5 ml (1⁄2 measuring spoon) of gel, applied 4 times a day after meals.",
+        "medication_type": "Severe or recurrent purulent respiratory infection",
+        "information": ": 3 gm every 12 hours.",
         "instructions": []
       },
       {
-        "medication_type": null,
-        "information": "Gastrointestinal tract candidosis-",
+        "medication_type": "Otitis media",
+        "information": ": Recommended dose is 1 g three times daily for adult and 40 mg/kg body weight daily in 3 divided doses for children (max. 3 g daily).",
         "instructions": []
       },
       {
-        "medication_type": "Infants (4 months of age or above)",
-        "information": ": Children and adults who have difficulty swallowing tablets: 20 mg per kg body weight per day, in four divided doses. The daily dose should not exceed 250 mg (10 ml gel) four times daily.",
+        "medication_type": "Pneumonia",
+        "information": ": Recommended dose is 500-1000 mg three times daily.",
         "instructions": []
       },
       {
-        "medication_type": null,
-        "information": "Missed Dose: Apply the missed dose as soon as you remember. In case of next dosing time, omit the missed dose and continue your usual course.",
+        "medication_type": "Dental abscess",
+        "information": ": Recommended dose is 3 gm, repeated after 10-12 hours.",
         "instructions": []
       },
       {
-        "medication_type": "Miconazole Cream",
-        "information": ": Sufficient Miconazole Cream should be applied to cover affected areas twice daily (morning and evening) in patients with tinea pedis, tinea cruris, tinea corporis and cutaneous candidiasis and once daily in patients with tinea versicolor. If Miconazole Cream is used in intertriginous areas it should be applied sparingly and smoothed in well to avoid maceration effects. Early relief of symptoms (2 to 3 days) is experienced by the majority of patients and clinical improvement may be seen fairly soon after treatment is begun.All lesions usually disappear after 2 to 5 weeks.Prolong treatment for 10 days to prevent relapse. However, Candida infections, tinea cruris and corporis should be treated for two weeks and tinea pedis for one month in order to reduce the possibility of recurrence.",
+        "medication_type": "Urinary tract infections",
+        "information": ": Recommended dose is 3 gm, repeated after 10-12 hours.",
+        "instructions": []
+      },
+      {
+        "medication_type": "Gonorrhoea",
+        "information": ": Single dose of 2-3 gm with Probenecid 1 gm is recommended (Probenecid is contraindicated in children under 2 years).",
+        "instructions": []
+      },
+      {
+        "medication_type": "In renal impairment",
+        "information": ": it may be necessary to reduce the total daily dosage.",
         "instructions": []
       }
     ],
     "common_questions": [],
-    "fetched_at": "2025-10-03T12:38:06.253Z",
-    "medicine_id": "68c3c0e7ef5b8f2b163ae196",
+    "fetched_at": "2025-10-03T14:39:05.927Z",
+    "medicine_id": "68c3c0e7ef5b8f2b163ae418",
     "original_record": {
-      "input_index": 22101,
+      "input_index": 22704,
       "brand_record": {
         "_id": {
-          "$oid": "68c3c0e7ef5b8f2b163ae196"
+          "$oid": "68c3c0e7ef5b8f2b163ae418"
         },
-        "name": "Topicazole",
-        "strength": "2% w/w",
-        "generic": "Miconazole Nitrate",
-        "company": "Incepta Pharmaceuticals Ltd.",
-        "medicine_type": "Cream",
-        "source_url": "https://medex.com.bd/brands/10032/topicazole-2-w-cream",
-        "_page": 738,
+        "name": "Umox",
+        "strength": "500 mg",
+        "generic": "Amoxicillin Trihydrate",
+        "company": "Union Pharmaceuticals Ltd",
+        "medicine_type": "Capsule",
+        "source_url": "https://medex.com.bd/brands/34985/umox-500-mg-capsule",
+        "_page": 759,
         "image_uri": null,
         "createdAt": {
           "$date": "2025-09-12T06:45:33.175Z"
