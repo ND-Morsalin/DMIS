@@ -8,7 +8,7 @@ const crypto = require("crypto");
 const INPUT_FILE = path.resolve(process.cwd(), "oushod_Khabo.Medicine.json");
 const OUTPUT_FILE = path.resolve(
   process.cwd(),
-  "medicine_info_in_details.json"
+  "missing_medicine.json"
 );
 const ORIGIN = "https://medex.com.bd";
 const USER_AGENT = "Mozilla/5.0 (compatible; MedExDetailFetcher/1.0)";
