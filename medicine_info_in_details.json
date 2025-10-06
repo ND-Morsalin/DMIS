@@ -1,0 +1,2378 @@
+[
+  {
+    "source_url": "https://medex.com.bd/brands/37048/adali-40-mg-injection",
+    "medicine_id": "68c3c09aef5b8f2b163a8c83",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:19:51.596Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8c83",
+      "name": "Adali",
+      "strength": "40 mg/0.8 ml",
+      "generic": "Adalimumab",
+      "company": "Beacon Pharmaceuticals PLC",
+      "medicine_type": "SC Injection",
+      "source_url": "https://medex.com.bd/brands/37048/adali-40-mg-injection",
+      "_page": 12,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/29134/adalimab-40-mg-injection",
+    "medicine_id": "68c3c09aef5b8f2b163a8c84",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:19:54.190Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8c84",
+      "name": "Adalimab",
+      "strength": "40 mg/0.8 ml",
+      "generic": "Adalimumab",
+      "company": "Healthcare Pharmaceuticals Ltd.",
+      "medicine_type": "SC Injection",
+      "source_url": "https://medex.com.bd/brands/29134/adalimab-40-mg-injection",
+      "_page": 12,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1500/adegut-10-mg-tablet",
+    "medicine_id": "68c3c09aef5b8f2b163a8c95",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:19:56.700Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8c95",
+      "name": "Adegut",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Supreme Pharmaceutical Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1500/adegut-10-mg-tablet",
+      "_page": 13,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1501/adegut-5-mg-suspension",
+    "medicine_id": "68c3c09aef5b8f2b163a8c96",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:00.968Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8c96",
+      "name": "Adegut",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Supreme Pharmaceutical Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1501/adegut-5-mg-suspension",
+      "_page": 13,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1502/adorex-5-mg-suspension",
+    "medicine_id": "68c3c09aef5b8f2b163a8ccd",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:05.016Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8ccd",
+      "name": "Adorex",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Ambee Pharmaceuticals Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1502/adorex-5-mg-suspension",
+      "_page": 14,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1503/adorex-10-mg-tablet",
+    "medicine_id": "68c3c09aef5b8f2b163a8cce",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:07.713Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8cce",
+      "name": "Adorex",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Ambee Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1503/adorex-10-mg-tablet",
+      "_page": 14,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/28019/adorex-5-mg-pediatric-drop",
+    "medicine_id": "68c3c09aef5b8f2b163a8ccf",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:10.315Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8ccf",
+      "name": "Adorex",
+      "strength": "5 mg/ml",
+      "generic": "Domperidone Maleate",
+      "company": "Ambee Pharmaceuticals Ltd.",
+      "medicine_type": "Pediatric Drops",
+      "source_url": "https://medex.com.bd/brands/28019/adorex-5-mg-pediatric-drop",
+      "_page": 14,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/17307/advixa-40-mg-injection",
+    "medicine_id": "68c3c09aef5b8f2b163a8ce5",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:12.950Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8ce5",
+      "name": "Advixa",
+      "strength": "40 mg/0.8 ml",
+      "generic": "Adalimumab",
+      "company": "Incepta Pharmaceuticals Ltd.",
+      "medicine_type": "SC Injection",
+      "source_url": "https://medex.com.bd/brands/17307/advixa-40-mg-injection",
+      "_page": 15,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/32330/almigut-10-mg-tablet",
+    "medicine_id": "68c3c09aef5b8f2b163a8e49",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:15.382Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8e49",
+      "name": "Almigut",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Al-Madina Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/32330/almigut-10-mg-tablet",
+      "_page": 27,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/3333/alphanate-250-iu-injection",
+    "medicine_id": "68c3c09aef5b8f2b163a8e6b",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:17.791Z",
+    "original_record": {
+      "_id": "68c3c09aef5b8f2b163a8e6b",
+      "name": "Alphanate",
+      "strength": "250 IU/vial",
+      "generic": "Alphanate",
+      "company": "Grifols Biologicals LLC",
+      "medicine_type": "IV Infusion",
+      "source_url": "https://medex.com.bd/brands/3333/alphanate-250-iu-injection",
+      "_page": 28,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1505/anet-10-mg-tablet",
+    "medicine_id": "68c3c0adef5b8f2b163a900e",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:20.199Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a900e",
+      "name": "Anet",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Kemiko Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1505/anet-10-mg-tablet",
+      "_page": 42,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1506/anet-5-mg-suspension",
+    "medicine_id": "68c3c0adef5b8f2b163a900f",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:23.291Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a900f",
+      "name": "Anet",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Kemiko Pharmaceuticals Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1506/anet-5-mg-suspension",
+      "_page": 42,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1508/apedom-5-mg-suspension",
+    "medicine_id": "68c3c0adef5b8f2b163a90bc",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:25.756Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a90bc",
+      "name": "Apedom",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Apollo Pharmaceutical Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1508/apedom-5-mg-suspension",
+      "_page": 48,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1507/apedom-10-mg-tablet",
+    "medicine_id": "68c3c0adef5b8f2b163a90bd",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:28.395Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a90bd",
+      "name": "Apedom",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Apollo Pharmaceutical Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1507/apedom-10-mg-tablet",
+      "_page": 48,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/27320/apidone-10-mg-tablet",
+    "medicine_id": "68c3c0adef5b8f2b163a90cf",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:31.113Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a90cf",
+      "name": "Apidone",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Team Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/27320/apidone-10-mg-tablet",
+      "_page": 49,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/27321/apidone-5-mg-suspension",
+    "medicine_id": "68c3c0adef5b8f2b163a90d0",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:33.698Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a90d0",
+      "name": "Apidone",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Team Pharmaceuticals Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/27321/apidone-5-mg-suspension",
+      "_page": 49,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/34857/aproxi-80-mg-capsule",
+    "medicine_id": "68c3c0adef5b8f2b163a9106",
+    "error": "Fetch failed: Request failed with status code 404",
+    "fetched_at": "2025-10-06T16:20:36.316Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a9106",
+      "name": "Aproxi",
+      "strength": "80 mg",
+      "generic": "Aprepitant",
+      "company": "Beacon Pharmaceuticals PLC",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/34857/aproxi-80-mg-capsule",
+      "_page": 50,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/34858/aproxi-125-mg-capsule",
+    "medicine_id": "68c3c0adef5b8f2b163a9107",
+    "error": "Fetch failed: Request failed with status code 404",
+    "fetched_at": "2025-10-06T16:20:38.706Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a9107",
+      "name": "Aproxi",
+      "strength": "125 mg",
+      "generic": "Aprepitant",
+      "company": "Beacon Pharmaceuticals PLC",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/34858/aproxi-125-mg-capsule",
+      "_page": 50,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1511/apuldon-5-mg-pediatric-drop",
+    "medicine_id": "68c3c0adef5b8f2b163a9111",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:41.594Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a9111",
+      "name": "Apuldon",
+      "strength": "5 mg/ml",
+      "generic": "Domperidone Maleate",
+      "company": "Aristopharma Ltd.",
+      "medicine_type": "Pediatric Drops",
+      "source_url": "https://medex.com.bd/brands/1511/apuldon-5-mg-pediatric-drop",
+      "_page": 51,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1510/apuldon-5-mg-suspension",
+    "medicine_id": "68c3c0adef5b8f2b163a9112",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:44.318Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a9112",
+      "name": "Apuldon",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Aristopharma Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1510/apuldon-5-mg-suspension",
+      "_page": 51,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1509/apuldon-10-mg-tablet",
+    "medicine_id": "68c3c0adef5b8f2b163a9113",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:46.833Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a9113",
+      "name": "Apuldon",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Aristopharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1509/apuldon-10-mg-tablet",
+      "_page": 51,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4819/arotril-05-mg-tablet",
+    "medicine_id": "68c3c0adef5b8f2b163a91d4",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:49.463Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a91d4",
+      "name": "Arotril",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Aristopharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4819/arotril-05-mg-tablet",
+      "_page": 57,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4820/arotril-1-mg-tablet",
+    "medicine_id": "68c3c0adef5b8f2b163a91d5",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:51.920Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a91d5",
+      "name": "Arotril",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Aristopharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4820/arotril-1-mg-tablet",
+      "_page": 57,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4821/arotril-2-mg-tablet",
+    "medicine_id": "68c3c0adef5b8f2b163a91d6",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:54.748Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a91d6",
+      "name": "Arotril",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Aristopharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4821/arotril-2-mg-tablet",
+      "_page": 57,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1513/atidon-10-mg-tablet",
+    "medicine_id": "68c3c0adef5b8f2b163a92a4",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:57.257Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a92a4",
+      "name": "Atidon",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Asiatic Laboratories Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1513/atidon-10-mg-tablet",
+      "_page": 64,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/38046/atidon-5-mg-suspension",
+    "medicine_id": "68c3c0adef5b8f2b163a92a5",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:20:59.736Z",
+    "original_record": {
+      "_id": "68c3c0adef5b8f2b163a92a5",
+      "name": "Atidon",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Asiatic Laboratories Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/38046/atidon-5-mg-suspension",
+      "_page": 64,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1516/avomit-5-mg-suspension",
+    "medicine_id": "68c3c0c3ef5b8f2b163a934f",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:02.167Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a934f",
+      "name": "Avomit",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Chemist Laboratories  Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1516/avomit-5-mg-suspension",
+      "_page": 70,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1515/avomit-10-mg-tablet",
+    "medicine_id": "68c3c0c3ef5b8f2b163a9350",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:04.642Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a9350",
+      "name": "Avomit",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Chemist Laboratories  Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1515/avomit-10-mg-tablet",
+      "_page": 70,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/6682/bacilex-200-mg-tablet",
+    "medicine_id": "68c3c0c3ef5b8f2b163a9460",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:06.986Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a9460",
+      "name": "Bacilex",
+      "strength": "200 mg",
+      "generic": "Pivmecillinam",
+      "company": "Pharmadesh Laboratories Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/6682/bacilex-200-mg-tablet",
+      "_page": 79,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4951/barbit-30-mg-tablet",
+    "medicine_id": "68c3c0c3ef5b8f2b163a94aa",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:09.403Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a94aa",
+      "name": "Barbit",
+      "strength": "30 mg",
+      "generic": "Phenobarbital",
+      "company": "Incepta Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4951/barbit-30-mg-tablet",
+      "_page": 81,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4952/barbit-60-mg-tablet",
+    "medicine_id": "68c3c0c3ef5b8f2b163a94ab",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:11.915Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a94ab",
+      "name": "Barbit",
+      "strength": "60 mg",
+      "generic": "Phenobarbital",
+      "company": "Incepta Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4952/barbit-60-mg-tablet",
+      "_page": 82,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4953/barbit-elixir-20-mg-oral-solution",
+    "medicine_id": "68c3c0c3ef5b8f2b163a94ad",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:14.482Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a94ad",
+      "name": "Barbit Elixir",
+      "strength": "20 mg/5 ml",
+      "generic": "Phenobarbital",
+      "company": "Incepta Pharmaceuticals Ltd.",
+      "medicine_type": "Oral Solution",
+      "source_url": "https://medex.com.bd/brands/4953/barbit-elixir-20-mg-oral-solution",
+      "_page": 82,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1518/bedom-5-mg-suspension",
+    "medicine_id": "68c3c0c3ef5b8f2b163a94da",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:16.939Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a94da",
+      "name": "Bedom",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Bengal drugs Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1518/bedom-5-mg-suspension",
+      "_page": 83,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1517/bedom-10-mg-tablet",
+    "medicine_id": "68c3c0c3ef5b8f2b163a94db",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:19.359Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a94db",
+      "name": "Bedom",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Bengal drugs Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1517/bedom-10-mg-tablet",
+      "_page": 83,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/27449/benidon-10-mg-tablet",
+    "medicine_id": "68c3c0c3ef5b8f2b163a9517",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:21.801Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a9517",
+      "name": "Benidon",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Benham Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/27449/benidon-10-mg-tablet",
+      "_page": 85,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/27450/benidon-5-mg-suspension",
+    "medicine_id": "68c3c0c3ef5b8f2b163a9518",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:24.551Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a9518",
+      "name": "Benidon",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Benham Pharmaceuticals Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/27450/benidon-5-mg-suspension",
+      "_page": 85,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/30304/benzenod-3-mg-capsule",
+    "medicine_id": "68c3c0c3ef5b8f2b163a953c",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:27.164Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a953c",
+      "name": "Benzenod",
+      "strength": "3 mg",
+      "generic": "Rivastigmine Tartrate",
+      "company": "General Pharmaceuticals Ltd.",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/30304/benzenod-3-mg-capsule",
+      "_page": 86,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/30303/benzenod-15-mg-capsule",
+    "medicine_id": "68c3c0c3ef5b8f2b163a953d",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:29.587Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a953d",
+      "name": "Benzenod",
+      "strength": "1.5 mg",
+      "generic": "Rivastigmine Tartrate",
+      "company": "General Pharmaceuticals Ltd.",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/30303/benzenod-15-mg-capsule",
+      "_page": 86,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1519/beridom-10-mg-tablet",
+    "medicine_id": "68c3c0c3ef5b8f2b163a954b",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:32.004Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a954b",
+      "name": "Beridom",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Belsen Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1519/beridom-10-mg-tablet",
+      "_page": 87,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1520/beridom-5-mg-suspension",
+    "medicine_id": "68c3c0c3ef5b8f2b163a954c",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:34.399Z",
+    "original_record": {
+      "_id": "68c3c0c3ef5b8f2b163a954c",
+      "name": "Beridom",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Belsen Pharmaceuticals Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1520/beridom-5-mg-suspension",
+      "_page": 87,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1521/bpdon-10-mg-tablet",
+    "medicine_id": "68c3c0d5ef5b8f2b163a972c",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:36.865Z",
+    "original_record": {
+      "_id": "68c3c0d5ef5b8f2b163a972c",
+      "name": "Bpdon",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Bristol Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1521/bpdon-10-mg-tablet",
+      "_page": 103,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/21687/chemocain-2-injection",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9c24",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:39.287Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9c24",
+      "name": "Chemocain",
+      "strength": "2%",
+      "generic": "Lidocaine Hydrochloride (Injection)",
+      "company": "Chemist Laboratories  Ltd.",
+      "medicine_type": "Injection",
+      "source_url": "https://medex.com.bd/brands/21687/chemocain-2-injection",
+      "_page": 145,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/19480/clepam-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9d99",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:41.734Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9d99",
+      "name": "Clepam",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Euro Pharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/19480/clepam-2-mg-tablet",
+      "_page": 158,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/30833/clepam-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9d9a",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:44.507Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9d9a",
+      "name": "Clepam",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Euro Pharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/30833/clepam-1-mg-tablet",
+      "_page": 158,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/27230/clepam-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9d9b",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:46.914Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9d9b",
+      "name": "Clepam",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Euro Pharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/27230/clepam-05-mg-tablet",
+      "_page": 158,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/31976/cloma-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e00",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:49.331Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e00",
+      "name": "Cloma",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Biopharma Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/31976/cloma-1-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4822/cloma-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e01",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:51.780Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e01",
+      "name": "Cloma",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Biopharma Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4822/cloma-05-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4823/cloma-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e02",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:54.216Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e02",
+      "name": "Cloma",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Biopharma Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4823/cloma-2-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/19482/clon-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e03",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:56.706Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e03",
+      "name": "Clon",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Globe Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/19482/clon-2-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4824/clon-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e04",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:21:59.129Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e04",
+      "name": "Clon",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Globe Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4824/clon-05-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/19472/clonaben-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e05",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:01.833Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e05",
+      "name": "Clonaben",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Benham Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/19472/clonaben-2-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4874/clonaben-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e06",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:04.328Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e06",
+      "name": "Clonaben",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Benham Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4874/clonaben-05-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/35359/clonaben-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e07",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:06.764Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e07",
+      "name": "Clonaben",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Benham Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/35359/clonaben-1-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/38096/clonabest-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e08",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:09.181Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e08",
+      "name": "Clonabest",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Goodman Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/38096/clonabest-2-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/38095/clonabest-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e09",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:11.656Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e09",
+      "name": "Clonabest",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Goodman Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/38095/clonabest-1-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/38094/clonabest-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e0a",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:14.110Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e0a",
+      "name": "Clonabest",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Goodman Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/38094/clonabest-05-mg-tablet",
+      "_page": 161,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/33266/clonafix-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e0c",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:16.526Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e0c",
+      "name": "Clonafix",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Novatek Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/33266/clonafix-2-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/33265/clonafix-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e0d",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:18.969Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e0d",
+      "name": "Clonafix",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Novatek Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/33265/clonafix-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4875/clonapex-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e0e",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:21.509Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e0e",
+      "name": "Clonapex",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Apex Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4875/clonapex-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4876/clonapex-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e0f",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:23.878Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e0f",
+      "name": "Clonapex",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Apex Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4876/clonapex-1-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/26461/clonapin-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e10",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:26.737Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e10",
+      "name": "Clonapin",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Popular Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/26461/clonapin-1-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4825/clonapin-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e11",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:29.211Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e11",
+      "name": "Clonapin",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Popular Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4825/clonapin-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4826/clonapin-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e12",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:31.677Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e12",
+      "name": "Clonapin",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Popular Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4826/clonapin-2-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4827/clonatril-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e15",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:34.117Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e15",
+      "name": "Clonatril",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Healthcare Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4827/clonatril-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4828/clonatril-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e16",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:36.886Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e16",
+      "name": "Clonatril",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Healthcare Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4828/clonatril-1-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4829/clonatril-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e17",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:39.319Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e17",
+      "name": "Clonatril",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Healthcare Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4829/clonatril-2-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/37640/clonazepam-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e18",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:41.753Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e18",
+      "name": "Clonazepam",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Pharmik Laboratories Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/37640/clonazepam-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/31349/clonepam-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e19",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:44.231Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e19",
+      "name": "Clonepam",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Pacific Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/31349/clonepam-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4877/clonil-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e1a",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:46.853Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e1a",
+      "name": "Clonil",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Jenphar Bangladesh Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4877/clonil-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4878/clonil-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e1b",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:49.625Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e1b",
+      "name": "Clonil",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Jenphar Bangladesh Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4878/clonil-2-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4830/clonium-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e1e",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:52.217Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e1e",
+      "name": "Clonium",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "ACI Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4830/clonium-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4831/clonium-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e1f",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:54.682Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e1f",
+      "name": "Clonium",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "ACI Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4831/clonium-1-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4832/clonium-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e20",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:57.135Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e20",
+      "name": "Clonium",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "ACI Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4832/clonium-2-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/33838/clonium-odt-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e21",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:22:59.552Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e21",
+      "name": "Clonium ODT",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "ACI Limited",
+      "medicine_type": "Dispersible Tablet",
+      "source_url": "https://medex.com.bd/brands/33838/clonium-odt-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/32971/clonzy-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e24",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:01.965Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e24",
+      "name": "Clonzy",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Pharmasia Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/32971/clonzy-1-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4880/clonzy-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e25",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:04.398Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e25",
+      "name": "Clonzy",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Pharmasia Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4880/clonzy-2-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4879/clonzy-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e26",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:06.843Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e26",
+      "name": "Clonzy",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Pharmasia Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4879/clonzy-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4833/clopam-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e28",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:09.265Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e28",
+      "name": "Clopam",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Sharif Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4833/clopam-05-mg-tablet",
+      "_page": 162,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4834/clopam-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e29",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:11.730Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e29",
+      "name": "Clopam",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Sharif Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4834/clopam-2-mg-tablet",
+      "_page": 163,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4836/cloron-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e46",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:14.104Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e46",
+      "name": "Cloron",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Eskayef Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4836/cloron-2-mg-tablet",
+      "_page": 163,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/26749/cloron-25-mg-pediatric-drop",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e47",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:16.518Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e47",
+      "name": "Cloron",
+      "strength": "2.5 mg/ml",
+      "generic": "Clonazepam",
+      "company": "Eskayef Pharmaceuticals Ltd.",
+      "medicine_type": "Pediatric Drops",
+      "source_url": "https://medex.com.bd/brands/26749/cloron-25-mg-pediatric-drop",
+      "_page": 164,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4835/cloron-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e48",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:18.930Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e48",
+      "name": "Cloron",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Eskayef Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4835/cloron-05-mg-tablet",
+      "_page": 164,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/36577/closid-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e4d",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:21.444Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e4d",
+      "name": "Closid",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "OSL Pharma Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/36577/closid-2-mg-tablet",
+      "_page": 164,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/36576/closid-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e4e",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:23.845Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e4e",
+      "name": "Closid",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "OSL Pharma Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/36576/closid-1-mg-tablet",
+      "_page": 164,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/36575/closid-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e4f",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:26.283Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e4f",
+      "name": "Closid",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "OSL Pharma Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/36575/closid-05-mg-tablet",
+      "_page": 164,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/35470/clozep-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e79",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:28.717Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e79",
+      "name": "Clozep",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Astra Biopharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/35470/clozep-05-mg-tablet",
+      "_page": 165,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/35471/clozep-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e7a",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:31.168Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e7a",
+      "name": "Clozep",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Astra Biopharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/35471/clozep-2-mg-tablet",
+      "_page": 165,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/28927/cmc-gel-1-eye-drop",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9e80",
+    "error": "Fetch failed: Request failed with status code 404",
+    "fetched_at": "2025-10-06T16:23:33.790Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9e80",
+      "name": "CMC-Gel",
+      "strength": "1%",
+      "generic": "Carboxymethylcellulose Sodium",
+      "company": "Biopharma Limited",
+      "medicine_type": "Ophthalmic Solution",
+      "source_url": "https://medex.com.bd/brands/28927/cmc-gel-1-eye-drop",
+      "_page": 165,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/26957/comfy-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9eef",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:36.231Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9eef",
+      "name": "Comfy",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Labaid Pharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/26957/comfy-1-mg-tablet",
+      "_page": 169,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/19489/comfy-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9ef0",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:38.689Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9ef0",
+      "name": "Comfy",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Labaid Pharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/19489/comfy-2-mg-tablet",
+      "_page": 169,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/19488/comfy-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9ef1",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:41.127Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9ef1",
+      "name": "Comfy",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Labaid Pharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/19488/comfy-05-mg-tablet",
+      "_page": 169,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/19491/conpan-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9f11",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:43.583Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9f11",
+      "name": "Conpan",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Navana Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/19491/conpan-2-mg-tablet",
+      "_page": 170,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/26907/conpan-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9f12",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:46.000Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9f12",
+      "name": "Conpan",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Navana Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/26907/conpan-1-mg-tablet",
+      "_page": 170,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/19490/conpan-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9f13",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:48.410Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9f13",
+      "name": "Conpan",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Navana Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/19490/conpan-05-mg-tablet",
+      "_page": 170,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/33725/conpan-odt-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9f14",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:50.802Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9f14",
+      "name": "Conpan ODT",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Navana Pharmaceuticals Ltd.",
+      "medicine_type": "Dispersible Tablet",
+      "source_url": "https://medex.com.bd/brands/33725/conpan-odt-05-mg-tablet",
+      "_page": 170,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1522/cosy-10-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9fc1",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:53.220Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9fc1",
+      "name": "Cosy",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Orion Pharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1522/cosy-10-mg-tablet",
+      "_page": 176,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1523/cosy-5-mg-suspension",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9fc2",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:55.654Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9fc2",
+      "name": "Cosy",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Orion Pharma Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1523/cosy-5-mg-suspension",
+      "_page": 176,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4838/cozinil-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9ffd",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:23:58.139Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9ffd",
+      "name": "Cozinil",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Rephco Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4838/cozinil-2-mg-tablet",
+      "_page": 178,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4837/cozinil-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163a9ffe",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:00.845Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163a9ffe",
+      "name": "Cozinil",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Rephco Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4837/cozinil-05-mg-tablet",
+      "_page": 178,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1524/cpdom-10-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa005",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:03.306Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa005",
+      "name": "Cpdom",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Cosmo Pharma Laboratories Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1524/cpdom-10-mg-tablet",
+      "_page": 178,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/365/crodex-10-cream",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa021",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:05.660Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa021",
+      "name": "Crodex",
+      "strength": "10%",
+      "generic": "Crotamiton",
+      "company": "Gaco Pharmaceuticals Ltd.",
+      "medicine_type": "Cream",
+      "source_url": "https://medex.com.bd/brands/365/crodex-10-cream",
+      "_page": 179,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/366/cronix-10-lotion",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa026",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:08.111Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa026",
+      "name": "Cronix",
+      "strength": "10%",
+      "generic": "Crotamiton",
+      "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+      "medicine_type": "Lotion",
+      "source_url": "https://medex.com.bd/brands/366/cronix-10-lotion",
+      "_page": 179,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/367/curex-10-cream",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa032",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:10.501Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa032",
+      "name": "Curex",
+      "strength": "10%",
+      "generic": "Crotamiton",
+      "company": "Kumudini Pharma Ltd.",
+      "medicine_type": "Cream",
+      "source_url": "https://medex.com.bd/brands/367/curex-10-cream",
+      "_page": 180,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/29820/danflex-50-mg-capsule",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa116",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:12.852Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa116",
+      "name": "Danflex",
+      "strength": "50 mg",
+      "generic": "Dantrolene Sodium",
+      "company": "Opsonin Pharma Ltd.",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/29820/danflex-50-mg-capsule",
+      "_page": 187,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/19660/danlene-25-mg-capsule",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa11c",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:15.314Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa11c",
+      "name": "Danlene",
+      "strength": "25 mg",
+      "generic": "Dantrolene Sodium",
+      "company": "Incepta Pharmaceuticals Ltd.",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/19660/danlene-25-mg-capsule",
+      "_page": 188,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1526/dedom-5-mg-suspension",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa193",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:17.783Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa193",
+      "name": "Dedom",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Decent Pharma Laboratories Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1526/dedom-5-mg-suspension",
+      "_page": 192,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1525/dedom-10-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa194",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:20.180Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa194",
+      "name": "Dedom",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Decent Pharma Laboratories Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1525/dedom-10-mg-tablet",
+      "_page": 192,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1527/deflux-10-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa1b9",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:22.698Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa1b9",
+      "name": "Deflux",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Beximco Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1527/deflux-10-mg-tablet",
+      "_page": 193,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1529/deflux-5-mg-suspension",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa1ba",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:25.217Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa1ba",
+      "name": "Deflux",
+      "strength": "5 mg/5 ml",
+      "generic": "Domperidone Maleate",
+      "company": "Beximco Pharmaceuticals Ltd.",
+      "medicine_type": "Oral Suspension",
+      "source_url": "https://medex.com.bd/brands/1529/deflux-5-mg-suspension",
+      "_page": 193,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1530/deflux-5-mg-pediatric-drop",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa1bb",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:27.679Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa1bb",
+      "name": "Deflux",
+      "strength": "5 mg/ml",
+      "generic": "Domperidone Maleate",
+      "company": "Beximco Pharmaceuticals Ltd.",
+      "medicine_type": "Pediatric Drops",
+      "source_url": "https://medex.com.bd/brands/1530/deflux-5-mg-pediatric-drop",
+      "_page": 193,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1528/deflux-meltab-10-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa1bc",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:30.071Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa1bc",
+      "name": "Deflux Meltab",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Beximco Pharmaceuticals Ltd.",
+      "medicine_type": "Dispersible Tablet",
+      "source_url": "https://medex.com.bd/brands/1528/deflux-meltab-10-mg-tablet",
+      "_page": 193,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/1531/degut-10-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa1ca",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:32.507Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa1ca",
+      "name": "Degut",
+      "strength": "10 mg",
+      "generic": "Domperidone Maleate",
+      "company": "Delta Pharma Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/1531/degut-10-mg-tablet",
+      "_page": 193,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/5201/demelon-3-mg-capsule",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa206",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:34.935Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa206",
+      "name": "Demelon",
+      "strength": "3 mg",
+      "generic": "Rivastigmine Tartrate",
+      "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/5201/demelon-3-mg-capsule",
+      "_page": 195,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/5200/demelon-15-mg-capsule",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa208",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:37.316Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa208",
+      "name": "Demelon",
+      "strength": "1.5 mg",
+      "generic": "Rivastigmine Tartrate",
+      "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/5200/demelon-15-mg-capsule",
+      "_page": 196,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/34510/denbac-25-mg-capsule",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa221",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:39.761Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa221",
+      "name": "Denbac",
+      "strength": "25 mg",
+      "generic": "Dantrolene Sodium",
+      "company": "Beacon Pharmaceuticals PLC",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/34510/denbac-25-mg-capsule",
+      "_page": 196,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/34511/denbac-50-mg-capsule",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa222",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:42.191Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa222",
+      "name": "Denbac",
+      "strength": "50 mg",
+      "generic": "Dantrolene Sodium",
+      "company": "Beacon Pharmaceuticals PLC",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/34511/denbac-50-mg-capsule",
+      "_page": 196,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/29297/denixil-1-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa224",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:44.633Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa224",
+      "name": "Denixil",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Renata PLC",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/29297/denixil-1-mg-tablet",
+      "_page": 196,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4840/denixil-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa226",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:47.011Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa226",
+      "name": "Denixil",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Renata PLC",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4840/denixil-2-mg-tablet",
+      "_page": 197,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4839/denixil-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa227",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:49.431Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa227",
+      "name": "Denixil",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Renata PLC",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4839/denixil-05-mg-tablet",
+      "_page": 197,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/36011/denixil-rapid-025-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa228",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:51.895Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa228",
+      "name": "Denixil Rapid",
+      "strength": "0.25 mg",
+      "generic": "Clonazepam",
+      "company": "Renata PLC",
+      "medicine_type": "Dispersible Tablet",
+      "source_url": "https://medex.com.bd/brands/36011/denixil-rapid-025-mg-tablet",
+      "_page": 197,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/36012/denixil-rapid-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa229",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:54.328Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa229",
+      "name": "Denixil Rapid",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Renata PLC",
+      "medicine_type": "Dispersible Tablet",
+      "source_url": "https://medex.com.bd/brands/36012/denixil-rapid-05-mg-tablet",
+      "_page": 197,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/33374/dentro-25-mg-capsule",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa22d",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:56.776Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa22d",
+      "name": "Dentro",
+      "strength": "25 mg",
+      "generic": "Dantrolene Sodium",
+      "company": "Healthcare Pharmaceuticals Ltd.",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/33374/dentro-25-mg-capsule",
+      "_page": 197,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/33530/dentro-50-mg-capsule",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa22e",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:24:59.328Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa22e",
+      "name": "Dentro",
+      "strength": "50 mg",
+      "generic": "Dantrolene Sodium",
+      "company": "Healthcare Pharmaceuticals Ltd.",
+      "medicine_type": "Capsule",
+      "source_url": "https://medex.com.bd/brands/33530/dentro-50-mg-capsule",
+      "_page": 197,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4842/depanil-2-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa239",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:25:01.759Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa239",
+      "name": "Depanil",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Rangs Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4842/depanil-2-mg-tablet",
+      "_page": 197,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4841/depanil-05-mg-tablet",
+    "medicine_id": "68c3c0d7ef5b8f2b163aa23a",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:25:04.392Z",
+    "original_record": {
+      "_id": "68c3c0d7ef5b8f2b163aa23a",
+      "name": "Depanil",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Rangs Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4841/depanil-05-mg-tablet",
+      "_page": 197,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/33333/dipan-05-mg-tablet",
+    "medicine_id": "68c3c0d8ef5b8f2b163aa466",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:25:06.912Z",
+    "original_record": {
+      "_id": "68c3c0d8ef5b8f2b163aa466",
+      "name": "Dipan",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Albion Laboratories Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/33333/dipan-05-mg-tablet",
+      "_page": 216,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/36382/dipan-1-mg-tablet",
+    "medicine_id": "68c3c0d8ef5b8f2b163aa467",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:25:09.350Z",
+    "original_record": {
+      "_id": "68c3c0d8ef5b8f2b163aa467",
+      "name": "Dipan",
+      "strength": "1 mg",
+      "generic": "Clonazepam",
+      "company": "Albion Laboratories Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/36382/dipan-1-mg-tablet",
+      "_page": 216,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/33334/dipan-2-mg-tablet",
+    "medicine_id": "68c3c0d8ef5b8f2b163aa468",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:25:11.758Z",
+    "original_record": {
+      "_id": "68c3c0d8ef5b8f2b163aa468",
+      "name": "Dipan",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Albion Laboratories Limited",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/33334/dipan-2-mg-tablet",
+      "_page": 216,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/35874/disogen-2-mg-tablet",
+    "medicine_id": "68c3c0d8ef5b8f2b163aa48a",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:25:14.210Z",
+    "original_record": {
+      "_id": "68c3c0d8ef5b8f2b163aa48a",
+      "name": "Disogen",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Biogen Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/35874/disogen-2-mg-tablet",
+      "_page": 217,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/35873/disogen-05-mg-tablet",
+    "medicine_id": "68c3c0d8ef5b8f2b163aa48b",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:25:16.689Z",
+    "original_record": {
+      "_id": "68c3c0d8ef5b8f2b163aa48b",
+      "name": "Disogen",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Biogen Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/35873/disogen-05-mg-tablet",
+      "_page": 217,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4843/disopan-05-mg-tablet",
+    "medicine_id": "68c3c0d8ef5b8f2b163aa48c",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:25:19.057Z",
+    "original_record": {
+      "_id": "68c3c0d8ef5b8f2b163aa48c",
+      "name": "Disopan",
+      "strength": "0.5 mg",
+      "generic": "Clonazepam",
+      "company": "Incepta Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4843/disopan-05-mg-tablet",
+      "_page": 217,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  },
+  {
+    "source_url": "https://medex.com.bd/brands/4844/disopan-2-mg-tablet",
+    "medicine_id": "68c3c0d8ef5b8f2b163aa48d",
+    "error": "Cannot read properties of null (reading 'length')",
+    "fetched_at": "2025-10-06T16:25:21.475Z",
+    "original_record": {
+      "_id": "68c3c0d8ef5b8f2b163aa48d",
+      "name": "Disopan",
+      "strength": "2 mg",
+      "generic": "Clonazepam",
+      "company": "Incepta Pharmaceuticals Ltd.",
+      "medicine_type": "Tablet",
+      "source_url": "https://medex.com.bd/brands/4844/disopan-2-mg-tablet",
+      "_page": 217,
+      "createdAt": "2025-09-12T06:45:33.175Z",
+      "updatedAt": "2025-09-12T06:45:33.175Z"
+    }
+  }
+]
