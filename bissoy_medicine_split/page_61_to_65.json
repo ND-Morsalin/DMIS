@@ -1,0 +1,2002 @@
+[
+  {
+    "name_en": "Xovir |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/xovir-cream-5-ww",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 61
+  },
+  {
+    "name_en": "Vildamet",
+    "name_bn": "ভিলডামেট",
+    "source_url": "https://www.bissoy.com/medicine/vildamet-tablet-50-mg-500-mg",
+    "company": "অপসোনিন ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ২২.০৬ (২ x ১০: ৳ ৪৪১.২০) স্ট্রিপ: ৳ ২২০.৬০",
+    "generic": "ভিলডাগ্লিপটিন + মেটফরমিন হাইড্রোক্লোরাইড",
+    "strength": "৫০ মিগ্রা+৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Firmac",
+    "name_bn": "ফিরম্যাক",
+    "source_url": "https://www.bissoy.com/medicine/firmac-tablet-500-mg",
+    "company": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৮.৬০ (৩ x ১০: ৳ ২৫৮.০০) স্ট্রিপ: ৳ ৮৬.০০",
+    "generic": "ইরাইথ্রোমাইসিন",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Linaglip-M ER",
+    "name_bn": "লিনাগ্লিপ-এম ইআর",
+    "source_url": "https://www.bissoy.com/medicine/linaglip-m-er-tablet-extended-release-5-mg-1000-mg",
+    "company": "এরিস্টোফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ২০.০০ (৭ x ৪: ৳ ৫৬০.০০) স্ট্রিপ: ৳ ৮০.০০",
+    "generic": "লিনাগ্লিপটিন + মেটফরমিন হাইড্রোক্লোরাইড",
+    "strength": "৫ মিগ্রা+১০০০ মিগ্রা ট্যাবলেট (এক্সটেন্ডেড রিলিজ)",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Leoflox",
+    "name_bn": "লিওফ্লক্স",
+    "source_url": "https://www.bissoy.com/medicine/leoflox-tablet-500-mg",
+    "company": "এলকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১৫.০৫ (২০টির প্যাক: ৳ ৩০১.০০)",
+    "generic": "লিভোফ্লক্সাসিন হেমিহাইড্রেট",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Flosure",
+    "name_bn": "ফ্লোসুরে",
+    "source_url": "https://www.bissoy.com/medicine/flosure-tablet-0-4-mg",
+    "company": "এভারেষ্ট ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": null,
+    "generic": "টামসুলোসিন হাইড্রোক্লোরাইড",
+    "strength": "০.৪ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Lipitin",
+    "name_bn": "লিপিটিন",
+    "source_url": "https://www.bissoy.com/medicine/lipitin-tablet-10-mg",
+    "company": "জেনারেল ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১১.০০ (৩ x ১০: ৳ ৩৩০.০০) স্ট্রিপ: ৳ ১১০.০০",
+    "generic": "এ্যাটোরভাস্টাটিন ক্যালসিয়াম",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Teslar",
+    "name_bn": "টেসলার",
+    "source_url": "https://www.bissoy.com/medicine/teslar-tablet-20-mg",
+    "company": "বীকন ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "ইউনিট: ৳ ৭.০০ (৪ x ৭: ৳ ১৯৬.০০) স্ট্রিপ: ৳ ৪৯.০০",
+    "generic": "টেলমিসারটান",
+    "strength": "২০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Duolax",
+    "name_bn": "ডুওল্যাক্স",
+    "source_url": "https://www.bissoy.com/medicine/duolax-oral-emulsion-300-mg-1-25-ml-5-ml",
+    "company": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "১০০ মিলি বোতল: ৳ ৯৫.২৯",
+    "generic": "ম্যাগনেসিয়াম হাইড্রোক্সাইড + লিক্যুইড প্যারাফিন",
+    "strength": "(৩০০ মিগ্রা+১.২৫মিলি)/৫মিলি ওরাল ইমালসন",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Alecnib",
+    "name_bn": "অ্যালেকনিব",
+    "source_url": "https://www.bissoy.com/medicine/alecnib-capsule-150-mg",
+    "company": "Everest Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ৫০০.০০ (১ x ৫৬: ৳ ২৮,০০০.০০) স্ট্রিপ: ৳ ২৮,০০০.০০",
+    "generic": "অ্যালেকটিনিব",
+    "strength": "১৫০ মিগ্রা ক্যাপসুল",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Nupralgin",
+    "name_bn": "নুপ্রালজিন",
+    "source_url": "https://www.bissoy.com/medicine/nupralgin-tablet-500-mg",
+    "company": "ইবনে সিনা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৯.০০ (৬ x ৪: ৳ ২১৬.০০) স্ট্রিপ: ৳ ৩৬.০০",
+    "generic": "ন্যাপ্রক্সেন সোডিয়াম",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Triclean",
+    "name_bn": "ট্রাইক্লিন",
+    "source_url": "https://www.bissoy.com/medicine/triclean-cream-0-01-4-0-05-",
+    "company": null,
+    "price": "৩০ গ্রাম টিউব: ৳ ২০০.০০",
+    "generic": "ফ্লুসিনোলোন এসিটোনাইড + হাইড্রোকুইনোন + ট্রিটিনয়িন",
+    "strength": "০.০১%+৪%+০.০৫% ক্রিম",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Insul R",
+    "name_bn": "ইনসুল আর",
+    "source_url": "https://www.bissoy.com/medicine/insul-r-sc-injection-40-iu-ml",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "price": "১০ মিলি ভায়াল: ৳ ১৯৫.০০",
+    "generic": "ইনসুলিন মানব [দ্রুত-মেয়াদী]",
+    "strength": "৪০ আইইউ/মিলি এসসি ইনজেকশন",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Signera |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/signera-tablet-40-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 61
+  },
+  {
+    "name_en": "Viscotin",
+    "name_bn": "ভিস্‌কোটিন",
+    "source_url": "https://www.bissoy.com/medicine/viscotin-effervescent-tablet-600-mg",
+    "company": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ২০.০০ (১ x ১০: ৳ ২০০.০০) স্ট্রিপ: ৳ ২০০.০০",
+    "generic": "অ্যাসিটিলসিস্টাইন",
+    "strength": "৬০০ মিগ্রা এফারভেসেন্ট ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Odazyth",
+    "name_bn": "ওডাজিথ",
+    "source_url": "https://www.bissoy.com/medicine/odazyth-tablet-500-mg",
+    "company": "এসিআই লিমিটেড",
+    "price": "ইউনিট: ৳ ৪০.০০ (৩ x ৫: ৳ ৬০০.০০) স্ট্রিপ: ৳ ২০০.০০",
+    "generic": "এজিথ্রোমাইসিন ডাইহাইড্রেট",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Predimax",
+    "name_bn": "প্রেডিম্যাক্স",
+    "source_url": "https://www.bissoy.com/medicine/predimax-tablet-20-mg",
+    "company": "একমি ল্যাবরেটরিজ লিমিটেড",
+    "price": "ইউনিট: ৳ ৬.২৭ (৫ x ১০: ৳ ৩১৩.৫০) স্ট্রিপ: ৳ ৬২.৭০",
+    "generic": "প্রেডনিসোলোন",
+    "strength": "২০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Furex",
+    "name_bn": "ফুরেক্স",
+    "source_url": "https://www.bissoy.com/medicine/furex-tablet-250-mg",
+    "company": "ড্রাগ ইন্টারন্যাশনাল লিমিটেড",
+    "price": "ইউনিট: ৳ ২৫.০০ (২ x ৭: ৳ ৩৫০.০০) স্ট্রিপ: ৳ ১৭৫.০০",
+    "generic": "সেফুরক্সিম এক্সেটিল",
+    "strength": "২৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "ConviPen |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/convipen-insulin-device-",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 61
+  },
+  {
+    "name_en": "Daprotab |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/daprotab-tablet-2-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 61
+  },
+  {
+    "name_en": "Nervion |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/nervion-tablet-5-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 61
+  },
+  {
+    "name_en": "Taxodoc",
+    "name_bn": "ট্যাক্সডক",
+    "source_url": "https://www.bissoy.com/medicine/taxodoc-iv-infusion-20-mg-vial",
+    "company": "Renata Limited",
+    "price": "২০ মিগ্রা ভায়াল: ৳ ৩,২০০.০০",
+    "generic": "ডোকেটাক্সেল ট্রিহাইড্রেট",
+    "strength": "২০ মিগ্রা/ভায়াল আইভি ইনফিউশন",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Yuwell (YE680B) |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/yuwell-ye680b-bp-monitor-device-digital-blood-pressure-monitor",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 61
+  },
+  {
+    "name_en": "Clarith",
+    "name_bn": "ক্লারিথ",
+    "source_url": "https://www.bissoy.com/medicine/clarith-tablet-500-mg",
+    "company": "ইবনে সিনা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৩০.০০ (১ x ১০: ৳ ৩০০.০০) স্ট্রিপ: ৳ ৩০০.০০",
+    "generic": "ক্লারিথ্রোমাইসিন",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Galfin",
+    "name_bn": "গালফিন",
+    "source_url": "https://www.bissoy.com/medicine/galfin-capsule-150-mg",
+    "company": "জেনারেল ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ২২.১৫ (১ x ১০: ৳ ২২১.৫০) স্ট্রিপ: ৳ ২২১.৫০",
+    "generic": "ফ্লুকোনাজল",
+    "strength": "১৫০ মিগ্রা ক্যাপসুল",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Nawsin |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/nawsin-syrup-",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 61
+  },
+  {
+    "name_en": "Flatunil",
+    "name_bn": "ফ্লাটুনিল",
+    "source_url": "https://www.bissoy.com/medicine/flatunil-pediatric-drops-67-mg-ml",
+    "company": "একমি ল্যাবরেটরিজ লিমিটেড",
+    "price": null,
+    "generic": "সিমেথিকন",
+    "strength": "৬৭ মিগ্রা/মিলি",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Letrogen",
+    "name_bn": "লেট্রোজেন",
+    "source_url": "https://www.bissoy.com/medicine/letrogen-tablet-2-5-mg",
+    "company": "Ibn Sina Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ৪০.০০ (১ x ১০: ৳ ৪০০.০০) স্ট্রিপ: ৳ ৪০০.০০",
+    "generic": "লেট্রোজোল",
+    "strength": "২.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Losectil",
+    "name_bn": "লোসেকটিল",
+    "source_url": "https://www.bissoy.com/medicine/losectil-oral-powder-40-mg-sachet",
+    "company": "এস কে এফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "৪০ mg sachet: ৳ ১০.০০ (৩০টির প্যাক: ৳ ৩০০.০০)",
+    "generic": "ওমিপ্রাজল",
+    "strength": "৪০ মিগ্রা/sachet ওরাল পাউডার",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Gastrocon-A",
+    "name_bn": "গ্যাসট্রোকন-এ",
+    "source_url": "https://www.bissoy.com/medicine/gastrocon-a-chewable-tablet-500-mg-100-mg",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "price": null,
+    "generic": "সোডিয়াম অ্যালজিনেট + পটাসিয়াম বাইকার্বোনেট",
+    "strength": "৫০০ মিগ্রা+১০০ মিগ্রা চিউয়েবল ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Zodef",
+    "name_bn": "জোডেফ",
+    "source_url": "https://www.bissoy.com/medicine/zodef-tablet-6-mg",
+    "company": "রেনেটা লিমিটেড",
+    "price": "ইউনিট: ৳ ৯.৫০ (৩ x ১০: ৳ ২৮৫.০০) স্ট্রিপ: ৳ ৯৫.০০",
+    "generic": "ডেফলাজাকর্ট",
+    "strength": "৬ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Nepitan |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/nepitan-tablet-49-mg-51-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 61
+  },
+  {
+    "name_en": "Cloxin",
+    "name_bn": "ক্লক্সিন",
+    "source_url": "https://www.bissoy.com/medicine/cloxin-capsule-500-mg",
+    "company": "Opsonin Pharma Ltd.",
+    "price": "ইউনিট: ৳ ৫.৯২ (১৩ x ৪: ৳ ৩০৭.৮৪) স্ট্রিপ: ৳ ২৩.৬৮",
+    "generic": "ক্লক্সাসিলিন সোডিয়াম",
+    "strength": "৫০০ মিগ্রা ক্যাপসুল",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Ursoren",
+    "name_bn": "উর্সোরেন",
+    "source_url": "https://www.bissoy.com/medicine/ursoren-tablet-300-mg",
+    "company": "Renata Limited",
+    "price": "ইউনিট: ৳ ২৫.০০ (৫ x ৬: ৳ ৭৫০.০০) স্ট্রিপ: ৳ ১৫০.০০",
+    "generic": "ইউরসোডেওক্সিচলিক অ্যাসিড",
+    "strength": "৩০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Atrizin",
+    "name_bn": "এট্রিজিন",
+    "source_url": "https://www.bissoy.com/medicine/atrizin-syrup-5-mg-5-ml",
+    "company": "বেক্সিমকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "৬০ মিলি বোতল: ৳ ৩০.০০",
+    "generic": "সেটিরিজিন হাইড্রোক্লোরাইড",
+    "strength": "৫ মিগ্রা/৫মিলি সিরাপ",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Zico",
+    "name_bn": "জিকো",
+    "source_url": "https://www.bissoy.com/medicine/zico-syrup-10-mg-5-ml",
+    "company": "জেনারেল ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "১০০ মিলি বোতল: ৳ ৩৬.০০",
+    "generic": "জিংক সালফেট মনোহাইড্রেট",
+    "strength": "১০ মিগ্রা/৫মিলি সিরাপ",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Unigal",
+    "name_bn": "ইউনিগাল",
+    "source_url": "https://www.bissoy.com/medicine/unigal-cream-2-",
+    "company": "অপসোনিন ফার্মা লিমিটেড",
+    "price": null,
+    "generic": "মাইকোনাজোল নাইট্রেট",
+    "strength": "২% ক্রিম",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Ketozole",
+    "name_bn": "কিটোজল",
+    "source_url": "https://www.bissoy.com/medicine/ketozole-medicated-bar-2-",
+    "company": "জাজ কর্পোরেশন",
+    "price": "১০০ gm bar: ৳ ৫২০.০০",
+    "generic": "কিটোকোনাজল",
+    "strength": "২% মেডিকেটেড বার",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Glarine",
+    "name_bn": "গ্লারিন",
+    "source_url": "https://www.bissoy.com/medicine/glarine-sc-injection-100-iu-ml",
+    "company": "(Mfg. by: Swiss Made)",
+    "price": "৩ মিলি কার্ট্রিজ: ৳ ৬০০.০০ (৩টির প্যাক: ৳ ১,৮০০.০০)",
+    "generic": "ইনসুলিন গ্লারগিন [rDNA]",
+    "strength": "১০০ আইইউ/মিলি এসসি ইনজেকশন",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Famicef",
+    "name_bn": "ফ্যামিসেফ",
+    "source_url": "https://www.bissoy.com/medicine/famicef-tablet-500-mg",
+    "company": "একমি ল্যাবরেটরিজ লিমিটেড",
+    "price": "ইউনিট: ৳ ৪৫.২৯ (২ x ৪: ৳ ৩৬২.৩২) স্ট্রিপ: ৳ ১৮১.১৬",
+    "generic": "সেফুরক্সিম এক্সেটিল",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 61
+  },
+  {
+    "name_en": "Fexo",
+    "name_bn": "ফেক্সো",
+    "source_url": "https://www.bissoy.com/medicine/fexo-oral-suspension-30-mg-5-ml",
+    "company": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "৫০ মিলি বোতল: ৳ ৫৫.০০",
+    "generic": "ফেক্সোফেনাডিন হাইড্রোক্লোরাইড",
+    "strength": "৩০ মিগ্রা/৫মিলি ওরাল সাসপেনশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Trifix",
+    "name_bn": "ট্রিফিক্স",
+    "source_url": "https://www.bissoy.com/medicine/trifix-powder-for-suspension-100-mg-5-ml",
+    "company": "প্যাসিফিক ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "৫০ মিলি বোতল: ৳ ২১০.০০",
+    "generic": "সেফিক্সিম ট্রাইহাড্রেট",
+    "strength": "১০০ মিগ্রা/৫মিলি পাউডার ফর সাসপেনশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Bacigut |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/bacigut-capsule-9-billion",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 62
+  },
+  {
+    "name_en": "Defrol OFT",
+    "name_bn": "ডেফরল ওএফটি",
+    "source_url": "https://www.bissoy.com/medicine/defrol-oft-flash-tablet-2000-iu",
+    "company": "একমি ল্যাবরেটরিজ লিমিটেড",
+    "price": "ইউনিট: ৳ ৬.০০ (৩ x ১০: ৳ ১৮০.০০) স্ট্রিপ: ৳ ৬০.০০",
+    "generic": "কোলিক্যালসিফেরল [ভিটামিন ডি৩]",
+    "strength": "২০০০ আইইউ",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Domaid",
+    "name_bn": "ডোমেইড",
+    "source_url": "https://www.bissoy.com/medicine/domaid-tablet-10-mg",
+    "company": "ল্যাবএইড ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ৪.০০ (১০ x ১০: ৳ ৪০০.০০) স্ট্রিপ: ৳ ৪০.০০",
+    "generic": "ডমপেরিডন ম্যালিয়েট",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Taflan SUD |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/taflan-sud-ophthalmic-solution-00015",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 62
+  },
+  {
+    "name_en": "Vita-M",
+    "name_bn": "ভিটা-ম",
+    "source_url": "https://www.bissoy.com/medicine/vita-m-pediatric-drops-",
+    "company": "Opsonin Pharma Ltd.",
+    "price": null,
+    "generic": "মাল্টিভিটামিন [শিশুদের প্রস্তুতি]",
+    "strength": null,
+    "_source_page": 62
+  },
+  {
+    "name_en": "Gadosol |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/gadosol-injection-05-mmolml",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 62
+  },
+  {
+    "name_en": "Citrosol",
+    "name_bn": "সিট্রোসোল",
+    "source_url": "https://www.bissoy.com/medicine/citrosol-oral-solution-1500-mg-250-mg-5-ml",
+    "company": "একমি ল্যাবরেটরিজ লিমিটেড",
+    "price": "২০০ মিলি বোতল: ৳ ২০০.০০",
+    "generic": "পটাশিয়াম সাইট্রেট + সাইট্রিক এসিড",
+    "strength": "(১৫০০ মিগ্রা+২৫০ মিগ্রা)/৫মিলি ওরাল সল্যুশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Lotepred DS",
+    "name_bn": "লোটেপ্রেড ডিএস",
+    "source_url": "https://www.bissoy.com/medicine/lotepred-ds-ophthalmic-suspension-1-",
+    "company": "Aristopharma Ltd.",
+    "price": "৫ মিলি ড্রপ: ৳ ২৩০.০০",
+    "generic": "লোটেপ্রেডনোল ইটাবোনেট",
+    "strength": "১% অপথালমিক সাসপেনশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Empaglif",
+    "name_bn": "এম্‌পাগ্লিফ",
+    "source_url": "https://www.bissoy.com/medicine/empaglif-tablet-25-mg",
+    "company": "এরিস্টোফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ৪০.০০ (১ x ১০: ৳ ৪০০.০০) স্ট্রিপ: ৳ ৪০০.০০",
+    "generic": "এম্পাগ্লিফ্লোজিন",
+    "strength": "২৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Monovas",
+    "name_bn": "মনোভাস",
+    "source_url": "https://www.bissoy.com/medicine/monovas-tablet-10-mg",
+    "company": "দি হোয়াইট হর্স ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১৫.০০ (৩০টির প্যাক: ৳ ৪৫০.০০)",
+    "generic": "মন্টিলুকাস্ট সোডিয়াম",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Xindal",
+    "name_bn": "জিনডাল",
+    "source_url": "https://www.bissoy.com/medicine/xindal-capsule-300-mg",
+    "company": "ওরিয়ন ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ১৫.০৪ (৩ x ১০: ৳ ৪৫১.২০) স্ট্রিপ: ৳ ১৫০.৪০",
+    "generic": "ক্লিন্ডামাইসিন",
+    "strength": "৩০০ মিগ্রা ক্যাপসুল",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Qutipin SR",
+    "name_bn": "কিউটিপিন এসআর",
+    "source_url": "https://www.bissoy.com/medicine/qutipin-sr-tablet-sustained-release-50-mg",
+    "company": "সান ফার্মাসিউটিক্যালস (বাংলাদেশ) লিমিটেড",
+    "price": "ইউনিট: ৳ ৭.০০ (৫ x ১০: ৳ ৩৫০.০০) স্ট্রিপ: ৳ ৭০.০০",
+    "generic": "কুয়েটিয়াপিন ফিউমারেট",
+    "strength": "৫০ মিগ্রা ট্যাবলেট (সাস্টেইনড রিলিজ)",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Intracef",
+    "name_bn": "ইন্ট্রাসেফ",
+    "source_url": "https://www.bissoy.com/medicine/intracef-powder-for-suspension-125-mg-5-ml",
+    "company": "বেক্সিমকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "১০০ মিলি বোতল: ৳ ৮০.০০",
+    "generic": "সেফরাডিন",
+    "strength": "১২৫ মিগ্রা/৫মিলি পাউডার ফর সাসপেনশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Kefuclav",
+    "name_bn": "কেফুক্ল্যাভ",
+    "source_url": "https://www.bissoy.com/medicine/kefuclav-tablet-500-mg-125-mg",
+    "company": "এস কে এফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৬০.০০ (২ x ৭: ৳ ৮৪০.০০) স্ট্রিপ: ৳ ৪২০.০০",
+    "generic": "সেফুরক্সিম এক্সেটিল + ক্লাভুলানিক এসিড",
+    "strength": "৫০০ মিগ্রা+১২৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Iracet XR",
+    "name_bn": "ইরাসেট এক্স আর",
+    "source_url": "https://www.bissoy.com/medicine/iracet-xr-tablet-extended-release-500-mg",
+    "company": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "ইউনিট: ৳ ৩০.০০ (২ x ৬: ৳ ৩৬০.০০) স্ট্রিপ: ৳ ১৮০.০০",
+    "generic": "লেভেটিরাসেটাম",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট (এক্সটেন্ডেড রিলিজ)",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Novelon",
+    "name_bn": "নভেলন",
+    "source_url": "https://www.bissoy.com/medicine/novelon-tablet-0-03-mg-3-mg",
+    "company": "রেনেটা লিমিটেড",
+    "price": "(২১ light yellow+৭ white) tablet: ৳ ৩৯৯.০০",
+    "generic": "এথিনাইল এস্ট্রাডিয়ল + ড্রোস্পিরেনোন",
+    "strength": "০.০৩ মিগ্রা+৩ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Nodia",
+    "name_bn": "নোডিয়া",
+    "source_url": "https://www.bissoy.com/medicine/nodia-tablet-10-mg",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ৩.০০ (১০ x ১০: ৳ ৩০০.০০) স্ট্রিপ: ৳ ৩০.০০",
+    "generic": "লেফলুনোমাইড",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Domidon",
+    "name_bn": "ডমিডোন",
+    "source_url": "https://www.bissoy.com/medicine/domidon-oral-suspension-5-mg-5-ml",
+    "company": "জিসকা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "৬০ মিলি বোতল: ৳ ৩৫.০০",
+    "generic": "ডমপেরিডন ম্যালিয়েট",
+    "strength": "৫ মিগ্রা/৫মিলি ওরাল সাসপেনশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Nexrab",
+    "name_bn": "নেক্সর‍্যাব",
+    "source_url": "https://www.bissoy.com/medicine/nexrab-capsule-enteric-coated-pellets-20-mg",
+    "company": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৮.০০ (৩ x ১০: ৳ ২৪০.০০) স্ট্রিপ: ৳ ৮০.০০",
+    "generic": "র‍্যাবিপ্রাজল সোডিয়াম",
+    "strength": "২০ মিগ্রা",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Micoderm",
+    "name_bn": "মাইকোডার্ম",
+    "source_url": "https://www.bissoy.com/medicine/micoderm-cream-2-",
+    "company": "ড্রাগ ইন্টারন্যাশনাল লিমিটেড",
+    "price": null,
+    "generic": "মাইকোনাজোল নাইট্রেট",
+    "strength": "২% ক্রিম",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Colasa |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/colasa-tablet-delayed-release-800-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 62
+  },
+  {
+    "name_en": "Povisep",
+    "name_bn": "পোভিসেপ",
+    "source_url": "https://www.bissoy.com/medicine/povisep-solution-10-w-v",
+    "company": "Jayson Pharmaceuticals Ltd.",
+    "price": "৩০ মিলি বোতল: ৳ ৫৫.১৭",
+    "generic": "পোভিডোন আয়োডিন",
+    "strength": "১০% w/v সলিউশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Xalcort",
+    "name_bn": "জেলকর্ট",
+    "source_url": "https://www.bissoy.com/medicine/xalcort-tablet-30-mg",
+    "company": "বীকন ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "ইউনিট: ৳ ৩২.০০ (১ x ১০: ৳ ৩২০.০০) স্ট্রিপ: ৳ ৩২০.০০",
+    "generic": "ডেফলাজাকর্ট",
+    "strength": "৩০ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Bondrova",
+    "name_bn": "বনড্রোভা",
+    "source_url": "https://www.bissoy.com/medicine/bondrova-iv-infusion-3-mg-3-ml",
+    "company": "হেলথকেয়ার ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "৩ মিলি ভায়াল: ৳ ৪,৫০০.০০",
+    "generic": "ইবান্ড্রোনিক এসিড",
+    "strength": "৩ মিগ্রা/৩মিলি আইভি ইনফিউশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Cefimax |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/cefimax-capsule-200-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 62
+  },
+  {
+    "name_en": "Mypart Mix",
+    "name_bn": "মাইপার্ট মিক্স",
+    "source_url": "https://www.bissoy.com/medicine/mypart-mix-sc-injection-30-70-",
+    "company": "Drug International Ltd.",
+    "price": "৩ মিলি কার্ট্রিজ: ৳ ৫৫০.০০ (৩টির প্যাক: ৳ ১,৬৫০.০০)",
+    "generic": "ইনসুলিন অ্যাসপার্ট + ইনসুলিন অ্যাসপার্ট প্রোটামিন",
+    "strength": "৩০%+৭০% এসসি ইনজেকশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Virux",
+    "name_bn": "ভাইরাক্স",
+    "source_url": "https://www.bissoy.com/medicine/virux-iv-infusion-500-mg-vial",
+    "company": "Square Pharmaceuticals PLC",
+    "price": "৫০০ মিগ্রা ভায়াল: ৳ ৭০২.১১",
+    "generic": "এ্যাসাইক্লোভির",
+    "strength": "৫০০ মিগ্রা/ভায়াল আইভি ইনফিউশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Amoxon",
+    "name_bn": "অ্যামক্সন",
+    "source_url": "https://www.bissoy.com/medicine/amoxon-capsule-500-mg",
+    "company": "Jayson Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ৬.৭৮ (১০ x ৫: ৳ ৩৩৯.০০) স্ট্রিপ: ৳ ৩৩.৯০",
+    "generic": "এমোক্সিসিলিন ট্রাইহাইড্রেট",
+    "strength": "৫০০ মিগ্রা ক্যাপসুল",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Gluvil",
+    "name_bn": "গ্লুভিল",
+    "source_url": "https://www.bissoy.com/medicine/gluvil-tablet-50-mg",
+    "company": "এলকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ২০.০০ (২০টির প্যাক: ৳ ৪০০.০০)",
+    "generic": "ভিলডাগ্লিপটিন",
+    "strength": "৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Empadus",
+    "name_bn": "এম্পাডাস",
+    "source_url": "https://www.bissoy.com/medicine/empadus-tablet-10-mg",
+    "company": "অপসোনিন ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ২৫.০০ (১ x ১৪: ৳ ৩৫০.০০) স্ট্রিপ: ৳ ৩৫০.০০",
+    "generic": "এম্পাগ্লিফ্লোজিন",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Unifav",
+    "name_bn": "ইউনিফ্যাভ",
+    "source_url": "https://www.bissoy.com/medicine/unifav-tablet-200-mg",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ২০০.০০ (৩ x ১০: ৳ ৬,০০০.০০) স্ট্রিপ: ৳ ২,০০০.০০",
+    "generic": "ফাভিপিরাভির",
+    "strength": "২০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Nytkof",
+    "name_bn": "নাইটকফ",
+    "source_url": "https://www.bissoy.com/medicine/nytkof-syrup-10-mg-30-mg-1-25-mg-5-ml",
+    "company": "বীকন ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "১০০ মিলি বোতল: ৳ ১১০.০০",
+    "generic": "ডেক্সট্রোমিথোরফেন + ফিনাইলএফ্রিন + ট্রাইপ্রোলিডিন",
+    "strength": "(১০ মিগ্রা+৩০ মিগ্রা+১.২৫ মিগ্রা)/৫মিলি সিরাপ",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Neocilor",
+    "name_bn": "নিওসিলর",
+    "source_url": "https://www.bissoy.com/medicine/neocilor-syrup-2-5-mg-5-ml",
+    "company": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "৫০ মিলি বোতল: ৳ ২৫.০০",
+    "generic": "ডেসলােরাটাডিন",
+    "strength": "২.৫ মিগ্রা/৫মিলি সিরাপ",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Vida",
+    "name_bn": "ভিদা",
+    "source_url": "https://www.bissoy.com/medicine/vida-tablet-50-mg",
+    "company": "প্যাসিফিক ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ২০.০০ (৩ x ১০: ৳ ৬০০.০০) স্ট্রিপ: ৳ ২০০.০০",
+    "generic": "ভিলডাগ্লিপটিন",
+    "strength": "৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Caltate",
+    "name_bn": "কালটেট",
+    "source_url": "https://www.bissoy.com/medicine/caltate-tablet-300-mg",
+    "company": "গ্যাকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ০.৭১ (১৫ x ১০: ৳ ১০৬.০০) স্ট্রিপ: ৳ ৭.০৭",
+    "generic": "ক্যালসিয়াম ল্যাকটেট",
+    "strength": "৩০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Ceftipime",
+    "name_bn": "সেফটিপিম",
+    "source_url": "https://www.bissoy.com/medicine/ceftipime-im-iv-injection-1-gm-vial",
+    "company": "Renata Limited",
+    "price": "১ গ্রাম ভায়াল: ৳ ৫৫২.০৮",
+    "generic": "সেফেপিম হাইড্রোক্লোরাইড",
+    "strength": "১ গ্রাম/ভায়াল আইএম/আইভি ইনজেকশন",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Decason",
+    "name_bn": "ডেকাসন",
+    "source_url": "https://www.bissoy.com/medicine/decason-tablet-0-5-mg",
+    "company": "অপসোনিন ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ১.০১ (৮ x ৪০: ৳ ৩২৩.২০) স্ট্রিপ: ৳ ৪০.৪০",
+    "generic": "ডেক্সামেথাসোন সোডিয়াম ফসফেট",
+    "strength": "০.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Biovit Plus",
+    "name_bn": "বায়োভিট প্লাস",
+    "source_url": "https://www.bissoy.com/medicine/biovit-plus-syrup-",
+    "company": "বায়োফার্মা লিমিটেড",
+    "price": "১০০ মিলি বোতল: ৳ ৫৫.০০",
+    "generic": "আয়রণ পলিম্যালটোজ কমপ্লেক্স + ভিটামিন বি-কমপ্লেক্স + জিংক",
+    "strength": "সিরাপ",
+    "_source_page": 62
+  },
+  {
+    "name_en": "Copadox",
+    "name_bn": "কোপাডক্স",
+    "source_url": "https://www.bissoy.com/medicine/copadox-tablet-200-mg",
+    "company": "সোমাটেক ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৫.০০ (৫০টির প্যাক: ৳ ২৫০.০০)",
+    "generic": "ডক্সোফাইলিন",
+    "strength": "২০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Evimar 13 |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/evimar-13-imsc-injection-25-mcg05-ml",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 63
+  },
+  {
+    "name_en": "Instavit",
+    "name_bn": "ইনস্টাভিট",
+    "source_url": "https://www.bissoy.com/medicine/instavit-iv-injection-or-infusion-10-ml-vial",
+    "company": "অপসোনিন ফার্মা লিমিটেড",
+    "price": "১০ মিলি ভায়াল: ৳ ২০০.০০",
+    "generic": "মাল্টিভিটামিন [ভিটামিন বি কমপ্লেক্স + ভিটামিন সি]",
+    "strength": "১০মিলি/ভায়াল আইভি ইনজেকশন অর ইনফিউশন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Duolax",
+    "name_bn": "ডুওল্যাক্স",
+    "source_url": "https://www.bissoy.com/medicine/duolax-oral-emulsion-300-mg-1-25-ml-5-ml",
+    "company": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "১০০ মিলি বোতল: ৳ ৯৫.২৯",
+    "generic": "ম্যাগনেসিয়াম হাইড্রোক্সাইড + লিক্যুইড প্যারাফিন",
+    "strength": "(৩০০ মিগ্রা+১.২৫মিলি)/৫মিলি ওরাল ইমালসন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Lospre",
+    "name_bn": "লসপ্রে",
+    "source_url": "https://www.bissoy.com/medicine/lospre-tablet-50-mg",
+    "company": null,
+    "price": "ইউনিট: ৳ ৬.০০ (৩ x ১০: ৳ ১৮০.০০) স্ট্রিপ: ৳ ৬০.০০",
+    "generic": "লোসারটান পটাসিয়াম",
+    "strength": "৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Vertinor",
+    "name_bn": "ভার্টিনর",
+    "source_url": "https://www.bissoy.com/medicine/vertinor-tablet-16-mg",
+    "company": "পপুলার ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৫.০০ (৫ x ১০: ৳ ২৫০.০০) স্ট্রিপ: ৳ ৫০.০০",
+    "generic": "বিটাহিস্টিন ডাইহাইড্রোক্লোরাইড",
+    "strength": "১৬ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Angicard",
+    "name_bn": "অ্যাঙ্গিকার্ড",
+    "source_url": "https://www.bissoy.com/medicine/angicard-sublingual-tablet-0-5-mg",
+    "company": "Drug International Ltd.",
+    "price": "ইউনিট: ৳ ৩.০৫ (৩ x ১৪: ৳ ১২৮.১০) স্ট্রিপ: ৳ ৪২.৭০",
+    "generic": "নাইট্রোগ্লিসারিন",
+    "strength": "০.৫ মিগ্রা",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Farobac |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/farobac-tablet-150-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 63
+  },
+  {
+    "name_en": "Flontin",
+    "name_bn": "ফ্লনটিন",
+    "source_url": "https://www.bissoy.com/medicine/flontin-tablet-500-mg",
+    "company": "রেনেটা লিমিটেড",
+    "price": "ইউনিট: ৳ ১৫.০০ (৩ x ১০: ৳ ৪৫০.০০) স্ট্রিপ: ৳ ১৫০.০০",
+    "generic": "সিপ্রোফ্লক্সাসিন",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Prevas",
+    "name_bn": "প্রিভাস",
+    "source_url": "https://www.bissoy.com/medicine/prevas-capsule-enteric-coated-pellets-40-mg",
+    "company": "জেনারেল ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৮.০০ (৩ x ১০: ৳ ২৪০.০০) স্ট্রিপ: ৳ ৮০.০০",
+    "generic": "ওমিপ্রাজল",
+    "strength": "৪০ মিগ্রা",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Limogel",
+    "name_bn": "লিমোজেল",
+    "source_url": "https://www.bissoy.com/medicine/limogel-ointment-15-",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "price": "২৫ গ্রাম টিউব: ৳ ৮০.০০",
+    "generic": "এল-লিসিন হাইড্রোক্লোরাইড",
+    "strength": "১৫% অয়েন্টমেন্ট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Humulin R",
+    "name_bn": "হিউমুলিন আর",
+    "source_url": "https://www.bissoy.com/medicine/humulin-r-sc-injection-100-iu-ml",
+    "company": "(Mfg. by: Eli Lilly and Company)",
+    "price": "১০ মিলি ভায়াল: ৳ ৮৭৭.০০",
+    "generic": "ইনসুলিন মানব [দ্রুত-মেয়াদী]",
+    "strength": "১০০ আইইউ/মিলি এসসি ইনজেকশন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Xelpro",
+    "name_bn": "জেলপ্রো",
+    "source_url": "https://www.bissoy.com/medicine/xelpro-capsule-enteric-coated-pellets-20-mg",
+    "company": "ফার্মাসিয়া লিমিটেড",
+    "price": "ইউনিট: ৳ ৭.০০ (১০ x ১০: ৳ ৭০০.০০) স্ট্রিপ: ৳ ৭০.০০",
+    "generic": "ইসোমিপ্রাজল",
+    "strength": "২০ মিগ্রা",
+    "_source_page": 63
+  },
+  {
+    "name_en": "G1 Advance |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/g1-advance-glucometer-",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 63
+  },
+  {
+    "name_en": "Verizin",
+    "name_bn": "ভেরিজিন",
+    "source_url": "https://www.bissoy.com/medicine/verizin-tablet-5-mg",
+    "company": "শরীফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ২.০০ (১০ x ১০: ৳ ২০০.০০) স্ট্রিপ: ৳ ২০.০০",
+    "generic": "লেভোসেটিরিজিন ডিহাইড্রোক্লোরাইড",
+    "strength": "৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Residon",
+    "name_bn": "রেসিডন",
+    "source_url": "https://www.bissoy.com/medicine/residon-oral-solution-1-mg-ml",
+    "company": "হেলথকেয়ার ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "১০০ মিলি বোতল: ৳ ২৮০.০০",
+    "generic": "রিসপারিডোন (মৌখিক)",
+    "strength": "১ মিগ্রা/মিলি ওরাল সল্যুশন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Megenox",
+    "name_bn": "মেগানক্স",
+    "source_url": "https://www.bissoy.com/medicine/megenox-oral-suspension-200-mg-5-ml",
+    "company": "একমি ল্যাবরেটরিজ লিমিটেড",
+    "price": "১০০ মিলি বোতল: ৳ ৫০০.০০",
+    "generic": "মেজেস্ট্রল অ্যাসিটেট",
+    "strength": "২০০ মিগ্রা/৫মিলি ওরাল সাসপেনশন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Betameson-CL",
+    "name_bn": "বেটামেসন-সিএল",
+    "source_url": "https://www.bissoy.com/medicine/betameson-cl-cream-0-05-1-",
+    "company": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "১৫ গ্রাম টিউব: ৳ ৪৫.০০",
+    "generic": "বিটামিথাসন + ক্লোট্রিমাজল",
+    "strength": "০.০৫%+১% ক্রিম",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Fludara",
+    "name_bn": "ফ্লুদারা",
+    "source_url": "https://www.bissoy.com/medicine/fludara-iv-infusion-50-mg-2-ml",
+    "company": "(Mfg. by: Genzyme Corporation)",
+    "price": "৫০ মিগ্রা ভায়াল: ৳ ৭,৪২২.৫৭ (৫টির প্যাক: ৳ ৩৭,১১২.৮৫)",
+    "generic": "ফ্লুডারাবিন ফসফেট",
+    "strength": "৫০ মিগ্রা/২মিলি আইভি ইনফিউশন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Predixa",
+    "name_bn": "প্রেডিক্সা",
+    "source_url": "https://www.bissoy.com/medicine/predixa-tablet-16-mg",
+    "company": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ২৪.০০ (১ x ১০: ৳ ২৪০.০০) স্ট্রিপ: ৳ ২৪০.০০",
+    "generic": "মিথাইলপ্রেডনিসােলন",
+    "strength": "১৬ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "A-Calm",
+    "name_bn": "এ-শান্ত",
+    "source_url": "https://www.bissoy.com/medicine/a-calm-tablet-50-mg",
+    "company": null,
+    "price": "ইউনিট: ৳ ৮.০০ (৫ x ১০: ৳ ৪০০.০০) স্ট্রিপ: ৳ ৮০.০০",
+    "generic": "টোলপেরিসােন হাইড্রোক্লোরাইড",
+    "strength": "৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Mexiderm-N",
+    "name_bn": "মেক্সিডার্ম-এন",
+    "source_url": "https://www.bissoy.com/medicine/mexiderm-n-cream-0-1-0-5-",
+    "company": "বায়োফার্মা লিমিটেড",
+    "price": "১০ গ্রাম টিউব: ৳ ২২.০০",
+    "generic": "বিটামিথাসন + নিওমাইসিন সালফেট",
+    "strength": "০.১%+০.৫% ক্রিম",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Lijenta-M",
+    "name_bn": "লিজেন্টা-এম",
+    "source_url": "https://www.bissoy.com/medicine/lijenta-m-tablet-2-5-mg-850-mg",
+    "company": "নিপ্রো জেএমআই ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১৫.০০ (৪ x ৮: ৳ ৪৮০.০০) স্ট্রিপ: ৳ ১২০.০০",
+    "generic": "লিনাগ্লিপটিন + মেটফরমিন হাইড্রোক্লোরাইড",
+    "strength": "২.৫ মিগ্রা+৮৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Napgin",
+    "name_bn": "নাপগিন",
+    "source_url": "https://www.bissoy.com/medicine/napgin-tablet-500-mg",
+    "company": "বায়োফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ৭.০০ (৫ x ১০: ৳ ৩৫০.০০) স্ট্রিপ: ৳ ৭০.০০",
+    "generic": "ন্যাপ্রক্সেন সোডিয়াম",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Adarbi",
+    "name_bn": "এডারবি",
+    "source_url": "https://www.bissoy.com/medicine/adarbi-tablet-40-mg",
+    "company": "নিপ্রো জেএমআই ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১২.০০ (২ x ১০: ৳ ২৪০.০০) স্ট্রিপ: ৳ ১২০.০০",
+    "generic": "এজিলসারটান মেডক্সোমিল",
+    "strength": "৪০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "PediaSure (Chocolate Flavour) |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/pediasure-chocolate-flavour-oral-powder-",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 63
+  },
+  {
+    "name_en": "Tydin DS",
+    "name_bn": "টিডিন ডিএস",
+    "source_url": "https://www.bissoy.com/medicine/tydin-ds-powder-for-suspension-250-mg-5-ml",
+    "company": "সোমাটেক ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "১০০ মিলি বোতল: ৳ ১২০.৪৬",
+    "generic": "সেফরাডিন",
+    "strength": "২৫০ মিগ্রা/৫মিলি পাউডার ফর সাসপেনশন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Liorel",
+    "name_bn": "লিওরেল",
+    "source_url": "https://www.bissoy.com/medicine/liorel-tablet-10-mg",
+    "company": "এসিআই লিমিটেড",
+    "price": "ইউনিট: ৳ ৮.০৫ (৩ x ১০: ৳ ২৪১.৫০) স্ট্রিপ: ৳ ৮০.৫০",
+    "generic": "ব্যাক্লোফেন",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Fluc",
+    "name_bn": "ফ্লাক",
+    "source_url": "https://www.bissoy.com/medicine/fluc-capsule-500-mg",
+    "company": "এস্ট্রা বায়োফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১০.০০ (৩ x ১০: ৳ ৩০০.০০) স্ট্রিপ: ৳ ১০০.০০",
+    "generic": "ফ্লুক্লক্সাসিলিন সোডিয়াম",
+    "strength": "৫০০ মিগ্রা ক্যাপসুল",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Visral",
+    "name_bn": "ভিসরাল",
+    "source_url": "https://www.bissoy.com/medicine/visral-suppository-20-mg",
+    "company": "অপসোনিন ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ৮.০০ (২ x ৫: ৳ ৮০.০০)",
+    "generic": "টিয়েমোনিয়াম মিথাইলসালফেট",
+    "strength": "২০ মিগ্রা সাপোজিটার",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Epicet",
+    "name_bn": "ইপিসেট",
+    "source_url": "https://www.bissoy.com/medicine/epicet-tablet-500-mg",
+    "company": "রেনেটা লিমিটেড",
+    "price": "ইউনিট: ৳ ৩০.০০ (১ x ১০: ৳ ৩০০.০০) স্ট্রিপ: ৳ ৩০০.০০",
+    "generic": "লেভেটিরাসেটাম",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Veracal",
+    "name_bn": "ভেরাক্যাল",
+    "source_url": "https://www.bissoy.com/medicine/veracal-tablet-80-mg",
+    "company": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৩.০০ (৫ x ১০: ৳ ১৫০.০০) স্ট্রিপ: ৳ ৩০.০০",
+    "generic": "ভেরাপামিল হাইড্রোক্লোরাইড",
+    "strength": "৮০ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "CK",
+    "name_bn": "সিকে",
+    "source_url": "https://www.bissoy.com/medicine/ck-oral-solution-1500-mg-250-mg-5-ml",
+    "company": "পপুলার ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "২০০ মিলি বোতল: ৳ ২০০.০০",
+    "generic": "পটাশিয়াম সাইট্রেট + সাইট্রিক এসিড",
+    "strength": "(১৫০০ মিগ্রা+২৫০ মিগ্রা)/৫মিলি ওরাল সল্যুশন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Trexall",
+    "name_bn": "ট্রেক্সল",
+    "source_url": "https://www.bissoy.com/medicine/trexall-tablet-2-5-mg",
+    "company": "হেলথকেয়ার ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৫.০০ (৩ x ১০: ৳ ১৫০.০০) স্ট্রিপ: ৳ ৫০.০০",
+    "generic": "মেথোট্রেক্সেট",
+    "strength": "২.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Cavapro",
+    "name_bn": "ক্যাভাপ্রো",
+    "source_url": "https://www.bissoy.com/medicine/cavapro-tablet-75-mg",
+    "company": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ৬.০০ (৩ x ১০: ৳ ১৮০.০০) স্ট্রিপ: ৳ ৬০.০০",
+    "generic": "ইরবেসার্টান",
+    "strength": "৭৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Avlomox",
+    "name_bn": "এ্যাভলোমক্স",
+    "source_url": "https://www.bissoy.com/medicine/avlomox-capsule-250-mg",
+    "company": "এসিআই লিমিটেড",
+    "price": "ইউনিট: ৳ ৪.০০ (১০ x ১০: ৳ ৪০০.০০) স্ট্রিপ: ৳ ৪০.০০",
+    "generic": "এমোক্সিসিলিন ট্রাইহাইড্রেট",
+    "strength": "২৫০ মিগ্রা ক্যাপসুল",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Nervin",
+    "name_bn": "নারভিন",
+    "source_url": "https://www.bissoy.com/medicine/nervin-injection-100-mg-50-mg-100-mg-2-ml",
+    "company": "Jayson Pharmaceuticals Ltd.",
+    "price": null,
+    "generic": "ভিটামিন বি১, বি২ ও বি৬",
+    "strength": "(১০০ মিগ্রা+৫০ মিগ্রা+১০০ মিগ্রা)/২মিলি ইনজেকশন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Bislol",
+    "name_bn": "বিসলল",
+    "source_url": "https://www.bissoy.com/medicine/bislol-tablet-2-5-mg",
+    "company": "অপসোনিন ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ৭.০০ (৩ x ১৪: ৳ ২৯৪.০০) স্ট্রিপ: ৳ ৯৮.০০",
+    "generic": "বিসোপ্রোলল হেমিফিউমারেট",
+    "strength": "২.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Sulafate",
+    "name_bn": "সুলাফেট",
+    "source_url": "https://www.bissoy.com/medicine/sulafate-oral-suspension-1-gm-5-ml",
+    "company": "One Pharma Ltd.",
+    "price": "২০০ মিলি বোতল: ৳ ৪০০.০০",
+    "generic": "সুক্রালফেট",
+    "strength": "১ গ্রাম/৫মিলি ওরাল সাসপেনশন",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Gaba-P CR",
+    "name_bn": "গাবা-পি সি আর",
+    "source_url": "https://www.bissoy.com/medicine/gaba-p-cr-tablet-controlled-release-330-mg",
+    "company": "রেনেটা লিমিটেড",
+    "price": "ইউনিট: ৳ ৪৫.০০ (৫ x ৬: ৳ ১,৩৫০.০০) স্ট্রিপ: ৳ ২৭০.০০",
+    "generic": "প্রিগাবালিন",
+    "strength": "৩৩০ মিগ্রা ট্যাবলেট (কন্ট্রোলড রিলিজ)",
+    "_source_page": 63
+  },
+  {
+    "name_en": "Thalidon",
+    "name_bn": "থ্যালিডন",
+    "source_url": "https://www.bissoy.com/medicine/thalidon-tablet-25-mg",
+    "company": "পপুলার ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৫.০২ (৩ x ১০: ৳ ১৫০.৬০) স্ট্রিপ: ৳ ৫০.২০",
+    "generic": "ক্লোরথ্যালিডোন",
+    "strength": "২৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Nervex",
+    "name_bn": "নারভেক্স",
+    "source_url": "https://www.bissoy.com/medicine/nervex-tablet-500-mcg",
+    "company": "Orion Pharma Ltd.",
+    "price": "ইউনিট: ৳ ৪.৫০ (৫ x ১০: ৳ ২২৫.০০) স্ট্রিপ: ৳ ৪৫.০০",
+    "generic": "মেকোবালামিন",
+    "strength": "৫০০ মাই.গ্রা. ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "HPC",
+    "name_bn": "এইচপিসি",
+    "source_url": "https://www.bissoy.com/medicine/hpc-im-injection-250-mg-ml",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "price": "১ মিলি এম্পুল: ৳ ৪০০.০০ (২টির প্যাক: ৳ ৮০০.০০)",
+    "generic": "হাইড্রোক্সিপ্রোগেস্টেরন কেপ্রোয়েট",
+    "strength": "২৫০ মিগ্রা/মিলি আইএম ইনজেকশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "DFX",
+    "name_bn": "ডিএফএক্স",
+    "source_url": "https://www.bissoy.com/medicine/dfx-tablet-500-mg",
+    "company": "ডেল্টা ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ১০.০০ (৩ x ১০: ৳ ৩০০.০০) স্ট্রিপ: ৳ ১০০.০০",
+    "generic": "সিপ্রোফ্লক্সাসিন",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Napxon",
+    "name_bn": "ন্যাপজন",
+    "source_url": "https://www.bissoy.com/medicine/napxon-tablet-delayed-release-375-mg-20-mg",
+    "company": "জিসকা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১১.০০ (৪ x ৮: ৳ ৩৫২.০০) স্ট্রিপ: ৳ ৮৮.০০",
+    "generic": "ন্যাপ্রােক্সেন সোডিয়াম +  ইসোমিপ্রাজল ম্যাগনেসিয়াম",
+    "strength": "৩৭৫ মিগ্রা+২০ মিগ্রা ট্যাবলেট (ডিলেড রিলিজ)",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Rupa",
+    "name_bn": "রুপা",
+    "source_url": "https://www.bissoy.com/medicine/rupa-oral-solution-5-mg-5-ml",
+    "company": "এরিস্টোফার্মা লিমিটেড",
+    "price": "৬০ মিলি বোতল: ৳ ৭৫.০০",
+    "generic": "রুপাটাডিন ফিউমারেট",
+    "strength": "৫ মিগ্রা/৫মিলি ওরাল সল্যুশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Esmotac",
+    "name_bn": "এসমোট্যাক",
+    "source_url": "https://www.bissoy.com/medicine/esmotac-tablet-enteric-coated-20-mg",
+    "company": "গ্যাকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৫.০০ (৬ x ১০: ৳ ৩০০.০০) স্ট্রিপ: ৳ ৫০.০০",
+    "generic": "এসমেপ্রাজোল ম্যাগনেসিয়াম ট্রিহাইড্রেট",
+    "strength": "২০ মিগ্রা ট্যাবলেট (এনটেরিক কোটেড)",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Canazole",
+    "name_bn": "ক্যানাজোল",
+    "source_url": "https://www.bissoy.com/medicine/canazole-tablet-200-mg",
+    "company": "এসিআই লিমিটেড",
+    "price": "ইউনিট: ৳ ২৫.০৮ (১ x ১০: ৳ ২৫০.৮০) স্ট্রিপ: ৳ ২৫০.৮০",
+    "generic": "ফ্লুকোনাজল",
+    "strength": "২০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Xiotic",
+    "name_bn": "জিওটিক",
+    "source_url": "https://www.bissoy.com/medicine/xiotic-tablet-0-5-mg",
+    "company": "গ্লোব ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১.৭৫ (১০০টির প্যাক: ৳ ১৭৫.০০)",
+    "generic": "অ্যালপ্রাজোলাম",
+    "strength": "০.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Tolfem",
+    "name_bn": "টলফেম",
+    "source_url": "https://www.bissoy.com/medicine/tolfem-tablet-200-mg",
+    "company": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "ইউনিট: ৳ ১০.০০ (৩ x ১০: ৳ ৩০০.০০) স্ট্রিপ: ৳ ১০০.০০",
+    "generic": "টলফেনামিক এসিড",
+    "strength": "২০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Denixil",
+    "name_bn": "ডেনিক্সিল",
+    "source_url": "https://www.bissoy.com/medicine/denixil-tablet-0-5-mg",
+    "company": "রেনেটা লিমিটেড",
+    "price": "ইউনিট: ৳ ৬.৫০ (৫ x ১০: ৳ ৩২৫.০০) স্ট্রিপ: ৳ ৬৫.০০",
+    "generic": "ক্লোনাজিপাম",
+    "strength": "০.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Rulicent",
+    "name_bn": "রুলিসেন্ট",
+    "source_url": "https://www.bissoy.com/medicine/rulicent-tablet-5-mg",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ২০০.০০ (২ x ৭: ৳ ২,৮০০.০০) স্ট্রিপ: ৳ ১,৪০০.০০",
+    "generic": "রাক্সোলিটিনিব (মৌখিক)",
+    "strength": "৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Nebipres HZ",
+    "name_bn": "নেবিপ্রেস এইচজেড",
+    "source_url": "https://www.bissoy.com/medicine/nebipres-hz-tablet-5-mg-12-5-mg",
+    "company": "জেনারেল ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১২.০০ (৩ x ১০: ৳ ৩৬০.০০) স্ট্রিপ: ৳ ১২০.০০",
+    "generic": "নেবিভোলল + হাইড্রোক্লোরোথায়াজাইড",
+    "strength": "৫ মিগ্রা+১২.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Fincor |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/fincor-tablet-10-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 64
+  },
+  {
+    "name_en": "Tgocef DS",
+    "name_bn": "টিজিওসেফ ডিএস",
+    "source_url": "https://www.bissoy.com/medicine/tgocef-ds-powder-for-suspension-200-mg-5-ml",
+    "company": "সোমাটেক ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "৫০ মিলি বোতল: ৳ ২৮০.০০",
+    "generic": "সেফিক্সিম ট্রাইহাড্রেট",
+    "strength": "২০০ মিগ্রা/৫মিলি পাউডার ফর সাসপেনশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Dclot",
+    "name_bn": "ডিক্লট",
+    "source_url": "https://www.bissoy.com/medicine/dclot-tablet-75-mg",
+    "company": "একমি ল্যাবরেটরিজ লিমিটেড",
+    "price": "ইউনিট: ৳ ১২.০০ (৩ x ১০: ৳ ৩৬০.০০) স্ট্রিপ: ৳ ১২০.০০",
+    "generic": "ক্লোপিডোগ্রেল বাইসালফেট",
+    "strength": "৭৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Claxo",
+    "name_bn": "ক্লাক্সো",
+    "source_url": "https://www.bissoy.com/medicine/claxo-sc-injection-4000-anti-xa-iu-0-4-ml",
+    "company": "জেনারেল ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "০.৪ ml pre-filled syringe: ৳ ৩৫১.০০",
+    "generic": "ইনোক্সাপারিন সোডিয়াম",
+    "strength": "৪০০০ Anti-Xa আইইউ/০.৪মিলি এসসি ইনজেকশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Laxogol",
+    "name_bn": "ল্যাক্সোগল",
+    "source_url": "https://www.bissoy.com/medicine/laxogol-oral-solution-13-125-gm-350-7-mg-178-5-mg-46-6-mg-25-ml",
+    "company": "একমি ল্যাবরেটরিজ লিমিটেড",
+    "price": "১০০ মিলি বোতল: ৳ ১৬০.০০",
+    "generic": "পলিইথিলিন গ্লাইকল ৩৩৫০ + ইলেকট্রোলাইটস",
+    "strength": "(১৩.১২৫ গ্রাম+৩৫০.৭ মিগ্রা+১৭৮.৫ মিগ্রা+৪৬.৬ মিগ্রা)/২৫মিলি ওরাল সল্যুশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Gluvan",
+    "name_bn": "গ্লুভান",
+    "source_url": "https://www.bissoy.com/medicine/gluvan-tablet-50-mg",
+    "company": "এরিস্টোফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ২০.০০ (২ x ১৪: ৳ ৫৬০.০০) স্ট্রিপ: ৳ ২৮০.০০",
+    "generic": "ভিলডাগ্লিপটিন",
+    "strength": "৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Tiginor EZ |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/tiginor-ez-tablet-10-mg-10-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 64
+  },
+  {
+    "name_en": "Meroject",
+    "name_bn": "মেরোজেক্ট",
+    "source_url": "https://www.bissoy.com/medicine/meroject-iv-injection-or-infusion-1-gm-vial",
+    "company": "এস কে এফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "১ গ্রাম ভায়াল: ৳ ১,৩০০.০০",
+    "generic": "মেরোপেনেম ট্রাইহাইড্রেট",
+    "strength": "১ গ্রাম/ভায়াল আইভি ইনজেকশন অর ইনফিউশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Aloglip",
+    "name_bn": "অ্যালোগ্লিপ",
+    "source_url": "https://www.bissoy.com/medicine/aloglip-tablet-12-5-mg",
+    "company": null,
+    "price": "ইউনিট: ৳ ১২.০০ (৩ x ১০: ৳ ৩৬০.০০) স্ট্রিপ: ৳ ১২০.০০",
+    "generic": "অ্যলোগ্লিপটিন বেনজয়েট",
+    "strength": "১২.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Telfadin",
+    "name_bn": "টেলফাডিন",
+    "source_url": "https://www.bissoy.com/medicine/telfadin-oral-suspension-30-mg-5-ml",
+    "company": "ওয়ান ফার্মা লিমিটেড",
+    "price": "৫০ মিলি বোতল: ৳ ৫০.০০",
+    "generic": "ফেক্সোফেনাডিন হাইড্রোক্লোরাইড",
+    "strength": "৩০ মিগ্রা/৫মিলি ওরাল সাসপেনশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Clamox",
+    "name_bn": "ক্ল্যামক্স",
+    "source_url": "https://www.bissoy.com/medicine/clamox-tablet-250-mg-125-mg",
+    "company": "অপসোনিন ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ২২.০০ (৩ x ৬: ৳ ৩৯৬.০০) স্ট্রিপ: ৳ ১৩২.০০",
+    "generic": "এমোক্সিসিলিন + ক্লাভুলানিক এসিড",
+    "strength": "২৫০ মিগ্রা+১২৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Closalic",
+    "name_bn": "ক্লোসলিক",
+    "source_url": "https://www.bissoy.com/medicine/closalic-ointment-0-05-3-",
+    "company": "Ziska Pharmaceuticals Ltd.",
+    "price": "১০ গ্রাম টিউব: ৳ ৭০.০০",
+    "generic": "ক্লোবেটাসোল প্রোপিওনেট + স্যালিসাইলিক অ্যাসিড",
+    "strength": "০.০৫%+৩% অয়েন্টমেন্ট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Aristen",
+    "name_bn": "আরিস্টেন",
+    "source_url": "https://www.bissoy.com/medicine/aristen-ophthalmic-ointment-1-",
+    "company": "Aristopharma Ltd.",
+    "price": "৪ গ্রাম টিউব: ৳ ৮০.০০",
+    "generic": "ক্লোট্রিমাজল",
+    "strength": "১%",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Flexi SR",
+    "name_bn": "ফ্লেক্সি এস আর",
+    "source_url": "https://www.bissoy.com/medicine/flexi-sr-tablet-sustained-release-200-mg",
+    "company": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "ইউনিট: ৳ ৭.০২ (৩ x ১০: ৳ ২১০.৬০) স্ট্রিপ: ৳ ৭০.২০",
+    "generic": "এসিক্লোফেনাক",
+    "strength": "২০০ মিগ্রা ট্যাবলেট (সাস্টেইনড রিলিজ)",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Ramipro",
+    "name_bn": "রেমিপ্রো",
+    "source_url": "https://www.bissoy.com/medicine/ramipro-tablet-2-5-mg",
+    "company": "জেনারেল ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৫.০৪ (৫ x ১০: ৳ ২৫২.০০) স্ট্রিপ: ৳ ৫০.৪০",
+    "generic": "র‍্যামিপ্রিল",
+    "strength": "২.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Deflazit",
+    "name_bn": "ডেফলাজিট",
+    "source_url": "https://www.bissoy.com/medicine/deflazit-oral-suspension-6-mg-5-ml",
+    "company": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "৫০ মিলি বোতল: ৳ ২০০.০০",
+    "generic": "ডেফলাজাকর্ট",
+    "strength": "৬ মিগ্রা/৫মিলি ওরাল সাসপেনশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Neocal D",
+    "name_bn": "নিওক্যাল ডি",
+    "source_url": "https://www.bissoy.com/medicine/neocal-d-tablet-500-mg-200-iu",
+    "company": "দি হোয়াইট হর্স ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৬.৫০ (৩০টির প্যাক: ৳ ১৯৫.০০)",
+    "generic": "ক্যালসিয়াম কার্বোনেট [মৌলিক উৎস] + ভিটামিন ডি৩",
+    "strength": "৫০০ মিগ্রা+২০০ আইইউ ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Precal",
+    "name_bn": "প্রেক্যাল",
+    "source_url": "https://www.bissoy.com/medicine/precal-tablet-500-mg",
+    "company": "Premier Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ২.৫৩ (১০০টির প্যাক: ৳ ২৫৩.০০)",
+    "generic": "ক্যালসিয়াম কার্বোনেট",
+    "strength": "৫০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Unibac",
+    "name_bn": "ইউনিব্যাক",
+    "source_url": "https://www.bissoy.com/medicine/unibac-capsule-200-mg",
+    "company": "ওএসএল ফার্মা লিমিটেড",
+    "price": "ইউনিট: ৳ ৩৫.০০ (২ x ৭: ৳ ৪৯০.০০) স্ট্রিপ: ৳ ২৪৫.০০",
+    "generic": "সেফিক্সিম ট্রাইহাড্রেট",
+    "strength": "২০০ মিগ্রা ক্যাপসুল",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Pedipred",
+    "name_bn": "পেডিপ্রেড",
+    "source_url": "https://www.bissoy.com/medicine/pedipred-oral-solution-5-mg-5-ml",
+    "company": "জিসকা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "৫০ মিলি বোতল: ৳ ৬০.০০",
+    "generic": "প্রেডনিসোলোন",
+    "strength": "৫ মিগ্রা/৫মিলি ওরাল সল্যুশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Fonidel",
+    "name_bn": "ফনিডেল",
+    "source_url": "https://www.bissoy.com/medicine/fonidel-ophthalmic-solution-2-5-mg-0-5-ml",
+    "company": "Square Pharmaceuticals PLC",
+    "price": "০.৫ ml pre-filled syringe: ৳ ৮০০.০০",
+    "generic": "ফন্ডাপারিনাক্স সোডিয়াম",
+    "strength": "২.৫ মিগ্রা/০.৫মিলি অফথ্যালমিক সলিউশন",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Nexum",
+    "name_bn": "নেক্সাম",
+    "source_url": "https://www.bissoy.com/medicine/nexum-capsule-enteric-coated-pellets-20-mg",
+    "company": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "ইউনিট: ৳ ৭.০২ (৬ x ১০: ৳ ৪২১.২০) স্ট্রিপ: ৳ ৭০.২০",
+    "generic": "ইসোমিপ্রাজল",
+    "strength": "২০ মিগ্রা",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Tifen",
+    "name_bn": "টিফেন",
+    "source_url": "https://www.bissoy.com/medicine/tifen-tablet-1-mg",
+    "company": "সোমাটেক ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ২.০০ (১০০টির প্যাক: ৳ ২০০.০০)",
+    "generic": "কিটোটিফেন ফিউমারেট",
+    "strength": "১ মিগ্রা ট্যাবলেট",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Indoxyl",
+    "name_bn": "ইন্ডোক্সিল",
+    "source_url": "https://www.bissoy.com/medicine/indoxyl-capsule-25-mg",
+    "company": "Jayson Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ০.৬৩ (১০ x ১০: ৳ ৬২.৭০) স্ট্রিপ: ৳ ৬.২৭",
+    "generic": "ইনডোমেথাসিন",
+    "strength": "২৫ মিগ্রা ক্যাপসুল",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Pretor",
+    "name_bn": "প্রেটর",
+    "source_url": "https://www.bissoy.com/medicine/pretor-capsule-50-mg",
+    "company": "সাইনোভিয়া ফার্মা পিএলসি",
+    "price": "ইউনিট: ৳ ১২.০৪ (৩ x ১০: ৳ ৩৬১.২০) স্ট্রিপ: ৳ ১২০.৪০",
+    "generic": "প্রিগাবালিন",
+    "strength": "৫০ মিগ্রা ক্যাপসুল",
+    "_source_page": 64
+  },
+  {
+    "name_en": "Enurex |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/enurex-tablet-200-mcg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 64
+  },
+  {
+    "name_en": "Tagus |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/tagus-tablet-enteric-coated-20-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 64
+  },
+  {
+    "name_en": "Acecol",
+    "name_bn": "এসিকোল",
+    "source_url": "https://www.bissoy.com/medicine/acecol-tablet-100-mg",
+    "company": "জিসকা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৩.০০ (৫ x ১০: ৳ ১৫০.০০) স্ট্রিপ: ৳ ৩০.০০",
+    "generic": "এসিক্লোফেনাক",
+    "strength": "১০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Emidom",
+    "name_bn": "এমিডম",
+    "source_url": "https://www.bissoy.com/medicine/emidom-tablet-10-mg",
+    "company": "সোমাটেক ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ২.৫০ (১০০টির প্যাক: ৳ ২৫০.০০)",
+    "generic": "ডমপেরিডন ম্যালিয়েট",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Napa",
+    "name_bn": "নাপা",
+    "source_url": "https://www.bissoy.com/medicine/napa-iv-infusion-10-mg-ml",
+    "company": "বেক্সিমকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "১০০ মিলি বোতল: ৳ ১৫০.০০",
+    "generic": "প্যারাসিটামল [IV ইনফিউশন]",
+    "strength": "১০ মিগ্রা/মিলি আইভি ইনফিউশন",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Amdocal Pro",
+    "name_bn": "এ্যামডোক্যল প্রো",
+    "source_url": "https://www.bissoy.com/medicine/amdocal-pro-tablet-2-5-mg-5-mg",
+    "company": "বেক্সিমকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৬.০০ (৩ x ১০: ৳ ১৮০.০০) স্ট্রিপ: ৳ ৬০.০০",
+    "generic": "বিসোপ্রোলল ফিউমারেট + এ্যামলােডিপিন বিসাইলেট",
+    "strength": "২.৫ মিগ্রা+৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Avas",
+    "name_bn": "এভাস",
+    "source_url": "https://www.bissoy.com/medicine/avas-tablet-10-mg",
+    "company": "অপসোনিন ফার্মা লিমিটেড",
+    "price": null,
+    "generic": "এ্যাটোরভাস্টাটিন ক্যালসিয়াম",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Ariprex",
+    "name_bn": "অ্যারিপ্রেক্স",
+    "source_url": "https://www.bissoy.com/medicine/ariprex-tablet-10-mg",
+    "company": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "price": "ইউনিট: ৳ ৫.০০ (৬ x ৫: ৳ ১৫০.০০) স্ট্রিপ: ৳ ২৫.০০",
+    "generic": "অ্যারিপিপ্রাজল",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Hi-D",
+    "name_bn": "হাই-ডি",
+    "source_url": "https://www.bissoy.com/medicine/hi-d-capsule-liquid-filled-40000-iu",
+    "company": "পপুলার ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": null,
+    "generic": "কোলেকালসিফেরল [ভিটামিন ডি৩]",
+    "strength": "৪০০০০ আইইউ ক্যাপসুল (লিকুইড ফিলড)",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Janvia",
+    "name_bn": "জানভিয়া",
+    "source_url": "https://www.bissoy.com/medicine/janvia-tablet-100-mg",
+    "company": "একমি ল্যাবরেটরিজ লিমিটেড",
+    "price": "ইউনিট: ৳ ২৮.০৮ (১ x ১০: ৳ ২৮০.৮০) স্ট্রিপ: ৳ ২৮০.৮০",
+    "generic": "সিটাগ্লিপটিন",
+    "strength": "১০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "3-C",
+    "name_bn": "৩-সি",
+    "source_url": "https://www.bissoy.com/medicine/3-c-capsule-400-mg",
+    "company": "এড্রুক লিমিটেড",
+    "price": "ইউনিট: ৳ ৪৮.০০ (৪টির প্যাক: ৳ ১৯২.০০)",
+    "generic": "সেফিক্সিম ট্রাইহাড্রেট",
+    "strength": "৪০০ মিগ্রা ক্যাপসুল",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Mixtard 50",
+    "name_bn": "মিক্সটার্ড ৫০",
+    "source_url": "https://www.bissoy.com/medicine/mixtard-50-sc-injection-50-50-in-100-iu-ml",
+    "company": "(Mfg. by: Eskayef Pharmaceuticals Ltd.)",
+    "price": "৩ ml penfill: ৳ ৪১৯.০০ (৫টির প্যাক: ৳ ২,০৯৫.০০)",
+    "generic": "ইনসুলিন হিউম্যান [আরডিএনএ] + আইসোফেন ইনসুলিন হিউম্যান",
+    "strength": "৫০%+৫০% in ১০০ আইইউ/মিলি এসসি ইনজেকশন",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Neocafen",
+    "name_bn": "নিওক্যাফেন",
+    "source_url": "https://www.bissoy.com/medicine/neocafen-iv-injection-20-mg-ml",
+    "company": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "Unavailable",
+    "generic": "ক্যাফেইন সাইট্রেট",
+    "strength": "২০ মিগ্রা/মিলি আইভি ইনজেকশন",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Bionic",
+    "name_bn": "বায়োনিক",
+    "source_url": "https://www.bissoy.com/medicine/bionic-tablet-100-mg-200-mg-200-mcg",
+    "company": "ফার্মাসিয়া লিমিটেড",
+    "price": null,
+    "generic": "ভিটামিন বি১, বি৬ ও বি১২",
+    "strength": "১০০ মিগ্রা+২০০ মিগ্রা+২০০ মাই.গ্রা. ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Nopain",
+    "name_bn": "নোপেইন",
+    "source_url": "https://www.bissoy.com/medicine/nopain-tablet-50-mg",
+    "company": "ড্রাগ ইন্টারন্যাশনাল লিমিটেড",
+    "price": "ইউনিট: ৳ ৪.০০ (৫ x ১০: ৳ ২০০.০০) স্ট্রিপ: ৳ ৪০.০০",
+    "generic": "ডাইক্লোফেনাক পটাশিয়াম",
+    "strength": "৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Pikos |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/pikos-oral-solution-5-mg5-ml",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 65
+  },
+  {
+    "name_en": "Faxan",
+    "name_bn": "ফ্যাক্সান",
+    "source_url": "https://www.bissoy.com/medicine/faxan-tablet-550-mg",
+    "company": "ড্রাগ ইন্টারন্যাশনাল লিমিটেড",
+    "price": "ইউনিট: ৳ ৪০.১৫ (১ x ৭: ৳ ২৮১.০৫) স্ট্রিপ: ৳ ২৮১.০৫",
+    "generic": "রিফাক্সিমিন",
+    "strength": "৫৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Exelon Patch 10 |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/exelon-patch-10-transdermal-patch-95-mg24-hr",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 65
+  },
+  {
+    "name_en": "Easyhaler",
+    "name_bn": "ইজি হেলার",
+    "source_url": "https://www.bissoy.com/medicine/easyhaler-inhaler",
+    "company": "Healthcare Pharmaceuticals Ltd.",
+    "price": "Each device: ৳ ৩২০.০০",
+    "generic": "ইনহেলার ডিভাইস",
+    "strength": "ইনহেলার",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Haemee |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/haemee-capsule-30-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 65
+  },
+  {
+    "name_en": "Gestcare |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/gestcare-tablet-",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 65
+  },
+  {
+    "name_en": "Dexa",
+    "name_bn": "ডেক্সা",
+    "source_url": "https://www.bissoy.com/medicine/dexa-tablet-0-5-mg",
+    "company": null,
+    "price": null,
+    "generic": "ডেক্সামেথাসোন সোডিয়াম ফসফেট",
+    "strength": "০.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Olpres HZ",
+    "name_bn": "ওলপ্রেস এইচজেড",
+    "source_url": "https://www.bissoy.com/medicine/olpres-hz-tablet-20-mg-12-5-mg",
+    "company": "জিসকা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৮.০০ (৩ x ১০: ৳ ২৪০.০০) স্ট্রিপ: ৳ ৮০.০০",
+    "generic": "ওলমেসারটান মেডােক্সোমিল + হাইড্রোক্লোরােথায়াজাইড",
+    "strength": "২০ মিগ্রা+১২.৫ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Fibrino",
+    "name_bn": "ফিব্রিনো",
+    "source_url": "https://www.bissoy.com/medicine/fibrino-capsule-500-mg",
+    "company": "এস কে এফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ২৩.০০ (৩ x ৬: ৳ ৪১৪.০০) স্ট্রিপ: ৳ ১৩৮.০০",
+    "generic": "ট্রানেক্সামিক এসিড",
+    "strength": "৫০০ মিগ্রা ক্যাপসুল",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Progest",
+    "name_bn": "প্রোজেস্ট",
+    "source_url": "https://www.bissoy.com/medicine/progest-tablet-10-mg",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ৪০.০০ (২ x ১৫: ৳ ১,২০০.০০) স্ট্রিপ: ৳ ৬০০.০০",
+    "generic": "ডিড্রোগেস্টেরোন",
+    "strength": "১০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Ratinol Forte",
+    "name_bn": "রেটিনল ফোর্ট",
+    "source_url": "https://www.bissoy.com/medicine/ratinol-forte-capsule-50000-iu",
+    "company": "ড্রাগ ইন্টারন্যাশনাল লিমিটেড",
+    "price": "ইউনিট: ৳ ১.৯৩ (৪ x ১৫: ৳ ১১৫.৮০) স্ট্রিপ: ৳ ২৮.৯৫",
+    "generic": "ভিটামিন এ",
+    "strength": "৫০০০০ আইইউ ক্যাপসুল",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Xalanol",
+    "name_bn": "জালানোল",
+    "source_url": "https://www.bissoy.com/medicine/xalanol-ophthalmic-solution-0-005-0-5-",
+    "company": "Beximco Pharmaceuticals Ltd.",
+    "price": "২.৫ মিলি ড্রপ: ৳ ৪৯৫.০০",
+    "generic": "লাতানোপ্রস্ট + টিমলোল",
+    "strength": "০.০০৫%+০.৫% অফথ্যালমিক সলিউশন",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Metmin",
+    "name_bn": "মেটমিন",
+    "source_url": "https://www.bissoy.com/medicine/metmin-tablet-850-mg",
+    "company": "এলকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৫.৫০ (১০০টির প্যাক: ৳ ৫৫০.০০)",
+    "generic": "মেটফরমিন হাইড্রোক্লোরাইড",
+    "strength": "৮৫০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Oxydrop",
+    "name_bn": "অক্সিড্রপ",
+    "source_url": "https://www.bissoy.com/medicine/oxydrop-nasal-drop-0-025-",
+    "company": "নিপ্রো জেএমআই ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": null,
+    "generic": "অক্সিমেটাজোলিন হাইড্রোক্লোরাইড",
+    "strength": "০.০২৫% নাসাল ড্রপ",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Hemosol-B",
+    "name_bn": "হেমোসল-বি",
+    "source_url": "https://www.bissoy.com/medicine/hemosol-b-dialysis-solution-",
+    "company": "Square Pharmaceuticals PLC",
+    "price": "১০ liters container: ৳ ৩৮২.০০",
+    "generic": "বাইকার্বোনেট উপাদান [এইচসিও৩ হেমোডায়ালাইসিস সলিউশন]",
+    "strength": "ডায়ালিসিস সলিউশন",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Trimotil",
+    "name_bn": "ট্রিমোটিল",
+    "source_url": "https://www.bissoy.com/medicine/trimotil-tablet-100-mg",
+    "company": "Incepta Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ৫.০০ (৫ x ১০: ৳ ২৫০.০০) স্ট্রিপ: ৳ ৫০.০০",
+    "generic": "ট্রাইমবিউটিন মেলেট",
+    "strength": "১০০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Midzo",
+    "name_bn": "মিডজো",
+    "source_url": "https://www.bissoy.com/medicine/midzo-im-iv-injection-15-mg-3-ml",
+    "company": "রেনেটা লিমিটেড",
+    "price": "৩ মিলি এম্পুল: ৳ ৭৫.০০",
+    "generic": "মিডাজোলাম",
+    "strength": "১৫ মিগ্রা/৩মিলি আইএম/আইভি ইনজেকশন",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Breon",
+    "name_bn": "ব্রিয়ন",
+    "source_url": "https://www.bissoy.com/medicine/breon-inhalation-capsule-25-mcg-200-mcg",
+    "company": "এসিআই লিমিটেড",
+    "price": "ইউনিট: ৳ ৩০.০০ (৩ x ১০: ৳ ৯০০.০০) স্ট্রিপ: ৳ ৩০০.০০",
+    "generic": "ভিলানটেরল ট্রাইফেনাটেট + ফ্লুটিকাসন ফিউরোয়েট",
+    "strength": "২৫ মাই.গ্রা.+২০০ মাই.গ্রা. ইনহেলেশন ক্যাপসুল",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Urinide",
+    "name_bn": "ইউরিনাইড",
+    "source_url": "https://www.bissoy.com/medicine/urinide-tablet-1-mg",
+    "company": "নাভানা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১০.০৫ (৩ x ১০: ৳ ৩০১.৫০) স্ট্রিপ: ৳ ১০০.৫০",
+    "generic": "বিউমেটানাইড",
+    "strength": "১ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Sensation Strawberry |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/sensation-strawberry-condom-",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 65
+  },
+  {
+    "name_en": "Synogen",
+    "name_bn": "সাইনোজেন",
+    "source_url": "https://www.bissoy.com/medicine/synogen-tablet-40-mg",
+    "company": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": null,
+    "generic": "আনডিনেচার্ড টাইপ ২ কোলাজেন",
+    "strength": "৪০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Ecox",
+    "name_bn": "ইকক্স",
+    "source_url": "https://www.bissoy.com/medicine/ecox-tablet-120-mg",
+    "company": "এলকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ১৪.০৪ (২০টির প্যাক: ৳ ২৮০.৮০)",
+    "generic": "ইটোরিকক্সিব",
+    "strength": "১২০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Eval",
+    "name_bn": "ইভাল",
+    "source_url": "https://www.bissoy.com/medicine/eval-syrup-250-mg-5-ml",
+    "company": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "১০০ মিলি বোতল: ৳ ৯০.০০",
+    "generic": "সোডিয়াম ভেলপ্রোয়েট",
+    "strength": "২৫০ মিগ্রা/৫মিলি সিরাপ",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Dumax",
+    "name_bn": "ডিউম্যাক্স",
+    "source_url": "https://www.bissoy.com/medicine/dumax-tablet-30-mg",
+    "company": "এস কে এফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "price": "ইউনিট: ৳ ৩০.০০ (২ x ৪: ৳ ২৪০.০০) স্ট্রিপ: ৳ ১২০.০০",
+    "generic": "ডেপক্সিটিন হাইড্রোক্লোরাইড",
+    "strength": "৩০ মিগ্রা ট্যাবলেট",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Prostanor",
+    "name_bn": "প্রোস্টানর",
+    "source_url": "https://www.bissoy.com/medicine/prostanor-capsule-4-mg",
+    "company": "Popular Pharmaceuticals Ltd.",
+    "price": "ইউনিট: ৳ ১২.০০ (৩ x ১০: ৳ ৩৬০.০০) স্ট্রিপ: ৳ ১২০.০০",
+    "generic": "সিলডোসিন",
+    "strength": "৪ মিগ্রা ক্যাপসুল",
+    "_source_page": 65
+  },
+  {
+    "name_en": "Melafit |",
+    "name_bn": null,
+    "source_url": "https://www.bissoy.com/medicine/melafit-tablet-3-mg",
+    "company": null,
+    "price": null,
+    "generic": null,
+    "strength": null,
+    "_source_page": 65
+  },
+  {
+    "name_en": "Neopred",
+    "name_bn": "নিওপ্রেড",
+    "source_url": "https://www.bissoy.com/medicine/neopred-ophthalmic-emulsion-0-05-",
+    "company": "এরিস্টোফার্মা লিমিটেড",
+    "price": "৫ মিলি ড্রপ: ৳ ২৩০.০০",
+    "generic": "ডাইফ্লুপ্রেডনেট",
+    "strength": "০.০৫%",
+    "_source_page": 65
+  }
+]
