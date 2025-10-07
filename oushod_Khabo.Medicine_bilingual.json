@@ -5723,5 +5723,245 @@
     "company_bn": "এস্কায়েফ ফার্মাসিউটিক্যালস লিমিটেড",
     "medicine_type_en": "Tablet",
     "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d20"
+    },
+    "source_url": "https://medex.com.bd/brands/36751/agonil-10-cream",
+    "_page": 17,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Agonil",
+    "name_bn": "অ্যাগ্রোনিল",
+    "strength_en": "10%",
+    "strength_bn": "10%",
+    "generic_en": "Diethylamine Salicylate",
+    "generic_bn": "ডায়েথিলামাইন স্যালিসিলেট",
+    "company_en": "Navana Pharmaceuticals Ltd.",
+    "company_bn": "নাভানা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Cream",
+    "medicine_type_bn": "ক্রিম"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b2d"
+    },
+    "source_url": "https://medex.com.bd/brands/13717/3-bion-100-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "3 Bion",
+    "name_bn": "3 বিয়ন",
+    "strength_en": "100 mg+200 mg+200 mcg",
+    "strength_bn": "100 মিলিগ্রাম+200 মিলিগ্রাম+200 এমসিজি",
+    "generic_en": "Vitamin B1, B6 & B12",
+    "generic_bn": "ভিটামিন বি 1, বি 6 এবং বি 12",
+    "company_en": "Jenphar Bangladesh Ltd.",
+    "company_bn": "জেনফার বাংলাদেশ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b2e"
+    },
+    "source_url": "https://medex.com.bd/brands/7695/3-c-200-mg-capsule",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "3-C",
+    "name_bn": "3-সি",
+    "strength_en": "200 mg",
+    "strength_bn": "200 মিলিগ্রাম",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Edruc Limited",
+    "company_bn": "এড্রুক লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b3a"
+    },
+    "source_url": "https://medex.com.bd/brands/17301/5-fu-phares-25-mg-injection",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "5 FU PhaRes",
+    "name_bn": "5 ফু ফেরেস",
+    "strength_en": "25 mg/ml",
+    "strength_bn": "25 মিলিগ্রাম/এমএল",
+    "generic_en": "Fluorouracil",
+    "generic_bn": "ফ্লুরোরাসিল",
+    "company_en": "ZAS Corporation",
+    "company_bn": "জেডএএস কর্পোরেশন",
+    "medicine_type_en": "IV Injection or Infusion",
+    "medicine_type_bn": "চতুর্থ ইনজেকশন বা আধান"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b3f"
+    },
+    "source_url": "https://medex.com.bd/brands/13582/a-b1-100-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-B1",
+    "name_bn": "এ-বি 1",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Thiamine Hydrochloride",
+    "generic_bn": "থায়ামাইন হাইড্রোক্লোরাইড",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b40"
+    },
+    "source_url": "https://medex.com.bd/brands/14264/a-cal-500-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Cal",
+    "name_bn": "এ-ক্যাল",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Calcium Carbonate",
+    "generic_bn": "ক্যালসিয়াম কার্বনেট",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b41"
+    },
+    "source_url": "https://medex.com.bd/brands/14399/a-cal-d-500-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Cal D",
+    "name_bn": "এ-ক্যাল ডি",
+    "strength_en": "500 mg+200 IU",
+    "strength_bn": "500 মিলিগ্রাম+200 আইইউ",
+    "generic_en": "Elemental Calcium + Vitamin D3",
+    "generic_bn": "প্রাথমিক ক্যালসিয়াম + ভিটামিন ডি 3",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b43"
+    },
+    "source_url": "https://medex.com.bd/brands/15483/a-calm-50-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Calm",
+    "name_bn": "এ-শুল্ক",
+    "strength_en": "50 mg",
+    "strength_bn": "50 মিলিগ্রাম",
+    "generic_en": "Tolperisone Hydrochloride",
+    "generic_bn": "টল্পেরিসোন হাইড্রোক্লোরাইড",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b45"
+    },
+    "source_url": "https://medex.com.bd/brands/14006/a-care-6-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Care",
+    "name_bn": "এ-কেয়ার",
+    "strength_en": "6 mg+200 mg+50 mg",
+    "strength_bn": "6 মিলিগ্রাম+200 মিলিগ্রাম+50 মিলিগ্রাম",
+    "generic_en": "Betacarotene + Vitamin C + Vitamin E",
+    "generic_bn": "Betacarotene + ভিটামিন সি + ভিটামিন ই",
+    "company_en": "Asiatic Laboratories Ltd.",
+    "company_bn": "এশিয়াটিক ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b46"
+    },
+    "source_url": "https://medex.com.bd/brands/6171/a-clox-500-mg-capsule",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Clox",
+    "name_bn": "এ-ক্লক্স",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Cloxacillin Sodium",
+    "generic_bn": "ক্লোক্সাসিলিন সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
   }
 ]
