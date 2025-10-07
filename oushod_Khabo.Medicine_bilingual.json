@@ -1,0 +1,5727 @@
+[
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b32"
+    },
+    "source_url": "https://medex.com.bd/brands/7697/3-geocef-200-mg-capsule",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "3-Geocef",
+    "name_bn": "3-জিওসিএফ",
+    "strength_en": "200 mg",
+    "strength_bn": "200 মিলিগ্রাম",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Hallmark Pharmaceuticals Ltd.",
+    "company_bn": "হলমার্ক ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b36"
+    },
+    "source_url": "https://medex.com.bd/brands/33499/3d-2000-iu-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "3D",
+    "name_bn": "3 ডি",
+    "strength_en": "2000 IU",
+    "strength_bn": "2000 আইইউ",
+    "generic_en": "Cholecalciferol [Vitamin D3]",
+    "generic_bn": "Cholecalciferol [ভিটামিন ডি 3]",
+    "company_en": "Jenphar Bangladesh Ltd.",
+    "company_bn": "জেনফার বাংলাদেশ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b37"
+    },
+    "source_url": "https://medex.com.bd/brands/7699/3rd-cef-200-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "3RD Cef",
+    "name_bn": "তৃতীয় সিইএফ",
+    "strength_en": "200 mg",
+    "strength_bn": "200 মিলিগ্রাম",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Medimet Pharmaceuticals Ltd.",
+    "company_bn": "মেডিমেট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b38"
+    },
+    "source_url": "https://medex.com.bd/brands/7700/3rd-cef-400-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "3RD Cef",
+    "name_bn": "তৃতীয় সিইএফ",
+    "strength_en": "400 mg",
+    "strength_bn": "400 মিলিগ্রাম",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Medimet Pharmaceuticals Ltd.",
+    "company_bn": "মেডিমেট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b44"
+    },
+    "source_url": "https://medex.com.bd/brands/3039/a-card-20-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Card",
+    "name_bn": "এ-কার্ড",
+    "strength_en": "20 mg",
+    "strength_bn": "20 মিলিগ্রাম",
+    "generic_en": "Isosorbide Mononitrate",
+    "generic_bn": "আইসোসোরবাইড মনোনাইট্রেট",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b4a"
+    },
+    "source_url": "https://medex.com.bd/brands/4006/a-cof-10-mg-syrup",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Cof",
+    "name_bn": "এ-কোফ",
+    "strength_en": "(10 mg+30 mg+1.25 mg)/5 ml",
+    "strength_bn": "(10 মিলিগ্রাম+30 মিলিগ্রাম+1.25 মিলিগ্রাম)/5 এমএল",
+    "generic_en": "Dextromethorphan + Pseudoephedrine + Triprolidine",
+    "generic_bn": "ডেক্সট্রোমেথোরফান + সিউডোফিড্রিন + ট্রিপ্রোলিডিন",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b4c"
+    },
+    "source_url": "https://medex.com.bd/brands/10929/a-fenac-25-mg-tablet",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Fenac",
+    "name_bn": "এ-ফেনাক",
+    "strength_en": "25 mg",
+    "strength_bn": "25 মিলিগ্রাম",
+    "generic_en": "Diclofenac Sodium",
+    "generic_bn": "ডাইক্লোফেনাক সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b4e"
+    },
+    "source_url": "https://medex.com.bd/brands/10932/a-fenac-75-mg-injection",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Fenac",
+    "name_bn": "এ-ফেনাক",
+    "strength_en": "75 mg/3 ml",
+    "strength_bn": "75 মিলিগ্রাম/3 মিলি",
+    "generic_en": "Diclofenac Sodium",
+    "generic_bn": "ডাইক্লোফেনাক সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "IM Injection",
+    "medicine_type_bn": "আমি ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b50"
+    },
+    "source_url": "https://medex.com.bd/brands/10935/a-fenac-50-mg-suppository",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Fenac",
+    "name_bn": "এ-ফেনাক",
+    "strength_en": "50 mg",
+    "strength_bn": "50 মিলিগ্রাম",
+    "generic_en": "Diclofenac Sodium",
+    "generic_bn": "ডাইক্লোফেনাক সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Suppository",
+    "medicine_type_bn": "সাপোজিটরি"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b51"
+    },
+    "source_url": "https://medex.com.bd/brands/11107/a-fenac-1-w-gel",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Fenac",
+    "name_bn": "এ-ফেনাক",
+    "strength_en": "1% w/w",
+    "strength_bn": "1% ডাব্লু/ডাব্লু",
+    "generic_en": "Diclofenac Sodium",
+    "generic_bn": "ডাইক্লোফেনাক সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Gel",
+    "medicine_type_bn": "জেল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b5f"
+    },
+    "source_url": "https://medex.com.bd/brands/529/a-mycin-3-w-lotion",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Mycin",
+    "name_bn": "এ-মাইসিন",
+    "strength_en": "3% W/V",
+    "strength_bn": "3% ডাব্লু/ভি",
+    "generic_en": "Erythromycin (Lotion)",
+    "generic_bn": "এরিথ্রোমাইসিন (লোশন)",
+    "company_en": "Aristopharma Ltd.",
+    "company_bn": "অ্যারিস্টোফর্মা লিমিটেড",
+    "medicine_type_en": "Lotion",
+    "medicine_type_bn": "লোশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b61"
+    },
+    "source_url": "https://medex.com.bd/brands/8429/a-mycin-200-mg-pediatric-drop",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Mycin",
+    "name_bn": "এ-মাইসিন",
+    "strength_en": "200 mg/5 ml",
+    "strength_bn": "200 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Erythromycin (Oral)",
+    "generic_bn": "এরিথ্রোমাইসিন (মৌখিক)",
+    "company_en": "Aristopharma Ltd.",
+    "company_bn": "অ্যারিস্টোফর্মা লিমিটেড",
+    "medicine_type_en": "Pediatric Drops",
+    "medicine_type_bn": "পেডিয়াট্রিক ড্রপস"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b66"
+    },
+    "source_url": "https://medex.com.bd/brands/35356/a-pak-sr-200-mg-tablet",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Pak SR",
+    "name_bn": "এ-পাক এসআর",
+    "strength_en": "200 mg",
+    "strength_bn": "200 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Benham Pharmaceuticals Ltd.",
+    "company_bn": "বেনহাম ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet (Sustained Release)",
+    "medicine_type_bn": "ট্যাবলেট (টেকসই মুক্তি)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b67"
+    },
+    "source_url": "https://medex.com.bd/brands/8883/a-phenicol-05-eye-drop",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Phenicol",
+    "name_bn": "এ-ফেনিকোল",
+    "strength_en": "0.5%",
+    "strength_bn": "0.5%",
+    "generic_en": "Chloramphenicol (Ophthalmic)",
+    "generic_bn": "ক্লোরামফেনিকোল (চক্ষু)",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Ophthalmic Solution",
+    "medicine_type_bn": "চক্ষু সমাধান"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b71"
+    },
+    "source_url": "https://medex.com.bd/brands/25481/ab-ds-400-mg-chewable-tablet",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "AB-DS",
+    "name_bn": "এবি-ডিএস",
+    "strength_en": "400 mg",
+    "strength_bn": "400 মিলিগ্রাম",
+    "generic_en": "Albendazole",
+    "generic_bn": "আলবেনডাজল",
+    "company_en": "Prime Pharmaceuticals Ltd.",
+    "company_bn": "প্রাইম ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Chewable Tablet",
+    "medicine_type_bn": "চিবিয়েযোগ্য ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b75"
+    },
+    "source_url": "https://medex.com.bd/brands/7097/abaclor-500-mg-capsule",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abaclor",
+    "name_bn": "আবাক্লোর",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Cefaclor Monohydrate",
+    "generic_bn": "সিফাক্লোর মনোহাইড্রেট",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b7d"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/36222/abc-derm-baby-squam-lotion",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abc Derm Baby Squam",
+    "name_bn": "এবিসি ডার্ম বেবি স্কোয়াম",
+    "generic_en": "Miscellaneous Topical Agents",
+    "generic_bn": "বিবিধ সাময়িক এজেন্ট",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Lotion",
+    "medicine_type_bn": "লোশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b7e"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/36216/abc-derm-change-intensif-lotion",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abc Derm Change Intensif",
+    "name_bn": "এবিসি ডার্ম পরিবর্তন তীব্রতা",
+    "generic_en": "Miscellaneous Topical Agents",
+    "generic_bn": "বিবিধ সাময়িক এজেন্ট",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Lotion",
+    "medicine_type_bn": "লোশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b7f"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/36217/abc-derm-cold-cream-corps-cream",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abc Derm Cold Cream Corps",
+    "name_bn": "এবিসি ডার্ম কোল্ড ক্রিম কর্পস",
+    "generic_en": "Miscellaneous Topical Agents",
+    "generic_bn": "বিবিধ সাময়িক এজেন্ট",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Cream",
+    "medicine_type_bn": "ক্রিম"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b80"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/36218/abc-derm-cold-cream-visage-corps-lotion",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abc Derm Cold Cream Visage  & Corps",
+    "name_bn": "আবকডার্ম কোল্ড ক্রিম ভিজেজ এবং কর্পস",
+    "generic_en": "Miscellaneous Topical Agents",
+    "generic_bn": "বিবিধ সাময়িক এজেন্ট",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Lotion",
+    "medicine_type_bn": "লোশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b87"
+    },
+    "source_url": "https://medex.com.bd/brands/37626/abdolax-max-75-mg-oral-solution",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abdolax Max",
+    "name_bn": "আবডোলাক্স ম্যাক্স",
+    "strength_en": "7.5 mg/ml",
+    "strength_bn": "7.5 মিলিগ্রাম/এমএল",
+    "generic_en": "Sodium Picosulfate",
+    "generic_bn": "সোডিয়াম পিকোসালফেট",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Oral Solution",
+    "medicine_type_bn": "মৌখিক সমাধান"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b8a"
+    },
+    "source_url": "https://medex.com.bd/brands/3075/abecab-5-mg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abecab",
+    "name_bn": "আবেকাব",
+    "strength_en": "5 mg+20 mg",
+    "strength_bn": "5 মিলিগ্রাম+20 মিলিগ্রাম",
+    "generic_en": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "generic_bn": "অ্যাম্লোডিপাইন বেসিলেট + ওলমেসার্টন মেডোক্সোমিল",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b92"
+    },
+    "source_url": "https://medex.com.bd/brands/2777/abetis-20-mg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abetis",
+    "name_bn": "অ্যাবেটিস",
+    "strength_en": "20 mg",
+    "strength_bn": "20 মিলিগ্রাম",
+    "generic_en": "Olmesartan Medoxomil",
+    "generic_bn": "ওলমেসার্টন মেডোক্সোমিল",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b97"
+    },
+    "source_url": "https://medex.com.bd/brands/35306/abex-plus-100-mg-syrup",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abex Plus",
+    "name_bn": "অ্যাবেক্স প্লাস",
+    "strength_en": "(100 mg+1.1 mg+14 mg)/5 ml",
+    "strength_bn": "(100 মিলিগ্রাম+1.1 মিলিগ্রাম+14 মিলিগ্রাম)/5 এমএল",
+    "generic_en": "Guaifenesin + Levomenthol + Diphenhydramine",
+    "generic_bn": "গুয়াফিনেসিন + লেভোমেন্টল + ডিফেনহাইড্রামাইন",
+    "company_en": "Ibn Sina Pharmaceuticals Ltd.",
+    "company_bn": "ইবনে সিনা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b99"
+    },
+    "source_url": "https://medex.com.bd/brands/37280/abezino-150-mg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abezino",
+    "name_bn": "অ্যাবেজিনো",
+    "strength_en": "150 mg",
+    "strength_bn": "150 মিলিগ্রাম",
+    "generic_en": "Abemaciclib",
+    "generic_bn": "অ্যাবেম্যাকিক্লিব",
+    "company_en": "Healthcare Pharmaceuticals Ltd.",
+    "company_bn": "স্বাস্থ্যসেবা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b9d"
+    },
+    "source_url": "https://medex.com.bd/brands/36608/abicon-max-500-mg-suspension",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abicon Max",
+    "name_bn": "অ্যাবিকন ম্যাক্স",
+    "strength_en": "(500 mg+213 mg+325 mg)/10 ml",
+    "strength_bn": "(500 মিলিগ্রাম+213 মিলিগ্রাম+325 মিলিগ্রাম)/10 এমএল",
+    "generic_en": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "generic_bn": "সোডিয়াম আলজিনেট + সোডিয়াম বাইকার্বোনেট + ক্যালসিয়াম কার্বনেট",
+    "company_en": "Healthcare Pharmaceuticals Ltd.",
+    "company_bn": "স্বাস্থ্যসেবা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Oral Suspension",
+    "medicine_type_bn": "মৌখিক স্থগিতাদেশ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b9f"
+    },
+    "source_url": "https://medex.com.bd/brands/38107/abiraxen-250-mg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abiraxen",
+    "name_bn": "আবিরাক্সেন",
+    "strength_en": "250 mg",
+    "strength_bn": "250 মিলিগ্রাম",
+    "generic_en": "Abiraterone Acetate",
+    "generic_bn": "আবিরেটরোন অ্যাসিটেট",
+    "company_en": "Everest Pharmaceuticals Ltd.",
+    "company_bn": "এভারেস্ট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ba1"
+    },
+    "source_url": "https://medex.com.bd/brands/35187/abiron-250-mg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abiron",
+    "name_bn": "আবিরন",
+    "strength_en": "250 mg",
+    "strength_bn": "250 মিলিগ্রাম",
+    "generic_en": "Abiraterone Acetate",
+    "generic_bn": "আবিরেটরোন অ্যাসিটেট",
+    "company_en": "Ziska Pharmaceuticals Ltd.",
+    "company_bn": "জিসকা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ba3"
+    },
+    "source_url": "https://medex.com.bd/brands/28147/abo-kit-200-mg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "ABO Kit",
+    "name_bn": "আবো কিট",
+    "strength_en": "200 mg+200 mcg",
+    "strength_bn": "200 মিলিগ্রাম+200 এমসিজি",
+    "generic_en": "Mifepristone + Misoprostol",
+    "generic_bn": "মাইফপ্রিস্টোন + মিসপ্রোস্টল",
+    "company_en": "Globe Pharmaceuticals Ltd.",
+    "company_bn": "গ্লোব ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ba4"
+    },
+    "source_url": "https://medex.com.bd/brands/35355/aboprost-200-mcg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aboprost",
+    "name_bn": "অ্যাবপ্রস্ট",
+    "strength_en": "200 mcg",
+    "strength_bn": "200 এমসিজি",
+    "generic_en": "Misoprostol",
+    "generic_bn": "মিসপ্রোস্টল",
+    "company_en": "Benham Pharmaceuticals Ltd.",
+    "company_bn": "বেনহাম ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bb6"
+    },
+    "source_url": "https://medex.com.bd/brands/10384/ace-250-mg-suppository",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Ace",
+    "name_bn": "টেক্কা",
+    "strength_en": "250 mg",
+    "strength_bn": "250 মিলিগ্রাম",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Square Pharmaceuticals PLC",
+    "company_bn": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "Suppository",
+    "medicine_type_bn": "সাপোজিটরি"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bb9"
+    },
+    "source_url": "https://medex.com.bd/brands/33987/ace-10-mg-injection",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Ace",
+    "name_bn": "টেক্কা",
+    "strength_en": "10 mg/ml",
+    "strength_bn": "10 মিলিগ্রাম/এমএল",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Square Pharmaceuticals PLC",
+    "company_bn": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "IV Infusion",
+    "medicine_type_bn": "চতুর্থ ইনফিউশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bba"
+    },
+    "source_url": "https://medex.com.bd/brands/10557/ace-plus-500-mg-tablet",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Ace Plus",
+    "name_bn": "এস প্লাস",
+    "strength_en": "500 mg+65 mg",
+    "strength_bn": "500 মিলিগ্রাম+65 মিলিগ্রাম",
+    "generic_en": "Paracetamol + Caffeine",
+    "generic_bn": "প্যারাসিটামল + ক্যাফিন",
+    "company_en": "Square Pharmaceuticals PLC",
+    "company_bn": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bbc"
+    },
+    "source_url": "https://medex.com.bd/brands/10378/ace-xr-665-mg-tablet",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Ace XR",
+    "name_bn": "এস এক্সআর",
+    "strength_en": "665 mg",
+    "strength_bn": "665 মিলিগ্রাম",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Square Pharmaceuticals PLC",
+    "company_bn": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "Tablet (Extended Release)",
+    "medicine_type_bn": "ট্যাবলেট (বর্ধিত রিলিজ)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bbd"
+    },
+    "source_url": "https://medex.com.bd/brands/9/acebid-100-mg-tablet",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acebid",
+    "name_bn": "Acebid",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Beacon Pharmaceuticals PLC",
+    "company_bn": "বেকন ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bc3"
+    },
+    "source_url": "https://medex.com.bd/brands/35665/aceclofenac-100-mg-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceclofenac",
+    "name_bn": "ACECLOFENAC",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Pristine Pharmaceuticals Ltd",
+    "company_bn": "প্রিস্টাইন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bc5"
+    },
+    "source_url": "https://medex.com.bd/brands/37627/aceclofenac-100-mg-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceclofenac",
+    "name_bn": "ACECLOFENAC",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Pharmik Laboratories Ltd.",
+    "company_bn": "ফার্মিক ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bc8"
+    },
+    "source_url": "https://medex.com.bd/brands/37789/aceclosic-100-mg-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceclosic",
+    "name_bn": "Aceclosic",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Physic pharmaceuticals ltd.",
+    "company_bn": "ফিজিক ফার্মাসিউটিক্যালস লিমিটেড।",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bcf"
+    },
+    "source_url": "https://medex.com.bd/brands/28216/acedone-z-plus-400-mg-chewable-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acedone-Z Plus",
+    "name_bn": "এসিডোন-জেড প্লাস",
+    "strength_en": "400 mg+400 mg+30 mg",
+    "strength_bn": "400 মিলিগ্রাম+400 মিলিগ্রাম+30 মিলিগ্রাম",
+    "generic_en": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "generic_bn": "অ্যালুমিনিয়াম হাইড্রোক্সাইড + ম্যাগনেসিয়াম হাইড্রোক্সাইড + সিমেথিকোন",
+    "company_en": "Zenith Pharmaceuticals Ltd.",
+    "company_bn": "জেনিথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Chewable Tablet",
+    "medicine_type_bn": "চিবিয়েযোগ্য ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bd5"
+    },
+    "source_url": "https://medex.com.bd/brands/28235/acelex-250-mg-capsule",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acelex",
+    "name_bn": "এসিলেক্স",
+    "strength_en": "250 mg",
+    "strength_bn": "250 মিলিগ্রাম",
+    "generic_en": "Cephalexin",
+    "generic_bn": "সিফ্লেক্সিন",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bd8"
+    },
+    "source_url": "https://medex.com.bd/brands/18/acelock-100-mg-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acelock",
+    "name_bn": "এসেলক",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Bristol Pharmaceuticals Ltd.",
+    "company_bn": "ব্রিস্টল ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8be7"
+    },
+    "source_url": "https://medex.com.bd/brands/127/acerux-250-mg-injection",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acerux",
+    "name_bn": "এসারাক্স",
+    "strength_en": "250 mg/vial",
+    "strength_bn": "250 মিলিগ্রাম/শিশি",
+    "generic_en": "Acyclovir (Injection)",
+    "generic_bn": "অ্যাসাইক্লোভির (ইনজেকশন)",
+    "company_en": "Opsonin Pharma Ltd.",
+    "company_bn": "ওপসনিন ফার্মা লিমিটেড",
+    "medicine_type_en": "IV Infusion",
+    "medicine_type_bn": "চতুর্থ ইনফিউশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bf1"
+    },
+    "source_url": "https://medex.com.bd/brands/23437/aceta-extend-665-mg-tablet",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceta Extend",
+    "name_bn": "এসিতা প্রসারিত",
+    "strength_en": "665 mg",
+    "strength_bn": "665 মিলিগ্রাম",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Biopharma Limited",
+    "company_bn": "বায়োফর্মা লিমিটেড",
+    "medicine_type_en": "Tablet (Extended Release)",
+    "medicine_type_bn": "ট্যাবলেট (বর্ধিত রিলিজ)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bf4"
+    },
+    "source_url": "https://medex.com.bd/brands/10782/aceta-t-325-mg-tablet",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceta-T",
+    "name_bn": "এসিতা-টি",
+    "strength_en": "325 mg+37.5 mg",
+    "strength_bn": "325 মিলিগ্রাম+37.5 মিলিগ্রাম",
+    "generic_en": "Paracetamol + Tramadol Hydrochloride",
+    "generic_bn": "প্যারাসিটামল+ট্রামডল হাইড্রোক্লোরাইড",
+    "company_en": "Biopharma Limited",
+    "company_bn": "বায়োফর্মা লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bf6"
+    },
+    "source_url": "https://medex.com.bd/brands/32856/aceten-600-mg-tablet",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceten",
+    "name_bn": "অ্যাসিটেন",
+    "strength_en": "600 mg",
+    "strength_bn": "600 মিলিগ্রাম",
+    "generic_en": "Acetylcysteine",
+    "generic_bn": "এসিটাইলসিস্টাইন",
+    "company_en": "Eskayef Pharmaceuticals Ltd.",
+    "company_bn": "এস্কায়েফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Effervescent Tablet",
+    "medicine_type_bn": "এফেরভেসেন্ট ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bf7"
+    },
+    "source_url": "https://medex.com.bd/brands/33042/aceten-100-mg-eff-granules",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceten",
+    "name_bn": "অ্যাসিটেন",
+    "strength_en": "100 mg/sachet",
+    "strength_bn": "100 মিলিগ্রাম/স্যাচেট",
+    "generic_en": "Acetylcysteine",
+    "generic_bn": "এসিটাইলসিস্টাইন",
+    "company_en": "Eskayef Pharmaceuticals Ltd.",
+    "company_bn": "এস্কায়েফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Effervescent Granules",
+    "medicine_type_bn": "এফেরভেসেন্ট গ্রানুলস"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c05"
+    },
+    "source_url": "https://medex.com.bd/brands/26322/acical-dx-600-mg-tablet",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acical-DX",
+    "name_bn": "এসিকাল-ডিএক্স",
+    "strength_en": "600 mg+400 IU",
+    "strength_bn": "600 মিলিগ্রাম+400 আইইউ",
+    "generic_en": "Elemental Calcium + Vitamin D3",
+    "generic_bn": "প্রাথমিক ক্যালসিয়াম + ভিটামিন ডি 3",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Effervescent Tablet",
+    "medicine_type_bn": "এফেরভেসেন্ট ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c07"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/26323/acical-mx-tablet",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acical-MX",
+    "name_bn": "এসিকাল-এমএক্স",
+    "generic_en": "Calcium + Vitamin D3 + Multimineral",
+    "generic_bn": "ক্যালসিয়াম + ভিটামিন ডি 3 + মাল্টিমাইনারাল",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Effervescent Tablet",
+    "medicine_type_bn": "এফেরভেসেন্ট ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c09"
+    },
+    "source_url": "https://medex.com.bd/brands/15754/acicot-01-eye-drop",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acicot",
+    "name_bn": "এসিকোট",
+    "strength_en": "0.1%",
+    "strength_bn": "0.1%",
+    "generic_en": "Dexamethasone (Ophthalmic)",
+    "generic_bn": "ডেক্সামেথেসোন (চক্ষু)",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Ophthalmic Solution",
+    "medicine_type_bn": "চক্ষু সমাধান"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c0f"
+    },
+    "source_url": "https://medex.com.bd/brands/16776/acilog-100-iu-injection",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acilog",
+    "name_bn": "অ্যাকিলোগ",
+    "strength_en": "100 IU/ml",
+    "strength_bn": "100 আইইউ/এমএল",
+    "generic_en": "Insulin Aspart [Protamine Crystallised]",
+    "generic_bn": "ইনসুলিন অ্যাস্পার্ট [প্রোটামাইন স্ফটিকযুক্ত]",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "SC Injection",
+    "medicine_type_bn": "এসসি ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c10"
+    },
+    "source_url": "https://medex.com.bd/brands/27536/acilog-mix-30-70-injection",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acilog Mix",
+    "name_bn": "অ্যাকিলোগ মিশ্রণ",
+    "strength_en": "30%+70%",
+    "strength_bn": "30%+70%",
+    "generic_en": "Biphasic Insulin Aspart",
+    "generic_bn": "বিফাসিক ইনসুলিন অ্যাস্পার্ট",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "SC Injection",
+    "medicine_type_bn": "এসসি ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c12"
+    },
+    "source_url": "https://medex.com.bd/brands/4483/acipam-10-mg-tablet",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acipam",
+    "name_bn": "এসিপাম",
+    "strength_en": "10 mg",
+    "strength_bn": "10 মিলিগ্রাম",
+    "generic_en": "Escitalopram Oxalate",
+    "generic_bn": "এস্কিটালপ্রাম অক্সালেট",
+    "company_en": "Ibn Sina Pharmaceuticals Ltd.",
+    "company_bn": "ইবনে সিনা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c15"
+    },
+    "source_url": "https://medex.com.bd/brands/7912/aciphin-1-gm-injection",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aciphin",
+    "name_bn": "এসিফিন",
+    "strength_en": "1 gm/vial",
+    "strength_bn": "1 গ্রাম/শিশি",
+    "generic_en": "Ceftriaxone Sodium",
+    "generic_bn": "সিফট্রিয়াক্সোন সোডিয়াম",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "IM Injection",
+    "medicine_type_bn": "আমি ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c17"
+    },
+    "source_url": "https://medex.com.bd/brands/7914/aciphin-500-mg-injection",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aciphin",
+    "name_bn": "এসিফিন",
+    "strength_en": "500 mg/vial",
+    "strength_bn": "500 মিলিগ্রাম/শিশি",
+    "generic_en": "Ceftriaxone Sodium",
+    "generic_bn": "সিফট্রিয়াক্সোন সোডিয়াম",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "IV Injection",
+    "medicine_type_bn": "চতুর্থ ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c1d"
+    },
+    "source_url": "https://medex.com.bd/brands/11910/acitrin-25-mg-pediatric-drop",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acitrin",
+    "name_bn": "অ্যাকিট্রিন",
+    "strength_en": "2.5 mg/ml",
+    "strength_bn": "2.5 মিলিগ্রাম/এমএল",
+    "generic_en": "Cetirizine Hydrochloride",
+    "generic_bn": "সিটিরিজাইন হাইড্রোক্লোরাইড",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Pediatric Drops",
+    "medicine_type_bn": "পেডিয়াট্রিক ড্রপস"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c21"
+    },
+    "source_url": "https://medex.com.bd/brands/168/aclene-01-cream",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aclene",
+    "name_bn": "অ্যাকলিন",
+    "strength_en": "0.1%",
+    "strength_bn": "0.1%",
+    "generic_en": "Adapalene",
+    "generic_bn": "অ্যাডাপালিন",
+    "company_en": "Drug International Ltd.",
+    "company_bn": "ড্রাগ ইন্টারন্যাশনাল লিমিটেড",
+    "medicine_type_en": "Cream",
+    "medicine_type_bn": "ক্রিম"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c23"
+    },
+    "source_url": "https://medex.com.bd/brands/32969/aclitol-400-mcg-inhalation-capsule",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aclitol",
+    "name_bn": "অ্যাক্লিটল",
+    "strength_en": "400 mcg+12 mcg",
+    "strength_bn": "400 এমসিজি+12 এমসিজি",
+    "generic_en": "Aclidinium Bromide + Formoterol Fumarate",
+    "generic_bn": "অ্যাক্লিডিনিয়াম ব্রোমাইড + ফর্মোটেরল ফিউমারেট",
+    "company_en": "Square Pharmaceuticals PLC",
+    "company_bn": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "Dry Powder Inhalation Capsule (DPI)",
+    "medicine_type_bn": "শুকনো পাউডার ইনহেলেশন ক্যাপসুল (ডিপিআই)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c24"
+    },
+    "source_url": "https://medex.com.bd/brands/4606/acliz-50-mg-chewable-tablet",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acliz",
+    "name_bn": "অ্যাক্লিজ",
+    "strength_en": "50 mg",
+    "strength_bn": "50 মিলিগ্রাম",
+    "generic_en": "Meclizine Hydrochloride",
+    "generic_bn": "ম্যাকলিজাইন হাইড্রোক্লোরাইড",
+    "company_en": "Aristopharma Ltd.",
+    "company_bn": "অ্যারিস্টোফর্মা লিমিটেড",
+    "medicine_type_en": "Chewable Tablet",
+    "medicine_type_bn": "চিবিয়েযোগ্য ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c2c"
+    },
+    "source_url": "https://medex.com.bd/brands/26/aclovix-100-mg-tablet",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aclovix",
+    "name_bn": "অ্যাক্লোভিক্স",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Aexim Pharmaceuticals Ltd.",
+    "company_bn": "এএক্সিম ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c36"
+    },
+    "source_url": "https://medex.com.bd/brands/6042/acmegra-25-mg-tablet",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acmegra",
+    "name_bn": "অ্যাকমেগ্রা",
+    "strength_en": "25 mg",
+    "strength_bn": "25 মিলিগ্রাম",
+    "generic_en": "Sildenafil Citrate",
+    "generic_bn": "সিলডেনাফিল সাইট্রেট",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c39"
+    },
+    "source_url": "https://medex.com.bd/brands/6/acn-100-mg-tablet",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "ACN",
+    "name_bn": "এসিএন",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Modern Pharmaceuticals Ltd.",
+    "company_bn": "আধুনিক ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c3b"
+    },
+    "source_url": "https://medex.com.bd/brands/30844/acnesone-75-gel",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acnesone",
+    "name_bn": "অ্যাকসোন",
+    "strength_en": "7.5%",
+    "strength_bn": "7.5%",
+    "generic_en": "Dapsone",
+    "generic_bn": "ড্যাপসোন",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Gel",
+    "medicine_type_bn": "জেল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c3d"
+    },
+    "source_url": "https://medex.com.bd/brands/37616/acnev-1-w-cream",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acnev",
+    "name_bn": "Acnev",
+    "strength_en": "1% w/w",
+    "strength_bn": "1% ডাব্লু/ডাব্লু",
+    "generic_en": "Clascoterone",
+    "generic_bn": "Clascoterone",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Cream",
+    "medicine_type_bn": "ক্রিম"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c40"
+    },
+    "source_url": "https://medex.com.bd/brands/8540/acos-500-mg-tablet",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acos",
+    "name_bn": "ACOS",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Azithromycin Dihydrate",
+    "generic_bn": "অ্যাজিথ্রোমাইসিন ডাইহাইড্রেট",
+    "company_en": "Radiant Pharmaceuticals Ltd.",
+    "company_bn": "রেডিয়েন্ট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b33"
+    },
+    "source_url": "https://medex.com.bd/brands/7698/3-geocef-100-mg-suspension",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "3-Geocef",
+    "name_bn": "3-জিওসিএফ",
+    "strength_en": "100 mg/5 ml",
+    "strength_bn": "100 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Hallmark Pharmaceuticals Ltd.",
+    "company_bn": "হলমার্ক ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b34"
+    },
+    "source_url": "https://medex.com.bd/brands/31993/3d-20000-iu-capsule",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "3D",
+    "name_bn": "3 ডি",
+    "strength_en": "20000 IU",
+    "strength_bn": "20000 আইইউ",
+    "generic_en": "Cholecalciferol [Vitamin D3]",
+    "generic_bn": "Cholecalciferol [ভিটামিন ডি 3]",
+    "company_en": "Jenphar Bangladesh Ltd.",
+    "company_bn": "জেনফার বাংলাদেশ লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b35"
+    },
+    "source_url": "https://medex.com.bd/brands/31994/3d-40000-iu-capsule",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "3D",
+    "name_bn": "3 ডি",
+    "strength_en": "40000 IU",
+    "strength_bn": "40000 আইইউ",
+    "generic_en": "Cholecalciferol [Vitamin D3]",
+    "generic_bn": "Cholecalciferol [ভিটামিন ডি 3]",
+    "company_en": "Jenphar Bangladesh Ltd.",
+    "company_bn": "জেনফার বাংলাদেশ লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b42"
+    },
+    "source_url": "https://medex.com.bd/brands/14480/a-cal-dx-500-mg-tablet",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Cal DX",
+    "name_bn": "এ-ক্যাল ডিএক্স",
+    "strength_en": "500 mg+400 IU",
+    "strength_bn": "500 মিলিগ্রাম+400 আইইউ",
+    "generic_en": "Elemental Calcium + Vitamin D3",
+    "generic_bn": "প্রাথমিক ক্যালসিয়াম + ভিটামিন ডি 3",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b47"
+    },
+    "source_url": "https://medex.com.bd/brands/6172/a-clox-125-mg-suspension",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Clox",
+    "name_bn": "এ-ক্লক্স",
+    "strength_en": "125 mg/5 ml",
+    "strength_bn": "125 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Cloxacillin Sodium",
+    "generic_bn": "ক্লোক্সাসিলিন সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b49"
+    },
+    "source_url": "https://medex.com.bd/brands/6174/a-clox-500-mg-injection",
+    "_page": 1,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Clox",
+    "name_bn": "এ-ক্লক্স",
+    "strength_en": "500 mg/vial",
+    "strength_bn": "500 মিলিগ্রাম/শিশি",
+    "generic_en": "Cloxacillin Sodium",
+    "generic_bn": "ক্লোক্সাসিলিন সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "IM/IV Injection",
+    "medicine_type_bn": "আমি/চতুর্থ ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b4b"
+    },
+    "source_url": "https://medex.com.bd/brands/4077/a-cold-4-mg-syrup",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Cold",
+    "name_bn": "এ-কোল্ড",
+    "strength_en": "4 mg/5 ml",
+    "strength_bn": "4 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Bromhexine Hydrochloride",
+    "generic_bn": "ব্রোমহেক্সিন হাইড্রোক্লোরাইড",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b53"
+    },
+    "source_url": "https://medex.com.bd/brands/10933/a-fenac-plus-75-mg-injection",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Fenac Plus",
+    "name_bn": "এ-ফেনাক প্লাস",
+    "strength_en": "(75 mg+20 mg)/2 ml",
+    "strength_bn": "(75 মিলিগ্রাম+20 মিলিগ্রাম)/2 এমএল",
+    "generic_en": "Diclofenac Sodium + Lidocaine Hydrochloride",
+    "generic_bn": "ডাইক্লোফেনাক সোডিয়াম + লিডোকেন হাইড্রোক্লোরাইড",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "IM Injection",
+    "medicine_type_bn": "আমি ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b55"
+    },
+    "source_url": "https://medex.com.bd/brands/6210/a-flox-250-mg-capsule",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Flox",
+    "name_bn": "এ-ফ্লক্স",
+    "strength_en": "250 mg",
+    "strength_bn": "250 মিলিগ্রাম",
+    "generic_en": "Flucloxacillin Sodium",
+    "generic_bn": "ফ্লুক্লোক্সাসিলিন সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b57"
+    },
+    "source_url": "https://medex.com.bd/brands/6212/a-flox-125-mg-suspension",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Flox",
+    "name_bn": "এ-ফ্লক্স",
+    "strength_en": "125 mg/5 ml",
+    "strength_bn": "125 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Flucloxacillin Sodium",
+    "generic_bn": "ফ্লুক্লোক্সাসিলিন সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b5a"
+    },
+    "source_url": "https://medex.com.bd/brands/28227/a-kit-200-mg-tablet",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Kit",
+    "name_bn": "এ-কিট",
+    "strength_en": "200 mg+200 mcg",
+    "strength_bn": "200 মিলিগ্রাম+200 এমসিজি",
+    "generic_en": "Mifepristone + Misoprostol",
+    "generic_bn": "মাইফপ্রিস্টোন + মিসপ্রোস্টল",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b5e"
+    },
+    "source_url": "https://medex.com.bd/brands/10007/a-migel-2-w-oral-gel",
+    "_page": 2,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "A-Migel",
+    "name_bn": "এ-মিজেল",
+    "strength_en": "2% w/w",
+    "strength_bn": "2% ডাব্লু/ডাব্লু",
+    "generic_en": "Miconazole Nitrate",
+    "generic_bn": "মাইকোনাজল নাইট্রেট",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Oral Gel",
+    "medicine_type_bn": "ওরাল জেল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b70"
+    },
+    "source_url": "https://medex.com.bd/brands/26635/ab-kit-200-mg-tablet",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "AB Kit",
+    "name_bn": "এবি কিট",
+    "strength_en": "200 mg+200 mcg",
+    "strength_bn": "200 মিলিগ্রাম+200 এমসিজি",
+    "generic_en": "Mifepristone + Misoprostol",
+    "generic_bn": "মাইফপ্রিস্টোন + মিসপ্রোস্টল",
+    "company_en": "Renata PLC",
+    "company_bn": "রেনাটা পিএলসি",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b72"
+    },
+    "source_url": "https://medex.com.bd/brands/6776/abac-500-mg-capsule",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abac",
+    "name_bn": "আব্যাক",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Cephradine",
+    "generic_bn": "সিফ্রাডাইন",
+    "company_en": "Chemist Laboratories  Ltd.",
+    "company_bn": "কেমিস্ট ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b76"
+    },
+    "source_url": "https://medex.com.bd/brands/7098/abaclor-125-mg-suspension",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abaclor",
+    "name_bn": "আবাক্লোর",
+    "strength_en": "125 mg/5 ml",
+    "strength_bn": "125 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Cefaclor Monohydrate",
+    "generic_bn": "সিফাক্লোর মনোহাইড্রেট",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b79"
+    },
+    "source_url": "https://medex.com.bd/brands/32905/abacten-500-mg-tablet",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abacten",
+    "name_bn": "অ্যাব্যাক্টেন",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Azithromycin Dihydrate",
+    "generic_bn": "অ্যাজিথ্রোমাইসিন ডাইহাইড্রেট",
+    "company_en": "Arges Life Science Limited",
+    "company_bn": "আরগস লাইফ সায়েন্স লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b7b"
+    },
+    "source_url": "https://medex.com.bd/brands/26940/abasaglar-100-iu-injection",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abasaglar",
+    "name_bn": "আবাসাগলার",
+    "strength_en": "100 IU/ml",
+    "strength_bn": "100 আইইউ/এমএল",
+    "generic_en": "Insulin Glargine",
+    "generic_bn": "ইনসুলিন গ্লারগাইন",
+    "company_en": "Healthcare Pharmaceuticals Ltd.",
+    "company_bn": "স্বাস্থ্যসেবা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "SC Injection",
+    "medicine_type_bn": "এসসি ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b7c"
+    },
+    "source_url": "https://medex.com.bd/brands/34958/abc-6-mg-tablet",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "ABC",
+    "name_bn": "এবিসি",
+    "strength_en": "6 mg+200 mg+50 mg",
+    "strength_bn": "6 মিলিগ্রাম+200 মিলিগ্রাম+50 মিলিগ্রাম",
+    "generic_en": "Betacarotene + Vitamin C + Vitamin E",
+    "generic_bn": "Betacarotene + ভিটামিন সি + ভিটামিন ই",
+    "company_en": "Union Pharmaceuticals Ltd",
+    "company_bn": "ইউনিয়ন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b85"
+    },
+    "source_url": "https://medex.com.bd/brands/31999/abdolax-10-mg-tablet",
+    "_page": 3,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abdolax",
+    "name_bn": "আবডোলাক্স",
+    "strength_en": "10 mg",
+    "strength_bn": "10 মিলিগ্রাম",
+    "generic_en": "Sodium Picosulfate",
+    "generic_bn": "সোডিয়াম পিকোসালফেট",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b8b"
+    },
+    "source_url": "https://medex.com.bd/brands/3076/abecab-5-mg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abecab",
+    "name_bn": "আবেকাব",
+    "strength_en": "5 mg+40 mg",
+    "strength_bn": "5 মিলিগ্রাম+40 মিলিগ্রাম",
+    "generic_en": "Amlodipine Besilate + Olmesartan Medoxomil",
+    "generic_bn": "অ্যাম্লোডিপাইন বেসিলেট + ওলমেসার্টন মেডোক্সোমিল",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b93"
+    },
+    "source_url": "https://medex.com.bd/brands/2778/abetis-40-mg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abetis",
+    "name_bn": "অ্যাবেটিস",
+    "strength_en": "40 mg",
+    "strength_bn": "40 মিলিগ্রাম",
+    "generic_en": "Olmesartan Medoxomil",
+    "generic_bn": "ওলমেসার্টন মেডোক্সোমিল",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b94"
+    },
+    "source_url": "https://medex.com.bd/brands/2981/abetis-plus-20-mg-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abetis Plus",
+    "name_bn": "অ্যাবেটিস প্লাস",
+    "strength_en": "20 mg+12.5 mg",
+    "strength_bn": "20 মিলিগ্রাম+12.5 মিলিগ্রাম",
+    "generic_en": "Olmesartan Medoxomil + Hydrochlorothiazide",
+    "generic_bn": "ওলমেসার্টন মেডোক্সোমিল + হাইড্রোক্লোরোথিয়াজাইড",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b98"
+    },
+    "source_url": "https://medex.com.bd/brands/35307/abexol-200-mg-syrup",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abexol",
+    "name_bn": "অ্যাবেক্সল",
+    "strength_en": "(200 mg+15 mg+15 mg)/5 ml",
+    "strength_bn": "(200 মিলিগ্রাম+15 মিলিগ্রাম+15 মিলিগ্রাম)/5 এমএল",
+    "generic_en": "Guaifenesin + Dextromethorphan + Menthol",
+    "generic_bn": "গুয়াফিনেসিন + ডেক্সট্রোমেথোরফান + মেন্থল",
+    "company_en": "Ibn Sina Pharmaceuticals Ltd.",
+    "company_bn": "ইবনে সিনা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b9c"
+    },
+    "source_url": "https://medex.com.bd/brands/33570/abicon-500-mg-chewable-tablet",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abicon",
+    "name_bn": "অ্যাবিকন",
+    "strength_en": "500 mg+100 mg",
+    "strength_bn": "500 মিলিগ্রাম+100 মিলিগ্রাম",
+    "generic_en": "Sodium Alginate + Potassium Bicarbonate",
+    "generic_bn": "সোডিয়াম আলজিনেট + পটাসিয়াম বাইকার্বোনেট",
+    "company_en": "Healthcare Pharmaceuticals Ltd.",
+    "company_bn": "স্বাস্থ্যসেবা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Chewable Tablet",
+    "medicine_type_bn": "চিবিয়েযোগ্য ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8b9e"
+    },
+    "source_url": "https://medex.com.bd/brands/35489/abicon-plus-500-mg-suspension",
+    "_page": 4,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Abicon Plus",
+    "name_bn": "অ্যাবিকন প্লাস",
+    "strength_en": "(500 mg+267 mg+160 mg)/10 ml",
+    "strength_bn": "(500 মিলিগ্রাম+267 মিলিগ্রাম+160 মিলিগ্রাম)/10 এমএল",
+    "generic_en": "Sodium Alginate + Sodium Bicarbonate + Calcium Carbonate",
+    "generic_bn": "সোডিয়াম আলজিনেট + সোডিয়াম বাইকার্বোনেট + ক্যালসিয়াম কার্বনেট",
+    "company_en": "Healthcare Pharmaceuticals Ltd.",
+    "company_bn": "স্বাস্থ্যসেবা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Oral Suspension",
+    "medicine_type_bn": "মৌখিক স্থগিতাদেশ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ba8"
+    },
+    "source_url": "https://medex.com.bd/brands/35308/ac-pr-sr-200-mg-tablet",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "AC PR SR",
+    "name_bn": "এসি পিআর এসআর",
+    "strength_en": "200 mg",
+    "strength_bn": "200 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Pacific Pharmaceuticals Ltd.",
+    "company_bn": "প্যাসিফিক ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet (Sustained Release)",
+    "medicine_type_bn": "ট্যাবলেট (টেকসই মুক্তি)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ba9"
+    },
+    "source_url": "https://medex.com.bd/brands/38108/acaluxen-100-mg-capsule",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acaluxen",
+    "name_bn": "অ্যাকালাক্সেন",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Acalabrutinib",
+    "generic_bn": "আকালাব্রুটিনিব",
+    "company_en": "Everest Pharmaceuticals Ltd.",
+    "company_bn": "এভারেস্ট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8baa"
+    },
+    "source_url": "https://medex.com.bd/brands/222/acaril-50-mg-tablet",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acaril",
+    "name_bn": "অ্যাকারিল",
+    "strength_en": "50 mg",
+    "strength_bn": "50 মিলিগ্রাম",
+    "generic_en": "Acarbose",
+    "generic_bn": "অ্যাকারবোজ",
+    "company_en": "The White Horse Pharmaceuticals Ltd.",
+    "company_bn": "হোয়াইট হর্স ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bac"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/36119/accu-chek-active-glucometer",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "ACCU-CHEK Active",
+    "name_bn": "অ্যাকু-চেক সক্রিয়",
+    "generic_en": "Blood glucose monitoring device",
+    "generic_bn": "রক্ত গ্লুকোজ মনিটরিং ডিভাইস",
+    "company_en": "Radiant Export Import Enterprise",
+    "company_bn": "র‌্যাডিয়েন্ট রফতানি আমদানি উদ্যোগ",
+    "medicine_type_en": "Glucometer",
+    "medicine_type_bn": "গ্লুকোমিটার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8baf"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/34973/accu-chek-instant-s-glucometer",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "ACCU-CHEK Instant S",
+    "name_bn": "অ্যাকু-চেক ইনস্ট্যান্ট এস",
+    "generic_en": "Blood glucose monitoring device",
+    "generic_bn": "রক্ত গ্লুকোজ মনিটরিং ডিভাইস",
+    "company_en": "Radiant Export Import Enterprise",
+    "company_bn": "র‌্যাডিয়েন্ট রফতানি আমদানি উদ্যোগ",
+    "medicine_type_en": "Glucometer",
+    "medicine_type_bn": "গ্লুকোমিটার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bb0"
+    },
+    "source_url": "https://medex.com.bd/brands/32289/accuzith-500-mg-tablet",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Accuzith",
+    "name_bn": "অ্যাকুজিথ",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Azithromycin Dihydrate",
+    "generic_bn": "অ্যাজিথ্রোমাইসিন ডাইহাইড্রেট",
+    "company_en": "DBL Pharmaceuticals Ltd.",
+    "company_bn": "ডিবিএল ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bb5"
+    },
+    "source_url": "https://medex.com.bd/brands/10383/ace-125-mg-suppository",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Ace",
+    "name_bn": "টেক্কা",
+    "strength_en": "125 mg",
+    "strength_bn": "125 মিলিগ্রাম",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Square Pharmaceuticals PLC",
+    "company_bn": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "Suppository",
+    "medicine_type_bn": "সাপোজিটরি"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bb8"
+    },
+    "source_url": "https://medex.com.bd/brands/29606/ace-120-mg-syrup",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Ace",
+    "name_bn": "টেক্কা",
+    "strength_en": "120 mg/5 ml",
+    "strength_bn": "120 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Square Pharmaceuticals PLC",
+    "company_bn": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bc0"
+    },
+    "source_url": "https://medex.com.bd/brands/2629/acecard-5-mg-tablet",
+    "_page": 5,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acecard",
+    "name_bn": "এসকার্ড",
+    "strength_en": "5 mg",
+    "strength_bn": "5 মিলিগ্রাম",
+    "generic_en": "Ramipril",
+    "generic_bn": "রামিপ্রিল",
+    "company_en": "Healthcare Pharmaceuticals Ltd.",
+    "company_bn": "স্বাস্থ্যসেবা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bc4"
+    },
+    "source_url": "https://medex.com.bd/brands/37389/aceclofenac-200-mg-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceclofenac",
+    "name_bn": "ACECLOFENAC",
+    "strength_en": "200 mg",
+    "strength_bn": "200 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Pristine Pharmaceuticals Ltd",
+    "company_bn": "প্রিস্টাইন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet (Sustained Release)",
+    "medicine_type_bn": "ট্যাবলেট (টেকসই মুক্তি)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bc6"
+    },
+    "source_url": "https://medex.com.bd/brands/37628/aceclofenac-sr-200-mg-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceclofenac SR",
+    "name_bn": "এসেক্লোফেনাক এসআর",
+    "strength_en": "200 mg",
+    "strength_bn": "200 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Pharmik Laboratories Ltd.",
+    "company_bn": "ফার্মিক ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet (Sustained Release)",
+    "medicine_type_bn": "ট্যাবলেট (টেকসই মুক্তি)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bca"
+    },
+    "source_url": "https://medex.com.bd/brands/15/acedol-100-mg-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acedol",
+    "name_bn": "এসিডল",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Concord Pharmaceuticals Ltd.",
+    "company_bn": "কনকর্ড ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bcd"
+    },
+    "source_url": "https://medex.com.bd/brands/35574/acedone-z-175-mg-suspension",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acedone-Z",
+    "name_bn": "এসিডোন-জেড",
+    "strength_en": "(175 mg+225 mg)5 ml",
+    "strength_bn": "(175 মিলিগ্রাম+225 মিলিগ্রাম) 5 এমএল",
+    "generic_en": "Aluminium Hydroxide + Magnesium Hydroxide",
+    "generic_bn": "অ্যালুমিনিয়াম হাইড্রোক্সাইড + ম্যাগনেসিয়াম হাইড্রোক্সাইড",
+    "company_en": "Zenith Pharmaceuticals Ltd.",
+    "company_bn": "জেনিথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Oral Suspension",
+    "medicine_type_bn": "মৌখিক স্থগিতাদেশ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bd0"
+    },
+    "source_url": "https://medex.com.bd/brands/16/acefenac-100-mg-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acefenac",
+    "name_bn": "এসফেনাক",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "General Pharmaceuticals Ltd.",
+    "company_bn": "জেনারেল ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bd2"
+    },
+    "source_url": "https://medex.com.bd/brands/6779/acefra-500-mg-capsule",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acefra",
+    "name_bn": "এসফ্রা",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Cephradine",
+    "generic_bn": "সিফ্রাডাইন",
+    "company_en": "Apollo Pharmaceutical Ltd.",
+    "company_bn": "অ্যাপোলো ফার্মাসিউটিক্যাল লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bd7"
+    },
+    "source_url": "https://medex.com.bd/brands/28237/acelex-125-mg-suspension",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acelex",
+    "name_bn": "এসিলেক্স",
+    "strength_en": "125 mg/5 ml",
+    "strength_bn": "125 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Cephalexin",
+    "generic_bn": "সিফ্লেক্সিন",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bda"
+    },
+    "source_url": "https://medex.com.bd/brands/226/acemox-250-mg-tablet",
+    "_page": 6,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acemox",
+    "name_bn": "এসেমক্স",
+    "strength_en": "250 mg",
+    "strength_bn": "250 মিলিগ্রাম",
+    "generic_en": "Acetazolamide",
+    "generic_bn": "অ্যাসিটাজোলামাইড",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8be1"
+    },
+    "source_url": "https://medex.com.bd/brands/2607/acepril-5-mg-tablet",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acepril",
+    "name_bn": "এসপ্রিল",
+    "strength_en": "5 mg",
+    "strength_bn": "5 মিলিগ্রাম",
+    "generic_en": "Lisinopril",
+    "generic_bn": "লিসিনোপ্রিল",
+    "company_en": "Drug International Ltd.",
+    "company_bn": "ড্রাগ ইন্টারন্যাশনাল লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8be2"
+    },
+    "source_url": "https://medex.com.bd/brands/2608/acepril-10-mg-tablet",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acepril",
+    "name_bn": "এসপ্রিল",
+    "strength_en": "10 mg",
+    "strength_bn": "10 মিলিগ্রাম",
+    "generic_en": "Lisinopril",
+    "generic_bn": "লিসিনোপ্রিল",
+    "company_en": "Drug International Ltd.",
+    "company_bn": "ড্রাগ ইন্টারন্যাশনাল লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8be4"
+    },
+    "source_url": "https://medex.com.bd/brands/24072/aceril-25-mg-tablet",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceril",
+    "name_bn": "এসেরিল",
+    "strength_en": "2.5 mg",
+    "strength_bn": "2.5 মিলিগ্রাম",
+    "generic_en": "Ramipril",
+    "generic_bn": "রামিপ্রিল",
+    "company_en": "Ibn Sina Pharmaceuticals Ltd.",
+    "company_bn": "ইবনে সিনা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8be5"
+    },
+    "source_url": "https://medex.com.bd/brands/24073/aceril-5-mg-tablet",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceril",
+    "name_bn": "এসেরিল",
+    "strength_en": "5 mg",
+    "strength_bn": "5 মিলিগ্রাম",
+    "generic_en": "Ramipril",
+    "generic_bn": "রামিপ্রিল",
+    "company_en": "Ibn Sina Pharmaceuticals Ltd.",
+    "company_bn": "ইবনে সিনা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8be6"
+    },
+    "source_url": "https://medex.com.bd/brands/38718/aceron-100-mg-tablet",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceron",
+    "name_bn": "এসারন",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Aceclofenac",
+    "generic_bn": "ACECLOFENAC",
+    "company_en": "Nipa Pharmaceuticals Ltd.",
+    "company_bn": "নিপা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bf8"
+    },
+    "source_url": "https://medex.com.bd/brands/10392/aceto-500-mg-tablet",
+    "_page": 7,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aceto",
+    "name_bn": "অ্যাসিটো",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Reliance Pharmaceuticals Ltd.",
+    "company_bn": "রিলায়েন্স ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8bff"
+    },
+    "source_url": "https://medex.com.bd/brands/23204/aci-ors-fruity-10-gm-powder",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "ACI ORS Fruity",
+    "name_bn": "ACI ORS fruty",
+    "strength_en": "10 gm/sachet",
+    "strength_bn": "10 গ্রাম/স্যাচেট",
+    "generic_en": "Oral rehydration salt [flavore & glucose based]",
+    "generic_bn": "ওরাল রিহাইড্রেশন লবণ [স্বাদ এবং গ্লুকোজ ভিত্তিক]",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Oral Powder",
+    "medicine_type_bn": "ওরাল পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c0b"
+    },
+    "source_url": "https://medex.com.bd/brands/16576/acidrox-m-400-mg-chewable-tablet",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acidrox M",
+    "name_bn": "অ্যাসিড্রক্স মি",
+    "strength_en": "400 mg",
+    "strength_bn": "400 মিলিগ্রাম",
+    "generic_en": "Magaldrate",
+    "generic_bn": "ম্যাগালড্রেট",
+    "company_en": "Syntho Laboratories Ltd.",
+    "company_bn": "সিন্থো ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Chewable Tablet",
+    "medicine_type_bn": "চিবিয়েযোগ্য ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c11"
+    },
+    "source_url": "https://medex.com.bd/brands/4482/acipam-5-mg-tablet",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acipam",
+    "name_bn": "এসিপাম",
+    "strength_en": "5 mg",
+    "strength_bn": "5 মিলিগ্রাম",
+    "generic_en": "Escitalopram Oxalate",
+    "generic_bn": "এস্কিটালপ্রাম অক্সালেট",
+    "company_en": "Ibn Sina Pharmaceuticals Ltd.",
+    "company_bn": "ইবনে সিনা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c16"
+    },
+    "source_url": "https://medex.com.bd/brands/7913/aciphin-250-mg-injection",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aciphin",
+    "name_bn": "এসিফিন",
+    "strength_en": "250 mg/vial",
+    "strength_bn": "250 মিলিগ্রাম/শিশি",
+    "generic_en": "Ceftriaxone Sodium",
+    "generic_bn": "সিফট্রিয়াক্সোন সোডিয়াম",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "IV Injection",
+    "medicine_type_bn": "চতুর্থ ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c1a"
+    },
+    "source_url": "https://medex.com.bd/brands/33761/acipra-20-mg-capsule",
+    "_page": 8,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acipra",
+    "name_bn": "অ্যাকিপ্রা",
+    "strength_en": "20 mg",
+    "strength_bn": "20 মিলিগ্রাম",
+    "generic_en": "Rabeprazole Sodium",
+    "generic_bn": "রাবপ্রেজোল সোডিয়াম",
+    "company_en": "Alco Pharma Ltd.",
+    "company_bn": "আলকো ফার্মা লিমিটেড",
+    "medicine_type_en": "Capsule (Enteric Coated)",
+    "medicine_type_bn": "ক্যাপসুল (এন্টারিক লেপযুক্ত)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c22"
+    },
+    "source_url": "https://medex.com.bd/brands/17440/aclene-plus-01-25-gel",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aclene Plus",
+    "name_bn": "অ্যাকলিন প্লাস",
+    "strength_en": "0.1%+2.5%",
+    "strength_bn": "0.1%+2.5%",
+    "generic_en": "Adapalene + Benzoyl peroxide",
+    "generic_bn": "অ্যাডাপালিন + বেনজয়েল পারক্সাইড",
+    "company_en": "Drug International Ltd.",
+    "company_bn": "ড্রাগ ইন্টারন্যাশনাল লিমিটেড",
+    "medicine_type_en": "Gel",
+    "medicine_type_bn": "জেল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c27"
+    },
+    "source_url": "https://medex.com.bd/brands/12558/aclobet-005-ointment",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aclobet",
+    "name_bn": "অ্যাক্লোবেট",
+    "strength_en": "0.05%",
+    "strength_bn": "0.05%",
+    "generic_en": "Clobetasol Propionate",
+    "generic_bn": "ক্লোবেটাসল প্রোপিওনেট",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Ointment",
+    "medicine_type_bn": "মলম"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c2e"
+    },
+    "source_url": "https://medex.com.bd/brands/14856/acmes-dextrose-ds-10-injection",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acme's Dextrose DS",
+    "name_bn": "ACME এর ডেক্সট্রোজ ডিএস",
+    "strength_en": "10%",
+    "strength_bn": "10%",
+    "generic_en": "Dextrose",
+    "generic_bn": "ডেক্সট্রোজ",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "IV Infusion",
+    "medicine_type_bn": "চতুর্থ ইনফিউশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c2f"
+    },
+    "source_url": "https://medex.com.bd/brands/24580/acmes-dns-09-5-injection",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acme's DNS",
+    "name_bn": "ACME এর ডিএনএস",
+    "strength_en": "0.9%+5%",
+    "strength_bn": "0.9%+5%",
+    "generic_en": "Sodium Chloride + Dextrose",
+    "generic_bn": "সোডিয়াম ক্লোরাইড + ডেক্সট্রোজ",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "IV Infusion",
+    "medicine_type_bn": "চতুর্থ ইনফিউশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c35"
+    },
+    "source_url": "https://medex.com.bd/brands/942/acmecilin-500-mg-injection",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acmecilin",
+    "name_bn": "অ্যাকমেসিলিন",
+    "strength_en": "500 mg/vial",
+    "strength_bn": "500 মিলিগ্রাম/শিশি",
+    "generic_en": "Ampicillin Sodium",
+    "generic_bn": "অ্যাম্পিসিলিন সোডিয়াম",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Injection",
+    "medicine_type_bn": "ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c38"
+    },
+    "source_url": "https://medex.com.bd/brands/6044/acmegra-100-mg-tablet",
+    "_page": 9,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acmegra",
+    "name_bn": "অ্যাকমেগ্রা",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Sildenafil Citrate",
+    "generic_bn": "সিলডেনাফিল সাইট্রেট",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c3f"
+    },
+    "source_url": "https://medex.com.bd/brands/532/acorex-15-mg-syrup",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acorex",
+    "name_bn": "অ্যাকোরেক্স",
+    "strength_en": "15 mg/5 ml",
+    "strength_bn": "15 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Ambroxol Hydrochloride",
+    "generic_bn": "অ্যামব্রক্সল হাইড্রোক্লোরাইড",
+    "company_en": "Apex Pharmaceuticals Ltd.",
+    "company_bn": "অ্যাপেক্স ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c42"
+    },
+    "source_url": "https://medex.com.bd/brands/33520/acos-250-mg-tablet",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acos",
+    "name_bn": "ACOS",
+    "strength_en": "250 mg",
+    "strength_bn": "250 মিলিগ্রাম",
+    "generic_en": "Azithromycin Dihydrate",
+    "generic_bn": "অ্যাজিথ্রোমাইসিন ডাইহাইড্রেট",
+    "company_en": "Radiant Pharmaceuticals Ltd.",
+    "company_bn": "রেডিয়েন্ট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c43"
+    },
+    "source_url": "https://medex.com.bd/brands/8424/acryth-125-mg-suspension",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acryth",
+    "name_bn": "এক্রিথ",
+    "strength_en": "125 mg/5 ml",
+    "strength_bn": "125 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Erythromycin (Oral)",
+    "generic_bn": "এরিথ্রোমাইসিন (মৌখিক)",
+    "company_en": "Monicopharma Ltd.",
+    "company_bn": "মনিকোফর্মা লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c44"
+    },
+    "source_url": "https://medex.com.bd/brands/10393/act-500-mg-tablet",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Act",
+    "name_bn": "আইন",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Ambee Pharmaceuticals Ltd.",
+    "company_bn": "অ্যামবি ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c47"
+    },
+    "source_url": "https://medex.com.bd/brands/10394/act-plus-500-mg-tablet",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Act Plus",
+    "name_bn": "আইন প্লাস",
+    "strength_en": "500 mg+65 mg",
+    "strength_bn": "500 মিলিগ্রাম+65 মিলিগ্রাম",
+    "generic_en": "Paracetamol + Caffeine",
+    "generic_bn": "প্যারাসিটামল + ক্যাফিন",
+    "company_en": "Ambee Pharmaceuticals Ltd.",
+    "company_bn": "অ্যামবি ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c46"
+    },
+    "source_url": "https://medex.com.bd/brands/28018/act-80-mg-pediatric-drop",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Act",
+    "name_bn": "আইন",
+    "strength_en": "80 mg/ml",
+    "strength_bn": "80 মিলিগ্রাম/মিলি",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Ambee Pharmaceuticals Ltd.",
+    "company_bn": "অ্যামবি ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Pediatric Drops",
+    "medicine_type_bn": "পেডিয়াট্রিক ড্রপস"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c48"
+    },
+    "source_url": "https://medex.com.bd/brands/11673/actemra-80-mg-injection",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actemra",
+    "name_bn": "অ্যাক্টেম্রা",
+    "strength_en": "80 mg/4 ml",
+    "strength_bn": "80 মিলিগ্রাম/4 মিলি",
+    "generic_en": "Tocilizumab",
+    "generic_bn": "টোসিলিজুমাব",
+    "company_en": "Roche Bangladesh Ltd.",
+    "company_bn": "রোচে বাংলাদেশ লিমিটেড",
+    "medicine_type_en": "IV Infusion",
+    "medicine_type_bn": "চতুর্থ ইনফিউশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c4a"
+    },
+    "source_url": "https://medex.com.bd/brands/26083/actemra-162-mg-injection",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actemra",
+    "name_bn": "অ্যাক্টেম্রা",
+    "strength_en": "162 mg/0.9 ml",
+    "strength_bn": "162 মিলিগ্রাম/0.9 মিলি",
+    "generic_en": "Tocilizumab",
+    "generic_bn": "টোসিলিজুমাব",
+    "company_en": "Roche Bangladesh Ltd.",
+    "company_bn": "রোচে বাংলাদেশ লিমিটেড",
+    "medicine_type_en": "SC Injection",
+    "medicine_type_bn": "এসসি ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c4c"
+    },
+    "source_url": "https://medex.com.bd/brands/30871/acteria-for-kids-4-billion-powder",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acteria (For kids)",
+    "name_bn": "অ্যাকটিরিয়া (বাচ্চাদের জন্য)",
+    "strength_en": "4 billion/sachet",
+    "strength_bn": "4 বিলিয়ন/স্যাচেট",
+    "generic_en": "Probiotic Combination [4 Billion]",
+    "generic_bn": "প্রোবায়োটিক সংমিশ্রণ [4 বিলিয়ন]",
+    "company_en": "Radiant Pharmaceuticals Ltd.",
+    "company_bn": "রেডিয়েন্ট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Oral Powder",
+    "medicine_type_bn": "ওরাল পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c4e"
+    },
+    "source_url": "https://medex.com.bd/brands/31092/actidex-25-mg-tablet",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actidex",
+    "name_bn": "অ্যাক্টিডেক্স",
+    "strength_en": "25 mg",
+    "strength_bn": "25 মিলিগ্রাম",
+    "generic_en": "Dexketoprofen",
+    "generic_bn": "ডেক্সকেটোপ্রোফেন",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c53"
+    },
+    "source_url": "https://medex.com.bd/brands/27604/actilyse-50-mg-injection",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actilyse",
+    "name_bn": "অ্যাক্টিলি",
+    "strength_en": "50 mg/50 ml",
+    "strength_bn": "50 মিলিগ্রাম/50 মিলি",
+    "generic_en": "Alteplase",
+    "generic_bn": "আল্টপ্লেস",
+    "company_en": "Radiant Pharmaceuticals Ltd.",
+    "company_bn": "রেডিয়েন্ট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "IV Infusion",
+    "medicine_type_bn": "চতুর্থ ইনফিউশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c5a"
+    },
+    "source_url": "https://medex.com.bd/brands/27902/active-plus-6-mg-tablet",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Active Plus",
+    "name_bn": "সক্রিয় প্লাস",
+    "strength_en": "6 mg+200 mg+50 mg",
+    "strength_bn": "6 মিলিগ্রাম+200 মিলিগ্রাম+50 মিলিগ্রাম",
+    "generic_en": "Betacarotene + Vitamin C + Vitamin E",
+    "generic_bn": "Betacarotene + ভিটামিন সি + ভিটামিন ই",
+    "company_en": "The White Horse Pharmaceuticals Ltd.",
+    "company_bn": "হোয়াইট হর্স ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c5c"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/14137/activit-silver-tablet",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Activit Silver",
+    "name_bn": "সক্রিয় রৌপ্য",
+    "generic_en": "Multivitamin & Multimineral [A-Z silver preparation]",
+    "generic_bn": "মাল্টিভিটামিন এবং মাল্টিমাইনারাল [এ-জেড রৌপ্য প্রস্তুতি]",
+    "company_en": "Delta Pharma Ltd.",
+    "company_bn": "ডেল্টা ফার্মা লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c61"
+    },
+    "source_url": "https://medex.com.bd/brands/11912/actizen-5-mg-syrup",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actizen",
+    "name_bn": "অ্যাক্টিজেন",
+    "strength_en": "5 mg/5 ml",
+    "strength_bn": "5 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Cetirizine Hydrochloride",
+    "generic_bn": "সিটিরিজাইন হাইড্রোক্লোরাইড",
+    "company_en": "Ambee Pharmaceuticals Ltd.",
+    "company_bn": "অ্যামবি ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c67"
+    },
+    "source_url": "https://medex.com.bd/brands/5566/actose-15-mg-tablet",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actose",
+    "name_bn": "অভিনয়",
+    "strength_en": "15 mg",
+    "strength_bn": "15 মিলিগ্রাম",
+    "generic_en": "Pioglitazone",
+    "generic_bn": "পাইওগ্লিটাজোন",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c6a"
+    },
+    "source_url": "https://medex.com.bd/brands/26700/actrapid-40-iu-injection",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actrapid",
+    "name_bn": "Actrapid",
+    "strength_en": "40 IU/ml",
+    "strength_bn": "40 আইইউ/এমএল",
+    "generic_en": "Insulin Human [rDNA]",
+    "generic_bn": "ইনসুলিন মানব [আরডিএনএ]",
+    "company_en": "Novo Nordisk Pharma (Pvt.) Ltd",
+    "company_bn": "নভো নর্ডিস্ক ফার্মা (প্রাইভেট।) লিমিটেড",
+    "medicine_type_en": "SC Injection",
+    "medicine_type_bn": "এসসি ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c6d"
+    },
+    "source_url": "https://medex.com.bd/brands/2375/actulose-335-gm-oral-solution",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actulose",
+    "name_bn": "ল্যাকটুলোজ",
+    "strength_en": "3.35 gm/5 ml",
+    "strength_bn": "3.35 গ্রাম/5 মিলি",
+    "generic_en": "Lactulose",
+    "generic_bn": "ল্যাকটুলোজ",
+    "company_en": "Silva Pharmaceuticals Ltd.",
+    "company_bn": "সিলভা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Oral Solution",
+    "medicine_type_bn": "মৌখিক সমাধান"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c79"
+    },
+    "source_url": "https://medex.com.bd/brands/2696/acusan-50-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acusan",
+    "name_bn": "আকুসান",
+    "strength_en": "50 mg",
+    "strength_bn": "50 মিলিগ্রাম",
+    "generic_en": "Losartan Potassium",
+    "generic_bn": "লসার্টান পটাসিয়াম",
+    "company_en": "Concord Pharmaceuticals Ltd.",
+    "company_bn": "কনকর্ড ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c80"
+    },
+    "source_url": "https://medex.com.bd/brands/6061/adafil-20-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adafil",
+    "name_bn": "অ্যাডাফিল",
+    "strength_en": "20 mg",
+    "strength_bn": "20 মিলিগ্রাম",
+    "generic_en": "Tadalafil",
+    "generic_bn": "তাদালাফিল",
+    "company_en": "Beximco Pharmaceuticals Ltd.",
+    "company_bn": "Bemimco ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c86"
+    },
+    "source_url": "https://medex.com.bd/brands/5793/adam-33-20-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adam 33",
+    "name_bn": "অ্যাডাম 33",
+    "strength_en": "20 mg",
+    "strength_bn": "20 মিলিগ্রাম",
+    "generic_en": "Prednisolone",
+    "generic_bn": "প্রিডনিসোলোন",
+    "company_en": "Nuvista Pharma Ltd.",
+    "company_bn": "নুভিস্তা ফার্মা লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c89"
+    },
+    "source_url": "https://medex.com.bd/brands/16324/adarbi-80-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adarbi",
+    "name_bn": "আদারবি",
+    "strength_en": "80 mg",
+    "strength_bn": "80 মিলিগ্রাম",
+    "generic_en": "Azilsartan Medoxomil",
+    "generic_bn": "আজিলসার্তন মেডোক্সোমিল",
+    "company_en": "NIPRO JMI Pharma Ltd.",
+    "company_bn": "নিপ্রো জেএমআই ফার্মা লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c8e"
+    },
+    "source_url": "https://medex.com.bd/brands/6781/adecef-500-mg-capsule",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adecef",
+    "name_bn": "Adecef",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Cephradine",
+    "generic_bn": "সিফ্রাডাইন",
+    "company_en": "Supreme Pharmaceutical Ltd.",
+    "company_bn": "সুপ্রিম ফার্মাসিউটিক্যাল লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c8f"
+    },
+    "source_url": "https://medex.com.bd/brands/6782/adecef-125-mg-suspension",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adecef",
+    "name_bn": "Adecef",
+    "strength_en": "125 mg/5 ml",
+    "strength_bn": "125 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Cephradine",
+    "generic_bn": "সিফ্রাডাইন",
+    "company_en": "Supreme Pharmaceutical Ltd.",
+    "company_bn": "সুপ্রিম ফার্মাসিউটিক্যাল লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c94"
+    },
+    "source_url": "https://medex.com.bd/brands/32196/adegra-25-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adegra",
+    "name_bn": "অ্যাগ্রা",
+    "strength_en": "25 mg",
+    "strength_bn": "25 মিলিগ্রাম",
+    "generic_en": "Sildenafil Citrate",
+    "generic_bn": "সিলডেনাফিল সাইট্রেট",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c98"
+    },
+    "source_url": "https://medex.com.bd/brands/30075/adempa-10-mg-tablet",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adempa",
+    "name_bn": "অ্যাডেম্পা",
+    "strength_en": "10 mg",
+    "strength_bn": "10 মিলিগ্রাম",
+    "generic_en": "Empagliflozin",
+    "generic_bn": "এম্পাগ্লিফ্লোজিন",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c9b"
+    },
+    "source_url": "https://medex.com.bd/brands/7158/adetil-250-mg-tablet",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adetil",
+    "name_bn": "Adetil",
+    "strength_en": "250 mg",
+    "strength_bn": "250 মিলিগ্রাম",
+    "generic_en": "Cefuroxime Axetil",
+    "generic_bn": "সেফুরক্সাইম অ্যাক্সিটিল",
+    "company_en": "Supreme Pharmaceutical Ltd.",
+    "company_bn": "সুপ্রিম ফার্মাসিউটিক্যাল লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c9c"
+    },
+    "source_url": "https://medex.com.bd/brands/7159/adetil-500-mg-tablet",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adetil",
+    "name_bn": "Adetil",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Cefuroxime Axetil",
+    "generic_bn": "সেফুরক্সাইম অ্যাক্সিটিল",
+    "company_en": "Supreme Pharmaceutical Ltd.",
+    "company_bn": "সুপ্রিম ফার্মাসিউটিক্যাল লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ca0"
+    },
+    "source_url": "https://medex.com.bd/brands/170/adgar-01-gel",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adgar",
+    "name_bn": "অ্যাডগার",
+    "strength_en": "0.1%",
+    "strength_bn": "0.1%",
+    "generic_en": "Adapalene",
+    "generic_bn": "অ্যাডাপালিন",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Gel",
+    "medicine_type_bn": "জেল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ca1"
+    },
+    "source_url": "https://medex.com.bd/brands/30525/adgar-03-gel",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adgar",
+    "name_bn": "অ্যাডগার",
+    "strength_en": "0.3%",
+    "strength_bn": "0.3%",
+    "generic_en": "Adapalene",
+    "generic_bn": "অ্যাডাপালিন",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Gel",
+    "medicine_type_bn": "জেল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ca8"
+    },
+    "source_url": "https://medex.com.bd/brands/30526/adipal-plus-01-25-gel",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adipal Plus",
+    "name_bn": "অ্যাডিপাল প্লাস",
+    "strength_en": "0.1%+2.5%",
+    "strength_bn": "0.1%+2.5%",
+    "generic_en": "Adapalene + Benzoyl peroxide",
+    "generic_bn": "অ্যাডাপালিন + বেনজয়েল পারক্সাইড",
+    "company_en": "Guardian Healthcare Ltd.",
+    "company_bn": "গার্ডিয়ান হেলথ কেয়ার লিমিটেড",
+    "medicine_type_en": "Gel",
+    "medicine_type_bn": "জেল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8caa"
+    },
+    "source_url": "https://medex.com.bd/brands/35411/adiron-30-mg-capsule",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adiron",
+    "name_bn": "অ্যাডিরন",
+    "strength_en": "30 mg",
+    "strength_bn": "30 মিলিগ্রাম",
+    "generic_en": "Ferric Maltol",
+    "generic_bn": "ফেরিক মাল্টল",
+    "company_en": "General Pharmaceuticals Ltd.",
+    "company_bn": "জেনারেল ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cab"
+    },
+    "source_url": "https://medex.com.bd/brands/9724/adiva-600-mg-tablet",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adiva",
+    "name_bn": "আদিভা",
+    "strength_en": "600 mg",
+    "strength_bn": "600 মিলিগ্রাম",
+    "generic_en": "Efavirenz",
+    "generic_bn": "ইফাভিরেনজ",
+    "company_en": "Square Pharmaceuticals PLC",
+    "company_bn": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cad"
+    },
+    "source_url": "https://medex.com.bd/brands/8543/adiz-200-mg-suspension",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adiz",
+    "name_bn": "আদিজ",
+    "strength_en": "200 mg/5 ml",
+    "strength_bn": "200 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Azithromycin Dihydrate",
+    "generic_bn": "অ্যাজিথ্রোমাইসিন ডাইহাইড্রেট",
+    "company_en": "Euro Pharma Ltd.",
+    "company_bn": "ইউরো ফার্মা লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cb5"
+    },
+    "source_url": "https://medex.com.bd/brands/2463/adlock-40-mg-tablet",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adlock",
+    "name_bn": "অ্যাডলক",
+    "strength_en": "40 mg",
+    "strength_bn": "40 মিলিগ্রাম",
+    "generic_en": "Propranolol Hydrochloride",
+    "generic_bn": "প্রোপ্রানলল হাইড্রোক্লোরাইড",
+    "company_en": "Sonear Laboratories Ltd.",
+    "company_bn": "সোনার ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cb9"
+    },
+    "source_url": "https://medex.com.bd/brands/5215/admira-mr-30-mg-tablet",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Admira MR",
+    "name_bn": "অ্যাডমিরা মি",
+    "strength_en": "30 mg",
+    "strength_bn": "30 মিলিগ্রাম",
+    "generic_en": "Gliclazide",
+    "generic_bn": "গ্লিক্লাজাইড",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet (Modified Release)",
+    "medicine_type_bn": "ট্যাবলেট (পরিবর্তিত রিলিজ)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cbc"
+    },
+    "source_url": "https://medex.com.bd/brands/2286/adnix-500-mg-tablet",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adnix",
+    "name_bn": "অ্যাডনিক্স",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Nitazoxanide",
+    "generic_bn": "নিতাজক্সানাইড",
+    "company_en": "Alco Pharma Ltd.",
+    "company_bn": "আলকো ফার্মা লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cbd"
+    },
+    "source_url": "https://medex.com.bd/brands/2287/adnix-100-mg-suspension",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adnix",
+    "name_bn": "অ্যাডনিক্স",
+    "strength_en": "100 mg/5 ml",
+    "strength_bn": "100 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Nitazoxanide",
+    "generic_bn": "নিতাজক্সানাইড",
+    "company_en": "Alco Pharma Ltd.",
+    "company_bn": "আলকো ফার্মা লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cc3"
+    },
+    "source_url": "https://medex.com.bd/brands/34960/adol-plus-500-mg-tablet",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adol Plus",
+    "name_bn": "অ্যাডল প্লাস",
+    "strength_en": "500 mg+65 mg",
+    "strength_bn": "500 মিলিগ্রাম+65 মিলিগ্রাম",
+    "generic_en": "Paracetamol + Caffeine",
+    "generic_bn": "প্যারাসিটামল + ক্যাফিন",
+    "company_en": "Union Pharmaceuticals Ltd",
+    "company_bn": "ইউনিয়ন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cc5"
+    },
+    "source_url": "https://medex.com.bd/brands/22883/adonid-ds-100-mg-suspension",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adonid DS",
+    "name_bn": "অ্যাডোনিড ডিএস",
+    "strength_en": "100 mg/5 ml",
+    "strength_bn": "100 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Nitazoxanide",
+    "generic_bn": "নিতাজক্সানাইড",
+    "company_en": "Rephco Pharmaceuticals Ltd.",
+    "company_bn": "রিপকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cc6"
+    },
+    "source_url": "https://medex.com.bd/brands/6741/adora-500-mg-capsule",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adora",
+    "name_bn": "অ্যাডোরা",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Cefadroxil Monohydrate",
+    "generic_bn": "সেফ্যাড্রক্সিল মনোহাইড্রেট",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cc9"
+    },
+    "source_url": "https://medex.com.bd/brands/26188/adora-1000-mg-tablet",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adora",
+    "name_bn": "অ্যাডোরা",
+    "strength_en": "1000 mg",
+    "strength_bn": "1000 মিলিগ্রাম",
+    "generic_en": "Cefadroxil Monohydrate",
+    "generic_bn": "সেফ্যাড্রক্সিল মনোহাইড্রেট",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ccc"
+    },
+    "source_url": "https://medex.com.bd/brands/35322/adorbis-10-mg-tablet",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adorbis",
+    "name_bn": "অ্যাডর্বিস",
+    "strength_en": "10 mg",
+    "strength_bn": "10 মিলিগ্রাম",
+    "generic_en": "Bisoprolol Fumarate",
+    "generic_bn": "বিসোপ্রোলল ফিউমারেট",
+    "company_en": "Ziska Pharmaceuticals Ltd.",
+    "company_bn": "জিসকা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cd0"
+    },
+    "source_url": "https://medex.com.bd/brands/37707/adosun-bar-2-medicated-bar",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adosun Bar",
+    "name_bn": "অ্যাডোসুন বার",
+    "strength_en": "2%",
+    "strength_bn": "2%",
+    "generic_en": "Ketoconazole",
+    "generic_bn": "কেটোকোনাজল",
+    "company_en": "Bain Trade International",
+    "company_bn": "বাইন ট্রেড ইন্টারন্যাশনাল",
+    "medicine_type_en": "Medicated Bar",
+    "medicine_type_bn": "ওষুধযুক্ত বার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cd2"
+    },
+    "source_url": "https://medex.com.bd/brands/17449/adrenaline-1-mg-injection",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adrenaline",
+    "name_bn": "অ্যাড্রেনালাইন",
+    "strength_en": "1 mg/ml",
+    "strength_bn": "1 মিলিগ্রাম/মিলি",
+    "generic_en": "Adrenaline",
+    "generic_bn": "অ্যাড্রেনালাইন",
+    "company_en": "Techno Drugs Ltd.",
+    "company_bn": "টেকনো ড্রাগস লিমিটেড",
+    "medicine_type_en": "Injection",
+    "medicine_type_bn": "ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cd7"
+    },
+    "source_url": "https://medex.com.bd/brands/38461/adrox-cv-250-mg-tablet",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adrox CV",
+    "name_bn": "অ্যাড্রক্স সিভি",
+    "strength_en": "250 mg+62.5 mg",
+    "strength_bn": "250 মিলিগ্রাম+62.5 মিলিগ্রাম",
+    "generic_en": "Cefuroxime Axetil + Clavulanic Acid",
+    "generic_bn": "সেফুরক্সাইম অ্যাক্সিটিল + ক্লাভুলানিক অ্যাসিড",
+    "company_en": "Ad-din Pharmaceuticals Ltd.",
+    "company_bn": "অ্যাড-ডিন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ce3"
+    },
+    "source_url": "https://medex.com.bd/brands/11262/advel-400-mg-tablet",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Advel",
+    "name_bn": "অ্যাডভেল",
+    "strength_en": "400 mg",
+    "strength_bn": "400 মিলিগ্রাম",
+    "generic_en": "Ibuprofen",
+    "generic_bn": "আইবুপ্রোফেন",
+    "company_en": "Opsonin Pharma Ltd.",
+    "company_bn": "ওপসনিন ফার্মা লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ce6"
+    },
+    "source_url": "https://medex.com.bd/brands/248/adze-400-mg-chewable-tablet",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adze",
+    "name_bn": "অ্যাডজে",
+    "strength_en": "400 mg",
+    "strength_bn": "400 মিলিগ্রাম",
+    "generic_en": "Albendazole",
+    "generic_bn": "আলবেনডাজল",
+    "company_en": "Kemiko Pharmaceuticals Ltd.",
+    "company_bn": "কেমিকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Chewable Tablet",
+    "medicine_type_bn": "চিবিয়েযোগ্য ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cee"
+    },
+    "source_url": "https://medex.com.bd/brands/3710/aerofen-1-mg-syrup",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aerofen",
+    "name_bn": "অ্যারোফেন",
+    "strength_en": "1 mg/5 ml",
+    "strength_bn": "1 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Ketotifen Fumarate (Oral)",
+    "generic_bn": "কেটোটিফেন ফিউমারেট (মৌখিক)",
+    "company_en": "Silva Pharmaceuticals Ltd.",
+    "company_bn": "সিলভা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cf1"
+    },
+    "source_url": "https://medex.com.bd/brands/3759/aeron-ft-4-mg-tablet",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aeron FT",
+    "name_bn": "অ্যারন ফুট",
+    "strength_en": "4 mg",
+    "strength_bn": "4 মিলিগ্রাম",
+    "generic_en": "Montelukast Sodium",
+    "generic_bn": "মন্টেলুকাস্ট সোডিয়াম",
+    "company_en": "Healthcare Pharmaceuticals Ltd.",
+    "company_bn": "স্বাস্থ্যসেবা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Dispersible Tablet",
+    "medicine_type_bn": "ছত্রভঙ্গ ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cf5"
+    },
+    "source_url": "https://medex.com.bd/brands/38548/aeronid-1-mg-suspension",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aeronid",
+    "name_bn": "অ্যারোনিড",
+    "strength_en": "1 mg/2 ml",
+    "strength_bn": "1 মিলিগ্রাম/2 মিলি",
+    "generic_en": "Budesonide (Nebuliser Suspension)",
+    "generic_bn": "বুডসোনাইড (নেবুলাইজার সাসপেনশন)",
+    "company_en": "Beximco Pharmaceuticals Ltd.",
+    "company_bn": "Bemimco ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Nebuliser Suspension",
+    "medicine_type_bn": "নেবুলাইজার সাসপেনশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cf6"
+    },
+    "source_url": "https://medex.com.bd/brands/1297/aeropac-67-mg-pediatric-drop",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aeropac",
+    "name_bn": "অ্যারোপ্যাক",
+    "strength_en": "67 mg/ml",
+    "strength_bn": "67 মিলিগ্রাম/এমএল",
+    "generic_en": "Simethicone",
+    "generic_bn": "সিমেথিকোন",
+    "company_en": "Amico Laboratories Ltd.",
+    "company_bn": "অ্যামিকো ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Pediatric Drops",
+    "medicine_type_bn": "পেডিয়াট্রিক ড্রপস"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cf7"
+    },
+    "source_url": "https://medex.com.bd/brands/30123/aerophin-1125-mg-respirator-solution",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aerophin",
+    "name_bn": "অ্যারোফিন",
+    "strength_en": "11.25 mg/0.5 ml",
+    "strength_bn": "11.25 মিলিগ্রাম/0.5 মিলি",
+    "generic_en": "Racepinephrine",
+    "generic_bn": "রেসপাইনফ্রাইন",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Nebuliser Solution",
+    "medicine_type_bn": "নেবুলিসার সমাধান"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cfe"
+    },
+    "source_url": "https://medex.com.bd/brands/29422/afexa-120-mg-tablet",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afexa",
+    "name_bn": "আফেক্সা",
+    "strength_en": "120 mg",
+    "strength_bn": "120 মিলিগ্রাম",
+    "generic_en": "Fexofenadine Hydrochloride",
+    "generic_bn": "ফেক্সোফেনাডাইন হাইড্রোক্লোরাইড",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d01"
+    },
+    "source_url": "https://medex.com.bd/brands/26672/afinitor-10-mg-tablet",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afinitor",
+    "name_bn": "আফিনিটার",
+    "strength_en": "10 mg",
+    "strength_bn": "10 মিলিগ্রাম",
+    "generic_en": "Everolimus",
+    "generic_bn": "এভারোলিমাস",
+    "company_en": "Novartis (Bangladesh) Ltd.",
+    "company_bn": "নোভার্টিস (বাংলাদেশ) লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d02"
+    },
+    "source_url": "https://medex.com.bd/brands/26673/afinitor-5-mg-tablet",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afinitor",
+    "name_bn": "আফিনিটার",
+    "strength_en": "5 mg",
+    "strength_bn": "5 মিলিগ্রাম",
+    "generic_en": "Everolimus",
+    "generic_bn": "এভারোলিমাস",
+    "company_en": "Novartis (Bangladesh) Ltd.",
+    "company_bn": "নোভার্টিস (বাংলাদেশ) লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d09"
+    },
+    "source_url": "https://medex.com.bd/brands/7467/afixime-200-mg-capsule",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afixime",
+    "name_bn": "আফিক্সাইম",
+    "strength_en": "200 mg",
+    "strength_bn": "200 মিলিগ্রাম",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Asiatic Laboratories Ltd.",
+    "company_bn": "এশিয়াটিক ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d0b"
+    },
+    "source_url": "https://medex.com.bd/brands/7469/afixime-100-mg-suspension",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afixime",
+    "name_bn": "আফিক্সাইম",
+    "strength_en": "100 mg/5 ml",
+    "strength_bn": "100 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Asiatic Laboratories Ltd.",
+    "company_bn": "এশিয়াটিক ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d0c"
+    },
+    "source_url": "https://medex.com.bd/brands/29363/afixime-25-mg-pediatric-drop",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afixime",
+    "name_bn": "আফিক্সাইম",
+    "strength_en": "25 mg/ml",
+    "strength_bn": "25 মিলিগ্রাম/এমএল",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Asiatic Laboratories Ltd.",
+    "company_bn": "এশিয়াটিক ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Pediatric Drops",
+    "medicine_type_bn": "পেডিয়াট্রিক ড্রপস"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d0d"
+    },
+    "source_url": "https://medex.com.bd/brands/28035/afluzole-50-mg-suspension",
+    "_page": 17,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afluzole",
+    "name_bn": "আফলুজোল",
+    "strength_en": "50 mg/5 ml",
+    "strength_bn": "50 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Fluconazole",
+    "generic_bn": "ফ্লুকোনাজল",
+    "company_en": "Ambee Pharmaceuticals Ltd.",
+    "company_bn": "অ্যামবি ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d14"
+    },
+    "source_url": "https://medex.com.bd/brands/16267/afrin-005-nasal-drop",
+    "_page": 17,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afrin",
+    "name_bn": "আফরিন",
+    "strength_en": "0.05%",
+    "strength_bn": "0.05%",
+    "generic_en": "Oxymetazoline Hydrochloride (Nasal Preparation)",
+    "generic_bn": "অক্সিমেটাজলিন হাইড্রোক্লোরাইড (অনুনাসিক প্রস্তুতি)",
+    "company_en": "Aristopharma Ltd.",
+    "company_bn": "অ্যারিস্টোফর্মা লিমিটেড",
+    "medicine_type_en": "Nasal Drop",
+    "medicine_type_bn": "অনুনাসিক ড্রপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d15"
+    },
+    "source_url": "https://medex.com.bd/brands/12381/afun-1-cream",
+    "_page": 17,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afun",
+    "name_bn": "আফুন",
+    "strength_en": "1%",
+    "strength_bn": "1%",
+    "generic_en": "Clotrimazole (Topical)",
+    "generic_bn": "ক্লোট্রিমাজল (সাময়িক)",
+    "company_en": "Square Pharmaceuticals PLC",
+    "company_bn": "স্কয়ার ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "Cream",
+    "medicine_type_bn": "ক্রিম"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c49"
+    },
+    "source_url": "https://medex.com.bd/brands/11674/actemra-200-mg-injection",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actemra",
+    "name_bn": "অ্যাক্টেম্রা",
+    "strength_en": "200 mg/10 ml",
+    "strength_bn": "200 মিলিগ্রাম/10 মিলি",
+    "generic_en": "Tocilizumab",
+    "generic_bn": "টোসিলিজুমাব",
+    "company_en": "Roche Bangladesh Ltd.",
+    "company_bn": "রোচে বাংলাদেশ লিমিটেড",
+    "medicine_type_en": "IV Infusion",
+    "medicine_type_bn": "চতুর্থ ইনফিউশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c4b"
+    },
+    "source_url": "https://medex.com.bd/brands/27602/acteria-4-billion-capsule",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acteria",
+    "name_bn": "অ্যাকটিরিয়া",
+    "strength_en": "4 billion",
+    "strength_bn": "4 বিলিয়ন",
+    "generic_en": "Probiotic Combination [4 Billion]",
+    "generic_bn": "প্রোবায়োটিক সংমিশ্রণ [4 বিলিয়ন]",
+    "company_en": "Radiant Pharmaceuticals Ltd.",
+    "company_bn": "রেডিয়েন্ট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c4d"
+    },
+    "source_url": "https://medex.com.bd/brands/37863/actical-1200-mg-tablet",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actical",
+    "name_bn": "কার্যকর",
+    "strength_en": "1200 mg+0.25 mcg",
+    "strength_bn": "1200 মিলিগ্রাম+0.25 এমসিজি",
+    "generic_en": "Calcium Citrate + Calcitriol",
+    "generic_bn": "ক্যালসিয়াম সাইট্রেট + ক্যালসিট্রিওল",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c50"
+    },
+    "source_url": "https://medex.com.bd/brands/35832/actifol-5-mg-tablet",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actifol",
+    "name_bn": "অ্যাক্টিফোল",
+    "strength_en": "5 mg",
+    "strength_bn": "5 মিলিগ্রাম",
+    "generic_en": "Folinic Acid",
+    "generic_bn": "ফোলিনিক অ্যাসিড",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c55"
+    },
+    "source_url": "https://medex.com.bd/brands/36370/action-xr-665-mg-tablet",
+    "_page": 10,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Action XR",
+    "name_bn": "অ্যাকশন এক্সআর",
+    "strength_en": "665 mg",
+    "strength_bn": "665 মিলিগ্রাম",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Albion Laboratories Limited",
+    "company_bn": "অ্যালবিয়ন ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet (Extended Release)",
+    "medicine_type_bn": "ট্যাবলেট (বর্ধিত রিলিজ)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c5e"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/13360/activit-zi-syrup",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Activit ZI",
+    "name_bn": "অ্যাক্টিভিট জি",
+    "generic_en": "Iron Polymaltose Complex + Vitamin B Complex + Zinc",
+    "generic_bn": "আয়রন পলিমাল্টোজ কমপ্লেক্স + ভিটামিন বি কমপ্লেক্স + দস্তা",
+    "company_en": "Delta Pharma Ltd.",
+    "company_bn": "ডেল্টা ফার্মা লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c5f"
+    },
+    "source_url": "https://medex.com.bd/brands/37300/activon-10-cream",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Activon",
+    "name_bn": "অ্যাক্টিভন",
+    "strength_en": "10%",
+    "strength_bn": "10%",
+    "generic_en": "Diethylamine Salicylate",
+    "generic_bn": "ডায়েথিলামাইন স্যালিসিলেট",
+    "company_en": "Eskayef Pharmaceuticals Ltd.",
+    "company_bn": "এস্কায়েফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Cream",
+    "medicine_type_bn": "ক্রিম"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c62"
+    },
+    "source_url": "https://medex.com.bd/brands/10398/actol-120-mg-suspension",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actol",
+    "name_bn": "অ্যাক্টল",
+    "strength_en": "120 mg/5 ml",
+    "strength_bn": "120 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Paracetamol",
+    "generic_bn": "প্যারাসিটামল",
+    "company_en": "Somatec Pharmaceuticals Ltd.",
+    "company_bn": "সোমটেক ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Oral Suspension",
+    "medicine_type_bn": "মৌখিক স্থগিতাদেশ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c64"
+    },
+    "source_url": "https://medex.com.bd/brands/29168/actolin-4-mg-tablet",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Actolin",
+    "name_bn": "অ্যাক্টোলিন",
+    "strength_en": "4 mg",
+    "strength_bn": "4 মিলিগ্রাম",
+    "generic_en": "Salbutamol",
+    "generic_bn": "সালবুটামল",
+    "company_en": "Globe Pharmaceuticals Ltd.",
+    "company_bn": "গ্লোব ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c65"
+    },
+    "source_url": "https://medex.com.bd/brands/5635/actomeg-15-mg-tablet",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "ActoMeg",
+    "name_bn": "অ্যাকোমেগ",
+    "strength_en": "15 mg+500 mg",
+    "strength_bn": "15 মিলিগ্রাম+500 মিলিগ্রাম",
+    "generic_en": "Pioglitazone + Metformin Hydrochloride",
+    "generic_bn": "পাইওগ্লিটাজোন + মেটফর্মিন হাইড্রোক্লোরাইড",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c66"
+    },
+    "source_url": "https://medex.com.bd/brands/5636/actomeg-15-mg-tablet",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "ActoMeg",
+    "name_bn": "অ্যাকোমেগ",
+    "strength_en": "15 mg+850 mg",
+    "strength_bn": "15 মিলিগ্রাম+850 মিলিগ্রাম",
+    "generic_en": "Pioglitazone + Metformin Hydrochloride",
+    "generic_bn": "পাইওগ্লিটাজোন + মেটফর্মিন হাইড্রোক্লোরাইড",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c6e"
+    },
+    "source_url": "https://medex.com.bd/brands/25702/acubis-5-mg-tablet",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acubis",
+    "name_bn": "অ্যাকুবিস",
+    "strength_en": "5 mg",
+    "strength_bn": "5 মিলিগ্রাম",
+    "generic_en": "Bisoprolol Fumarate",
+    "generic_bn": "বিসোপ্রোলল ফিউমারেট",
+    "company_en": "Concord Pharmaceuticals Ltd.",
+    "company_bn": "কনকর্ড ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c71"
+    },
+    "source_url": "https://medex.com.bd/brands/16533/acudipin-plus-5-mg-tablet",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acudipin Plus",
+    "name_bn": "অ্যাকুডিপিন প্লাস",
+    "strength_en": "5 mg+50 mg",
+    "strength_bn": "5 মিলিগ্রাম+50 মিলিগ্রাম",
+    "generic_en": "Amlodipine Besilate + Atenolol",
+    "generic_bn": "অ্যাম্লোডিপাইন বেসিলেট + অ্যাটেনলল",
+    "company_en": "Concord Pharmaceuticals Ltd.",
+    "company_bn": "কনকর্ড ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c73"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/33910/aculizer-inhaler",
+    "_page": 11,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aculizer",
+    "name_bn": "অ্যাকুলাইজার",
+    "generic_en": "Inhaler device",
+    "generic_bn": "ইনহেলার ডিভাইস",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Metered-Dose Inhaler (MDI)",
+    "medicine_type_bn": "মিটার-ডোজ ইনহেলার (এমডিআই)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c7a"
+    },
+    "source_url": "https://medex.com.bd/brands/2933/acusan-plus-50-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acusan Plus",
+    "name_bn": "আকুসান প্লাস",
+    "strength_en": "50 mg+12.5 mg",
+    "strength_bn": "50 মিলিগ্রাম+12.5 মিলিগ্রাম",
+    "generic_en": "Losartan Potassium + Hydrochlorothiazide",
+    "generic_bn": "লসার্টান পটাসিয়াম + হাইড্রোক্লোরোথিয়াজাইড",
+    "company_en": "Concord Pharmaceuticals Ltd.",
+    "company_bn": "কনকর্ড ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c7b"
+    },
+    "source_url": "https://medex.com.bd/brands/130/acyvir-500-mg-injection",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Acyvir",
+    "name_bn": "এসিওভির",
+    "strength_en": "500 mg/vial",
+    "strength_bn": "500 মিলিগ্রাম/শিশি",
+    "generic_en": "Acyclovir (Injection)",
+    "generic_bn": "অ্যাসাইক্লোভির (ইনজেকশন)",
+    "company_en": "Aristopharma Ltd.",
+    "company_bn": "অ্যারিস্টোফর্মা লিমিটেড",
+    "medicine_type_en": "IV Infusion",
+    "medicine_type_bn": "IV ইনফিউশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c7d"
+    },
+    "strength": null,
+    "source_url": "https://medex.com.bd/brands/13257/ad-all-capsule",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Ad-All",
+    "name_bn": "বিজ্ঞাপন-সমস্ত",
+    "generic_en": "Iron + Folic Acid + Vitamin B Complex + Vitamine C + Zinc Sulfate",
+    "generic_bn": "আয়রন + ফলিক অ্যাসিড + ভিটামিন বি কমপ্লেক্স + ভিটামিন সি + দস্তা সালফেট",
+    "company_en": "Ad-din Pharmaceuticals Ltd.",
+    "company_bn": "অ্যাড-ডিন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c7e"
+    },
+    "source_url": "https://medex.com.bd/brands/12792/adaben-duo-01-25-gel",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adaben Duo",
+    "name_bn": "অ্যাডাবেন জুটি",
+    "strength_en": "0.1%+2.5%",
+    "strength_bn": "0.1%+2.5%",
+    "generic_en": "Adapalene + Benzoyl peroxide",
+    "generic_bn": "অ্যাডাপালিন + বেনজয়েল পারক্সাইড",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Gel",
+    "medicine_type_bn": "জেল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c7f"
+    },
+    "source_url": "https://medex.com.bd/brands/6060/adafil-10-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adafil",
+    "name_bn": "অ্যাডাফিল",
+    "strength_en": "10 mg",
+    "strength_bn": "10 মিলিগ্রাম",
+    "generic_en": "Tadalafil",
+    "generic_bn": "তাদালাফিল",
+    "company_en": "Beximco Pharmaceuticals Ltd.",
+    "company_bn": "Bemimco ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c83"
+    },
+    "source_url": "https://medex.com.bd/brands/37048/adali-40-mg-injection",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adali",
+    "name_bn": "আদালি",
+    "strength_en": "40 mg/0.8 ml",
+    "strength_bn": "40 মিলিগ্রাম/0.8 মিলি",
+    "generic_en": "Adalimumab",
+    "generic_bn": "অ্যাডালিমুমাব",
+    "company_en": "Beacon Pharmaceuticals PLC",
+    "company_bn": "বেকন ফার্মাসিউটিক্যালস পিএলসি",
+    "medicine_type_en": "SC Injection",
+    "medicine_type_bn": "এসসি ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c85"
+    },
+    "source_url": "https://medex.com.bd/brands/5792/adam-33-5-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adam 33",
+    "name_bn": "অ্যাডাম 33",
+    "strength_en": "5 mg",
+    "strength_bn": "5 মিলিগ্রাম",
+    "generic_en": "Prednisolone",
+    "generic_bn": "প্রিডনিসোলোন",
+    "company_en": "Nuvista Pharma Ltd.",
+    "company_bn": "নুভিস্তা ফার্মা লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c88"
+    },
+    "source_url": "https://medex.com.bd/brands/16321/adarbi-40-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adarbi",
+    "name_bn": "আদারবি",
+    "strength_en": "40 mg",
+    "strength_bn": "40 মিলিগ্রাম",
+    "generic_en": "Azilsartan Medoxomil",
+    "generic_bn": "আজিলসার্তন মেডোক্সোমিল",
+    "company_en": "NIPRO JMI Pharma Ltd.",
+    "company_bn": "নিপ্রো জেএমআই ফার্মা লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c8a"
+    },
+    "source_url": "https://medex.com.bd/brands/14401/adcal-d-500-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adcal D",
+    "name_bn": "অ্যাডকাল ডি",
+    "strength_en": "500 mg+200 IU",
+    "strength_bn": "500 মিলিগ্রাম+200 আইইউ",
+    "generic_en": "Elemental Calcium + Vitamin D3",
+    "generic_bn": "প্রাথমিক ক্যালসিয়াম + ভিটামিন ডি 3",
+    "company_en": "Amulet Pharmaceuticals Ltd.",
+    "company_bn": "অ্যামুলেট ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c8c"
+    },
+    "source_url": "https://medex.com.bd/brands/30540/adebrox-15-mg-syrup",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adebrox",
+    "name_bn": "অ্যাডিব্রক্স",
+    "strength_en": "15 mg/5 ml",
+    "strength_bn": "15 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Ambroxol Hydrochloride",
+    "generic_bn": "অ্যামব্রক্সল হাইড্রোক্লোরাইড",
+    "company_en": "Supreme Pharmaceutical Ltd.",
+    "company_bn": "সুপ্রিম ফার্মাসিউটিক্যাল লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c90"
+    },
+    "source_url": "https://medex.com.bd/brands/6783/adecef-ds-250-mg-suspension",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adecef DS",
+    "name_bn": "অ্যাডেসেফ ডিএস",
+    "strength_en": "250 mg/5 ml",
+    "strength_bn": "250 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Cephradine",
+    "generic_bn": "সিফ্রাডাইন",
+    "company_en": "Supreme Pharmaceutical Ltd.",
+    "company_bn": "সুপ্রিম ফার্মাসিউটিক্যাল লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c93"
+    },
+    "source_url": "https://medex.com.bd/brands/5997/adegra-100-mg-tablet",
+    "_page": 12,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adegra",
+    "name_bn": "অ্যাগ্রা",
+    "strength_en": "100 mg",
+    "strength_bn": "100 মিলিগ্রাম",
+    "generic_en": "Sildenafil Citrate",
+    "generic_bn": "সিলডেনাফিল সাইট্রেট",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c97"
+    },
+    "source_url": "https://medex.com.bd/brands/4320/adelax-05-mg-tablet",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adelax",
+    "name_bn": "অ্যাডেলাক্স",
+    "strength_en": "0.5 mg+10 mg",
+    "strength_bn": "0.5 মিলিগ্রাম+10 মিলিগ্রাম",
+    "generic_en": "Flupentixol + Melitracen",
+    "generic_bn": "Flupentixol + মেলিট্রেসেন",
+    "company_en": "ACI Limited",
+    "company_bn": "এসিআই লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8c9d"
+    },
+    "source_url": "https://medex.com.bd/brands/7461/adexim-200-mg-capsule",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adexim",
+    "name_bn": "অ্যাডেক্সিম",
+    "strength_en": "200 mg",
+    "strength_bn": "200 মিলিগ্রাম",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Supreme Pharmaceutical Ltd.",
+    "company_bn": "সুপ্রিম ফার্মাসিউটিক্যাল লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ca7"
+    },
+    "source_url": "https://medex.com.bd/brands/28234/adinir-125-mg-suspension",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adinir",
+    "name_bn": "অ্যাডিনির",
+    "strength_en": "125 mg/5 ml",
+    "strength_bn": "125 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Cefdinir",
+    "generic_bn": "সেফডিনির",
+    "company_en": "ACME Laboratories Ltd.",
+    "company_bn": "অ্যাকমে ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cb2"
+    },
+    "source_url": "https://medex.com.bd/brands/17213/adlinameg-25-mg-tablet",
+    "_page": 13,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adlinameg",
+    "name_bn": "অ্যাডলিনেমেগ",
+    "strength_en": "2.5 mg+500 mg",
+    "strength_bn": "2.5 মিলিগ্রাম+500 মিলিগ্রাম",
+    "generic_en": "Linagliptin + Metformin Hydrochloride",
+    "generic_bn": "লিনাগ্লিপটিন + মেটফর্মিন হাইড্রোক্লোরাইড",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "ইউনিমেড ইউনিহেলথ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cb4"
+    },
+    "source_url": "https://medex.com.bd/brands/2462/adlock-10-mg-tablet",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adlock",
+    "name_bn": "অ্যাডলক",
+    "strength_en": "10 mg",
+    "strength_bn": "10 মিলিগ্রাম",
+    "generic_en": "Propranolol Hydrochloride",
+    "generic_bn": "প্রোপ্রানলল হাইড্রোক্লোরাইড",
+    "company_en": "Sonear Laboratories Ltd.",
+    "company_bn": "সোনার ল্যাবরেটরিজ লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cb6"
+    },
+    "source_url": "https://medex.com.bd/brands/36779/admero-500-mg-injection",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Admero",
+    "name_bn": "অ্যাডমিরো",
+    "strength_en": "500 mg/vial",
+    "strength_bn": "500 মিলিগ্রাম/শিশি",
+    "generic_en": "Meropenem Trihydrate",
+    "generic_bn": "মেরোপেনেম ট্রাইহাইড্রেট",
+    "company_en": "Ad-din Pharmaceuticals Ltd.",
+    "company_bn": "অ্যাড-ডিন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "IV Injection or Infusion",
+    "medicine_type_bn": "চতুর্থ ইনজেকশন বা আধান"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cb7"
+    },
+    "source_url": "https://medex.com.bd/brands/36780/admero-1-gm-injection",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Admero",
+    "name_bn": "অ্যাডমিরো",
+    "strength_en": "1 gm/vial",
+    "strength_bn": "1 গ্রাম/শিশি",
+    "generic_en": "Meropenem Trihydrate",
+    "generic_bn": "মেরোপেনেম ট্রাইহাইড্রেট",
+    "company_en": "Ad-din Pharmaceuticals Ltd.",
+    "company_bn": "অ্যাড-ডিন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "IV Injection or Infusion",
+    "medicine_type_bn": "চতুর্থ ইনজেকশন বা আধান"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cbb"
+    },
+    "source_url": "https://medex.com.bd/brands/27318/admox-ds-500-mg-capsule",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Admox DS",
+    "name_bn": "অ্যাডমক্স ডিএস",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Amoxicillin Trihydrate",
+    "generic_bn": "অ্যামোক্সিসিলিন ট্রাইহাইড্রেট",
+    "company_en": "Team Pharmaceuticals Ltd.",
+    "company_bn": "টিম ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cc4"
+    },
+    "source_url": "https://medex.com.bd/brands/2325/adonid-500-mg-tablet",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adonid",
+    "name_bn": "অ্যাডোনিস",
+    "strength_en": "500 mg",
+    "strength_bn": "500 মিলিগ্রাম",
+    "generic_en": "Nitazoxanide",
+    "generic_bn": "নিতাজক্সানাইড",
+    "company_en": "Rephco Pharmaceuticals Ltd.",
+    "company_bn": "রিপকো ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cc7"
+    },
+    "source_url": "https://medex.com.bd/brands/6742/adora-125-mg-suspension",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adora",
+    "name_bn": "অ্যাডোরা",
+    "strength_en": "125 mg/5 ml",
+    "strength_bn": "125 মিলিগ্রাম/5 এমএল",
+    "generic_en": "Cefadroxil Monohydrate",
+    "generic_bn": "সেফ্যাড্রক্সিল মনোহাইড্রেট",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cc8"
+    },
+    "source_url": "https://medex.com.bd/brands/6743/adora-125-mg-pediatric-drop",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adora",
+    "name_bn": "অ্যাডোরা",
+    "strength_en": "125 mg/1.25 ml",
+    "strength_bn": "125 মিলিগ্রাম/1.25 মিলি",
+    "generic_en": "Cefadroxil Monohydrate",
+    "generic_bn": "সেফ্যাড্রক্সিল মনোহাইড্রেট",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Pediatric Drops",
+    "medicine_type_bn": "পেডিয়াট্রিক ড্রপস"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cca"
+    },
+    "source_url": "https://medex.com.bd/brands/35320/adorbis-25-mg-tablet",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adorbis",
+    "name_bn": "অ্যাডর্বিস",
+    "strength_en": "2.5 mg",
+    "strength_bn": "2.5 মিলিগ্রাম",
+    "generic_en": "Bisoprolol Fumarate",
+    "generic_bn": "বিসোপ্রোলল ফিউমারেট",
+    "company_en": "Ziska Pharmaceuticals Ltd.",
+    "company_bn": "জিসকা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ccf"
+    },
+    "source_url": "https://medex.com.bd/brands/28019/adorex-5-mg-pediatric-drop",
+    "_page": 14,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adorex",
+    "name_bn": "অ্যাডোরেক্স",
+    "strength_en": "5 mg/ml",
+    "strength_bn": "5 মিলিগ্রাম/মিলি",
+    "generic_en": "Domperidone Maleate",
+    "generic_bn": "ডোম্পেরিডোন ম্যালেট",
+    "company_en": "Ambee Pharmaceuticals Ltd.",
+    "company_bn": "অ্যামবি ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Pediatric Drops",
+    "medicine_type_bn": "পেডিয়াট্রিক ড্রপস"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cd5"
+    },
+    "source_url": "https://medex.com.bd/brands/244/adrinor-1-mg-injection",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adrinor",
+    "name_bn": "অ্যাড্রিনর",
+    "strength_en": "1 mg/ml",
+    "strength_bn": "1 মিলিগ্রাম/মিলি",
+    "generic_en": "Adrenaline",
+    "generic_bn": "অ্যাড্রেনালাইন",
+    "company_en": "Incepta Pharmaceuticals Ltd.",
+    "company_bn": "ইনসেপ্টা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Injection",
+    "medicine_type_bn": "ইনজেকশন"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cd8"
+    },
+    "source_url": "https://medex.com.bd/brands/38462/adrox-cv-500-mg-tablet",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adrox CV",
+    "name_bn": "অ্যাড্রক্স সিভি",
+    "strength_en": "500 mg+125 mg",
+    "strength_bn": "500 মিলিগ্রাম+125 মিলিগ্রাম",
+    "generic_en": "Cefuroxime Axetil + Clavulanic Acid",
+    "generic_bn": "সেফুরক্সাইম অ্যাক্সিটিল + ক্লাভুলানিক অ্যাসিড",
+    "company_en": "Ad-din Pharmaceuticals Ltd.",
+    "company_bn": "অ্যাড-ডিন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cd9"
+    },
+    "source_url": "https://medex.com.bd/brands/38463/adrox-cv-125-mg-suspension",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Adrox CV",
+    "name_bn": "অ্যাড্রক্স সিভি",
+    "strength_en": "(125 mg+31.25 mg)/5 ml",
+    "strength_bn": "(125 মিলিগ্রাম+31.25 মিলিগ্রাম)/5 এমএল",
+    "generic_en": "Cefuroxime Axetil + Clavulanic Acid",
+    "generic_bn": "সেফুরক্সাইম অ্যাক্সিটিল + ক্লাভুলানিক অ্যাসিড",
+    "company_en": "Ad-din Pharmaceuticals Ltd.",
+    "company_bn": "অ্যাড-ডিন ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "সাসপেনশন জন্য পাউডার"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cdf"
+    },
+    "source_url": "https://medex.com.bd/brands/13736/aduvit-5-mg-syrup",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aduvit",
+    "name_bn": "অ্যাডুভিট",
+    "strength_en": "(5 mg+2 mg+2 mg+20 mg)/5 ml",
+    "strength_bn": "(5 মিলিগ্রাম+2 মিলিগ্রাম+2 মিলিগ্রাম+20 মিলিগ্রাম)/5 এমএল",
+    "generic_en": "Vitamin B complex",
+    "generic_bn": "ভিটামিন বি কমপ্লেক্স",
+    "company_en": "Pacific Pharmaceuticals Ltd.",
+    "company_bn": "প্যাসিফিক ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ce8"
+    },
+    "source_url": "https://medex.com.bd/brands/37103/aegis-400-mg-capsule",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aegis",
+    "name_bn": "এজিস",
+    "strength_en": "400 mg",
+    "strength_bn": "400 মিলিগ্রাম",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "C2C Pharma Ltd.",
+    "company_bn": "সি 2 সি ফার্মা লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cea"
+    },
+    "source_url": "https://medex.com.bd/brands/3605/aerodyl-10-mg-tablet",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aerodyl",
+    "name_bn": "এয়ারোডিল",
+    "strength_en": "10 mg",
+    "strength_bn": "10 মিলিগ্রাম",
+    "generic_en": "Bambuterol Hydrochloride",
+    "generic_bn": "বাম্বুটারল হাইড্রোক্লোরাইড",
+    "company_en": "Silva Pharmaceuticals Ltd.",
+    "company_bn": "সিলভা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8ced"
+    },
+    "source_url": "https://medex.com.bd/brands/3709/aerofen-1-mg-tablet",
+    "_page": 15,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aerofen",
+    "name_bn": "অ্যারোফেন",
+    "strength_en": "1 mg",
+    "strength_bn": "1 মিলিগ্রাম",
+    "generic_en": "Ketotifen Fumarate (Oral)",
+    "generic_bn": "কেটোটিফেন ফিউমারেট (মৌখিক)",
+    "company_en": "Silva Pharmaceuticals Ltd.",
+    "company_bn": "সিলভা ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cef"
+    },
+    "source_url": "https://medex.com.bd/brands/3761/aeron-10-mg-tablet",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aeron",
+    "name_bn": "Aeron",
+    "strength_en": "10 mg",
+    "strength_bn": "10 mg",
+    "generic_en": "Montelukast Sodium",
+    "generic_bn": "Montelukast Sodium",
+    "company_en": "Healthcare Pharmaceuticals Ltd.",
+    "company_bn": "Healthcare Pharmaceuticals Ltd.",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "Tablet"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cf3"
+    },
+    "source_url": "https://medex.com.bd/brands/3875/aeronid-200-mcg-inhaler",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aeronid",
+    "name_bn": "অ্যারোনিড",
+    "strength_en": "200 mcg/puff",
+    "strength_bn": "200 এমসিজি/পাফ",
+    "generic_en": "Budesonide (Inhaler)",
+    "generic_bn": "বুডসোনাইড (ইনহেলার)",
+    "company_en": "Beximco Pharmaceuticals Ltd.",
+    "company_bn": "Bemimco ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Metered-Dose Inhaler (MDI)",
+    "medicine_type_bn": "মিটার-ডোজ ইনহেলার (এমডিআই)"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8cf8"
+    },
+    "source_url": "https://medex.com.bd/brands/28863/aerovil-15-mg-syrup",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aerovil",
+    "name_bn": "অ্যারোভিল",
+    "strength_en": "15 mg/5 ml",
+    "strength_bn": "15 মিলিগ্রাম/5 মিলি",
+    "generic_en": "Pheniramine Maleate",
+    "generic_bn": "ফেনিরামাইন ম্যালিয়েট",
+    "company_en": "Beximco Pharmaceuticals Ltd.",
+    "company_bn": "Bemimco ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Syrup",
+    "medicine_type_bn": "সিরাপ"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d00"
+    },
+    "source_url": "https://medex.com.bd/brands/29424/afexa-30-mg-suspension",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afexa",
+    "name_bn": "Afexa",
+    "strength_en": "30 mg/5 ml",
+    "strength_bn": "30 mg/5 ml",
+    "generic_en": "Fexofenadine Hydrochloride",
+    "generic_bn": "Fexofenadine Hydrochloride",
+    "company_en": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "company_bn": "UniMed UniHealth Pharmaceuticals Ltd.",
+    "medicine_type_en": "Oral Suspension",
+    "medicine_type_bn": "Oral Suspension"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d04"
+    },
+    "source_url": "https://medex.com.bd/brands/7464/afix-400-mg-capsule",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afix",
+    "name_bn": "আফিক্স",
+    "strength_en": "400 mg",
+    "strength_bn": "400 মিলিগ্রাম",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "সেফিক্সাইম ট্রাইহাইড্রেট",
+    "company_en": "Aristopharma Ltd.",
+    "company_bn": "অ্যারিস্টোফর্মা লিমিটেড",
+    "medicine_type_en": "Capsule",
+    "medicine_type_bn": "ক্যাপসুল"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d05"
+    },
+    "source_url": "https://medex.com.bd/brands/7465/afix-100-mg-suspension",
+    "_page": 16,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Afix",
+    "name_bn": "Afix",
+    "strength_en": "100 mg/5 ml",
+    "strength_bn": "100 mg/5 ml",
+    "generic_en": "Cefixime Trihydrate",
+    "generic_bn": "Cefixime Trihydrate",
+    "company_en": "Aristopharma Ltd.",
+    "company_bn": "Aristopharma Ltd.",
+    "medicine_type_en": "Powder for Suspension",
+    "medicine_type_bn": "Powder for Suspension"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d18"
+    },
+    "source_url": "https://medex.com.bd/brands/14009/age-m-6-mg-tablet",
+    "_page": 17,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Age M",
+    "name_bn": "বয়স মি",
+    "strength_en": "6 mg+200 mg+50 mg",
+    "strength_bn": "6 মিলিগ্রাম+200 মিলিগ্রাম+50 মিলিগ্রাম",
+    "generic_en": "Betacarotene + Vitamin C + Vitamin E",
+    "generic_bn": "Betacarotene + ভিটামিন সি + ভিটামিন ই",
+    "company_en": "Mystic Pharmaceuticals Ltd.",
+    "company_bn": "মিস্টিক ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d1a"
+    },
+    "source_url": "https://medex.com.bd/brands/14008/agedefy-6-mg-tablet",
+    "_page": 17,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Agedefy",
+    "name_bn": "Agedefy",
+    "strength_en": "6 mg+200 mg+50 mg",
+    "strength_bn": "6 মিলিগ্রাম+200 মিলিগ্রাম+50 মিলিগ্রাম",
+    "generic_en": "Betacarotene + Vitamin C + Vitamin E",
+    "generic_bn": "Betacarotene + Vitamin C + Vitamin E",
+    "company_en": "Medimet Pharmaceuticals Ltd.",
+    "company_bn": "Medimet Pharmaceuticals Ltd.",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "Tablet"
+  },
+  {
+    "_id": {
+      "$oid": "68c3c09aef5b8f2b163a8d1f"
+    },
+    "source_url": "https://medex.com.bd/brands/30989/aglip-25-mg-tablet",
+    "_page": 17,
+    "image_uri": null,
+    "createdAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "updatedAt": {
+      "$date": "2025-09-12T06:45:33.175Z"
+    },
+    "name_en": "Aglip",
+    "name_bn": "আগলিপ",
+    "strength_en": "25 mg",
+    "strength_bn": "25 মিলিগ্রাম",
+    "generic_en": "Alogliptin Benzoate",
+    "generic_bn": "অ্যালোগ্লিপটিন বেনজোয়েট",
+    "company_en": "Eskayef Pharmaceuticals Ltd.",
+    "company_bn": "এস্কায়েফ ফার্মাসিউটিক্যালস লিমিটেড",
+    "medicine_type_en": "Tablet",
+    "medicine_type_bn": "ট্যাবলেট"
+  }
+]
